@@ -1,0 +1,301 @@
+SLA_ID,Service,MaxTime(min),Result,IncidentID
+SLA0001,Atendimento ao Cliente,120,Cumprido,INC0001
+SLA0002,Atendimento ao Cliente,60,Cumprido,INC0303
+SLA0003,Atendimento ao Cliente,120,Cumprido,INC0142
+SLA0004,Atendimento ao Cliente,60,Cumprido,INC0213
+SLA0005,SCADA,30,Cumprido,INC0060
+SLA0006,Leitura Remota,90,Não Cumprido,INC0019
+SLA0007,Atendimento ao Cliente,90,Cumprido,INC0421
+SLA0008,SCADA,60,Cumprido,INC0189
+SLA0009,Leitura Remota,60,Não Cumprido,INC0248
+SLA0010,SCADA,120,Cumprido,INC0344
+SLA0011,Atendimento ao Cliente,60,Cumprido,INC0042
+SLA0012,SCADA,30,Cumprido,INC0184
+SLA0013,SCADA,90,Cumprido,INC0022
+SLA0014,Atendimento ao Cliente,90,Cumprido,INC0192
+SLA0015,Atendimento ao Cliente,120,Cumprido,INC0155
+SLA0016,Leitura Remota,30,Cumprido,INC0037
+SLA0017,SCADA,30,Cumprido,INC0357
+SLA0018,SCADA,30,Cumprido,INC0496
+SLA0019,Leitura Remota,30,Não Cumprido,INC0234
+SLA0020,Leitura Remota,60,Cumprido,INC0351
+SLA0021,SCADA,60,Cumprido,INC0094
+SLA0022,Atendimento ao Cliente,30,Cumprido,INC0397
+SLA0023,SCADA,90,Cumprido,INC0133
+SLA0024,Leitura Remota,60,Não Cumprido,INC0188
+SLA0025,SCADA,120,Cumprido,INC0056
+SLA0026,SCADA,90,Cumprido,INC0288
+SLA0027,Atendimento ao Cliente,30,Cumprido,INC0068
+SLA0028,Leitura Remota,120,Não Cumprido,INC0199
+SLA0029,Leitura Remota,30,Cumprido,INC0063
+SLA0030,Leitura Remota,120,Cumprido,INC0297
+SLA0031,SCADA,60,Cumprido,INC0492
+SLA0032,SCADA,120,Cumprido,INC0001
+SLA0033,SCADA,30,Cumprido,INC0071
+SLA0034,Atendimento ao Cliente,90,Cumprido,INC0191
+SLA0035,SCADA,30,Cumprido,INC0146
+SLA0036,Leitura Remota,30,Cumprido,INC0412
+SLA0037,Leitura Remota,30,Cumprido,INC0476
+SLA0038,SCADA,30,Não Cumprido,INC0101
+SLA0039,SCADA,30,Cumprido,INC0440
+SLA0040,Leitura Remota,90,Cumprido,INC0445
+SLA0041,Atendimento ao Cliente,30,Cumprido,INC0188
+SLA0042,Leitura Remota,120,Não Cumprido,INC0015
+SLA0043,Leitura Remota,30,Cumprido,INC0429
+SLA0044,Atendimento ao Cliente,120,Cumprido,INC0125
+SLA0045,SCADA,60,Não Cumprido,INC0313
+SLA0046,Atendimento ao Cliente,60,Cumprido,INC0015
+SLA0047,SCADA,30,Cumprido,INC0343
+SLA0048,Leitura Remota,30,Não Cumprido,INC0241
+SLA0049,Leitura Remota,120,Cumprido,INC0217
+SLA0050,Leitura Remota,90,Cumprido,INC0008
+SLA0051,Leitura Remota,60,Cumprido,INC0198
+SLA0052,SCADA,30,Cumprido,INC0362
+SLA0053,Leitura Remota,120,Cumprido,INC0148
+SLA0054,Atendimento ao Cliente,30,Não Cumprido,INC0247
+SLA0055,SCADA,90,Cumprido,INC0336
+SLA0056,Leitura Remota,60,Cumprido,INC0432
+SLA0057,Leitura Remota,60,Não Cumprido,INC0322
+SLA0058,Leitura Remota,120,Cumprido,INC0219
+SLA0059,Leitura Remota,30,Não Cumprido,INC0216
+SLA0060,Leitura Remota,60,Cumprido,INC0061
+SLA0061,Leitura Remota,90,Cumprido,INC0064
+SLA0062,SCADA,90,Cumprido,INC0198
+SLA0063,Atendimento ao Cliente,60,Cumprido,INC0049
+SLA0064,Leitura Remota,60,Cumprido,INC0003
+SLA0065,Leitura Remota,60,Cumprido,INC0048
+SLA0066,Atendimento ao Cliente,60,Cumprido,INC0183
+SLA0067,SCADA,60,Cumprido,INC0264
+SLA0068,SCADA,60,Não Cumprido,INC0104
+SLA0069,SCADA,120,Cumprido,INC0328
+SLA0070,Leitura Remota,60,Cumprido,INC0188
+SLA0071,Leitura Remota,30,Cumprido,INC0355
+SLA0072,Leitura Remota,30,Cumprido,INC0165
+SLA0073,Leitura Remota,30,Cumprido,INC0359
+SLA0074,SCADA,120,Cumprido,INC0354
+SLA0075,Atendimento ao Cliente,90,Não Cumprido,INC0320
+SLA0076,SCADA,120,Cumprido,INC0253
+SLA0077,Leitura Remota,120,Não Cumprido,INC0477
+SLA0078,Leitura Remota,120,Não Cumprido,INC0116
+SLA0079,SCADA,30,Cumprido,INC0210
+SLA0080,Leitura Remota,30,Não Cumprido,INC0042
+SLA0081,Leitura Remota,120,Não Cumprido,INC0002
+SLA0082,Leitura Remota,120,Cumprido,INC0331
+SLA0083,Atendimento ao Cliente,120,Cumprido,INC0166
+SLA0084,Atendimento ao Cliente,120,Não Cumprido,INC0121
+SLA0085,Leitura Remota,30,Não Cumprido,INC0080
+SLA0086,SCADA,120,Cumprido,INC0356
+SLA0087,Atendimento ao Cliente,30,Cumprido,INC0487
+SLA0088,Atendimento ao Cliente,120,Cumprido,INC0220
+SLA0089,Leitura Remota,120,Não Cumprido,INC0138
+SLA0090,SCADA,90,Cumprido,INC0308
+SLA0091,SCADA,90,Cumprido,INC0262
+SLA0092,Atendimento ao Cliente,90,Cumprido,INC0197
+SLA0093,Atendimento ao Cliente,120,Cumprido,INC0215
+SLA0094,SCADA,30,Cumprido,INC0285
+SLA0095,Leitura Remota,30,Cumprido,INC0020
+SLA0096,Leitura Remota,90,Cumprido,INC0237
+SLA0097,Atendimento ao Cliente,90,Não Cumprido,INC0367
+SLA0098,Atendimento ao Cliente,120,Cumprido,INC0187
+SLA0099,Leitura Remota,120,Cumprido,INC0268
+SLA0100,Atendimento ao Cliente,120,Não Cumprido,INC0471
+SLA0101,SCADA,30,Cumprido,INC0339
+SLA0102,Leitura Remota,60,Cumprido,INC0239
+SLA0103,Leitura Remota,30,Cumprido,INC0024
+SLA0104,Atendimento ao Cliente,90,Cumprido,INC0166
+SLA0105,Leitura Remota,90,Cumprido,INC0242
+SLA0106,SCADA,60,Cumprido,INC0154
+SLA0107,Leitura Remota,60,Cumprido,INC0139
+SLA0108,Leitura Remota,120,Cumprido,INC0267
+SLA0109,Leitura Remota,30,Cumprido,INC0182
+SLA0110,Atendimento ao Cliente,120,Cumprido,INC0097
+SLA0111,SCADA,120,Não Cumprido,INC0046
+SLA0112,SCADA,30,Cumprido,INC0331
+SLA0113,Atendimento ao Cliente,60,Cumprido,INC0152
+SLA0114,Atendimento ao Cliente,30,Não Cumprido,INC0074
+SLA0115,Atendimento ao Cliente,30,Cumprido,INC0463
+SLA0116,SCADA,90,Cumprido,INC0331
+SLA0117,Atendimento ao Cliente,30,Cumprido,INC0249
+SLA0118,Leitura Remota,30,Cumprido,INC0325
+SLA0119,SCADA,30,Cumprido,INC0419
+SLA0120,Leitura Remota,30,Cumprido,INC0273
+SLA0121,Leitura Remota,60,Cumprido,INC0119
+SLA0122,Leitura Remota,90,Cumprido,INC0112
+SLA0123,Atendimento ao Cliente,120,Cumprido,INC0321
+SLA0124,Leitura Remota,90,Cumprido,INC0166
+SLA0125,Leitura Remota,120,Cumprido,INC0034
+SLA0126,Atendimento ao Cliente,120,Cumprido,INC0470
+SLA0127,SCADA,90,Cumprido,INC0164
+SLA0128,Leitura Remota,90,Cumprido,INC0267
+SLA0129,Atendimento ao Cliente,120,Cumprido,INC0218
+SLA0130,Atendimento ao Cliente,30,Cumprido,INC0425
+SLA0131,Leitura Remota,90,Cumprido,INC0241
+SLA0132,SCADA,90,Não Cumprido,INC0204
+SLA0133,Atendimento ao Cliente,120,Não Cumprido,INC0287
+SLA0134,Atendimento ao Cliente,120,Não Cumprido,INC0455
+SLA0135,Atendimento ao Cliente,60,Cumprido,INC0004
+SLA0136,Leitura Remota,30,Cumprido,INC0442
+SLA0137,SCADA,30,Cumprido,INC0411
+SLA0138,Leitura Remota,60,Cumprido,INC0196
+SLA0139,Atendimento ao Cliente,30,Cumprido,INC0418
+SLA0140,Leitura Remota,30,Cumprido,INC0004
+SLA0141,Atendimento ao Cliente,120,Não Cumprido,INC0406
+SLA0142,Atendimento ao Cliente,30,Cumprido,INC0283
+SLA0143,Leitura Remota,90,Cumprido,INC0028
+SLA0144,Leitura Remota,120,Cumprido,INC0066
+SLA0145,Atendimento ao Cliente,30,Cumprido,INC0173
+SLA0146,Atendimento ao Cliente,90,Cumprido,INC0258
+SLA0147,Atendimento ao Cliente,120,Cumprido,INC0301
+SLA0148,Atendimento ao Cliente,60,Cumprido,INC0227
+SLA0149,Leitura Remota,90,Não Cumprido,INC0180
+SLA0150,Atendimento ao Cliente,60,Cumprido,INC0500
+SLA0151,SCADA,60,Cumprido,INC0437
+SLA0152,Atendimento ao Cliente,60,Cumprido,INC0222
+SLA0153,SCADA,60,Cumprido,INC0138
+SLA0154,Leitura Remota,60,Não Cumprido,INC0239
+SLA0155,Atendimento ao Cliente,120,Não Cumprido,INC0260
+SLA0156,Atendimento ao Cliente,90,Cumprido,INC0029
+SLA0157,SCADA,120,Cumprido,INC0181
+SLA0158,Atendimento ao Cliente,120,Cumprido,INC0204
+SLA0159,SCADA,120,Cumprido,INC0343
+SLA0160,Atendimento ao Cliente,90,Não Cumprido,INC0121
+SLA0161,Atendimento ao Cliente,60,Cumprido,INC0230
+SLA0162,Leitura Remota,30,Cumprido,INC0051
+SLA0163,SCADA,90,Não Cumprido,INC0120
+SLA0164,Leitura Remota,60,Cumprido,INC0362
+SLA0165,SCADA,60,Não Cumprido,INC0071
+SLA0166,Leitura Remota,60,Cumprido,INC0414
+SLA0167,Atendimento ao Cliente,90,Não Cumprido,INC0383
+SLA0168,SCADA,60,Cumprido,INC0052
+SLA0169,SCADA,90,Não Cumprido,INC0066
+SLA0170,Leitura Remota,90,Cumprido,INC0411
+SLA0171,Leitura Remota,120,Cumprido,INC0383
+SLA0172,Atendimento ao Cliente,120,Cumprido,INC0408
+SLA0173,Leitura Remota,120,Cumprido,INC0226
+SLA0174,Atendimento ao Cliente,120,Não Cumprido,INC0220
+SLA0175,Leitura Remota,60,Não Cumprido,INC0112
+SLA0176,Atendimento ao Cliente,30,Cumprido,INC0400
+SLA0177,Leitura Remota,60,Cumprido,INC0069
+SLA0178,Atendimento ao Cliente,120,Cumprido,INC0131
+SLA0179,Atendimento ao Cliente,90,Cumprido,INC0254
+SLA0180,SCADA,120,Cumprido,INC0107
+SLA0181,Atendimento ao Cliente,120,Não Cumprido,INC0399
+SLA0182,Leitura Remota,120,Cumprido,INC0323
+SLA0183,SCADA,90,Cumprido,INC0129
+SLA0184,SCADA,90,Cumprido,INC0436
+SLA0185,Leitura Remota,90,Não Cumprido,INC0462
+SLA0186,Leitura Remota,90,Não Cumprido,INC0015
+SLA0187,SCADA,60,Cumprido,INC0042
+SLA0188,SCADA,90,Cumprido,INC0030
+SLA0189,Leitura Remota,120,Cumprido,INC0242
+SLA0190,Leitura Remota,120,Cumprido,INC0059
+SLA0191,SCADA,60,Não Cumprido,INC0353
+SLA0192,Leitura Remota,30,Cumprido,INC0266
+SLA0193,SCADA,120,Cumprido,INC0277
+SLA0194,Atendimento ao Cliente,120,Cumprido,INC0027
+SLA0195,Leitura Remota,90,Cumprido,INC0254
+SLA0196,Atendimento ao Cliente,30,Cumprido,INC0314
+SLA0197,Leitura Remota,90,Cumprido,INC0080
+SLA0198,Atendimento ao Cliente,120,Cumprido,INC0219
+SLA0199,Leitura Remota,90,Cumprido,INC0390
+SLA0200,Atendimento ao Cliente,90,Cumprido,INC0300
+SLA0201,Atendimento ao Cliente,90,Não Cumprido,INC0108
+SLA0202,Atendimento ao Cliente,120,Cumprido,INC0220
+SLA0203,SCADA,30,Cumprido,INC0121
+SLA0204,Atendimento ao Cliente,60,Não Cumprido,INC0362
+SLA0205,SCADA,120,Cumprido,INC0023
+SLA0206,SCADA,60,Cumprido,INC0102
+SLA0207,Leitura Remota,60,Cumprido,INC0324
+SLA0208,Leitura Remota,30,Cumprido,INC0218
+SLA0209,Leitura Remota,120,Cumprido,INC0462
+SLA0210,Leitura Remota,30,Cumprido,INC0481
+SLA0211,Atendimento ao Cliente,90,Cumprido,INC0361
+SLA0212,Atendimento ao Cliente,30,Não Cumprido,INC0451
+SLA0213,Atendimento ao Cliente,30,Cumprido,INC0488
+SLA0214,Leitura Remota,120,Cumprido,INC0452
+SLA0215,Leitura Remota,30,Não Cumprido,INC0489
+SLA0216,SCADA,120,Cumprido,INC0443
+SLA0217,SCADA,30,Cumprido,INC0286
+SLA0218,Leitura Remota,60,Cumprido,INC0436
+SLA0219,SCADA,120,Cumprido,INC0445
+SLA0220,Atendimento ao Cliente,120,Cumprido,INC0126
+SLA0221,Leitura Remota,90,Cumprido,INC0120
+SLA0222,Leitura Remota,90,Não Cumprido,INC0182
+SLA0223,Leitura Remota,30,Cumprido,INC0500
+SLA0224,SCADA,60,Cumprido,INC0277
+SLA0225,Leitura Remota,120,Cumprido,INC0466
+SLA0226,SCADA,90,Não Cumprido,INC0139
+SLA0227,Atendimento ao Cliente,90,Cumprido,INC0093
+SLA0228,Leitura Remota,120,Cumprido,INC0113
+SLA0229,Leitura Remota,60,Cumprido,INC0162
+SLA0230,SCADA,30,Cumprido,INC0465
+SLA0231,Leitura Remota,30,Não Cumprido,INC0206
+SLA0232,SCADA,90,Cumprido,INC0419
+SLA0233,Leitura Remota,30,Cumprido,INC0364
+SLA0234,Atendimento ao Cliente,60,Cumprido,INC0495
+SLA0235,Leitura Remota,30,Cumprido,INC0456
+SLA0236,Atendimento ao Cliente,120,Cumprido,INC0376
+SLA0237,Leitura Remota,90,Cumprido,INC0259
+SLA0238,Leitura Remota,30,Não Cumprido,INC0417
+SLA0239,Leitura Remota,120,Cumprido,INC0158
+SLA0240,Atendimento ao Cliente,30,Cumprido,INC0033
+SLA0241,Atendimento ao Cliente,90,Cumprido,INC0058
+SLA0242,SCADA,120,Não Cumprido,INC0024
+SLA0243,Leitura Remota,90,Cumprido,INC0095
+SLA0244,Atendimento ao Cliente,30,Não Cumprido,INC0392
+SLA0245,Leitura Remota,30,Não Cumprido,INC0469
+SLA0246,SCADA,30,Cumprido,INC0173
+SLA0247,SCADA,90,Não Cumprido,INC0298
+SLA0248,SCADA,120,Cumprido,INC0031
+SLA0249,Atendimento ao Cliente,90,Cumprido,INC0003
+SLA0250,Leitura Remota,120,Cumprido,INC0211
+SLA0251,Atendimento ao Cliente,120,Não Cumprido,INC0273
+SLA0252,Leitura Remota,90,Cumprido,INC0243
+SLA0253,Leitura Remota,90,Não Cumprido,INC0047
+SLA0254,Atendimento ao Cliente,90,Cumprido,INC0273
+SLA0255,SCADA,120,Cumprido,INC0023
+SLA0256,Leitura Remota,60,Não Cumprido,INC0423
+SLA0257,SCADA,120,Cumprido,INC0415
+SLA0258,SCADA,30,Cumprido,INC0479
+SLA0259,SCADA,30,Não Cumprido,INC0058
+SLA0260,SCADA,60,Cumprido,INC0402
+SLA0261,Atendimento ao Cliente,90,Cumprido,INC0332
+SLA0262,Atendimento ao Cliente,30,Cumprido,INC0165
+SLA0263,SCADA,120,Cumprido,INC0117
+SLA0264,Leitura Remota,30,Cumprido,INC0392
+SLA0265,Leitura Remota,60,Cumprido,INC0198
+SLA0266,Leitura Remota,60,Cumprido,INC0471
+SLA0267,Atendimento ao Cliente,120,Não Cumprido,INC0256
+SLA0268,Atendimento ao Cliente,90,Não Cumprido,INC0026
+SLA0269,Leitura Remota,90,Não Cumprido,INC0335
+SLA0270,SCADA,30,Cumprido,INC0101
+SLA0271,SCADA,120,Cumprido,INC0278
+SLA0272,SCADA,60,Cumprido,INC0278
+SLA0273,Leitura Remota,60,Cumprido,INC0199
+SLA0274,Atendimento ao Cliente,90,Cumprido,INC0468
+SLA0275,SCADA,90,Cumprido,INC0120
+SLA0276,Leitura Remota,60,Cumprido,INC0001
+SLA0277,Leitura Remota,30,Não Cumprido,INC0122
+SLA0278,Atendimento ao Cliente,90,Cumprido,INC0237
+SLA0279,SCADA,30,Cumprido,INC0336
+SLA0280,Leitura Remota,90,Cumprido,INC0491
+SLA0281,SCADA,60,Cumprido,INC0175
+SLA0282,Leitura Remota,30,Não Cumprido,INC0459
+SLA0283,Atendimento ao Cliente,60,Cumprido,INC0414
+SLA0284,SCADA,60,Cumprido,INC0414
+SLA0285,Leitura Remota,120,Não Cumprido,INC0432
+SLA0286,Leitura Remota,30,Cumprido,INC0246
+SLA0287,Leitura Remota,90,Cumprido,INC0101
+SLA0288,SCADA,60,Cumprido,INC0436
+SLA0289,Atendimento ao Cliente,120,Cumprido,INC0459
+SLA0290,SCADA,90,Cumprido,INC0110
+SLA0291,Leitura Remota,30,Cumprido,INC0274
+SLA0292,Atendimento ao Cliente,120,Cumprido,INC0273
+SLA0293,SCADA,30,Cumprido,INC0186
+SLA0294,SCADA,60,Cumprido,INC0170
+SLA0295,SCADA,30,Não Cumprido,INC0473
+SLA0296,Atendimento ao Cliente,90,Cumprido,INC0187
+SLA0297,SCADA,90,Cumprido,INC0291
+SLA0298,Leitura Remota,60,Cumprido,INC0231
+SLA0299,Atendimento ao Cliente,60,Cumprido,INC0447
+SLA0300,Atendimento ao Cliente,30,Cumprido,INC0087

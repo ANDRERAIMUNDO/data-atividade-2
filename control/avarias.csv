@@ -1,0 +1,1001 @@
+ID_Avaria,Data_Ocorrencia,Localizacao,Tipo_Falha,Status,Tempo_Resolucao(horas),Equipe_Responsavel
+AVR0001,2024-10-27 23:04:51,Bairro Y,Problema em Equipamento,Em Reparo,1.0,Equipe 1
+AVR0002,2024-04-20 03:07:02,Subestação A,Sobrecarga,Concluída,16.8,Equipe 1
+AVR0003,2024-06-15 22:37:18,Linha de Transmissão X,Curto-Circuito,Em Reparo,1.2,Equipe 3
+AVR0004,2024-01-17 17:53:38,Linha de Transmissão X,Descarga Atmosférica,Concluída,3.5,Equipe de Emergência
+AVR0005,2023-04-11 08:27:19,Linha de Transmissão X,Sobrecarga,Aberta,7.9,Equipe 3
+AVR0006,2023-05-30 13:03:32,Subestação A,Descarga Atmosférica,Em Reparo,7.4,Equipe de Emergência
+AVR0007,2024-02-26 03:11:26,Bairro Y,Problema em Equipamento,Aberta,15.7,Equipe 3
+AVR0008,2023-07-24 11:13:24,Subestação A,Sobrecarga,Em Reparo,10.4,Equipe 3
+AVR0009,2023-12-25 20:25:47,Linha de Transmissão X,Sobrecarga,Em Reparo,16.9,Equipe 1
+AVR0010,2024-07-23 15:20:39,Linha de Transmissão X,Descarga Atmosférica,Aberta,3.4,Equipe 2
+AVR0011,2024-09-03 03:47:30,Subestação A,Sobrecarga,Aberta,9.7,Equipe 1
+AVR0012,2024-05-08 18:10:59,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,18.3,Equipe 1
+AVR0013,2024-11-04 04:36:18,Bairro Y,Curto-Circuito,Aberta,23.6,Equipe 1
+AVR0014,2024-12-15 00:48:36,Subestação A,Problema em Equipamento,Aberta,3.7,Equipe 3
+AVR0015,2024-11-14 05:24:20,Bairro Y,Descarga Atmosférica,Aberta,9.2,Equipe 3
+AVR0016,2023-11-05 10:04:01,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,19.5,Equipe 3
+AVR0017,2023-09-24 19:23:43,Subestação A,Sobrecarga,Em Reparo,12.5,Equipe de Emergência
+AVR0018,2024-03-03 19:34:45,Subestação A,Descarga Atmosférica,Em Reparo,2.5,Equipe de Emergência
+AVR0019,2024-05-01 09:18:43,Posto de Transformação Z,Problema em Equipamento,Concluída,15.8,Equipe 3
+AVR0020,2024-06-06 01:39:17,Bairro Y,Problema em Equipamento,Em Reparo,11.9,Equipe 2
+AVR0021,2024-12-05 21:31:59,Bairro Y,Curto-Circuito,Aberta,1.8,Equipe de Emergência
+AVR0022,2024-01-06 12:20:56,Subestação A,Descarga Atmosférica,Concluída,4.3,Equipe 1
+AVR0023,2024-01-28 23:27:15,Posto de Transformação Z,Sobrecarga,Concluída,12.0,Equipe 2
+AVR0024,2024-07-10 11:19:42,Subestação A,Problema em Equipamento,Em Reparo,7.0,Equipe 3
+AVR0025,2024-11-04 21:08:57,Linha de Transmissão X,Curto-Circuito,Em Reparo,7.1,Equipe de Emergência
+AVR0026,2024-12-24 01:08:12,Posto de Transformação Z,Problema em Equipamento,Em Reparo,4.4,Equipe 2
+AVR0027,2023-08-29 16:37:17,Bairro Y,Curto-Circuito,Em Reparo,23.7,Equipe 1
+AVR0028,2023-07-12 07:37:53,Bairro Y,Curto-Circuito,Concluída,8.2,Equipe 3
+AVR0029,2024-11-04 11:54:39,Subestação A,Curto-Circuito,Em Reparo,2.4,Equipe 3
+AVR0030,2023-05-20 19:27:07,Posto de Transformação Z,Descarga Atmosférica,Concluída,1.4,Equipe 2
+AVR0031,2024-02-28 09:02:45,Posto de Transformação Z,Descarga Atmosférica,Aberta,4.7,Equipe de Emergência
+AVR0032,2024-04-06 17:29:12,Bairro Y,Sobrecarga,Em Reparo,2.3,Equipe de Emergência
+AVR0033,2023-04-25 00:10:59,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,20.1,Equipe 2
+AVR0034,2023-05-23 23:52:41,Bairro Y,Descarga Atmosférica,Aberta,8.1,Equipe 2
+AVR0035,2023-09-06 01:20:06,Linha de Transmissão X,Problema em Equipamento,Aberta,6.7,Equipe 1
+AVR0036,2023-03-27 22:22:47,Bairro Y,Problema em Equipamento,Em Reparo,7.9,Equipe 3
+AVR0037,2023-08-26 02:54:10,Linha de Transmissão X,Curto-Circuito,Concluída,10.0,Equipe 2
+AVR0038,2024-04-07 19:16:37,Bairro Y,Sobrecarga,Aberta,4.4,Equipe 2
+AVR0039,2024-01-27 05:36:27,Subestação A,Sobrecarga,Em Reparo,8.8,Equipe 3
+AVR0040,2023-06-20 11:42:06,Linha de Transmissão X,Curto-Circuito,Aberta,6.6,Equipe 2
+AVR0041,2023-04-04 22:58:14,Bairro Y,Problema em Equipamento,Aberta,9.8,Equipe 1
+AVR0042,2023-06-14 03:09:41,Linha de Transmissão X,Descarga Atmosférica,Aberta,10.1,Equipe de Emergência
+AVR0043,2023-09-11 23:22:39,Bairro Y,Curto-Circuito,Concluída,10.3,Equipe de Emergência
+AVR0044,2024-08-16 23:56:09,Subestação A,Descarga Atmosférica,Em Reparo,12.2,Equipe 2
+AVR0045,2023-12-15 06:47:43,Linha de Transmissão X,Sobrecarga,Em Reparo,23.6,Equipe 3
+AVR0046,2024-04-20 00:49:11,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,22.4,Equipe 3
+AVR0047,2024-04-09 00:12:10,Posto de Transformação Z,Sobrecarga,Em Reparo,19.7,Equipe 3
+AVR0048,2024-02-18 23:32:43,Bairro Y,Problema em Equipamento,Concluída,23.7,Equipe 1
+AVR0049,2024-02-09 04:26:09,Posto de Transformação Z,Sobrecarga,Aberta,7.1,Equipe 2
+AVR0050,2024-09-13 23:18:53,Bairro Y,Sobrecarga,Em Reparo,17.6,Equipe de Emergência
+AVR0051,2024-10-19 13:26:38,Linha de Transmissão X,Sobrecarga,Em Reparo,8.7,Equipe 1
+AVR0052,2023-12-02 23:43:42,Subestação A,Problema em Equipamento,Concluída,17.9,Equipe 2
+AVR0053,2023-05-24 22:11:09,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,8.3,Equipe de Emergência
+AVR0054,2023-02-05 14:23:59,Bairro Y,Descarga Atmosférica,Em Reparo,2.7,Equipe de Emergência
+AVR0055,2024-08-22 19:00:31,Posto de Transformação Z,Sobrecarga,Em Reparo,13.1,Equipe de Emergência
+AVR0056,2023-03-27 13:07:17,Bairro Y,Descarga Atmosférica,Concluída,21.3,Equipe 3
+AVR0057,2024-07-13 10:12:46,Linha de Transmissão X,Descarga Atmosférica,Concluída,5.7,Equipe 1
+AVR0058,2023-10-30 05:35:18,Linha de Transmissão X,Sobrecarga,Aberta,7.6,Equipe 2
+AVR0059,2024-03-21 02:41:10,Posto de Transformação Z,Curto-Circuito,Aberta,20.4,Equipe de Emergência
+AVR0060,2023-07-27 08:55:53,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,22.4,Equipe 3
+AVR0061,2024-11-24 21:45:29,Linha de Transmissão X,Curto-Circuito,Aberta,18.4,Equipe 2
+AVR0062,2023-08-06 12:51:36,Linha de Transmissão X,Sobrecarga,Aberta,12.4,Equipe 1
+AVR0063,2024-02-24 05:22:24,Subestação A,Problema em Equipamento,Aberta,18.7,Equipe de Emergência
+AVR0064,2024-05-22 10:37:57,Subestação A,Curto-Circuito,Concluída,6.4,Equipe de Emergência
+AVR0065,2024-11-30 09:11:22,Subestação A,Curto-Circuito,Concluída,1.9,Equipe de Emergência
+AVR0066,2023-04-18 06:38:19,Linha de Transmissão X,Sobrecarga,Aberta,15.5,Equipe 1
+AVR0067,2023-01-22 13:52:03,Bairro Y,Problema em Equipamento,Em Reparo,10.0,Equipe 1
+AVR0068,2023-03-18 01:48:32,Linha de Transmissão X,Descarga Atmosférica,Concluída,8.5,Equipe 1
+AVR0069,2024-09-09 10:46:25,Posto de Transformação Z,Problema em Equipamento,Concluída,10.9,Equipe 2
+AVR0070,2024-11-06 15:24:02,Posto de Transformação Z,Problema em Equipamento,Aberta,19.6,Equipe 2
+AVR0071,2023-02-13 13:49:13,Bairro Y,Descarga Atmosférica,Aberta,13.4,Equipe 1
+AVR0072,2023-04-05 19:43:36,Bairro Y,Curto-Circuito,Aberta,18.0,Equipe 2
+AVR0073,2023-10-26 04:58:27,Posto de Transformação Z,Sobrecarga,Aberta,23.0,Equipe 3
+AVR0074,2024-07-03 16:40:10,Linha de Transmissão X,Curto-Circuito,Concluída,23.2,Equipe de Emergência
+AVR0075,2023-02-27 06:30:57,Bairro Y,Descarga Atmosférica,Aberta,13.5,Equipe de Emergência
+AVR0076,2024-02-06 20:47:43,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,1.4,Equipe 2
+AVR0077,2024-07-22 00:35:32,Subestação A,Descarga Atmosférica,Aberta,7.3,Equipe 1
+AVR0078,2023-05-23 18:29:12,Subestação A,Sobrecarga,Em Reparo,14.7,Equipe 3
+AVR0079,2024-09-25 22:06:24,Subestação A,Problema em Equipamento,Concluída,16.9,Equipe 1
+AVR0080,2024-11-16 12:02:28,Posto de Transformação Z,Curto-Circuito,Concluída,11.3,Equipe 1
+AVR0081,2023-07-19 06:03:56,Posto de Transformação Z,Problema em Equipamento,Em Reparo,13.5,Equipe 1
+AVR0082,2024-03-22 19:37:10,Bairro Y,Sobrecarga,Aberta,13.0,Equipe 3
+AVR0083,2024-08-19 00:40:52,Bairro Y,Curto-Circuito,Concluída,0.9,Equipe 1
+AVR0084,2023-01-25 22:36:31,Posto de Transformação Z,Descarga Atmosférica,Aberta,16.4,Equipe 2
+AVR0085,2023-11-30 18:19:10,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,20.5,Equipe 1
+AVR0086,2023-03-30 06:50:49,Bairro Y,Curto-Circuito,Aberta,22.9,Equipe 2
+AVR0087,2024-07-01 10:32:42,Bairro Y,Sobrecarga,Aberta,16.9,Equipe 3
+AVR0088,2024-01-03 22:19:01,Bairro Y,Descarga Atmosférica,Aberta,17.1,Equipe 3
+AVR0089,2023-08-02 02:36:02,Bairro Y,Problema em Equipamento,Em Reparo,10.1,Equipe 2
+AVR0090,2024-07-27 11:09:03,Subestação A,Curto-Circuito,Em Reparo,9.3,Equipe de Emergência
+AVR0091,2023-09-14 01:40:45,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,12.2,Equipe 1
+AVR0092,2024-07-08 03:09:24,Subestação A,Curto-Circuito,Aberta,9.3,Equipe 3
+AVR0093,2024-03-26 12:56:54,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,3.6,Equipe 2
+AVR0094,2024-10-04 17:24:50,Subestação A,Curto-Circuito,Em Reparo,4.1,Equipe 2
+AVR0095,2024-06-23 07:36:53,Subestação A,Problema em Equipamento,Concluída,0.7,Equipe 2
+AVR0096,2024-03-28 05:59:40,Posto de Transformação Z,Problema em Equipamento,Aberta,11.7,Equipe 3
+AVR0097,2023-07-05 08:59:01,Bairro Y,Curto-Circuito,Aberta,18.4,Equipe 1
+AVR0098,2023-12-22 15:57:10,Posto de Transformação Z,Descarga Atmosférica,Aberta,15.3,Equipe 3
+AVR0099,2024-05-17 17:37:57,Subestação A,Problema em Equipamento,Aberta,6.3,Equipe 3
+AVR0100,2023-12-17 03:00:18,Bairro Y,Curto-Circuito,Concluída,19.9,Equipe 1
+AVR0101,2024-08-26 04:30:31,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,12.6,Equipe de Emergência
+AVR0102,2024-11-30 15:29:44,Bairro Y,Problema em Equipamento,Em Reparo,5.9,Equipe de Emergência
+AVR0103,2023-08-19 00:16:25,Posto de Transformação Z,Sobrecarga,Em Reparo,3.3,Equipe 2
+AVR0104,2023-05-02 08:47:50,Subestação A,Descarga Atmosférica,Em Reparo,9.5,Equipe 1
+AVR0105,2023-10-01 14:11:04,Bairro Y,Sobrecarga,Em Reparo,10.9,Equipe 1
+AVR0106,2024-04-09 14:49:03,Posto de Transformação Z,Sobrecarga,Concluída,14.1,Equipe 1
+AVR0107,2024-01-15 19:52:56,Bairro Y,Curto-Circuito,Em Reparo,22.9,Equipe 1
+AVR0108,2024-09-28 14:19:03,Bairro Y,Curto-Circuito,Concluída,23.8,Equipe de Emergência
+AVR0109,2023-10-06 17:02:05,Subestação A,Descarga Atmosférica,Aberta,10.8,Equipe 3
+AVR0110,2024-01-01 21:36:55,Bairro Y,Curto-Circuito,Concluída,11.8,Equipe 2
+AVR0111,2024-12-14 09:20:37,Posto de Transformação Z,Curto-Circuito,Aberta,20.4,Equipe 2
+AVR0112,2024-04-08 10:10:24,Linha de Transmissão X,Sobrecarga,Aberta,23.2,Equipe de Emergência
+AVR0113,2023-11-29 06:59:40,Linha de Transmissão X,Sobrecarga,Aberta,9.9,Equipe 2
+AVR0114,2023-09-03 03:20:27,Bairro Y,Descarga Atmosférica,Em Reparo,6.4,Equipe de Emergência
+AVR0115,2024-03-04 05:32:54,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,4.8,Equipe de Emergência
+AVR0116,2023-09-23 12:28:24,Linha de Transmissão X,Sobrecarga,Concluída,10.6,Equipe de Emergência
+AVR0117,2023-03-18 18:17:14,Linha de Transmissão X,Sobrecarga,Em Reparo,9.4,Equipe 2
+AVR0118,2023-03-01 22:00:10,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,3.4,Equipe 1
+AVR0119,2024-08-30 10:03:49,Bairro Y,Sobrecarga,Concluída,7.3,Equipe de Emergência
+AVR0120,2023-06-12 04:13:23,Subestação A,Problema em Equipamento,Concluída,19.0,Equipe 1
+AVR0121,2023-05-25 23:29:31,Subestação A,Sobrecarga,Concluída,14.8,Equipe 2
+AVR0122,2023-03-05 23:15:17,Linha de Transmissão X,Curto-Circuito,Concluída,18.8,Equipe 3
+AVR0123,2024-08-28 03:15:02,Posto de Transformação Z,Problema em Equipamento,Concluída,5.9,Equipe 2
+AVR0124,2023-04-16 16:47:23,Linha de Transmissão X,Sobrecarga,Concluída,10.2,Equipe 3
+AVR0125,2024-09-08 20:12:44,Subestação A,Descarga Atmosférica,Concluída,7.7,Equipe 2
+AVR0126,2024-07-18 19:48:20,Bairro Y,Curto-Circuito,Em Reparo,9.7,Equipe 3
+AVR0127,2024-07-12 09:51:46,Subestação A,Sobrecarga,Aberta,9.7,Equipe 3
+AVR0128,2023-02-20 18:52:29,Bairro Y,Descarga Atmosférica,Em Reparo,8.1,Equipe 1
+AVR0129,2023-12-19 11:13:10,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,14.3,Equipe de Emergência
+AVR0130,2024-11-05 10:37:16,Posto de Transformação Z,Curto-Circuito,Aberta,8.9,Equipe 1
+AVR0131,2024-09-12 02:29:01,Posto de Transformação Z,Problema em Equipamento,Concluída,15.7,Equipe 1
+AVR0132,2024-03-29 09:52:01,Linha de Transmissão X,Problema em Equipamento,Concluída,8.2,Equipe de Emergência
+AVR0133,2023-06-29 14:41:31,Subestação A,Problema em Equipamento,Em Reparo,1.0,Equipe 2
+AVR0134,2024-11-09 23:16:45,Posto de Transformação Z,Problema em Equipamento,Concluída,20.5,Equipe 2
+AVR0135,2023-09-04 23:39:58,Posto de Transformação Z,Sobrecarga,Concluída,3.8,Equipe 2
+AVR0136,2024-04-26 04:56:15,Linha de Transmissão X,Problema em Equipamento,Concluída,8.6,Equipe 3
+AVR0137,2023-09-07 12:31:49,Subestação A,Descarga Atmosférica,Aberta,2.5,Equipe de Emergência
+AVR0138,2023-09-11 16:20:16,Linha de Transmissão X,Problema em Equipamento,Em Reparo,12.5,Equipe 1
+AVR0139,2024-04-19 04:01:23,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,23.8,Equipe 3
+AVR0140,2023-11-27 13:38:31,Linha de Transmissão X,Curto-Circuito,Em Reparo,8.9,Equipe 1
+AVR0141,2023-03-17 12:54:34,Posto de Transformação Z,Curto-Circuito,Aberta,18.4,Equipe de Emergência
+AVR0142,2024-08-23 10:51:08,Subestação A,Sobrecarga,Concluída,19.6,Equipe de Emergência
+AVR0143,2023-06-19 22:58:25,Linha de Transmissão X,Curto-Circuito,Em Reparo,3.6,Equipe 2
+AVR0144,2024-05-12 08:58:01,Linha de Transmissão X,Sobrecarga,Aberta,5.1,Equipe 1
+AVR0145,2024-12-04 04:19:13,Subestação A,Curto-Circuito,Em Reparo,11.3,Equipe 2
+AVR0146,2023-08-16 07:30:57,Linha de Transmissão X,Curto-Circuito,Em Reparo,7.5,Equipe 1
+AVR0147,2024-08-18 01:12:39,Bairro Y,Descarga Atmosférica,Aberta,15.2,Equipe 1
+AVR0148,2023-12-02 12:37:01,Bairro Y,Sobrecarga,Aberta,4.2,Equipe 3
+AVR0149,2023-08-22 09:29:38,Subestação A,Descarga Atmosférica,Aberta,9.4,Equipe 3
+AVR0150,2023-06-12 08:36:02,Linha de Transmissão X,Sobrecarga,Em Reparo,0.5,Equipe de Emergência
+AVR0151,2024-05-17 11:12:45,Posto de Transformação Z,Curto-Circuito,Concluída,1.6,Equipe 1
+AVR0152,2024-04-22 09:36:44,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,11.5,Equipe 1
+AVR0153,2024-11-09 19:06:29,Bairro Y,Sobrecarga,Concluída,10.2,Equipe de Emergência
+AVR0154,2023-09-21 12:50:24,Linha de Transmissão X,Curto-Circuito,Aberta,19.1,Equipe de Emergência
+AVR0155,2024-07-27 20:23:47,Subestação A,Curto-Circuito,Em Reparo,9.7,Equipe 2
+AVR0156,2023-02-24 02:00:51,Bairro Y,Curto-Circuito,Concluída,4.7,Equipe 1
+AVR0157,2024-03-18 14:29:20,Linha de Transmissão X,Problema em Equipamento,Concluída,17.1,Equipe 2
+AVR0158,2024-01-26 22:00:54,Posto de Transformação Z,Problema em Equipamento,Aberta,23.5,Equipe 1
+AVR0159,2024-04-12 13:24:55,Linha de Transmissão X,Sobrecarga,Em Reparo,12.4,Equipe 3
+AVR0160,2023-06-17 02:59:12,Linha de Transmissão X,Curto-Circuito,Aberta,10.5,Equipe de Emergência
+AVR0161,2023-01-18 15:41:10,Subestação A,Descarga Atmosférica,Concluída,4.6,Equipe de Emergência
+AVR0162,2023-07-02 10:13:43,Bairro Y,Descarga Atmosférica,Em Reparo,18.0,Equipe 3
+AVR0163,2023-06-15 12:39:08,Subestação A,Problema em Equipamento,Concluída,18.3,Equipe 2
+AVR0164,2023-10-23 23:30:57,Bairro Y,Problema em Equipamento,Em Reparo,12.6,Equipe de Emergência
+AVR0165,2024-02-26 17:43:10,Bairro Y,Curto-Circuito,Aberta,12.8,Equipe 1
+AVR0166,2024-10-30 16:18:13,Subestação A,Descarga Atmosférica,Em Reparo,14.8,Equipe de Emergência
+AVR0167,2023-05-10 14:46:37,Bairro Y,Descarga Atmosférica,Concluída,15.0,Equipe 1
+AVR0168,2023-03-06 11:32:05,Subestação A,Curto-Circuito,Aberta,23.5,Equipe 1
+AVR0169,2024-05-24 05:31:26,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,10.9,Equipe 1
+AVR0170,2024-08-25 12:57:23,Linha de Transmissão X,Sobrecarga,Concluída,8.3,Equipe 1
+AVR0171,2024-04-28 22:45:48,Subestação A,Descarga Atmosférica,Em Reparo,13.1,Equipe 1
+AVR0172,2024-09-18 23:35:47,Bairro Y,Problema em Equipamento,Em Reparo,4.0,Equipe 1
+AVR0173,2024-08-07 02:50:57,Subestação A,Sobrecarga,Concluída,2.6,Equipe 1
+AVR0174,2023-07-01 01:37:58,Linha de Transmissão X,Curto-Circuito,Aberta,1.2,Equipe 2
+AVR0175,2023-01-20 01:03:24,Subestação A,Sobrecarga,Concluída,10.5,Equipe 3
+AVR0176,2023-01-17 20:40:41,Subestação A,Descarga Atmosférica,Em Reparo,19.6,Equipe 2
+AVR0177,2024-02-06 16:22:43,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,23.1,Equipe 2
+AVR0178,2023-07-30 05:24:12,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,9.4,Equipe 1
+AVR0179,2023-09-17 21:51:12,Bairro Y,Problema em Equipamento,Concluída,11.2,Equipe de Emergência
+AVR0180,2024-07-15 17:35:57,Subestação A,Descarga Atmosférica,Concluída,20.5,Equipe 2
+AVR0181,2024-01-20 10:42:40,Posto de Transformação Z,Descarga Atmosférica,Aberta,6.4,Equipe 3
+AVR0182,2023-06-02 21:34:38,Posto de Transformação Z,Problema em Equipamento,Aberta,23.6,Equipe de Emergência
+AVR0183,2023-10-20 11:56:19,Bairro Y,Problema em Equipamento,Aberta,9.2,Equipe 3
+AVR0184,2024-07-31 12:38:29,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,6.2,Equipe de Emergência
+AVR0185,2023-11-05 05:33:24,Bairro Y,Sobrecarga,Concluída,23.4,Equipe 3
+AVR0186,2024-05-20 05:31:35,Subestação A,Curto-Circuito,Aberta,22.7,Equipe 3
+AVR0187,2023-06-30 23:57:49,Bairro Y,Sobrecarga,Aberta,2.2,Equipe 3
+AVR0188,2023-03-06 20:53:54,Subestação A,Sobrecarga,Concluída,23.5,Equipe 3
+AVR0189,2023-07-07 01:19:31,Bairro Y,Descarga Atmosférica,Em Reparo,20.4,Equipe de Emergência
+AVR0190,2024-11-17 21:54:40,Subestação A,Problema em Equipamento,Concluída,12.6,Equipe 2
+AVR0191,2023-08-21 05:12:55,Linha de Transmissão X,Sobrecarga,Concluída,15.5,Equipe 2
+AVR0192,2023-06-07 22:27:24,Bairro Y,Descarga Atmosférica,Aberta,23.7,Equipe 2
+AVR0193,2024-07-04 18:46:33,Posto de Transformação Z,Problema em Equipamento,Em Reparo,8.9,Equipe 1
+AVR0194,2024-09-17 18:27:12,Linha de Transmissão X,Problema em Equipamento,Em Reparo,18.4,Equipe de Emergência
+AVR0195,2023-02-06 09:05:24,Linha de Transmissão X,Problema em Equipamento,Aberta,20.0,Equipe de Emergência
+AVR0196,2023-05-29 13:47:54,Linha de Transmissão X,Curto-Circuito,Em Reparo,13.9,Equipe 3
+AVR0197,2023-05-22 14:22:02,Posto de Transformação Z,Curto-Circuito,Concluída,11.9,Equipe 2
+AVR0198,2024-04-06 23:36:19,Subestação A,Sobrecarga,Aberta,23.9,Equipe 3
+AVR0199,2023-08-29 08:26:38,Bairro Y,Curto-Circuito,Concluída,7.6,Equipe 2
+AVR0200,2023-03-13 20:57:40,Bairro Y,Descarga Atmosférica,Concluída,5.9,Equipe de Emergência
+AVR0201,2023-10-23 23:09:51,Subestação A,Curto-Circuito,Aberta,4.8,Equipe 3
+AVR0202,2023-04-27 20:42:09,Subestação A,Problema em Equipamento,Concluída,7.2,Equipe de Emergência
+AVR0203,2024-12-10 03:26:14,Linha de Transmissão X,Descarga Atmosférica,Concluída,23.7,Equipe 2
+AVR0204,2024-07-07 09:59:13,Subestação A,Curto-Circuito,Concluída,20.4,Equipe 3
+AVR0205,2024-09-14 17:20:00,Linha de Transmissão X,Problema em Equipamento,Concluída,15.8,Equipe de Emergência
+AVR0206,2024-12-15 10:06:00,Bairro Y,Descarga Atmosférica,Concluída,18.3,Equipe 2
+AVR0207,2023-08-04 08:02:57,Bairro Y,Curto-Circuito,Em Reparo,5.3,Equipe 1
+AVR0208,2024-05-16 06:13:35,Subestação A,Curto-Circuito,Concluída,10.5,Equipe 3
+AVR0209,2024-04-24 09:01:41,Linha de Transmissão X,Curto-Circuito,Em Reparo,14.9,Equipe 1
+AVR0210,2024-07-18 10:21:19,Subestação A,Curto-Circuito,Concluída,11.7,Equipe de Emergência
+AVR0211,2024-02-20 07:16:05,Bairro Y,Descarga Atmosférica,Aberta,6.8,Equipe de Emergência
+AVR0212,2023-08-15 23:30:58,Bairro Y,Curto-Circuito,Concluída,15.6,Equipe 3
+AVR0213,2023-07-25 06:28:30,Subestação A,Problema em Equipamento,Em Reparo,15.1,Equipe de Emergência
+AVR0214,2024-11-08 16:12:36,Posto de Transformação Z,Sobrecarga,Concluída,19.0,Equipe de Emergência
+AVR0215,2024-07-06 09:19:47,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,6.2,Equipe 1
+AVR0216,2024-06-10 04:34:28,Bairro Y,Problema em Equipamento,Em Reparo,11.9,Equipe 3
+AVR0217,2023-12-02 21:14:29,Bairro Y,Descarga Atmosférica,Aberta,8.0,Equipe 3
+AVR0218,2024-10-18 09:08:59,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,8.1,Equipe 2
+AVR0219,2023-04-01 04:59:04,Bairro Y,Descarga Atmosférica,Em Reparo,12.7,Equipe 2
+AVR0220,2024-07-15 06:39:29,Posto de Transformação Z,Curto-Circuito,Concluída,12.4,Equipe 1
+AVR0221,2024-04-10 13:42:44,Subestação A,Curto-Circuito,Aberta,3.9,Equipe 1
+AVR0222,2024-02-17 20:02:09,Subestação A,Sobrecarga,Em Reparo,22.6,Equipe de Emergência
+AVR0223,2023-09-10 09:09:28,Posto de Transformação Z,Problema em Equipamento,Em Reparo,22.8,Equipe 1
+AVR0224,2023-07-31 13:10:17,Bairro Y,Problema em Equipamento,Aberta,6.4,Equipe 2
+AVR0225,2023-09-29 02:30:57,Posto de Transformação Z,Curto-Circuito,Em Reparo,8.2,Equipe 3
+AVR0226,2023-02-12 23:53:38,Bairro Y,Descarga Atmosférica,Em Reparo,3.9,Equipe 2
+AVR0227,2023-06-07 11:48:10,Subestação A,Problema em Equipamento,Concluída,23.8,Equipe de Emergência
+AVR0228,2024-09-26 16:17:08,Linha de Transmissão X,Descarga Atmosférica,Aberta,4.2,Equipe 3
+AVR0229,2024-10-23 10:34:36,Bairro Y,Sobrecarga,Em Reparo,11.9,Equipe 2
+AVR0230,2024-10-07 18:59:07,Posto de Transformação Z,Sobrecarga,Concluída,22.4,Equipe 2
+AVR0231,2023-05-31 13:35:42,Linha de Transmissão X,Descarga Atmosférica,Concluída,9.0,Equipe 2
+AVR0232,2023-10-04 10:09:46,Bairro Y,Problema em Equipamento,Em Reparo,6.6,Equipe 3
+AVR0233,2023-05-12 09:06:16,Linha de Transmissão X,Problema em Equipamento,Concluída,5.8,Equipe de Emergência
+AVR0234,2024-05-24 02:32:41,Linha de Transmissão X,Problema em Equipamento,Concluída,9.7,Equipe 2
+AVR0235,2023-05-12 10:07:36,Posto de Transformação Z,Descarga Atmosférica,Concluída,11.9,Equipe 3
+AVR0236,2023-07-29 13:13:38,Subestação A,Problema em Equipamento,Concluída,14.8,Equipe de Emergência
+AVR0237,2024-09-13 23:46:51,Posto de Transformação Z,Sobrecarga,Concluída,12.9,Equipe 2
+AVR0238,2024-06-21 06:37:36,Linha de Transmissão X,Problema em Equipamento,Aberta,5.9,Equipe 3
+AVR0239,2023-04-24 01:33:00,Posto de Transformação Z,Problema em Equipamento,Aberta,16.5,Equipe 1
+AVR0240,2024-08-21 11:48:25,Linha de Transmissão X,Descarga Atmosférica,Aberta,6.1,Equipe 3
+AVR0241,2023-09-21 05:56:54,Posto de Transformação Z,Sobrecarga,Em Reparo,21.4,Equipe 2
+AVR0242,2023-03-31 16:47:24,Posto de Transformação Z,Sobrecarga,Aberta,1.7,Equipe de Emergência
+AVR0243,2024-10-19 00:02:24,Posto de Transformação Z,Descarga Atmosférica,Aberta,4.2,Equipe 2
+AVR0244,2024-09-14 23:36:56,Subestação A,Curto-Circuito,Concluída,23.3,Equipe de Emergência
+AVR0245,2024-02-05 05:27:15,Bairro Y,Curto-Circuito,Em Reparo,21.1,Equipe 3
+AVR0246,2024-02-12 02:15:56,Linha de Transmissão X,Curto-Circuito,Aberta,8.5,Equipe de Emergência
+AVR0247,2024-10-16 17:15:57,Linha de Transmissão X,Curto-Circuito,Aberta,8.5,Equipe 3
+AVR0248,2024-10-07 14:01:43,Subestação A,Sobrecarga,Em Reparo,21.6,Equipe 1
+AVR0249,2024-10-27 21:28:39,Posto de Transformação Z,Problema em Equipamento,Em Reparo,17.4,Equipe 2
+AVR0250,2023-02-01 04:59:08,Bairro Y,Curto-Circuito,Aberta,16.9,Equipe 3
+AVR0251,2024-11-14 02:04:11,Linha de Transmissão X,Sobrecarga,Em Reparo,21.0,Equipe de Emergência
+AVR0252,2024-03-16 04:26:41,Linha de Transmissão X,Problema em Equipamento,Em Reparo,12.8,Equipe 2
+AVR0253,2023-10-22 22:59:49,Linha de Transmissão X,Curto-Circuito,Aberta,8.3,Equipe 1
+AVR0254,2024-07-11 10:53:26,Linha de Transmissão X,Problema em Equipamento,Em Reparo,16.3,Equipe de Emergência
+AVR0255,2023-09-23 20:15:28,Bairro Y,Problema em Equipamento,Aberta,16.4,Equipe 2
+AVR0256,2023-07-23 23:59:51,Linha de Transmissão X,Problema em Equipamento,Concluída,20.0,Equipe 2
+AVR0257,2024-02-08 12:20:53,Posto de Transformação Z,Problema em Equipamento,Aberta,21.7,Equipe 3
+AVR0258,2023-05-17 16:42:29,Bairro Y,Sobrecarga,Em Reparo,7.2,Equipe 3
+AVR0259,2024-10-19 00:16:57,Bairro Y,Sobrecarga,Aberta,3.2,Equipe 2
+AVR0260,2023-12-12 18:42:22,Linha de Transmissão X,Curto-Circuito,Concluída,1.9,Equipe 1
+AVR0261,2024-06-11 13:27:00,Posto de Transformação Z,Problema em Equipamento,Concluída,4.7,Equipe 2
+AVR0262,2023-11-26 16:27:13,Bairro Y,Sobrecarga,Concluída,22.4,Equipe 3
+AVR0263,2024-01-06 11:47:06,Linha de Transmissão X,Descarga Atmosférica,Concluída,19.9,Equipe 2
+AVR0264,2024-09-09 14:09:26,Bairro Y,Descarga Atmosférica,Aberta,21.3,Equipe 3
+AVR0265,2023-12-20 20:11:23,Linha de Transmissão X,Sobrecarga,Em Reparo,18.5,Equipe 2
+AVR0266,2023-08-29 04:34:06,Posto de Transformação Z,Problema em Equipamento,Em Reparo,18.6,Equipe 3
+AVR0267,2024-03-03 10:34:41,Linha de Transmissão X,Sobrecarga,Concluída,5.8,Equipe 2
+AVR0268,2023-11-25 22:20:50,Posto de Transformação Z,Descarga Atmosférica,Aberta,18.2,Equipe 1
+AVR0269,2023-06-12 06:28:57,Bairro Y,Descarga Atmosférica,Em Reparo,8.8,Equipe de Emergência
+AVR0270,2023-08-13 03:56:28,Linha de Transmissão X,Sobrecarga,Concluída,20.1,Equipe de Emergência
+AVR0271,2024-01-06 23:46:04,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,20.3,Equipe de Emergência
+AVR0272,2023-10-05 10:25:49,Linha de Transmissão X,Descarga Atmosférica,Aberta,11.2,Equipe 1
+AVR0273,2023-01-29 17:18:10,Linha de Transmissão X,Curto-Circuito,Aberta,7.3,Equipe de Emergência
+AVR0274,2023-10-03 16:11:52,Bairro Y,Descarga Atmosférica,Aberta,2.9,Equipe 1
+AVR0275,2024-09-23 21:13:53,Subestação A,Problema em Equipamento,Aberta,4.1,Equipe 3
+AVR0276,2024-11-16 04:25:12,Linha de Transmissão X,Sobrecarga,Aberta,6.3,Equipe de Emergência
+AVR0277,2023-12-04 09:34:08,Bairro Y,Descarga Atmosférica,Em Reparo,9.5,Equipe 1
+AVR0278,2024-11-13 20:50:18,Subestação A,Problema em Equipamento,Concluída,16.6,Equipe 3
+AVR0279,2023-08-13 14:21:35,Subestação A,Sobrecarga,Em Reparo,6.0,Equipe 2
+AVR0280,2024-07-02 02:26:49,Subestação A,Problema em Equipamento,Em Reparo,11.4,Equipe 1
+AVR0281,2024-08-17 04:19:33,Linha de Transmissão X,Descarga Atmosférica,Aberta,12.0,Equipe de Emergência
+AVR0282,2023-01-02 00:35:06,Bairro Y,Sobrecarga,Em Reparo,5.4,Equipe 1
+AVR0283,2023-07-15 05:40:32,Bairro Y,Problema em Equipamento,Concluída,18.1,Equipe 2
+AVR0284,2023-02-19 08:01:42,Bairro Y,Problema em Equipamento,Concluída,21.9,Equipe 2
+AVR0285,2024-11-11 08:35:46,Linha de Transmissão X,Descarga Atmosférica,Concluída,0.7,Equipe 2
+AVR0286,2024-11-09 06:19:02,Posto de Transformação Z,Sobrecarga,Concluída,2.8,Equipe 2
+AVR0287,2023-04-20 10:44:52,Subestação A,Descarga Atmosférica,Em Reparo,14.0,Equipe 3
+AVR0288,2024-07-29 16:32:34,Posto de Transformação Z,Sobrecarga,Em Reparo,18.9,Equipe 3
+AVR0289,2024-11-06 17:50:57,Bairro Y,Problema em Equipamento,Em Reparo,3.0,Equipe 3
+AVR0290,2024-10-17 19:46:22,Linha de Transmissão X,Curto-Circuito,Concluída,14.5,Equipe 2
+AVR0291,2023-05-17 21:17:56,Linha de Transmissão X,Curto-Circuito,Concluída,20.5,Equipe 1
+AVR0292,2023-04-12 14:59:28,Subestação A,Problema em Equipamento,Aberta,13.9,Equipe 3
+AVR0293,2024-07-16 18:11:32,Bairro Y,Curto-Circuito,Aberta,1.4,Equipe de Emergência
+AVR0294,2023-09-21 08:39:26,Posto de Transformação Z,Descarga Atmosférica,Aberta,8.8,Equipe 2
+AVR0295,2023-03-10 19:37:26,Posto de Transformação Z,Descarga Atmosférica,Aberta,16.4,Equipe 3
+AVR0296,2024-10-15 06:42:52,Bairro Y,Descarga Atmosférica,Em Reparo,5.4,Equipe de Emergência
+AVR0297,2024-04-21 03:50:22,Bairro Y,Curto-Circuito,Concluída,17.0,Equipe 1
+AVR0298,2023-08-02 14:19:42,Subestação A,Sobrecarga,Aberta,12.3,Equipe 2
+AVR0299,2024-01-03 16:00:50,Posto de Transformação Z,Sobrecarga,Concluída,13.8,Equipe 2
+AVR0300,2024-11-22 03:53:48,Posto de Transformação Z,Curto-Circuito,Aberta,15.0,Equipe 2
+AVR0301,2023-09-10 02:25:46,Linha de Transmissão X,Curto-Circuito,Em Reparo,6.0,Equipe de Emergência
+AVR0302,2024-03-19 07:56:59,Posto de Transformação Z,Problema em Equipamento,Aberta,3.6,Equipe 1
+AVR0303,2024-11-03 20:29:59,Bairro Y,Descarga Atmosférica,Concluída,4.4,Equipe 2
+AVR0304,2023-03-23 11:04:00,Posto de Transformação Z,Sobrecarga,Concluída,17.9,Equipe de Emergência
+AVR0305,2023-05-18 12:21:53,Subestação A,Sobrecarga,Em Reparo,3.4,Equipe 1
+AVR0306,2024-07-05 23:47:29,Subestação A,Sobrecarga,Em Reparo,16.5,Equipe de Emergência
+AVR0307,2023-12-22 09:59:19,Subestação A,Sobrecarga,Concluída,12.6,Equipe 3
+AVR0308,2024-10-24 23:39:08,Posto de Transformação Z,Problema em Equipamento,Concluída,1.8,Equipe 2
+AVR0309,2024-06-25 01:48:06,Subestação A,Descarga Atmosférica,Aberta,19.1,Equipe 1
+AVR0310,2024-01-19 01:04:30,Posto de Transformação Z,Descarga Atmosférica,Concluída,23.5,Equipe 1
+AVR0311,2023-08-21 04:30:14,Linha de Transmissão X,Sobrecarga,Aberta,13.7,Equipe 2
+AVR0312,2023-11-15 22:25:38,Subestação A,Problema em Equipamento,Aberta,14.0,Equipe 3
+AVR0313,2024-02-08 04:28:54,Subestação A,Problema em Equipamento,Concluída,21.9,Equipe de Emergência
+AVR0314,2023-06-09 11:04:07,Subestação A,Descarga Atmosférica,Aberta,12.6,Equipe 1
+AVR0315,2024-01-19 18:49:37,Bairro Y,Curto-Circuito,Concluída,23.0,Equipe 2
+AVR0316,2023-09-14 14:01:45,Subestação A,Sobrecarga,Concluída,13.4,Equipe 3
+AVR0317,2024-04-22 07:50:08,Linha de Transmissão X,Descarga Atmosférica,Concluída,1.2,Equipe 2
+AVR0318,2023-05-17 16:43:08,Linha de Transmissão X,Sobrecarga,Concluída,13.9,Equipe 2
+AVR0319,2024-05-07 15:40:17,Bairro Y,Sobrecarga,Aberta,14.7,Equipe de Emergência
+AVR0320,2024-08-11 20:18:44,Linha de Transmissão X,Descarga Atmosférica,Concluída,13.0,Equipe 1
+AVR0321,2024-01-21 22:17:15,Linha de Transmissão X,Problema em Equipamento,Aberta,9.3,Equipe de Emergência
+AVR0322,2023-08-03 14:18:39,Linha de Transmissão X,Descarga Atmosférica,Concluída,15.5,Equipe de Emergência
+AVR0323,2024-09-03 23:27:39,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,11.8,Equipe de Emergência
+AVR0324,2024-09-19 04:45:39,Bairro Y,Curto-Circuito,Aberta,15.1,Equipe 3
+AVR0325,2023-10-11 13:53:02,Posto de Transformação Z,Curto-Circuito,Concluída,8.4,Equipe 3
+AVR0326,2024-10-03 12:17:34,Posto de Transformação Z,Sobrecarga,Aberta,14.4,Equipe 1
+AVR0327,2023-09-09 03:13:26,Bairro Y,Curto-Circuito,Em Reparo,8.8,Equipe 3
+AVR0328,2023-04-03 06:11:33,Posto de Transformação Z,Curto-Circuito,Aberta,23.0,Equipe de Emergência
+AVR0329,2023-10-05 04:53:23,Posto de Transformação Z,Descarga Atmosférica,Aberta,15.3,Equipe de Emergência
+AVR0330,2023-12-13 05:25:40,Posto de Transformação Z,Sobrecarga,Em Reparo,14.5,Equipe 1
+AVR0331,2023-03-26 14:09:44,Posto de Transformação Z,Sobrecarga,Concluída,7.4,Equipe 3
+AVR0332,2023-08-22 20:52:38,Bairro Y,Sobrecarga,Concluída,11.5,Equipe 2
+AVR0333,2023-11-12 03:18:52,Bairro Y,Curto-Circuito,Aberta,15.6,Equipe de Emergência
+AVR0334,2023-12-26 06:49:16,Posto de Transformação Z,Descarga Atmosférica,Concluída,13.7,Equipe 3
+AVR0335,2023-05-07 21:38:59,Subestação A,Sobrecarga,Concluída,10.5,Equipe de Emergência
+AVR0336,2023-05-07 22:27:06,Subestação A,Curto-Circuito,Aberta,10.2,Equipe 3
+AVR0337,2023-11-13 14:51:31,Bairro Y,Sobrecarga,Em Reparo,22.1,Equipe 2
+AVR0338,2023-05-24 09:33:51,Bairro Y,Sobrecarga,Em Reparo,17.5,Equipe 2
+AVR0339,2023-06-29 16:25:52,Posto de Transformação Z,Problema em Equipamento,Em Reparo,4.7,Equipe 3
+AVR0340,2023-02-14 23:43:36,Posto de Transformação Z,Sobrecarga,Em Reparo,0.6,Equipe 3
+AVR0341,2023-09-16 06:12:06,Bairro Y,Sobrecarga,Aberta,4.6,Equipe de Emergência
+AVR0342,2023-10-12 21:44:39,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,3.6,Equipe 1
+AVR0343,2024-06-13 11:09:21,Bairro Y,Problema em Equipamento,Concluída,23.3,Equipe de Emergência
+AVR0344,2023-04-14 03:17:11,Linha de Transmissão X,Sobrecarga,Concluída,8.6,Equipe 3
+AVR0345,2023-11-19 02:19:37,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,5.1,Equipe de Emergência
+AVR0346,2023-09-15 04:37:45,Linha de Transmissão X,Problema em Equipamento,Em Reparo,4.9,Equipe 2
+AVR0347,2023-10-22 06:15:52,Subestação A,Curto-Circuito,Em Reparo,8.0,Equipe de Emergência
+AVR0348,2024-11-29 08:47:48,Linha de Transmissão X,Sobrecarga,Concluída,1.2,Equipe 3
+AVR0349,2023-09-30 04:04:42,Subestação A,Problema em Equipamento,Aberta,19.5,Equipe 2
+AVR0350,2024-11-18 11:50:49,Subestação A,Problema em Equipamento,Em Reparo,17.7,Equipe 3
+AVR0351,2024-07-31 20:34:57,Subestação A,Sobrecarga,Aberta,4.0,Equipe 3
+AVR0352,2024-04-22 05:34:20,Subestação A,Problema em Equipamento,Em Reparo,23.2,Equipe 3
+AVR0353,2024-03-26 08:45:37,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,23.6,Equipe 1
+AVR0354,2023-11-02 10:13:52,Linha de Transmissão X,Descarga Atmosférica,Aberta,23.1,Equipe 1
+AVR0355,2023-01-12 05:51:22,Posto de Transformação Z,Sobrecarga,Concluída,8.0,Equipe de Emergência
+AVR0356,2023-02-05 22:56:10,Linha de Transmissão X,Descarga Atmosférica,Concluída,12.6,Equipe 3
+AVR0357,2024-06-20 20:41:35,Bairro Y,Curto-Circuito,Aberta,21.9,Equipe 1
+AVR0358,2023-07-30 20:48:44,Subestação A,Problema em Equipamento,Concluída,11.8,Equipe de Emergência
+AVR0359,2023-10-31 08:11:26,Bairro Y,Problema em Equipamento,Em Reparo,4.9,Equipe de Emergência
+AVR0360,2023-10-20 13:16:09,Bairro Y,Sobrecarga,Aberta,18.7,Equipe 3
+AVR0361,2023-02-17 11:20:16,Subestação A,Descarga Atmosférica,Em Reparo,7.0,Equipe 3
+AVR0362,2023-12-30 10:28:31,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,1.3,Equipe 2
+AVR0363,2024-12-04 03:43:34,Bairro Y,Curto-Circuito,Concluída,9.6,Equipe 3
+AVR0364,2024-12-04 01:58:07,Subestação A,Curto-Circuito,Em Reparo,23.8,Equipe 2
+AVR0365,2024-09-09 10:46:06,Subestação A,Problema em Equipamento,Concluída,21.7,Equipe de Emergência
+AVR0366,2024-03-28 16:28:35,Bairro Y,Descarga Atmosférica,Em Reparo,23.5,Equipe de Emergência
+AVR0367,2024-12-15 09:21:03,Posto de Transformação Z,Curto-Circuito,Em Reparo,3.8,Equipe 1
+AVR0368,2024-01-01 23:33:47,Subestação A,Problema em Equipamento,Concluída,3.5,Equipe de Emergência
+AVR0369,2023-06-09 20:55:07,Posto de Transformação Z,Curto-Circuito,Concluída,21.8,Equipe 1
+AVR0370,2023-10-31 04:58:59,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,6.0,Equipe 3
+AVR0371,2023-11-11 06:16:24,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,20.5,Equipe 2
+AVR0372,2024-04-25 20:01:31,Posto de Transformação Z,Curto-Circuito,Concluída,21.4,Equipe 1
+AVR0373,2024-12-20 13:24:12,Subestação A,Problema em Equipamento,Concluída,14.6,Equipe 3
+AVR0374,2023-07-16 17:00:50,Linha de Transmissão X,Problema em Equipamento,Aberta,17.4,Equipe 3
+AVR0375,2023-01-13 06:43:51,Bairro Y,Sobrecarga,Em Reparo,5.4,Equipe 3
+AVR0376,2023-12-02 00:08:52,Linha de Transmissão X,Sobrecarga,Concluída,12.1,Equipe de Emergência
+AVR0377,2024-02-13 03:38:39,Bairro Y,Problema em Equipamento,Aberta,4.7,Equipe 3
+AVR0378,2024-02-14 23:42:17,Linha de Transmissão X,Curto-Circuito,Em Reparo,10.5,Equipe de Emergência
+AVR0379,2023-10-13 04:47:13,Linha de Transmissão X,Curto-Circuito,Concluída,19.2,Equipe de Emergência
+AVR0380,2024-11-10 16:09:10,Bairro Y,Curto-Circuito,Aberta,23.4,Equipe 2
+AVR0381,2023-11-11 21:39:54,Subestação A,Curto-Circuito,Em Reparo,9.6,Equipe de Emergência
+AVR0382,2023-07-21 10:46:09,Bairro Y,Curto-Circuito,Em Reparo,23.7,Equipe de Emergência
+AVR0383,2024-12-11 09:44:29,Subestação A,Problema em Equipamento,Aberta,16.8,Equipe 2
+AVR0384,2024-12-28 08:55:06,Posto de Transformação Z,Sobrecarga,Concluída,4.5,Equipe 1
+AVR0385,2023-10-27 00:38:25,Posto de Transformação Z,Curto-Circuito,Aberta,6.8,Equipe 3
+AVR0386,2023-02-17 15:39:23,Posto de Transformação Z,Descarga Atmosférica,Concluída,21.1,Equipe de Emergência
+AVR0387,2024-10-13 21:55:44,Bairro Y,Sobrecarga,Concluída,13.4,Equipe 1
+AVR0388,2024-12-04 04:39:29,Linha de Transmissão X,Curto-Circuito,Em Reparo,4.6,Equipe 1
+AVR0389,2023-08-11 11:41:18,Subestação A,Sobrecarga,Concluída,4.0,Equipe 1
+AVR0390,2024-01-30 20:24:01,Bairro Y,Curto-Circuito,Aberta,19.4,Equipe de Emergência
+AVR0391,2023-07-25 05:25:10,Linha de Transmissão X,Curto-Circuito,Aberta,3.5,Equipe 2
+AVR0392,2023-10-29 06:28:54,Bairro Y,Problema em Equipamento,Concluída,21.8,Equipe 1
+AVR0393,2024-07-10 22:24:14,Posto de Transformação Z,Problema em Equipamento,Aberta,8.9,Equipe 2
+AVR0394,2023-10-10 08:54:15,Bairro Y,Descarga Atmosférica,Em Reparo,14.9,Equipe 1
+AVR0395,2024-04-12 19:05:26,Subestação A,Descarga Atmosférica,Concluída,2.8,Equipe 1
+AVR0396,2023-09-11 08:08:09,Subestação A,Problema em Equipamento,Em Reparo,11.7,Equipe 3
+AVR0397,2024-04-06 04:45:26,Posto de Transformação Z,Curto-Circuito,Concluída,22.6,Equipe 3
+AVR0398,2024-06-13 23:13:48,Bairro Y,Curto-Circuito,Em Reparo,12.8,Equipe 1
+AVR0399,2024-03-12 17:46:24,Subestação A,Curto-Circuito,Em Reparo,23.5,Equipe 2
+AVR0400,2023-05-03 13:05:13,Bairro Y,Sobrecarga,Concluída,22.0,Equipe 2
+AVR0401,2023-06-22 19:55:34,Posto de Transformação Z,Descarga Atmosférica,Aberta,19.8,Equipe 3
+AVR0402,2023-10-26 00:21:21,Posto de Transformação Z,Problema em Equipamento,Aberta,19.5,Equipe 2
+AVR0403,2023-06-09 16:24:49,Linha de Transmissão X,Descarga Atmosférica,Aberta,12.4,Equipe 1
+AVR0404,2024-04-24 03:05:50,Subestação A,Problema em Equipamento,Em Reparo,3.9,Equipe de Emergência
+AVR0405,2024-12-20 19:59:18,Subestação A,Curto-Circuito,Em Reparo,22.5,Equipe 3
+AVR0406,2024-10-10 03:48:37,Posto de Transformação Z,Sobrecarga,Concluída,7.4,Equipe 1
+AVR0407,2023-06-20 05:50:14,Subestação A,Sobrecarga,Aberta,20.0,Equipe 1
+AVR0408,2023-07-14 14:09:53,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,19.3,Equipe 2
+AVR0409,2023-05-22 04:59:10,Posto de Transformação Z,Curto-Circuito,Aberta,12.3,Equipe de Emergência
+AVR0410,2024-05-14 00:14:16,Linha de Transmissão X,Descarga Atmosférica,Aberta,2.3,Equipe de Emergência
+AVR0411,2023-03-05 21:32:11,Linha de Transmissão X,Curto-Circuito,Aberta,6.8,Equipe 3
+AVR0412,2024-12-10 21:44:47,Subestação A,Problema em Equipamento,Em Reparo,6.5,Equipe 3
+AVR0413,2023-05-02 02:53:07,Posto de Transformação Z,Curto-Circuito,Aberta,8.8,Equipe 1
+AVR0414,2023-07-29 13:10:02,Subestação A,Curto-Circuito,Concluída,15.2,Equipe de Emergência
+AVR0415,2024-02-12 05:05:35,Bairro Y,Sobrecarga,Em Reparo,10.0,Equipe de Emergência
+AVR0416,2023-07-09 16:10:07,Bairro Y,Problema em Equipamento,Aberta,7.7,Equipe de Emergência
+AVR0417,2023-01-18 11:56:34,Linha de Transmissão X,Curto-Circuito,Em Reparo,10.9,Equipe 2
+AVR0418,2023-07-23 17:50:24,Posto de Transformação Z,Problema em Equipamento,Concluída,20.3,Equipe 2
+AVR0419,2024-06-24 03:56:15,Linha de Transmissão X,Problema em Equipamento,Concluída,10.4,Equipe 3
+AVR0420,2024-08-01 00:16:52,Posto de Transformação Z,Sobrecarga,Concluída,21.5,Equipe 1
+AVR0421,2023-06-08 12:42:40,Posto de Transformação Z,Curto-Circuito,Em Reparo,5.3,Equipe 3
+AVR0422,2024-04-14 14:57:37,Subestação A,Problema em Equipamento,Aberta,17.1,Equipe 3
+AVR0423,2023-04-30 06:08:43,Bairro Y,Descarga Atmosférica,Aberta,7.5,Equipe 1
+AVR0424,2023-11-14 21:44:11,Bairro Y,Descarga Atmosférica,Aberta,21.6,Equipe de Emergência
+AVR0425,2023-05-13 08:25:30,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,22.9,Equipe 3
+AVR0426,2024-03-14 00:02:48,Linha de Transmissão X,Problema em Equipamento,Em Reparo,22.3,Equipe 1
+AVR0427,2024-09-29 12:34:11,Subestação A,Descarga Atmosférica,Concluída,19.0,Equipe 3
+AVR0428,2024-03-16 14:31:48,Posto de Transformação Z,Problema em Equipamento,Em Reparo,2.0,Equipe 1
+AVR0429,2023-02-11 02:53:02,Posto de Transformação Z,Curto-Circuito,Aberta,4.4,Equipe 2
+AVR0430,2023-12-17 14:39:24,Linha de Transmissão X,Curto-Circuito,Em Reparo,8.0,Equipe de Emergência
+AVR0431,2023-05-27 04:00:04,Linha de Transmissão X,Curto-Circuito,Concluída,23.1,Equipe 2
+AVR0432,2023-08-21 03:29:44,Bairro Y,Problema em Equipamento,Aberta,15.4,Equipe de Emergência
+AVR0433,2023-10-19 18:02:21,Bairro Y,Curto-Circuito,Em Reparo,9.5,Equipe de Emergência
+AVR0434,2024-02-17 21:02:18,Linha de Transmissão X,Curto-Circuito,Aberta,3.3,Equipe de Emergência
+AVR0435,2024-08-22 22:56:33,Subestação A,Curto-Circuito,Concluída,5.5,Equipe 1
+AVR0436,2023-09-28 16:28:15,Bairro Y,Problema em Equipamento,Em Reparo,3.5,Equipe 1
+AVR0437,2024-01-24 01:08:42,Linha de Transmissão X,Descarga Atmosférica,Concluída,13.4,Equipe de Emergência
+AVR0438,2024-12-26 20:30:11,Linha de Transmissão X,Sobrecarga,Em Reparo,15.3,Equipe de Emergência
+AVR0439,2024-06-30 05:30:16,Linha de Transmissão X,Sobrecarga,Concluída,10.8,Equipe 3
+AVR0440,2024-05-20 10:50:14,Posto de Transformação Z,Curto-Circuito,Aberta,18.6,Equipe de Emergência
+AVR0441,2024-04-12 05:58:38,Posto de Transformação Z,Curto-Circuito,Aberta,4.7,Equipe de Emergência
+AVR0442,2024-11-01 13:40:34,Posto de Transformação Z,Sobrecarga,Aberta,14.8,Equipe de Emergência
+AVR0443,2023-03-20 10:36:42,Bairro Y,Sobrecarga,Aberta,14.9,Equipe de Emergência
+AVR0444,2023-11-21 21:04:14,Subestação A,Descarga Atmosférica,Concluída,2.8,Equipe de Emergência
+AVR0445,2023-06-03 09:32:19,Posto de Transformação Z,Curto-Circuito,Aberta,23.3,Equipe 3
+AVR0446,2024-11-14 05:22:23,Posto de Transformação Z,Curto-Circuito,Em Reparo,5.3,Equipe 1
+AVR0447,2024-07-22 20:45:37,Posto de Transformação Z,Curto-Circuito,Concluída,23.4,Equipe de Emergência
+AVR0448,2024-09-27 14:56:31,Linha de Transmissão X,Sobrecarga,Concluída,6.0,Equipe 1
+AVR0449,2023-05-24 07:14:53,Linha de Transmissão X,Sobrecarga,Aberta,8.7,Equipe 2
+AVR0450,2023-09-10 11:24:13,Posto de Transformação Z,Sobrecarga,Concluída,20.3,Equipe 2
+AVR0451,2024-03-24 21:15:30,Linha de Transmissão X,Sobrecarga,Em Reparo,2.5,Equipe 3
+AVR0452,2023-05-19 01:14:41,Subestação A,Descarga Atmosférica,Aberta,23.1,Equipe 3
+AVR0453,2023-06-01 19:36:21,Bairro Y,Problema em Equipamento,Em Reparo,10.0,Equipe 2
+AVR0454,2024-07-18 10:01:58,Posto de Transformação Z,Sobrecarga,Em Reparo,3.7,Equipe 1
+AVR0455,2023-11-15 01:08:25,Posto de Transformação Z,Curto-Circuito,Em Reparo,9.1,Equipe 2
+AVR0456,2023-10-07 13:21:33,Bairro Y,Descarga Atmosférica,Concluída,7.4,Equipe de Emergência
+AVR0457,2023-02-27 18:59:27,Bairro Y,Problema em Equipamento,Em Reparo,22.2,Equipe de Emergência
+AVR0458,2024-02-24 04:20:35,Subestação A,Sobrecarga,Concluída,15.7,Equipe 2
+AVR0459,2024-10-28 14:05:46,Bairro Y,Descarga Atmosférica,Aberta,17.8,Equipe 1
+AVR0460,2024-03-02 10:05:10,Linha de Transmissão X,Problema em Equipamento,Aberta,8.0,Equipe 1
+AVR0461,2023-02-24 09:56:46,Subestação A,Descarga Atmosférica,Aberta,6.6,Equipe 1
+AVR0462,2023-07-05 09:55:25,Subestação A,Sobrecarga,Em Reparo,9.2,Equipe 3
+AVR0463,2023-09-24 05:10:57,Bairro Y,Sobrecarga,Em Reparo,5.8,Equipe 2
+AVR0464,2024-06-01 04:35:55,Subestação A,Descarga Atmosférica,Em Reparo,6.6,Equipe 1
+AVR0465,2023-03-08 05:35:30,Posto de Transformação Z,Sobrecarga,Aberta,3.7,Equipe 1
+AVR0466,2024-06-05 12:12:56,Linha de Transmissão X,Curto-Circuito,Aberta,5.2,Equipe 1
+AVR0467,2023-07-17 08:22:35,Linha de Transmissão X,Curto-Circuito,Concluída,10.3,Equipe 2
+AVR0468,2024-06-09 11:19:05,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,6.4,Equipe 2
+AVR0469,2024-01-30 00:27:24,Posto de Transformação Z,Curto-Circuito,Em Reparo,21.7,Equipe de Emergência
+AVR0470,2023-09-13 19:41:12,Subestação A,Descarga Atmosférica,Em Reparo,15.6,Equipe 2
+AVR0471,2024-10-22 06:36:55,Posto de Transformação Z,Problema em Equipamento,Aberta,7.8,Equipe 1
+AVR0472,2024-01-29 23:14:01,Subestação A,Descarga Atmosférica,Em Reparo,16.6,Equipe 2
+AVR0473,2023-06-09 23:44:50,Posto de Transformação Z,Problema em Equipamento,Aberta,2.8,Equipe 3
+AVR0474,2023-01-03 21:11:29,Posto de Transformação Z,Problema em Equipamento,Aberta,18.5,Equipe de Emergência
+AVR0475,2023-02-28 05:29:46,Posto de Transformação Z,Problema em Equipamento,Em Reparo,15.3,Equipe 1
+AVR0476,2023-10-12 13:58:24,Linha de Transmissão X,Descarga Atmosférica,Aberta,21.9,Equipe 2
+AVR0477,2023-04-15 18:10:06,Posto de Transformação Z,Problema em Equipamento,Aberta,21.2,Equipe 3
+AVR0478,2024-04-25 08:08:34,Posto de Transformação Z,Sobrecarga,Aberta,5.0,Equipe 1
+AVR0479,2024-07-26 20:14:56,Bairro Y,Descarga Atmosférica,Concluída,2.1,Equipe 3
+AVR0480,2024-08-18 03:59:05,Linha de Transmissão X,Curto-Circuito,Em Reparo,5.5,Equipe 1
+AVR0481,2023-06-18 09:31:38,Posto de Transformação Z,Sobrecarga,Em Reparo,8.4,Equipe 1
+AVR0482,2024-03-20 08:33:47,Subestação A,Sobrecarga,Em Reparo,7.5,Equipe 2
+AVR0483,2024-03-25 08:19:23,Posto de Transformação Z,Descarga Atmosférica,Aberta,7.7,Equipe 3
+AVR0484,2024-02-16 19:18:18,Linha de Transmissão X,Problema em Equipamento,Concluída,15.6,Equipe 2
+AVR0485,2024-11-18 04:04:14,Bairro Y,Problema em Equipamento,Em Reparo,11.1,Equipe 3
+AVR0486,2023-09-25 20:10:04,Posto de Transformação Z,Curto-Circuito,Aberta,11.6,Equipe de Emergência
+AVR0487,2024-03-06 18:34:51,Subestação A,Sobrecarga,Concluída,19.3,Equipe de Emergência
+AVR0488,2024-11-30 02:52:23,Subestação A,Sobrecarga,Aberta,8.9,Equipe de Emergência
+AVR0489,2024-10-24 03:43:45,Subestação A,Sobrecarga,Em Reparo,4.0,Equipe de Emergência
+AVR0490,2023-01-15 04:16:20,Subestação A,Sobrecarga,Concluída,20.8,Equipe 1
+AVR0491,2023-07-17 16:16:00,Bairro Y,Problema em Equipamento,Concluída,1.8,Equipe de Emergência
+AVR0492,2023-01-30 02:42:43,Bairro Y,Sobrecarga,Aberta,17.1,Equipe 3
+AVR0493,2024-08-16 07:16:39,Linha de Transmissão X,Problema em Equipamento,Em Reparo,17.9,Equipe 1
+AVR0494,2024-07-31 18:44:28,Subestação A,Curto-Circuito,Concluída,12.3,Equipe 3
+AVR0495,2023-12-26 14:48:34,Posto de Transformação Z,Problema em Equipamento,Em Reparo,4.2,Equipe de Emergência
+AVR0496,2024-05-28 12:45:28,Linha de Transmissão X,Problema em Equipamento,Em Reparo,3.5,Equipe de Emergência
+AVR0497,2023-01-05 06:16:57,Subestação A,Sobrecarga,Em Reparo,17.9,Equipe 1
+AVR0498,2024-10-08 04:30:14,Bairro Y,Problema em Equipamento,Concluída,16.0,Equipe 3
+AVR0499,2024-03-11 21:09:36,Subestação A,Descarga Atmosférica,Concluída,1.0,Equipe 1
+AVR0500,2024-11-16 17:22:01,Posto de Transformação Z,Curto-Circuito,Concluída,4.6,Equipe de Emergência
+AVR0501,2024-07-14 00:14:02,Linha de Transmissão X,Sobrecarga,Em Reparo,23.7,Equipe 2
+AVR0502,2024-07-07 03:16:46,Posto de Transformação Z,Sobrecarga,Em Reparo,4.0,Equipe 1
+AVR0503,2024-11-23 11:45:03,Subestação A,Sobrecarga,Aberta,14.4,Equipe de Emergência
+AVR0504,2023-09-04 03:25:08,Linha de Transmissão X,Curto-Circuito,Aberta,12.0,Equipe 2
+AVR0505,2023-11-19 13:27:11,Posto de Transformação Z,Curto-Circuito,Concluída,15.2,Equipe de Emergência
+AVR0506,2024-11-02 18:03:27,Linha de Transmissão X,Problema em Equipamento,Concluída,5.3,Equipe 1
+AVR0507,2023-08-05 18:35:37,Posto de Transformação Z,Curto-Circuito,Concluída,10.8,Equipe 2
+AVR0508,2024-02-12 21:51:03,Posto de Transformação Z,Sobrecarga,Aberta,20.1,Equipe 1
+AVR0509,2023-11-26 21:56:14,Bairro Y,Descarga Atmosférica,Aberta,2.1,Equipe 3
+AVR0510,2024-04-23 03:27:50,Bairro Y,Problema em Equipamento,Em Reparo,2.5,Equipe 2
+AVR0511,2024-04-04 06:48:50,Subestação A,Problema em Equipamento,Concluída,6.0,Equipe 3
+AVR0512,2023-04-15 15:48:27,Subestação A,Sobrecarga,Em Reparo,8.0,Equipe de Emergência
+AVR0513,2023-05-15 09:47:25,Bairro Y,Problema em Equipamento,Aberta,18.7,Equipe 3
+AVR0514,2024-02-16 04:23:49,Bairro Y,Descarga Atmosférica,Concluída,18.8,Equipe 1
+AVR0515,2024-05-03 10:15:43,Subestação A,Problema em Equipamento,Concluída,0.6,Equipe 1
+AVR0516,2023-09-01 14:44:09,Posto de Transformação Z,Curto-Circuito,Em Reparo,4.5,Equipe 1
+AVR0517,2023-11-04 08:50:17,Subestação A,Descarga Atmosférica,Aberta,22.5,Equipe 3
+AVR0518,2024-09-11 17:02:29,Posto de Transformação Z,Descarga Atmosférica,Concluída,19.2,Equipe 3
+AVR0519,2023-08-06 11:41:49,Bairro Y,Descarga Atmosférica,Aberta,22.1,Equipe 3
+AVR0520,2024-02-28 00:43:55,Subestação A,Descarga Atmosférica,Concluída,3.9,Equipe de Emergência
+AVR0521,2024-11-14 17:53:51,Linha de Transmissão X,Descarga Atmosférica,Aberta,15.8,Equipe 3
+AVR0522,2023-05-15 03:15:53,Posto de Transformação Z,Problema em Equipamento,Em Reparo,17.9,Equipe de Emergência
+AVR0523,2024-04-12 12:00:55,Posto de Transformação Z,Curto-Circuito,Aberta,15.2,Equipe 3
+AVR0524,2024-05-16 01:24:15,Posto de Transformação Z,Descarga Atmosférica,Aberta,7.4,Equipe 1
+AVR0525,2024-04-18 19:22:19,Linha de Transmissão X,Descarga Atmosférica,Concluída,16.7,Equipe 2
+AVR0526,2023-02-18 10:21:15,Subestação A,Curto-Circuito,Concluída,21.8,Equipe 3
+AVR0527,2024-09-02 12:57:11,Bairro Y,Descarga Atmosférica,Concluída,9.1,Equipe 2
+AVR0528,2024-08-13 12:02:59,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,12.4,Equipe 1
+AVR0529,2023-05-30 03:50:47,Bairro Y,Descarga Atmosférica,Concluída,23.4,Equipe de Emergência
+AVR0530,2023-05-13 07:34:31,Posto de Transformação Z,Sobrecarga,Concluída,7.8,Equipe de Emergência
+AVR0531,2024-06-10 23:41:03,Linha de Transmissão X,Curto-Circuito,Em Reparo,12.3,Equipe 3
+AVR0532,2024-06-27 03:24:50,Linha de Transmissão X,Curto-Circuito,Aberta,3.5,Equipe 3
+AVR0533,2024-07-09 11:45:44,Bairro Y,Sobrecarga,Aberta,4.4,Equipe 2
+AVR0534,2023-03-12 08:28:40,Bairro Y,Curto-Circuito,Concluída,19.4,Equipe 3
+AVR0535,2024-03-23 00:42:52,Bairro Y,Sobrecarga,Aberta,16.2,Equipe 3
+AVR0536,2024-07-15 02:19:02,Linha de Transmissão X,Problema em Equipamento,Aberta,3.3,Equipe de Emergência
+AVR0537,2023-10-03 04:46:35,Posto de Transformação Z,Descarga Atmosférica,Concluída,18.8,Equipe 2
+AVR0538,2023-11-04 19:16:46,Posto de Transformação Z,Problema em Equipamento,Em Reparo,1.2,Equipe de Emergência
+AVR0539,2023-12-10 17:37:36,Posto de Transformação Z,Curto-Circuito,Em Reparo,19.4,Equipe 1
+AVR0540,2023-01-01 12:09:14,Posto de Transformação Z,Descarga Atmosférica,Aberta,23.1,Equipe 3
+AVR0541,2024-11-07 10:02:16,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,18.2,Equipe 3
+AVR0542,2023-09-24 11:42:38,Bairro Y,Curto-Circuito,Em Reparo,12.2,Equipe 1
+AVR0543,2023-06-08 04:38:47,Subestação A,Sobrecarga,Concluída,8.1,Equipe de Emergência
+AVR0544,2023-11-05 08:42:28,Bairro Y,Curto-Circuito,Em Reparo,8.6,Equipe 3
+AVR0545,2024-05-16 07:09:05,Bairro Y,Curto-Circuito,Em Reparo,13.6,Equipe de Emergência
+AVR0546,2023-06-16 10:40:41,Subestação A,Sobrecarga,Aberta,15.1,Equipe 2
+AVR0547,2024-10-16 09:16:22,Posto de Transformação Z,Curto-Circuito,Em Reparo,5.5,Equipe de Emergência
+AVR0548,2024-04-08 19:53:52,Posto de Transformação Z,Problema em Equipamento,Em Reparo,10.1,Equipe 1
+AVR0549,2023-09-15 06:10:00,Subestação A,Sobrecarga,Em Reparo,9.2,Equipe 3
+AVR0550,2024-08-27 22:41:22,Subestação A,Curto-Circuito,Aberta,9.2,Equipe de Emergência
+AVR0551,2024-12-17 05:36:38,Posto de Transformação Z,Sobrecarga,Concluída,3.9,Equipe 1
+AVR0552,2024-06-29 10:08:22,Subestação A,Curto-Circuito,Concluída,23.5,Equipe 2
+AVR0553,2024-03-22 10:25:39,Bairro Y,Problema em Equipamento,Aberta,23.1,Equipe 3
+AVR0554,2023-11-10 19:17:25,Subestação A,Descarga Atmosférica,Em Reparo,23.3,Equipe de Emergência
+AVR0555,2023-07-02 13:39:23,Linha de Transmissão X,Curto-Circuito,Concluída,19.7,Equipe 1
+AVR0556,2023-01-08 20:43:38,Subestação A,Sobrecarga,Aberta,19.0,Equipe 2
+AVR0557,2023-04-08 03:02:03,Linha de Transmissão X,Descarga Atmosférica,Aberta,7.0,Equipe 3
+AVR0558,2024-07-16 21:42:59,Linha de Transmissão X,Curto-Circuito,Aberta,16.0,Equipe 1
+AVR0559,2023-03-06 20:03:00,Linha de Transmissão X,Curto-Circuito,Aberta,14.5,Equipe 2
+AVR0560,2023-10-14 02:44:03,Bairro Y,Sobrecarga,Concluída,13.5,Equipe 3
+AVR0561,2023-05-22 04:05:51,Linha de Transmissão X,Problema em Equipamento,Aberta,2.2,Equipe 2
+AVR0562,2024-07-22 03:28:56,Linha de Transmissão X,Curto-Circuito,Aberta,20.5,Equipe de Emergência
+AVR0563,2023-09-05 12:23:44,Linha de Transmissão X,Problema em Equipamento,Aberta,24.0,Equipe 2
+AVR0564,2023-07-02 19:27:05,Bairro Y,Descarga Atmosférica,Aberta,8.0,Equipe 1
+AVR0565,2023-12-13 04:07:59,Bairro Y,Descarga Atmosférica,Concluída,21.6,Equipe 3
+AVR0566,2023-05-24 20:54:00,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,4.7,Equipe 1
+AVR0567,2023-02-28 22:35:02,Bairro Y,Descarga Atmosférica,Em Reparo,15.1,Equipe de Emergência
+AVR0568,2024-10-02 08:06:09,Bairro Y,Curto-Circuito,Aberta,13.8,Equipe de Emergência
+AVR0569,2023-09-21 14:27:57,Linha de Transmissão X,Curto-Circuito,Concluída,8.1,Equipe 1
+AVR0570,2023-02-13 03:58:06,Linha de Transmissão X,Descarga Atmosférica,Aberta,7.1,Equipe 2
+AVR0571,2023-04-18 07:43:02,Subestação A,Problema em Equipamento,Em Reparo,10.9,Equipe de Emergência
+AVR0572,2024-08-19 02:26:01,Bairro Y,Sobrecarga,Concluída,15.7,Equipe 3
+AVR0573,2024-11-04 15:02:24,Linha de Transmissão X,Descarga Atmosférica,Concluída,16.1,Equipe 2
+AVR0574,2024-11-04 08:17:07,Posto de Transformação Z,Problema em Equipamento,Concluída,14.7,Equipe 3
+AVR0575,2024-07-19 21:44:02,Subestação A,Problema em Equipamento,Em Reparo,5.7,Equipe 2
+AVR0576,2024-01-18 00:13:45,Posto de Transformação Z,Sobrecarga,Concluída,21.0,Equipe 3
+AVR0577,2024-08-22 06:19:45,Linha de Transmissão X,Descarga Atmosférica,Aberta,9.9,Equipe 3
+AVR0578,2024-08-12 07:37:10,Subestação A,Problema em Equipamento,Concluída,16.2,Equipe 2
+AVR0579,2024-04-24 15:34:02,Linha de Transmissão X,Sobrecarga,Aberta,16.2,Equipe 3
+AVR0580,2023-09-20 04:33:53,Subestação A,Problema em Equipamento,Concluída,3.5,Equipe 1
+AVR0581,2024-06-17 00:05:13,Bairro Y,Sobrecarga,Aberta,21.7,Equipe 3
+AVR0582,2023-11-03 19:50:51,Linha de Transmissão X,Descarga Atmosférica,Concluída,11.9,Equipe 1
+AVR0583,2024-03-16 05:31:09,Bairro Y,Curto-Circuito,Concluída,5.7,Equipe 2
+AVR0584,2023-09-07 14:32:52,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,19.9,Equipe 1
+AVR0585,2023-01-27 23:35:48,Posto de Transformação Z,Curto-Circuito,Em Reparo,13.6,Equipe 3
+AVR0586,2024-05-11 14:39:30,Bairro Y,Problema em Equipamento,Concluída,11.0,Equipe 3
+AVR0587,2023-07-02 15:55:26,Posto de Transformação Z,Problema em Equipamento,Em Reparo,5.7,Equipe 3
+AVR0588,2023-08-22 04:59:14,Bairro Y,Sobrecarga,Em Reparo,14.9,Equipe 1
+AVR0589,2024-06-12 19:27:40,Subestação A,Sobrecarga,Concluída,9.1,Equipe 2
+AVR0590,2023-07-08 16:44:22,Bairro Y,Curto-Circuito,Concluída,8.5,Equipe 2
+AVR0591,2024-03-10 20:33:15,Linha de Transmissão X,Curto-Circuito,Aberta,17.4,Equipe de Emergência
+AVR0592,2024-06-23 06:33:43,Posto de Transformação Z,Problema em Equipamento,Aberta,7.6,Equipe 3
+AVR0593,2024-10-15 12:27:43,Subestação A,Problema em Equipamento,Em Reparo,2.2,Equipe 2
+AVR0594,2024-02-11 18:44:57,Posto de Transformação Z,Descarga Atmosférica,Concluída,22.9,Equipe 3
+AVR0595,2024-05-23 04:06:12,Bairro Y,Sobrecarga,Concluída,3.1,Equipe 3
+AVR0596,2024-03-11 12:13:30,Bairro Y,Sobrecarga,Concluída,21.5,Equipe 3
+AVR0597,2024-08-20 01:48:14,Subestação A,Curto-Circuito,Em Reparo,4.0,Equipe de Emergência
+AVR0598,2024-06-13 13:49:17,Subestação A,Sobrecarga,Em Reparo,1.1,Equipe 2
+AVR0599,2023-05-31 14:01:16,Subestação A,Sobrecarga,Concluída,3.1,Equipe 2
+AVR0600,2024-03-19 21:52:46,Subestação A,Problema em Equipamento,Em Reparo,9.1,Equipe 2
+AVR0601,2023-07-11 09:27:36,Subestação A,Descarga Atmosférica,Concluída,23.9,Equipe de Emergência
+AVR0602,2023-11-26 07:17:20,Linha de Transmissão X,Sobrecarga,Aberta,18.7,Equipe 3
+AVR0603,2023-12-29 17:46:50,Bairro Y,Curto-Circuito,Aberta,17.9,Equipe 3
+AVR0604,2023-10-18 23:32:23,Posto de Transformação Z,Curto-Circuito,Aberta,18.3,Equipe 3
+AVR0605,2024-03-20 15:00:42,Bairro Y,Sobrecarga,Concluída,23.8,Equipe de Emergência
+AVR0606,2024-08-20 16:41:12,Linha de Transmissão X,Descarga Atmosférica,Concluída,1.9,Equipe 2
+AVR0607,2024-06-17 17:01:43,Linha de Transmissão X,Sobrecarga,Em Reparo,14.7,Equipe 3
+AVR0608,2024-11-30 23:25:12,Linha de Transmissão X,Sobrecarga,Aberta,5.4,Equipe 2
+AVR0609,2024-02-09 12:52:46,Subestação A,Descarga Atmosférica,Em Reparo,10.3,Equipe 1
+AVR0610,2023-03-03 17:57:43,Bairro Y,Problema em Equipamento,Em Reparo,6.6,Equipe 3
+AVR0611,2023-02-18 09:46:59,Posto de Transformação Z,Sobrecarga,Em Reparo,8.1,Equipe 3
+AVR0612,2024-06-24 16:56:20,Linha de Transmissão X,Problema em Equipamento,Concluída,9.4,Equipe 3
+AVR0613,2023-08-02 06:33:47,Posto de Transformação Z,Problema em Equipamento,Em Reparo,10.2,Equipe de Emergência
+AVR0614,2024-03-28 08:30:38,Linha de Transmissão X,Curto-Circuito,Concluída,24.0,Equipe 1
+AVR0615,2023-01-11 19:22:09,Subestação A,Descarga Atmosférica,Em Reparo,7.8,Equipe 3
+AVR0616,2024-09-28 20:53:54,Posto de Transformação Z,Descarga Atmosférica,Aberta,15.4,Equipe 3
+AVR0617,2023-01-31 18:56:54,Bairro Y,Sobrecarga,Aberta,10.8,Equipe 2
+AVR0618,2023-06-19 18:42:05,Subestação A,Descarga Atmosférica,Em Reparo,4.0,Equipe 3
+AVR0619,2023-10-28 23:37:18,Linha de Transmissão X,Problema em Equipamento,Aberta,5.6,Equipe 1
+AVR0620,2024-08-09 12:49:02,Subestação A,Sobrecarga,Concluída,3.1,Equipe 1
+AVR0621,2024-08-13 02:05:42,Linha de Transmissão X,Curto-Circuito,Em Reparo,19.8,Equipe de Emergência
+AVR0622,2024-07-20 07:30:15,Subestação A,Curto-Circuito,Em Reparo,22.8,Equipe de Emergência
+AVR0623,2024-04-30 13:40:44,Subestação A,Problema em Equipamento,Aberta,6.2,Equipe 3
+AVR0624,2024-07-22 10:36:52,Posto de Transformação Z,Sobrecarga,Em Reparo,22.8,Equipe 3
+AVR0625,2023-10-30 22:21:54,Subestação A,Problema em Equipamento,Aberta,18.5,Equipe 2
+AVR0626,2023-06-28 15:19:45,Bairro Y,Sobrecarga,Em Reparo,7.6,Equipe 2
+AVR0627,2023-10-19 10:44:13,Linha de Transmissão X,Descarga Atmosférica,Concluída,7.5,Equipe 2
+AVR0628,2023-10-03 09:07:42,Subestação A,Descarga Atmosférica,Em Reparo,6.2,Equipe 3
+AVR0629,2024-01-15 08:40:24,Subestação A,Sobrecarga,Concluída,13.1,Equipe 3
+AVR0630,2024-10-28 17:19:20,Bairro Y,Problema em Equipamento,Concluída,5.0,Equipe 2
+AVR0631,2024-06-15 10:54:01,Posto de Transformação Z,Sobrecarga,Concluída,4.9,Equipe 1
+AVR0632,2024-12-24 17:43:00,Subestação A,Problema em Equipamento,Concluída,24.0,Equipe 1
+AVR0633,2023-07-23 16:53:56,Posto de Transformação Z,Descarga Atmosférica,Aberta,7.0,Equipe de Emergência
+AVR0634,2023-08-04 13:02:55,Bairro Y,Descarga Atmosférica,Aberta,11.2,Equipe 3
+AVR0635,2024-03-30 06:07:00,Bairro Y,Curto-Circuito,Em Reparo,8.0,Equipe 1
+AVR0636,2023-02-18 17:28:12,Posto de Transformação Z,Sobrecarga,Em Reparo,15.0,Equipe 3
+AVR0637,2023-07-06 09:13:28,Bairro Y,Descarga Atmosférica,Em Reparo,19.5,Equipe 1
+AVR0638,2023-05-13 09:54:58,Subestação A,Descarga Atmosférica,Concluída,18.5,Equipe 2
+AVR0639,2024-12-03 20:34:23,Posto de Transformação Z,Curto-Circuito,Concluída,21.0,Equipe de Emergência
+AVR0640,2024-08-28 14:46:45,Linha de Transmissão X,Problema em Equipamento,Concluída,11.3,Equipe 2
+AVR0641,2024-08-30 15:23:55,Posto de Transformação Z,Problema em Equipamento,Em Reparo,20.5,Equipe de Emergência
+AVR0642,2023-08-13 15:51:15,Subestação A,Problema em Equipamento,Concluída,12.0,Equipe 2
+AVR0643,2023-03-22 19:59:57,Posto de Transformação Z,Problema em Equipamento,Em Reparo,12.7,Equipe 2
+AVR0644,2024-03-06 14:08:50,Linha de Transmissão X,Sobrecarga,Em Reparo,0.6,Equipe 3
+AVR0645,2023-04-03 06:54:54,Bairro Y,Curto-Circuito,Aberta,9.9,Equipe de Emergência
+AVR0646,2023-11-11 03:03:42,Subestação A,Problema em Equipamento,Concluída,14.1,Equipe 2
+AVR0647,2023-11-27 10:51:36,Bairro Y,Descarga Atmosférica,Aberta,9.1,Equipe de Emergência
+AVR0648,2024-11-27 23:48:16,Subestação A,Descarga Atmosférica,Concluída,5.1,Equipe de Emergência
+AVR0649,2023-07-22 04:57:10,Linha de Transmissão X,Sobrecarga,Concluída,11.6,Equipe 3
+AVR0650,2023-06-22 10:48:51,Linha de Transmissão X,Problema em Equipamento,Em Reparo,10.9,Equipe 1
+AVR0651,2023-05-21 21:50:42,Subestação A,Curto-Circuito,Em Reparo,23.4,Equipe de Emergência
+AVR0652,2024-11-27 13:45:01,Bairro Y,Problema em Equipamento,Aberta,19.8,Equipe 3
+AVR0653,2024-03-24 06:23:51,Linha de Transmissão X,Curto-Circuito,Em Reparo,11.1,Equipe 3
+AVR0654,2024-10-10 03:22:57,Bairro Y,Descarga Atmosférica,Concluída,11.4,Equipe de Emergência
+AVR0655,2024-02-12 03:07:06,Bairro Y,Sobrecarga,Aberta,19.4,Equipe 2
+AVR0656,2023-03-12 13:17:24,Bairro Y,Sobrecarga,Concluída,23.2,Equipe 2
+AVR0657,2024-12-02 20:10:10,Linha de Transmissão X,Curto-Circuito,Concluída,22.5,Equipe 1
+AVR0658,2023-01-21 05:54:07,Posto de Transformação Z,Curto-Circuito,Em Reparo,17.4,Equipe de Emergência
+AVR0659,2024-01-16 14:46:36,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,4.4,Equipe 3
+AVR0660,2024-04-28 16:34:49,Subestação A,Descarga Atmosférica,Aberta,1.5,Equipe 2
+AVR0661,2023-12-25 08:52:14,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,12.8,Equipe de Emergência
+AVR0662,2024-10-11 20:54:50,Posto de Transformação Z,Problema em Equipamento,Em Reparo,8.0,Equipe 3
+AVR0663,2024-09-01 06:17:33,Subestação A,Curto-Circuito,Aberta,21.9,Equipe 1
+AVR0664,2023-08-13 02:35:15,Subestação A,Descarga Atmosférica,Aberta,5.2,Equipe 2
+AVR0665,2023-02-11 18:37:44,Linha de Transmissão X,Curto-Circuito,Aberta,2.8,Equipe 3
+AVR0666,2023-10-09 16:06:43,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,12.7,Equipe de Emergência
+AVR0667,2024-08-24 12:38:46,Subestação A,Descarga Atmosférica,Concluída,1.4,Equipe 1
+AVR0668,2023-03-12 13:31:14,Linha de Transmissão X,Descarga Atmosférica,Aberta,2.4,Equipe 1
+AVR0669,2023-09-01 21:19:57,Posto de Transformação Z,Descarga Atmosférica,Aberta,10.5,Equipe de Emergência
+AVR0670,2024-09-10 20:36:00,Posto de Transformação Z,Problema em Equipamento,Concluída,9.2,Equipe 2
+AVR0671,2023-05-26 02:11:18,Subestação A,Sobrecarga,Em Reparo,20.7,Equipe 2
+AVR0672,2024-04-25 19:35:24,Bairro Y,Descarga Atmosférica,Em Reparo,2.6,Equipe 1
+AVR0673,2024-11-16 02:38:50,Bairro Y,Problema em Equipamento,Concluída,21.9,Equipe 3
+AVR0674,2024-04-01 22:27:57,Posto de Transformação Z,Problema em Equipamento,Aberta,21.9,Equipe 3
+AVR0675,2024-10-05 12:13:23,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,6.5,Equipe 2
+AVR0676,2024-07-08 16:06:06,Subestação A,Descarga Atmosférica,Concluída,5.9,Equipe 3
+AVR0677,2023-03-31 01:32:22,Bairro Y,Curto-Circuito,Em Reparo,17.9,Equipe 2
+AVR0678,2024-02-16 18:43:23,Linha de Transmissão X,Curto-Circuito,Concluída,16.7,Equipe 1
+AVR0679,2024-10-13 05:27:39,Bairro Y,Descarga Atmosférica,Em Reparo,1.6,Equipe 1
+AVR0680,2023-04-20 02:50:10,Bairro Y,Problema em Equipamento,Em Reparo,9.5,Equipe 1
+AVR0681,2024-09-29 18:04:57,Subestação A,Curto-Circuito,Aberta,12.3,Equipe 3
+AVR0682,2024-07-17 13:48:46,Posto de Transformação Z,Problema em Equipamento,Em Reparo,8.9,Equipe de Emergência
+AVR0683,2024-01-20 06:09:15,Linha de Transmissão X,Problema em Equipamento,Concluída,13.7,Equipe 3
+AVR0684,2023-03-12 18:42:56,Bairro Y,Curto-Circuito,Em Reparo,19.7,Equipe de Emergência
+AVR0685,2023-06-26 17:40:51,Bairro Y,Curto-Circuito,Concluída,8.1,Equipe 2
+AVR0686,2024-08-10 02:28:05,Subestação A,Descarga Atmosférica,Em Reparo,2.6,Equipe de Emergência
+AVR0687,2024-07-15 10:27:31,Bairro Y,Curto-Circuito,Concluída,8.5,Equipe 2
+AVR0688,2024-07-20 04:53:40,Subestação A,Curto-Circuito,Aberta,2.7,Equipe de Emergência
+AVR0689,2023-06-28 12:50:22,Subestação A,Problema em Equipamento,Em Reparo,13.8,Equipe 2
+AVR0690,2023-07-23 11:43:55,Subestação A,Sobrecarga,Aberta,20.1,Equipe 2
+AVR0691,2023-01-27 01:24:29,Subestação A,Descarga Atmosférica,Concluída,5.5,Equipe de Emergência
+AVR0692,2024-12-16 10:44:57,Linha de Transmissão X,Curto-Circuito,Aberta,17.0,Equipe 3
+AVR0693,2023-02-12 14:42:28,Bairro Y,Curto-Circuito,Concluída,12.2,Equipe 3
+AVR0694,2024-03-27 21:42:28,Bairro Y,Problema em Equipamento,Concluída,16.9,Equipe 2
+AVR0695,2023-06-21 06:45:49,Linha de Transmissão X,Curto-Circuito,Aberta,15.1,Equipe 3
+AVR0696,2024-12-16 12:38:03,Linha de Transmissão X,Sobrecarga,Aberta,12.0,Equipe 3
+AVR0697,2023-08-27 20:28:36,Bairro Y,Problema em Equipamento,Aberta,12.9,Equipe 2
+AVR0698,2023-06-12 09:21:09,Subestação A,Descarga Atmosférica,Em Reparo,12.8,Equipe de Emergência
+AVR0699,2023-12-05 06:59:25,Linha de Transmissão X,Problema em Equipamento,Em Reparo,2.5,Equipe 3
+AVR0700,2023-03-19 04:48:40,Subestação A,Sobrecarga,Aberta,20.3,Equipe 1
+AVR0701,2023-12-08 08:17:42,Linha de Transmissão X,Sobrecarga,Em Reparo,22.3,Equipe 1
+AVR0702,2024-12-02 06:32:05,Bairro Y,Descarga Atmosférica,Concluída,3.4,Equipe de Emergência
+AVR0703,2023-02-20 17:33:24,Bairro Y,Descarga Atmosférica,Concluída,6.0,Equipe 1
+AVR0704,2024-02-08 01:12:33,Subestação A,Problema em Equipamento,Aberta,19.5,Equipe de Emergência
+AVR0705,2024-12-11 23:32:16,Subestação A,Sobrecarga,Aberta,23.1,Equipe de Emergência
+AVR0706,2023-01-24 19:36:10,Linha de Transmissão X,Sobrecarga,Aberta,9.0,Equipe 1
+AVR0707,2024-12-01 23:53:09,Bairro Y,Descarga Atmosférica,Concluída,1.8,Equipe 1
+AVR0708,2023-04-17 20:43:47,Subestação A,Descarga Atmosférica,Em Reparo,14.4,Equipe 2
+AVR0709,2024-06-30 18:28:43,Posto de Transformação Z,Curto-Circuito,Concluída,13.9,Equipe 3
+AVR0710,2024-07-19 14:38:30,Posto de Transformação Z,Curto-Circuito,Em Reparo,10.2,Equipe 1
+AVR0711,2024-09-09 11:49:54,Posto de Transformação Z,Curto-Circuito,Concluída,19.7,Equipe de Emergência
+AVR0712,2023-04-10 15:22:13,Posto de Transformação Z,Problema em Equipamento,Concluída,15.4,Equipe 1
+AVR0713,2024-07-30 19:45:34,Bairro Y,Descarga Atmosférica,Aberta,23.4,Equipe 2
+AVR0714,2023-07-19 13:25:27,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,5.3,Equipe 3
+AVR0715,2024-07-11 08:40:21,Subestação A,Curto-Circuito,Aberta,13.4,Equipe 1
+AVR0716,2024-11-28 07:27:35,Subestação A,Problema em Equipamento,Concluída,10.1,Equipe 1
+AVR0717,2024-06-04 23:49:25,Posto de Transformação Z,Problema em Equipamento,Em Reparo,12.2,Equipe 2
+AVR0718,2023-12-31 16:04:33,Linha de Transmissão X,Problema em Equipamento,Em Reparo,4.0,Equipe 2
+AVR0719,2023-08-26 07:11:01,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,17.3,Equipe de Emergência
+AVR0720,2024-07-06 11:03:24,Bairro Y,Sobrecarga,Aberta,19.0,Equipe 2
+AVR0721,2023-07-07 05:21:35,Subestação A,Curto-Circuito,Aberta,13.1,Equipe de Emergência
+AVR0722,2024-05-31 00:35:50,Linha de Transmissão X,Sobrecarga,Concluída,20.8,Equipe de Emergência
+AVR0723,2024-02-05 20:01:42,Posto de Transformação Z,Problema em Equipamento,Concluída,21.4,Equipe de Emergência
+AVR0724,2024-03-04 12:22:28,Bairro Y,Curto-Circuito,Em Reparo,20.5,Equipe de Emergência
+AVR0725,2024-10-22 09:24:10,Posto de Transformação Z,Curto-Circuito,Em Reparo,10.3,Equipe 1
+AVR0726,2023-11-25 00:12:47,Bairro Y,Curto-Circuito,Em Reparo,2.0,Equipe de Emergência
+AVR0727,2023-09-09 01:35:18,Posto de Transformação Z,Sobrecarga,Em Reparo,5.1,Equipe 3
+AVR0728,2024-11-15 01:48:37,Posto de Transformação Z,Problema em Equipamento,Concluída,5.4,Equipe 1
+AVR0729,2024-11-16 23:51:19,Linha de Transmissão X,Sobrecarga,Aberta,16.0,Equipe 3
+AVR0730,2023-12-11 16:44:05,Bairro Y,Sobrecarga,Concluída,0.6,Equipe 3
+AVR0731,2023-10-19 22:39:17,Subestação A,Sobrecarga,Concluída,3.8,Equipe 2
+AVR0732,2023-04-18 03:28:49,Linha de Transmissão X,Curto-Circuito,Concluída,12.3,Equipe 2
+AVR0733,2024-10-02 11:59:59,Subestação A,Problema em Equipamento,Concluída,11.6,Equipe 2
+AVR0734,2023-11-13 21:32:49,Subestação A,Sobrecarga,Aberta,23.6,Equipe 1
+AVR0735,2023-11-06 13:51:09,Linha de Transmissão X,Sobrecarga,Concluída,9.7,Equipe 1
+AVR0736,2024-05-30 17:58:01,Posto de Transformação Z,Problema em Equipamento,Aberta,16.8,Equipe 2
+AVR0737,2023-10-24 15:16:34,Linha de Transmissão X,Descarga Atmosférica,Aberta,4.3,Equipe 1
+AVR0738,2024-08-04 17:34:53,Linha de Transmissão X,Descarga Atmosférica,Concluída,23.1,Equipe 2
+AVR0739,2023-08-25 22:12:38,Linha de Transmissão X,Descarga Atmosférica,Concluída,11.3,Equipe 3
+AVR0740,2023-07-14 23:46:48,Posto de Transformação Z,Curto-Circuito,Concluída,2.1,Equipe 3
+AVR0741,2023-09-06 14:06:04,Linha de Transmissão X,Sobrecarga,Concluída,10.5,Equipe de Emergência
+AVR0742,2024-05-03 17:21:11,Subestação A,Descarga Atmosférica,Aberta,14.8,Equipe 1
+AVR0743,2024-11-06 03:56:00,Bairro Y,Problema em Equipamento,Em Reparo,2.0,Equipe 1
+AVR0744,2024-06-22 19:16:04,Bairro Y,Problema em Equipamento,Concluída,21.2,Equipe 3
+AVR0745,2024-04-12 02:19:18,Posto de Transformação Z,Sobrecarga,Aberta,4.9,Equipe de Emergência
+AVR0746,2023-05-20 20:28:51,Posto de Transformação Z,Curto-Circuito,Em Reparo,17.3,Equipe 1
+AVR0747,2024-02-14 15:38:39,Linha de Transmissão X,Problema em Equipamento,Aberta,20.2,Equipe 2
+AVR0748,2024-03-05 22:24:49,Subestação A,Sobrecarga,Em Reparo,9.9,Equipe 3
+AVR0749,2024-11-29 06:59:37,Subestação A,Problema em Equipamento,Em Reparo,1.3,Equipe de Emergência
+AVR0750,2023-07-06 06:42:22,Posto de Transformação Z,Descarga Atmosférica,Concluída,23.1,Equipe de Emergência
+AVR0751,2023-10-07 03:32:16,Subestação A,Curto-Circuito,Aberta,18.8,Equipe 3
+AVR0752,2023-09-18 18:26:56,Bairro Y,Descarga Atmosférica,Concluída,9.6,Equipe 2
+AVR0753,2023-07-06 00:09:58,Subestação A,Descarga Atmosférica,Aberta,13.0,Equipe de Emergência
+AVR0754,2024-12-18 03:01:30,Posto de Transformação Z,Sobrecarga,Em Reparo,14.2,Equipe 2
+AVR0755,2023-11-09 18:22:39,Subestação A,Sobrecarga,Aberta,12.5,Equipe de Emergência
+AVR0756,2023-11-25 01:23:46,Bairro Y,Curto-Circuito,Em Reparo,15.9,Equipe 2
+AVR0757,2024-12-05 03:11:37,Bairro Y,Sobrecarga,Concluída,11.2,Equipe 3
+AVR0758,2023-03-10 16:23:13,Bairro Y,Descarga Atmosférica,Aberta,4.5,Equipe de Emergência
+AVR0759,2023-05-28 02:18:49,Posto de Transformação Z,Curto-Circuito,Em Reparo,8.4,Equipe 1
+AVR0760,2023-05-10 05:08:37,Bairro Y,Sobrecarga,Aberta,19.0,Equipe 1
+AVR0761,2023-06-14 16:29:43,Posto de Transformação Z,Curto-Circuito,Em Reparo,16.1,Equipe de Emergência
+AVR0762,2023-09-13 13:40:15,Posto de Transformação Z,Curto-Circuito,Concluída,15.9,Equipe de Emergência
+AVR0763,2023-10-12 01:53:34,Posto de Transformação Z,Descarga Atmosférica,Aberta,15.7,Equipe 1
+AVR0764,2023-01-06 04:17:28,Posto de Transformação Z,Descarga Atmosférica,Aberta,0.7,Equipe 1
+AVR0765,2023-11-03 13:26:03,Subestação A,Descarga Atmosférica,Em Reparo,22.4,Equipe 3
+AVR0766,2023-11-15 22:51:49,Linha de Transmissão X,Problema em Equipamento,Concluída,17.8,Equipe 1
+AVR0767,2024-04-27 22:14:10,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,11.5,Equipe de Emergência
+AVR0768,2023-02-11 12:08:37,Linha de Transmissão X,Curto-Circuito,Concluída,14.6,Equipe 2
+AVR0769,2023-12-30 17:25:11,Linha de Transmissão X,Curto-Circuito,Aberta,4.0,Equipe 3
+AVR0770,2024-10-10 05:09:19,Bairro Y,Sobrecarga,Aberta,21.8,Equipe 1
+AVR0771,2024-04-01 06:01:44,Subestação A,Descarga Atmosférica,Aberta,20.4,Equipe 1
+AVR0772,2023-03-03 11:06:41,Linha de Transmissão X,Problema em Equipamento,Em Reparo,21.3,Equipe 1
+AVR0773,2023-06-11 05:33:24,Linha de Transmissão X,Problema em Equipamento,Aberta,7.2,Equipe 1
+AVR0774,2023-12-31 06:53:19,Bairro Y,Curto-Circuito,Concluída,13.3,Equipe 2
+AVR0775,2023-03-11 01:22:49,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,14.4,Equipe 3
+AVR0776,2024-01-10 21:37:39,Posto de Transformação Z,Curto-Circuito,Aberta,13.3,Equipe 2
+AVR0777,2024-12-23 06:21:38,Bairro Y,Curto-Circuito,Em Reparo,6.1,Equipe de Emergência
+AVR0778,2023-11-01 10:04:15,Posto de Transformação Z,Curto-Circuito,Em Reparo,5.7,Equipe 3
+AVR0779,2024-04-02 19:38:25,Linha de Transmissão X,Curto-Circuito,Aberta,19.2,Equipe 2
+AVR0780,2024-06-05 17:31:13,Subestação A,Descarga Atmosférica,Concluída,7.6,Equipe de Emergência
+AVR0781,2023-08-30 03:53:40,Linha de Transmissão X,Problema em Equipamento,Em Reparo,2.3,Equipe de Emergência
+AVR0782,2023-01-29 17:13:09,Linha de Transmissão X,Curto-Circuito,Em Reparo,20.6,Equipe 2
+AVR0783,2023-07-09 23:08:22,Posto de Transformação Z,Curto-Circuito,Em Reparo,21.3,Equipe 1
+AVR0784,2023-08-27 06:32:56,Subestação A,Descarga Atmosférica,Em Reparo,2.5,Equipe 1
+AVR0785,2023-09-15 03:59:19,Posto de Transformação Z,Sobrecarga,Concluída,16.7,Equipe 2
+AVR0786,2023-09-13 09:40:23,Posto de Transformação Z,Sobrecarga,Concluída,20.6,Equipe 3
+AVR0787,2024-02-07 11:47:13,Linha de Transmissão X,Sobrecarga,Concluída,18.1,Equipe 1
+AVR0788,2024-09-13 16:03:12,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,7.4,Equipe de Emergência
+AVR0789,2023-08-08 22:56:33,Linha de Transmissão X,Sobrecarga,Concluída,14.4,Equipe 2
+AVR0790,2024-11-26 22:19:05,Subestação A,Problema em Equipamento,Em Reparo,22.9,Equipe 3
+AVR0791,2024-12-09 22:27:24,Subestação A,Problema em Equipamento,Aberta,1.8,Equipe 1
+AVR0792,2024-08-28 16:25:55,Posto de Transformação Z,Sobrecarga,Concluída,9.9,Equipe 3
+AVR0793,2023-02-14 20:24:52,Linha de Transmissão X,Problema em Equipamento,Concluída,1.9,Equipe de Emergência
+AVR0794,2023-11-30 20:33:42,Linha de Transmissão X,Curto-Circuito,Aberta,14.9,Equipe de Emergência
+AVR0795,2024-04-18 10:59:26,Posto de Transformação Z,Sobrecarga,Em Reparo,8.7,Equipe 1
+AVR0796,2023-11-15 23:34:29,Linha de Transmissão X,Descarga Atmosférica,Aberta,2.9,Equipe 1
+AVR0797,2024-12-29 10:10:33,Linha de Transmissão X,Curto-Circuito,Aberta,19.5,Equipe 3
+AVR0798,2024-03-21 03:48:11,Linha de Transmissão X,Descarga Atmosférica,Concluída,9.1,Equipe 2
+AVR0799,2023-09-17 08:48:00,Posto de Transformação Z,Problema em Equipamento,Aberta,13.4,Equipe 2
+AVR0800,2023-10-24 11:30:43,Linha de Transmissão X,Sobrecarga,Aberta,8.0,Equipe 1
+AVR0801,2024-04-11 10:35:21,Subestação A,Descarga Atmosférica,Aberta,23.7,Equipe 3
+AVR0802,2024-07-02 16:16:19,Subestação A,Descarga Atmosférica,Em Reparo,7.0,Equipe de Emergência
+AVR0803,2024-09-23 19:17:41,Bairro Y,Curto-Circuito,Em Reparo,0.8,Equipe 3
+AVR0804,2023-08-21 21:51:16,Linha de Transmissão X,Problema em Equipamento,Em Reparo,14.3,Equipe 2
+AVR0805,2024-02-03 14:08:33,Posto de Transformação Z,Descarga Atmosférica,Concluída,7.7,Equipe 2
+AVR0806,2024-01-14 03:36:19,Bairro Y,Descarga Atmosférica,Concluída,2.3,Equipe 1
+AVR0807,2024-11-24 07:15:13,Posto de Transformação Z,Curto-Circuito,Em Reparo,10.4,Equipe 1
+AVR0808,2023-04-11 19:04:50,Subestação A,Descarga Atmosférica,Aberta,17.1,Equipe 2
+AVR0809,2023-11-23 16:30:07,Linha de Transmissão X,Problema em Equipamento,Em Reparo,14.5,Equipe 1
+AVR0810,2024-05-25 06:32:05,Posto de Transformação Z,Curto-Circuito,Aberta,20.2,Equipe de Emergência
+AVR0811,2023-05-10 10:50:51,Subestação A,Problema em Equipamento,Concluída,18.2,Equipe 2
+AVR0812,2023-06-24 02:55:14,Subestação A,Curto-Circuito,Em Reparo,21.0,Equipe 2
+AVR0813,2023-02-15 20:46:38,Subestação A,Descarga Atmosférica,Em Reparo,3.0,Equipe 2
+AVR0814,2023-06-28 13:30:36,Subestação A,Problema em Equipamento,Aberta,7.6,Equipe 1
+AVR0815,2023-12-27 22:18:52,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,2.0,Equipe 3
+AVR0816,2024-06-18 23:45:07,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,20.5,Equipe 3
+AVR0817,2023-04-23 03:18:40,Subestação A,Curto-Circuito,Aberta,11.4,Equipe 1
+AVR0818,2023-06-16 06:40:25,Bairro Y,Curto-Circuito,Concluída,18.2,Equipe 2
+AVR0819,2024-03-01 09:59:52,Subestação A,Curto-Circuito,Concluída,19.6,Equipe 1
+AVR0820,2024-09-21 22:11:03,Posto de Transformação Z,Problema em Equipamento,Concluída,5.3,Equipe de Emergência
+AVR0821,2023-03-01 01:49:33,Linha de Transmissão X,Descarga Atmosférica,Concluída,3.1,Equipe 1
+AVR0822,2024-09-12 05:45:13,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,22.9,Equipe 3
+AVR0823,2024-12-07 15:38:22,Posto de Transformação Z,Sobrecarga,Aberta,15.5,Equipe 1
+AVR0824,2023-05-20 05:54:45,Subestação A,Curto-Circuito,Em Reparo,19.5,Equipe 2
+AVR0825,2023-05-01 14:12:34,Bairro Y,Curto-Circuito,Em Reparo,14.6,Equipe de Emergência
+AVR0826,2023-11-27 17:28:11,Bairro Y,Descarga Atmosférica,Concluída,10.1,Equipe 2
+AVR0827,2023-03-15 06:18:31,Subestação A,Curto-Circuito,Concluída,2.8,Equipe 3
+AVR0828,2023-05-14 14:42:15,Subestação A,Sobrecarga,Aberta,3.5,Equipe 2
+AVR0829,2023-12-04 05:45:28,Linha de Transmissão X,Problema em Equipamento,Aberta,20.1,Equipe 3
+AVR0830,2023-07-25 06:21:13,Bairro Y,Problema em Equipamento,Aberta,5.7,Equipe 1
+AVR0831,2024-07-01 20:46:37,Posto de Transformação Z,Problema em Equipamento,Concluída,8.0,Equipe 2
+AVR0832,2023-07-21 09:42:57,Bairro Y,Problema em Equipamento,Em Reparo,6.0,Equipe 3
+AVR0833,2024-08-17 19:01:25,Linha de Transmissão X,Sobrecarga,Aberta,6.1,Equipe de Emergência
+AVR0834,2024-06-05 19:47:45,Subestação A,Problema em Equipamento,Concluída,5.1,Equipe 3
+AVR0835,2023-06-27 08:51:35,Posto de Transformação Z,Descarga Atmosférica,Aberta,21.2,Equipe 3
+AVR0836,2023-10-22 22:02:26,Bairro Y,Problema em Equipamento,Concluída,17.4,Equipe 3
+AVR0837,2023-10-03 09:51:15,Linha de Transmissão X,Problema em Equipamento,Concluída,7.9,Equipe 1
+AVR0838,2023-03-30 05:07:57,Bairro Y,Curto-Circuito,Em Reparo,16.3,Equipe 3
+AVR0839,2024-08-17 00:04:35,Posto de Transformação Z,Problema em Equipamento,Aberta,13.7,Equipe 3
+AVR0840,2024-11-11 11:40:51,Linha de Transmissão X,Sobrecarga,Aberta,6.2,Equipe 3
+AVR0841,2023-03-18 12:09:09,Subestação A,Curto-Circuito,Em Reparo,7.9,Equipe de Emergência
+AVR0842,2023-10-01 18:23:20,Bairro Y,Problema em Equipamento,Aberta,19.7,Equipe 2
+AVR0843,2023-09-01 19:37:52,Posto de Transformação Z,Curto-Circuito,Em Reparo,16.9,Equipe 1
+AVR0844,2023-06-01 05:28:30,Posto de Transformação Z,Sobrecarga,Em Reparo,23.4,Equipe de Emergência
+AVR0845,2023-05-29 12:04:58,Bairro Y,Sobrecarga,Concluída,0.6,Equipe de Emergência
+AVR0846,2024-10-14 16:19:36,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,9.5,Equipe 1
+AVR0847,2023-06-21 06:23:58,Subestação A,Problema em Equipamento,Concluída,13.9,Equipe 2
+AVR0848,2024-11-14 11:19:35,Subestação A,Descarga Atmosférica,Aberta,4.8,Equipe de Emergência
+AVR0849,2024-08-11 22:31:01,Posto de Transformação Z,Sobrecarga,Aberta,23.6,Equipe 3
+AVR0850,2023-04-20 20:34:32,Subestação A,Descarga Atmosférica,Concluída,4.5,Equipe 1
+AVR0851,2023-09-15 09:37:28,Subestação A,Curto-Circuito,Em Reparo,18.0,Equipe de Emergência
+AVR0852,2024-02-20 20:36:32,Subestação A,Descarga Atmosférica,Aberta,16.2,Equipe de Emergência
+AVR0853,2023-12-06 01:56:22,Linha de Transmissão X,Curto-Circuito,Em Reparo,7.5,Equipe 2
+AVR0854,2023-10-20 00:42:35,Bairro Y,Problema em Equipamento,Em Reparo,16.5,Equipe de Emergência
+AVR0855,2024-09-04 01:47:15,Posto de Transformação Z,Descarga Atmosférica,Aberta,3.4,Equipe 2
+AVR0856,2024-02-24 10:24:22,Subestação A,Problema em Equipamento,Concluída,17.8,Equipe 2
+AVR0857,2024-07-11 01:25:05,Posto de Transformação Z,Problema em Equipamento,Em Reparo,19.2,Equipe 1
+AVR0858,2024-07-13 01:13:59,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,15.7,Equipe 1
+AVR0859,2024-05-16 23:47:18,Subestação A,Descarga Atmosférica,Concluída,20.8,Equipe de Emergência
+AVR0860,2023-01-29 14:13:53,Linha de Transmissão X,Sobrecarga,Em Reparo,8.3,Equipe 1
+AVR0861,2024-03-22 23:11:37,Subestação A,Descarga Atmosférica,Aberta,17.6,Equipe de Emergência
+AVR0862,2024-07-27 13:40:19,Subestação A,Curto-Circuito,Aberta,8.3,Equipe 1
+AVR0863,2024-06-20 22:15:05,Linha de Transmissão X,Curto-Circuito,Concluída,8.7,Equipe de Emergência
+AVR0864,2024-08-03 00:34:58,Bairro Y,Problema em Equipamento,Em Reparo,14.5,Equipe 3
+AVR0865,2023-05-24 06:08:14,Linha de Transmissão X,Sobrecarga,Concluída,12.1,Equipe 2
+AVR0866,2023-12-20 23:57:39,Bairro Y,Curto-Circuito,Concluída,9.0,Equipe 1
+AVR0867,2023-06-08 23:06:45,Linha de Transmissão X,Curto-Circuito,Aberta,18.3,Equipe 2
+AVR0868,2024-06-28 10:13:42,Subestação A,Descarga Atmosférica,Aberta,7.7,Equipe 3
+AVR0869,2023-12-28 02:38:40,Posto de Transformação Z,Problema em Equipamento,Concluída,6.8,Equipe 2
+AVR0870,2024-01-19 09:08:57,Bairro Y,Sobrecarga,Aberta,9.7,Equipe de Emergência
+AVR0871,2023-09-09 17:21:59,Bairro Y,Sobrecarga,Em Reparo,3.4,Equipe 3
+AVR0872,2023-06-02 14:33:59,Posto de Transformação Z,Descarga Atmosférica,Aberta,16.5,Equipe 2
+AVR0873,2023-02-16 23:43:21,Posto de Transformação Z,Problema em Equipamento,Aberta,22.2,Equipe 2
+AVR0874,2023-06-04 05:40:32,Posto de Transformação Z,Curto-Circuito,Concluída,24.0,Equipe 3
+AVR0875,2024-07-25 18:16:31,Subestação A,Sobrecarga,Em Reparo,4.2,Equipe de Emergência
+AVR0876,2024-06-07 16:23:46,Bairro Y,Sobrecarga,Em Reparo,5.1,Equipe 2
+AVR0877,2024-02-08 12:18:06,Subestação A,Sobrecarga,Em Reparo,9.1,Equipe 1
+AVR0878,2024-01-02 03:41:01,Posto de Transformação Z,Descarga Atmosférica,Concluída,8.8,Equipe 2
+AVR0879,2023-07-24 06:44:51,Linha de Transmissão X,Curto-Circuito,Aberta,3.7,Equipe 2
+AVR0880,2024-03-20 08:59:03,Bairro Y,Sobrecarga,Concluída,20.7,Equipe 1
+AVR0881,2023-08-03 18:22:06,Subestação A,Curto-Circuito,Em Reparo,1.8,Equipe de Emergência
+AVR0882,2023-09-13 09:22:15,Linha de Transmissão X,Curto-Circuito,Concluída,19.3,Equipe de Emergência
+AVR0883,2023-04-15 05:19:01,Subestação A,Problema em Equipamento,Em Reparo,10.1,Equipe 2
+AVR0884,2024-08-29 05:43:43,Bairro Y,Problema em Equipamento,Em Reparo,20.2,Equipe 1
+AVR0885,2023-02-17 14:54:42,Subestação A,Curto-Circuito,Em Reparo,15.5,Equipe 2
+AVR0886,2023-05-06 06:04:17,Linha de Transmissão X,Descarga Atmosférica,Aberta,15.6,Equipe de Emergência
+AVR0887,2024-07-28 00:05:48,Linha de Transmissão X,Curto-Circuito,Concluída,10.7,Equipe de Emergência
+AVR0888,2024-06-24 04:55:59,Posto de Transformação Z,Curto-Circuito,Aberta,18.7,Equipe 2
+AVR0889,2024-10-25 23:38:18,Linha de Transmissão X,Problema em Equipamento,Concluída,23.9,Equipe 2
+AVR0890,2023-01-30 04:00:55,Bairro Y,Sobrecarga,Concluída,16.0,Equipe 2
+AVR0891,2023-10-19 09:37:07,Subestação A,Problema em Equipamento,Em Reparo,12.1,Equipe 1
+AVR0892,2023-12-17 09:04:04,Bairro Y,Descarga Atmosférica,Concluída,18.8,Equipe 1
+AVR0893,2023-12-17 20:33:25,Bairro Y,Descarga Atmosférica,Em Reparo,4.2,Equipe 3
+AVR0894,2024-05-23 12:06:06,Subestação A,Descarga Atmosférica,Em Reparo,11.7,Equipe 3
+AVR0895,2024-01-31 07:36:28,Bairro Y,Descarga Atmosférica,Aberta,2.9,Equipe 2
+AVR0896,2023-08-23 04:41:17,Posto de Transformação Z,Sobrecarga,Concluída,14.9,Equipe 3
+AVR0897,2024-03-15 04:06:07,Bairro Y,Curto-Circuito,Concluída,12.9,Equipe 2
+AVR0898,2024-02-27 22:01:29,Subestação A,Curto-Circuito,Concluída,21.5,Equipe de Emergência
+AVR0899,2023-09-29 07:09:26,Linha de Transmissão X,Sobrecarga,Aberta,6.1,Equipe 3
+AVR0900,2023-08-22 09:45:28,Posto de Transformação Z,Curto-Circuito,Aberta,20.1,Equipe 1
+AVR0901,2023-04-08 18:14:09,Bairro Y,Problema em Equipamento,Em Reparo,15.3,Equipe de Emergência
+AVR0902,2023-10-29 19:19:54,Subestação A,Curto-Circuito,Concluída,17.5,Equipe 2
+AVR0903,2024-09-29 17:06:06,Bairro Y,Sobrecarga,Aberta,21.0,Equipe 3
+AVR0904,2023-04-02 22:39:19,Subestação A,Curto-Circuito,Em Reparo,8.5,Equipe de Emergência
+AVR0905,2023-04-25 13:34:39,Bairro Y,Descarga Atmosférica,Concluída,11.9,Equipe 3
+AVR0906,2024-10-01 07:05:50,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,19.3,Equipe 1
+AVR0907,2023-10-31 00:41:55,Bairro Y,Sobrecarga,Aberta,11.7,Equipe 2
+AVR0908,2024-12-20 03:43:51,Linha de Transmissão X,Curto-Circuito,Em Reparo,17.7,Equipe 3
+AVR0909,2023-10-14 06:38:38,Subestação A,Descarga Atmosférica,Concluída,2.3,Equipe 2
+AVR0910,2023-12-11 09:26:45,Bairro Y,Problema em Equipamento,Em Reparo,1.8,Equipe 3
+AVR0911,2024-03-07 03:29:36,Linha de Transmissão X,Problema em Equipamento,Concluída,7.5,Equipe de Emergência
+AVR0912,2023-01-09 18:40:23,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,8.0,Equipe 2
+AVR0913,2024-07-08 07:18:51,Subestação A,Problema em Equipamento,Em Reparo,19.8,Equipe 3
+AVR0914,2024-05-05 10:33:11,Posto de Transformação Z,Curto-Circuito,Aberta,0.9,Equipe 1
+AVR0915,2023-10-07 16:49:11,Bairro Y,Descarga Atmosférica,Em Reparo,16.2,Equipe 3
+AVR0916,2023-05-16 16:07:23,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,21.2,Equipe 3
+AVR0917,2023-08-31 03:00:39,Subestação A,Curto-Circuito,Em Reparo,10.6,Equipe 1
+AVR0918,2023-12-10 09:56:51,Subestação A,Curto-Circuito,Concluída,20.1,Equipe 3
+AVR0919,2023-06-21 04:18:19,Bairro Y,Sobrecarga,Concluída,3.0,Equipe 2
+AVR0920,2023-09-06 06:27:46,Subestação A,Problema em Equipamento,Em Reparo,6.8,Equipe de Emergência
+AVR0921,2023-03-05 02:11:32,Bairro Y,Curto-Circuito,Em Reparo,16.1,Equipe 2
+AVR0922,2023-05-12 17:59:52,Linha de Transmissão X,Problema em Equipamento,Em Reparo,8.4,Equipe 1
+AVR0923,2024-11-04 02:39:15,Bairro Y,Descarga Atmosférica,Aberta,22.9,Equipe 1
+AVR0924,2023-08-10 14:51:33,Bairro Y,Problema em Equipamento,Em Reparo,5.8,Equipe de Emergência
+AVR0925,2024-02-29 11:22:29,Posto de Transformação Z,Curto-Circuito,Aberta,1.1,Equipe 3
+AVR0926,2024-05-22 15:14:12,Bairro Y,Descarga Atmosférica,Aberta,3.1,Equipe 2
+AVR0927,2023-01-27 14:22:00,Subestação A,Descarga Atmosférica,Concluída,18.4,Equipe 1
+AVR0928,2023-02-13 07:38:08,Linha de Transmissão X,Descarga Atmosférica,Em Reparo,15.4,Equipe 2
+AVR0929,2023-06-05 05:00:58,Bairro Y,Descarga Atmosférica,Concluída,14.4,Equipe 3
+AVR0930,2024-06-15 10:31:08,Bairro Y,Descarga Atmosférica,Em Reparo,16.7,Equipe 1
+AVR0931,2024-05-03 03:20:50,Posto de Transformação Z,Curto-Circuito,Aberta,8.1,Equipe de Emergência
+AVR0932,2023-10-15 04:31:13,Linha de Transmissão X,Problema em Equipamento,Em Reparo,0.7,Equipe 2
+AVR0933,2023-06-10 03:37:20,Bairro Y,Problema em Equipamento,Aberta,14.2,Equipe 1
+AVR0934,2023-05-16 00:18:45,Bairro Y,Problema em Equipamento,Em Reparo,10.9,Equipe de Emergência
+AVR0935,2023-12-17 16:32:36,Bairro Y,Curto-Circuito,Em Reparo,13.0,Equipe de Emergência
+AVR0936,2023-08-21 03:15:13,Posto de Transformação Z,Problema em Equipamento,Concluída,12.6,Equipe de Emergência
+AVR0937,2023-01-16 06:50:37,Subestação A,Descarga Atmosférica,Aberta,2.9,Equipe de Emergência
+AVR0938,2023-10-26 03:13:50,Bairro Y,Problema em Equipamento,Em Reparo,16.9,Equipe 1
+AVR0939,2023-01-19 12:55:16,Subestação A,Descarga Atmosférica,Em Reparo,23.5,Equipe 2
+AVR0940,2024-01-03 05:06:52,Linha de Transmissão X,Descarga Atmosférica,Concluída,11.5,Equipe 3
+AVR0941,2024-11-14 05:54:53,Linha de Transmissão X,Descarga Atmosférica,Concluída,19.3,Equipe 3
+AVR0942,2024-05-03 00:46:09,Linha de Transmissão X,Sobrecarga,Aberta,8.0,Equipe 2
+AVR0943,2023-11-07 14:41:39,Posto de Transformação Z,Curto-Circuito,Aberta,21.0,Equipe 2
+AVR0944,2023-04-18 03:22:14,Posto de Transformação Z,Sobrecarga,Em Reparo,19.6,Equipe 3
+AVR0945,2023-12-23 09:23:06,Subestação A,Problema em Equipamento,Aberta,19.3,Equipe 2
+AVR0946,2024-09-15 21:48:19,Bairro Y,Curto-Circuito,Aberta,13.8,Equipe de Emergência
+AVR0947,2024-05-30 15:39:41,Subestação A,Sobrecarga,Concluída,21.9,Equipe 3
+AVR0948,2023-12-19 05:47:05,Posto de Transformação Z,Problema em Equipamento,Aberta,6.4,Equipe 1
+AVR0949,2024-01-11 00:28:59,Bairro Y,Sobrecarga,Aberta,8.1,Equipe de Emergência
+AVR0950,2023-07-26 20:46:33,Posto de Transformação Z,Problema em Equipamento,Em Reparo,4.6,Equipe de Emergência
+AVR0951,2024-07-01 19:10:27,Linha de Transmissão X,Sobrecarga,Concluída,6.9,Equipe 3
+AVR0952,2023-01-03 04:25:26,Subestação A,Curto-Circuito,Aberta,23.7,Equipe de Emergência
+AVR0953,2024-10-21 16:47:51,Subestação A,Descarga Atmosférica,Concluída,12.9,Equipe 2
+AVR0954,2024-07-02 00:09:10,Linha de Transmissão X,Problema em Equipamento,Em Reparo,14.0,Equipe 3
+AVR0955,2023-08-03 19:12:52,Linha de Transmissão X,Sobrecarga,Concluída,20.0,Equipe 3
+AVR0956,2023-07-21 21:03:59,Bairro Y,Sobrecarga,Concluída,14.9,Equipe 1
+AVR0957,2023-05-09 00:43:19,Bairro Y,Sobrecarga,Concluída,8.1,Equipe 1
+AVR0958,2024-11-21 18:03:48,Linha de Transmissão X,Problema em Equipamento,Em Reparo,23.9,Equipe de Emergência
+AVR0959,2024-06-04 14:34:14,Posto de Transformação Z,Sobrecarga,Concluída,8.3,Equipe 2
+AVR0960,2023-05-26 20:42:21,Posto de Transformação Z,Curto-Circuito,Concluída,20.1,Equipe de Emergência
+AVR0961,2024-12-21 11:16:48,Posto de Transformação Z,Problema em Equipamento,Concluída,15.6,Equipe de Emergência
+AVR0962,2024-11-03 14:12:38,Subestação A,Descarga Atmosférica,Aberta,22.0,Equipe de Emergência
+AVR0963,2024-08-26 11:52:33,Subestação A,Descarga Atmosférica,Concluída,5.8,Equipe de Emergência
+AVR0964,2023-05-30 03:19:27,Posto de Transformação Z,Problema em Equipamento,Em Reparo,23.8,Equipe 2
+AVR0965,2023-07-13 05:35:32,Bairro Y,Sobrecarga,Concluída,18.8,Equipe de Emergência
+AVR0966,2023-12-16 03:32:41,Subestação A,Problema em Equipamento,Concluída,3.2,Equipe de Emergência
+AVR0967,2023-01-24 07:40:25,Bairro Y,Sobrecarga,Aberta,22.0,Equipe 3
+AVR0968,2023-07-18 11:49:18,Posto de Transformação Z,Curto-Circuito,Em Reparo,3.0,Equipe 1
+AVR0969,2023-08-26 03:41:01,Linha de Transmissão X,Sobrecarga,Aberta,10.4,Equipe 2
+AVR0970,2023-04-27 12:10:37,Posto de Transformação Z,Sobrecarga,Em Reparo,2.9,Equipe 3
+AVR0971,2023-09-05 07:14:01,Subestação A,Problema em Equipamento,Aberta,16.7,Equipe 2
+AVR0972,2023-07-07 18:15:53,Subestação A,Curto-Circuito,Concluída,4.1,Equipe 2
+AVR0973,2023-12-09 06:46:51,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,14.3,Equipe 2
+AVR0974,2024-09-01 02:05:39,Subestação A,Sobrecarga,Concluída,22.6,Equipe de Emergência
+AVR0975,2023-04-26 07:10:41,Subestação A,Curto-Circuito,Em Reparo,15.4,Equipe 1
+AVR0976,2024-07-15 12:17:09,Posto de Transformação Z,Descarga Atmosférica,Em Reparo,17.5,Equipe 1
+AVR0977,2024-08-09 04:11:11,Linha de Transmissão X,Sobrecarga,Em Reparo,15.9,Equipe 2
+AVR0978,2023-06-20 18:12:01,Bairro Y,Curto-Circuito,Aberta,4.7,Equipe 1
+AVR0979,2023-06-18 04:51:22,Posto de Transformação Z,Problema em Equipamento,Aberta,22.1,Equipe 3
+AVR0980,2023-07-07 00:41:37,Bairro Y,Problema em Equipamento,Concluída,21.9,Equipe de Emergência
+AVR0981,2023-12-29 16:26:23,Bairro Y,Descarga Atmosférica,Aberta,16.8,Equipe de Emergência
+AVR0982,2023-05-31 00:53:52,Posto de Transformação Z,Descarga Atmosférica,Aberta,22.3,Equipe 2
+AVR0983,2023-06-29 07:05:30,Bairro Y,Descarga Atmosférica,Em Reparo,4.3,Equipe 2
+AVR0984,2023-04-29 13:21:52,Bairro Y,Sobrecarga,Em Reparo,7.9,Equipe 3
+AVR0985,2023-11-09 00:07:36,Subestação A,Curto-Circuito,Aberta,7.5,Equipe 1
+AVR0986,2023-10-06 02:39:00,Bairro Y,Curto-Circuito,Aberta,19.6,Equipe 1
+AVR0987,2023-01-25 01:25:19,Posto de Transformação Z,Problema em Equipamento,Em Reparo,7.5,Equipe de Emergência
+AVR0988,2023-03-31 09:06:50,Bairro Y,Curto-Circuito,Em Reparo,7.7,Equipe 3
+AVR0989,2023-05-20 19:54:39,Bairro Y,Curto-Circuito,Aberta,23.8,Equipe 2
+AVR0990,2023-11-08 14:37:11,Bairro Y,Curto-Circuito,Concluída,14.7,Equipe de Emergência
+AVR0991,2023-12-16 01:23:10,Linha de Transmissão X,Curto-Circuito,Em Reparo,14.6,Equipe 1
+AVR0992,2023-03-15 21:58:49,Posto de Transformação Z,Curto-Circuito,Aberta,16.6,Equipe 3
+AVR0993,2023-09-11 21:30:07,Posto de Transformação Z,Curto-Circuito,Aberta,8.9,Equipe 2
+AVR0994,2024-06-10 18:53:05,Subestação A,Descarga Atmosférica,Concluída,23.6,Equipe de Emergência
+AVR0995,2023-07-04 20:35:15,Bairro Y,Descarga Atmosférica,Concluída,4.6,Equipe de Emergência
+AVR0996,2024-10-31 02:54:10,Bairro Y,Descarga Atmosférica,Aberta,22.6,Equipe de Emergência
+AVR0997,2023-02-24 05:37:38,Posto de Transformação Z,Problema em Equipamento,Concluída,2.2,Equipe de Emergência
+AVR0998,2023-12-24 04:04:30,Linha de Transmissão X,Descarga Atmosférica,Concluída,5.8,Equipe 3
+AVR0999,2024-08-31 12:39:49,Subestação A,Problema em Equipamento,Em Reparo,8.7,Equipe 2
+AVR1000,2023-09-17 09:44:22,Subestação A,Descarga Atmosférica,Em Reparo,17.7,Equipe de Emergência

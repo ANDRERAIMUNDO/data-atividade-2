@@ -1,0 +1,501 @@
+EventID,Timestamp,System,Status,Origin
+EVT0001,2024-04-01 16:20:33,Medidores,OK,Central de Controle
+EVT0002,2023-08-06 03:47:27,SCADA,WARNING,Central de Controle
+EVT0003,2023-03-13 01:42:13,SCADA,WARNING,Monitoramento Automático
+EVT0004,2024-06-04 08:07:42,ERP,OK,Monitoramento Automático
+EVT0005,2023-06-07 07:50:53,CRM,WARNING,Monitoramento Automático
+EVT0006,2023-01-02 17:31:05,CRM,WARNING,Central de Controle
+EVT0007,2024-04-10 16:44:37,Medidores,OK,Monitoramento Automático
+EVT0008,2024-03-28 17:37:11,CRM,WARNING,Equipe de Campo
+EVT0009,2024-01-24 12:05:48,CRM,OK,Equipe de Campo
+EVT0010,2023-12-01 23:10:52,CRM,OK,Equipe de Campo
+EVT0011,2023-07-09 06:00:53,SCADA,WARNING,Monitoramento Automático
+EVT0012,2024-05-17 10:23:26,SCADA,OK,Central de Controle
+EVT0013,2024-02-18 05:33:01,ERP,OK,Equipe de Campo
+EVT0014,2023-12-06 08:52:19,ERP,OK,Monitoramento Automático
+EVT0015,2024-01-18 23:57:29,Medidores,OK,Monitoramento Automático
+EVT0016,2023-06-19 16:49:01,Medidores,OK,Monitoramento Automático
+EVT0017,2023-10-10 21:25:07,Medidores,OK,Central de Controle
+EVT0018,2024-06-10 06:04:41,Medidores,OK,Equipe de Campo
+EVT0019,2024-01-07 13:12:21,CRM,CRITICAL,Equipe de Campo
+EVT0020,2023-10-17 11:14:30,CRM,WARNING,Monitoramento Automático
+EVT0021,2023-08-07 22:37:19,ERP,OK,Equipe de Campo
+EVT0022,2023-12-29 04:33:50,CRM,OK,Monitoramento Automático
+EVT0023,2023-01-13 04:43:15,SCADA,OK,Equipe de Campo
+EVT0024,2023-02-27 11:11:36,CRM,WARNING,Equipe de Campo
+EVT0025,2023-12-10 13:37:19,ERP,OK,Equipe de Campo
+EVT0026,2024-04-01 00:06:41,Medidores,WARNING,Equipe de Campo
+EVT0027,2023-04-08 15:46:34,ERP,OK,Central de Controle
+EVT0028,2024-06-19 13:15:39,Medidores,OK,Equipe de Campo
+EVT0029,2023-09-14 14:49:23,CRM,WARNING,Monitoramento Automático
+EVT0030,2023-03-14 16:53:18,ERP,OK,Equipe de Campo
+EVT0031,2023-01-15 18:57:20,CRM,OK,Central de Controle
+EVT0032,2023-03-05 22:30:00,SCADA,WARNING,Equipe de Campo
+EVT0033,2024-05-10 05:22:57,Medidores,OK,Central de Controle
+EVT0034,2024-06-20 17:17:48,ERP,OK,Monitoramento Automático
+EVT0035,2023-11-10 08:02:00,SCADA,OK,Monitoramento Automático
+EVT0036,2023-01-03 18:33:31,Medidores,WARNING,Equipe de Campo
+EVT0037,2023-01-27 12:52:33,ERP,OK,Monitoramento Automático
+EVT0038,2024-05-10 12:37:49,SCADA,OK,Equipe de Campo
+EVT0039,2023-08-14 09:26:31,SCADA,OK,Equipe de Campo
+EVT0040,2023-04-12 18:58:01,SCADA,CRITICAL,Monitoramento Automático
+EVT0041,2024-11-18 17:56:35,SCADA,OK,Monitoramento Automático
+EVT0042,2024-04-29 19:35:20,Medidores,WARNING,Central de Controle
+EVT0043,2024-09-12 04:46:02,Medidores,CRITICAL,Monitoramento Automático
+EVT0044,2023-02-20 18:52:55,Medidores,WARNING,Monitoramento Automático
+EVT0045,2023-04-13 02:52:50,CRM,OK,Equipe de Campo
+EVT0046,2023-03-27 18:26:18,ERP,WARNING,Equipe de Campo
+EVT0047,2023-12-06 12:03:18,SCADA,WARNING,Monitoramento Automático
+EVT0048,2024-03-05 04:16:47,ERP,OK,Equipe de Campo
+EVT0049,2024-09-24 07:22:04,SCADA,CRITICAL,Monitoramento Automático
+EVT0050,2023-03-03 20:48:08,SCADA,CRITICAL,Central de Controle
+EVT0051,2023-03-06 18:38:19,CRM,WARNING,Monitoramento Automático
+EVT0052,2023-09-22 13:52:09,SCADA,OK,Equipe de Campo
+EVT0053,2023-01-28 15:44:22,Medidores,OK,Equipe de Campo
+EVT0054,2024-10-30 12:19:59,SCADA,OK,Central de Controle
+EVT0055,2023-09-23 09:12:52,Medidores,OK,Central de Controle
+EVT0056,2023-04-25 05:30:03,CRM,OK,Central de Controle
+EVT0057,2023-08-02 14:24:56,Medidores,OK,Monitoramento Automático
+EVT0058,2023-11-03 14:07:15,CRM,OK,Monitoramento Automático
+EVT0059,2023-09-27 20:21:18,Medidores,WARNING,Equipe de Campo
+EVT0060,2024-06-22 07:44:35,CRM,OK,Equipe de Campo
+EVT0061,2024-05-22 01:13:34,ERP,OK,Central de Controle
+EVT0062,2024-02-06 09:09:25,ERP,CRITICAL,Central de Controle
+EVT0063,2023-03-21 04:55:08,CRM,WARNING,Central de Controle
+EVT0064,2023-03-29 16:39:49,Medidores,OK,Equipe de Campo
+EVT0065,2023-05-20 11:15:22,SCADA,OK,Monitoramento Automático
+EVT0066,2023-04-06 14:37:51,ERP,WARNING,Monitoramento Automático
+EVT0067,2023-06-08 00:08:28,SCADA,OK,Equipe de Campo
+EVT0068,2023-04-04 02:35:31,Medidores,WARNING,Monitoramento Automático
+EVT0069,2023-11-05 15:09:39,CRM,WARNING,Monitoramento Automático
+EVT0070,2023-08-07 19:12:27,Medidores,OK,Equipe de Campo
+EVT0071,2023-04-26 02:51:46,Medidores,WARNING,Monitoramento Automático
+EVT0072,2023-10-04 18:20:31,Medidores,OK,Equipe de Campo
+EVT0073,2024-09-03 14:33:09,ERP,WARNING,Equipe de Campo
+EVT0074,2024-12-24 18:11:25,CRM,OK,Monitoramento Automático
+EVT0075,2023-05-11 02:41:42,SCADA,WARNING,Equipe de Campo
+EVT0076,2024-04-07 15:35:04,SCADA,WARNING,Central de Controle
+EVT0077,2023-08-25 01:53:30,CRM,WARNING,Central de Controle
+EVT0078,2024-07-24 14:15:02,ERP,OK,Central de Controle
+EVT0079,2023-05-21 06:36:14,CRM,WARNING,Central de Controle
+EVT0080,2024-09-19 08:31:53,Medidores,CRITICAL,Central de Controle
+EVT0081,2024-12-27 15:01:16,ERP,WARNING,Monitoramento Automático
+EVT0082,2023-08-24 14:27:29,Medidores,OK,Monitoramento Automático
+EVT0083,2024-01-10 22:50:18,SCADA,OK,Equipe de Campo
+EVT0084,2023-06-22 23:09:00,SCADA,WARNING,Central de Controle
+EVT0085,2024-07-26 07:03:16,ERP,CRITICAL,Central de Controle
+EVT0086,2023-11-17 14:57:51,ERP,WARNING,Central de Controle
+EVT0087,2024-03-12 11:21:28,ERP,WARNING,Equipe de Campo
+EVT0088,2024-09-23 22:01:22,Medidores,OK,Equipe de Campo
+EVT0089,2023-02-18 02:20:04,ERP,CRITICAL,Central de Controle
+EVT0090,2023-11-17 02:50:21,ERP,WARNING,Equipe de Campo
+EVT0091,2023-10-23 14:38:10,CRM,OK,Central de Controle
+EVT0092,2024-06-18 17:53:03,CRM,OK,Monitoramento Automático
+EVT0093,2023-01-22 11:08:07,SCADA,WARNING,Central de Controle
+EVT0094,2024-05-06 04:34:39,Medidores,OK,Equipe de Campo
+EVT0095,2024-08-22 18:35:29,Medidores,OK,Monitoramento Automático
+EVT0096,2023-11-01 04:34:57,ERP,OK,Equipe de Campo
+EVT0097,2023-03-20 21:43:40,ERP,WARNING,Central de Controle
+EVT0098,2024-08-26 10:52:49,CRM,OK,Equipe de Campo
+EVT0099,2024-05-24 01:13:32,SCADA,OK,Central de Controle
+EVT0100,2024-05-20 04:45:16,CRM,OK,Equipe de Campo
+EVT0101,2023-06-16 23:57:43,ERP,OK,Equipe de Campo
+EVT0102,2024-06-29 11:28:02,SCADA,OK,Equipe de Campo
+EVT0103,2023-01-12 07:45:00,CRM,CRITICAL,Equipe de Campo
+EVT0104,2023-05-08 04:40:34,Medidores,OK,Equipe de Campo
+EVT0105,2023-11-17 11:44:07,ERP,OK,Central de Controle
+EVT0106,2024-03-30 11:35:10,Medidores,OK,Equipe de Campo
+EVT0107,2023-07-25 00:07:00,ERP,OK,Monitoramento Automático
+EVT0108,2023-07-08 20:52:09,CRM,WARNING,Monitoramento Automático
+EVT0109,2023-02-21 00:14:58,CRM,OK,Central de Controle
+EVT0110,2023-01-17 03:23:09,CRM,OK,Monitoramento Automático
+EVT0111,2024-06-13 12:45:25,SCADA,OK,Monitoramento Automático
+EVT0112,2024-12-21 12:42:23,CRM,OK,Equipe de Campo
+EVT0113,2023-02-09 01:32:30,CRM,CRITICAL,Monitoramento Automático
+EVT0114,2023-08-02 09:30:26,CRM,OK,Central de Controle
+EVT0115,2023-02-21 19:37:16,Medidores,CRITICAL,Monitoramento Automático
+EVT0116,2024-08-31 01:56:22,Medidores,WARNING,Equipe de Campo
+EVT0117,2023-12-31 23:54:20,CRM,CRITICAL,Central de Controle
+EVT0118,2023-06-15 17:10:53,CRM,WARNING,Equipe de Campo
+EVT0119,2023-02-08 23:11:14,SCADA,OK,Equipe de Campo
+EVT0120,2023-09-16 09:01:53,CRM,OK,Equipe de Campo
+EVT0121,2024-12-21 10:12:05,ERP,OK,Central de Controle
+EVT0122,2023-07-22 03:58:50,SCADA,OK,Central de Controle
+EVT0123,2023-01-30 07:37:45,ERP,OK,Equipe de Campo
+EVT0124,2023-06-22 17:29:18,CRM,OK,Monitoramento Automático
+EVT0125,2024-05-04 10:48:26,Medidores,OK,Monitoramento Automático
+EVT0126,2024-02-21 07:21:58,Medidores,OK,Monitoramento Automático
+EVT0127,2023-08-01 22:26:02,ERP,OK,Monitoramento Automático
+EVT0128,2023-02-17 21:17:19,CRM,CRITICAL,Monitoramento Automático
+EVT0129,2023-02-23 14:57:12,CRM,OK,Equipe de Campo
+EVT0130,2023-12-20 13:19:29,Medidores,OK,Equipe de Campo
+EVT0131,2023-07-14 09:14:13,SCADA,WARNING,Equipe de Campo
+EVT0132,2024-02-24 22:26:01,ERP,WARNING,Central de Controle
+EVT0133,2023-08-29 02:52:35,SCADA,CRITICAL,Monitoramento Automático
+EVT0134,2023-09-15 18:25:42,ERP,OK,Monitoramento Automático
+EVT0135,2024-07-25 17:08:49,CRM,WARNING,Equipe de Campo
+EVT0136,2023-01-21 20:18:14,Medidores,OK,Equipe de Campo
+EVT0137,2023-02-07 16:22:24,SCADA,OK,Equipe de Campo
+EVT0138,2023-04-20 10:24:58,ERP,OK,Equipe de Campo
+EVT0139,2024-01-30 11:40:03,SCADA,OK,Equipe de Campo
+EVT0140,2024-02-06 15:34:01,Medidores,OK,Monitoramento Automático
+EVT0141,2023-03-02 07:37:52,Medidores,OK,Central de Controle
+EVT0142,2023-12-25 10:49:19,ERP,WARNING,Central de Controle
+EVT0143,2023-09-04 07:00:09,Medidores,OK,Monitoramento Automático
+EVT0144,2024-12-05 20:51:04,CRM,OK,Central de Controle
+EVT0145,2024-04-08 10:38:32,ERP,WARNING,Equipe de Campo
+EVT0146,2024-07-28 17:54:58,ERP,OK,Monitoramento Automático
+EVT0147,2024-01-23 23:44:04,CRM,OK,Central de Controle
+EVT0148,2023-06-26 23:43:34,CRM,OK,Central de Controle
+EVT0149,2023-03-15 21:38:29,Medidores,WARNING,Monitoramento Automático
+EVT0150,2024-02-03 23:57:54,SCADA,OK,Monitoramento Automático
+EVT0151,2023-09-10 07:17:31,CRM,OK,Equipe de Campo
+EVT0152,2023-10-21 08:23:53,Medidores,WARNING,Equipe de Campo
+EVT0153,2023-03-21 15:42:35,SCADA,WARNING,Central de Controle
+EVT0154,2024-08-04 07:16:06,SCADA,WARNING,Central de Controle
+EVT0155,2024-06-08 00:53:31,SCADA,WARNING,Equipe de Campo
+EVT0156,2024-07-14 16:30:06,CRM,CRITICAL,Monitoramento Automático
+EVT0157,2023-11-12 00:18:40,SCADA,CRITICAL,Central de Controle
+EVT0158,2024-09-11 08:10:42,CRM,OK,Central de Controle
+EVT0159,2024-08-21 20:36:14,Medidores,OK,Equipe de Campo
+EVT0160,2023-04-04 15:20:54,CRM,OK,Equipe de Campo
+EVT0161,2023-06-21 01:18:03,SCADA,OK,Equipe de Campo
+EVT0162,2024-04-24 07:28:03,ERP,WARNING,Equipe de Campo
+EVT0163,2023-07-11 20:04:54,ERP,OK,Central de Controle
+EVT0164,2023-03-10 19:17:47,ERP,OK,Monitoramento Automático
+EVT0165,2024-09-26 20:50:20,CRM,WARNING,Monitoramento Automático
+EVT0166,2024-07-01 16:33:13,SCADA,OK,Equipe de Campo
+EVT0167,2023-09-11 03:41:05,Medidores,OK,Central de Controle
+EVT0168,2024-12-25 10:53:42,Medidores,OK,Monitoramento Automático
+EVT0169,2023-03-14 01:16:34,ERP,WARNING,Central de Controle
+EVT0170,2024-10-18 05:21:07,SCADA,OK,Monitoramento Automático
+EVT0171,2024-02-03 06:55:56,SCADA,OK,Monitoramento Automático
+EVT0172,2024-11-11 13:58:53,SCADA,OK,Central de Controle
+EVT0173,2024-02-09 05:01:41,SCADA,OK,Equipe de Campo
+EVT0174,2024-12-05 20:45:15,CRM,CRITICAL,Equipe de Campo
+EVT0175,2024-07-01 13:06:52,SCADA,WARNING,Central de Controle
+EVT0176,2024-03-17 00:15:56,SCADA,WARNING,Monitoramento Automático
+EVT0177,2024-12-01 13:59:55,CRM,WARNING,Monitoramento Automático
+EVT0178,2023-08-24 07:22:53,Medidores,OK,Monitoramento Automático
+EVT0179,2023-10-26 02:42:29,CRM,WARNING,Central de Controle
+EVT0180,2024-12-09 00:05:51,CRM,OK,Monitoramento Automático
+EVT0181,2023-09-08 18:39:45,Medidores,OK,Equipe de Campo
+EVT0182,2024-10-12 03:59:59,CRM,OK,Equipe de Campo
+EVT0183,2024-06-23 13:42:32,ERP,OK,Monitoramento Automático
+EVT0184,2024-05-23 01:15:42,CRM,OK,Monitoramento Automático
+EVT0185,2023-12-26 18:56:14,SCADA,CRITICAL,Equipe de Campo
+EVT0186,2024-10-05 14:00:18,ERP,OK,Central de Controle
+EVT0187,2023-12-23 14:06:59,SCADA,OK,Central de Controle
+EVT0188,2024-02-11 07:00:58,Medidores,OK,Equipe de Campo
+EVT0189,2023-03-24 02:15:38,Medidores,OK,Monitoramento Automático
+EVT0190,2023-03-01 02:25:24,Medidores,OK,Central de Controle
+EVT0191,2024-06-24 10:31:48,CRM,WARNING,Central de Controle
+EVT0192,2023-10-09 17:27:12,SCADA,OK,Monitoramento Automático
+EVT0193,2024-09-02 02:23:58,ERP,OK,Equipe de Campo
+EVT0194,2024-12-10 21:49:42,ERP,OK,Monitoramento Automático
+EVT0195,2024-04-17 16:00:24,CRM,WARNING,Monitoramento Automático
+EVT0196,2024-09-23 17:04:10,Medidores,OK,Equipe de Campo
+EVT0197,2024-02-19 03:25:19,SCADA,WARNING,Equipe de Campo
+EVT0198,2023-10-09 02:43:38,Medidores,WARNING,Equipe de Campo
+EVT0199,2024-06-10 19:09:54,SCADA,WARNING,Monitoramento Automático
+EVT0200,2024-12-28 22:41:01,SCADA,WARNING,Equipe de Campo
+EVT0201,2024-08-11 04:39:54,SCADA,CRITICAL,Monitoramento Automático
+EVT0202,2023-02-19 12:04:55,SCADA,OK,Central de Controle
+EVT0203,2024-08-20 06:30:56,Medidores,OK,Monitoramento Automático
+EVT0204,2023-02-26 20:41:22,ERP,WARNING,Central de Controle
+EVT0205,2023-07-03 05:14:53,Medidores,OK,Equipe de Campo
+EVT0206,2023-01-06 15:28:49,ERP,OK,Monitoramento Automático
+EVT0207,2024-11-22 01:41:53,CRM,OK,Central de Controle
+EVT0208,2023-04-03 11:14:04,ERP,CRITICAL,Equipe de Campo
+EVT0209,2023-02-11 23:15:12,SCADA,OK,Central de Controle
+EVT0210,2023-03-07 07:13:21,ERP,WARNING,Central de Controle
+EVT0211,2024-04-29 03:29:01,ERP,WARNING,Equipe de Campo
+EVT0212,2024-08-11 15:56:57,CRM,OK,Monitoramento Automático
+EVT0213,2023-06-21 15:02:15,ERP,WARNING,Monitoramento Automático
+EVT0214,2023-12-13 03:23:34,ERP,OK,Equipe de Campo
+EVT0215,2024-07-11 16:32:17,ERP,WARNING,Central de Controle
+EVT0216,2024-08-11 09:09:40,SCADA,OK,Monitoramento Automático
+EVT0217,2023-06-21 02:31:34,Medidores,OK,Monitoramento Automático
+EVT0218,2023-02-15 02:37:44,ERP,WARNING,Equipe de Campo
+EVT0219,2024-09-22 07:31:41,Medidores,WARNING,Central de Controle
+EVT0220,2023-11-14 11:46:07,Medidores,CRITICAL,Monitoramento Automático
+EVT0221,2023-03-05 11:37:50,SCADA,OK,Equipe de Campo
+EVT0222,2024-12-24 04:23:49,ERP,OK,Equipe de Campo
+EVT0223,2024-09-06 03:58:26,ERP,OK,Equipe de Campo
+EVT0224,2023-07-11 06:44:59,ERP,CRITICAL,Equipe de Campo
+EVT0225,2024-03-06 02:32:46,ERP,CRITICAL,Central de Controle
+EVT0226,2024-11-20 05:07:07,CRM,OK,Central de Controle
+EVT0227,2023-05-01 06:35:17,CRM,OK,Central de Controle
+EVT0228,2024-10-30 00:13:13,CRM,OK,Central de Controle
+EVT0229,2023-07-06 03:16:19,SCADA,OK,Central de Controle
+EVT0230,2024-08-29 13:09:28,CRM,OK,Central de Controle
+EVT0231,2024-01-27 09:23:11,SCADA,OK,Monitoramento Automático
+EVT0232,2023-01-16 19:06:34,SCADA,OK,Equipe de Campo
+EVT0233,2024-02-25 12:35:43,CRM,OK,Monitoramento Automático
+EVT0234,2024-05-05 03:54:06,SCADA,OK,Central de Controle
+EVT0235,2023-06-29 21:25:26,CRM,OK,Equipe de Campo
+EVT0236,2024-09-17 12:09:31,Medidores,OK,Central de Controle
+EVT0237,2024-05-04 05:04:12,ERP,CRITICAL,Equipe de Campo
+EVT0238,2024-05-20 14:51:05,SCADA,WARNING,Equipe de Campo
+EVT0239,2023-06-26 00:21:29,Medidores,OK,Monitoramento Automático
+EVT0240,2023-08-28 01:10:10,Medidores,OK,Monitoramento Automático
+EVT0241,2024-12-02 09:18:20,CRM,OK,Monitoramento Automático
+EVT0242,2023-05-03 08:01:38,Medidores,OK,Monitoramento Automático
+EVT0243,2023-11-23 23:42:44,ERP,OK,Monitoramento Automático
+EVT0244,2024-01-28 01:20:38,SCADA,WARNING,Monitoramento Automático
+EVT0245,2023-03-01 05:21:03,Medidores,WARNING,Central de Controle
+EVT0246,2024-05-30 09:29:32,CRM,WARNING,Monitoramento Automático
+EVT0247,2024-04-17 13:13:02,SCADA,OK,Central de Controle
+EVT0248,2023-02-09 19:05:34,CRM,OK,Central de Controle
+EVT0249,2023-07-13 18:06:48,CRM,WARNING,Monitoramento Automático
+EVT0250,2023-03-05 19:27:27,SCADA,OK,Central de Controle
+EVT0251,2023-05-21 05:58:40,Medidores,WARNING,Monitoramento Automático
+EVT0252,2024-01-07 07:43:22,Medidores,WARNING,Central de Controle
+EVT0253,2023-10-10 18:47:31,Medidores,WARNING,Central de Controle
+EVT0254,2023-11-30 02:26:25,SCADA,WARNING,Equipe de Campo
+EVT0255,2023-03-03 04:07:42,SCADA,CRITICAL,Monitoramento Automático
+EVT0256,2023-06-14 19:42:38,SCADA,WARNING,Monitoramento Automático
+EVT0257,2023-04-18 20:34:01,ERP,OK,Monitoramento Automático
+EVT0258,2023-01-23 11:17:02,SCADA,CRITICAL,Monitoramento Automático
+EVT0259,2023-08-01 14:13:46,Medidores,WARNING,Central de Controle
+EVT0260,2023-12-27 05:37:41,Medidores,OK,Central de Controle
+EVT0261,2023-01-29 03:37:38,SCADA,OK,Equipe de Campo
+EVT0262,2023-07-09 07:31:20,Medidores,OK,Equipe de Campo
+EVT0263,2024-03-26 17:08:36,ERP,OK,Monitoramento Automático
+EVT0264,2023-03-04 15:46:04,ERP,WARNING,Central de Controle
+EVT0265,2024-01-15 04:28:03,Medidores,OK,Equipe de Campo
+EVT0266,2024-01-09 18:58:52,SCADA,WARNING,Central de Controle
+EVT0267,2024-12-21 21:44:03,CRM,WARNING,Monitoramento Automático
+EVT0268,2023-08-25 15:27:14,CRM,OK,Equipe de Campo
+EVT0269,2024-04-28 19:01:07,ERP,WARNING,Monitoramento Automático
+EVT0270,2023-06-16 23:04:10,ERP,OK,Equipe de Campo
+EVT0271,2024-10-01 18:23:38,CRM,WARNING,Central de Controle
+EVT0272,2023-10-12 02:42:38,ERP,OK,Equipe de Campo
+EVT0273,2024-02-22 06:39:29,SCADA,OK,Equipe de Campo
+EVT0274,2024-11-16 11:07:10,SCADA,OK,Equipe de Campo
+EVT0275,2024-02-25 10:36:09,SCADA,OK,Central de Controle
+EVT0276,2023-12-03 20:23:42,SCADA,OK,Central de Controle
+EVT0277,2024-12-28 23:03:15,Medidores,OK,Central de Controle
+EVT0278,2024-10-26 20:30:06,SCADA,OK,Equipe de Campo
+EVT0279,2024-07-27 17:37:17,ERP,WARNING,Equipe de Campo
+EVT0280,2024-02-23 06:28:31,ERP,CRITICAL,Monitoramento Automático
+EVT0281,2024-07-24 09:27:47,CRM,CRITICAL,Central de Controle
+EVT0282,2024-04-29 01:08:31,SCADA,OK,Equipe de Campo
+EVT0283,2024-05-17 10:25:16,ERP,WARNING,Equipe de Campo
+EVT0284,2023-08-01 17:11:32,Medidores,OK,Equipe de Campo
+EVT0285,2024-12-28 11:28:53,SCADA,OK,Monitoramento Automático
+EVT0286,2024-10-27 18:05:03,Medidores,OK,Equipe de Campo
+EVT0287,2024-12-21 19:57:41,ERP,CRITICAL,Monitoramento Automático
+EVT0288,2024-02-15 08:07:59,ERP,WARNING,Monitoramento Automático
+EVT0289,2023-08-29 01:07:26,CRM,OK,Equipe de Campo
+EVT0290,2023-01-19 10:50:12,CRM,OK,Equipe de Campo
+EVT0291,2024-05-26 10:25:58,CRM,WARNING,Equipe de Campo
+EVT0292,2023-08-29 11:18:49,SCADA,WARNING,Equipe de Campo
+EVT0293,2024-10-03 23:30:17,Medidores,OK,Central de Controle
+EVT0294,2024-06-19 03:08:01,ERP,OK,Equipe de Campo
+EVT0295,2023-02-12 19:03:08,ERP,CRITICAL,Monitoramento Automático
+EVT0296,2024-05-20 16:45:20,SCADA,WARNING,Monitoramento Automático
+EVT0297,2024-05-02 09:40:07,SCADA,OK,Central de Controle
+EVT0298,2023-02-12 02:41:49,Medidores,WARNING,Central de Controle
+EVT0299,2024-05-31 23:15:29,ERP,WARNING,Monitoramento Automático
+EVT0300,2024-07-20 17:23:49,SCADA,OK,Equipe de Campo
+EVT0301,2023-07-14 08:32:32,Medidores,WARNING,Monitoramento Automático
+EVT0302,2023-03-14 16:00:41,ERP,OK,Central de Controle
+EVT0303,2024-09-04 06:44:05,Medidores,OK,Central de Controle
+EVT0304,2024-02-02 07:01:07,ERP,WARNING,Central de Controle
+EVT0305,2024-04-19 00:21:08,Medidores,OK,Equipe de Campo
+EVT0306,2024-05-29 17:40:42,CRM,OK,Central de Controle
+EVT0307,2024-10-18 17:17:40,ERP,OK,Equipe de Campo
+EVT0308,2023-08-13 01:50:00,Medidores,WARNING,Central de Controle
+EVT0309,2024-03-24 03:47:47,CRM,OK,Central de Controle
+EVT0310,2024-09-27 17:31:12,ERP,OK,Monitoramento Automático
+EVT0311,2024-10-17 09:56:20,SCADA,OK,Equipe de Campo
+EVT0312,2023-11-15 11:20:35,Medidores,OK,Equipe de Campo
+EVT0313,2023-12-18 21:24:20,Medidores,OK,Equipe de Campo
+EVT0314,2023-11-05 14:30:30,CRM,OK,Central de Controle
+EVT0315,2024-09-01 06:36:33,SCADA,OK,Monitoramento Automático
+EVT0316,2023-01-29 13:21:02,Medidores,WARNING,Monitoramento Automático
+EVT0317,2024-09-02 02:00:53,Medidores,OK,Monitoramento Automático
+EVT0318,2024-06-14 10:11:05,SCADA,WARNING,Central de Controle
+EVT0319,2023-07-16 23:09:58,Medidores,OK,Central de Controle
+EVT0320,2023-04-26 04:19:16,Medidores,WARNING,Equipe de Campo
+EVT0321,2023-06-29 23:34:53,CRM,OK,Equipe de Campo
+EVT0322,2023-06-01 15:59:49,Medidores,OK,Central de Controle
+EVT0323,2024-06-02 11:59:06,CRM,OK,Monitoramento Automático
+EVT0324,2024-02-14 19:54:38,CRM,CRITICAL,Central de Controle
+EVT0325,2023-01-17 03:52:20,Medidores,OK,Monitoramento Automático
+EVT0326,2023-11-01 14:51:32,Medidores,WARNING,Central de Controle
+EVT0327,2023-03-21 16:21:39,CRM,OK,Central de Controle
+EVT0328,2024-01-03 21:55:50,CRM,WARNING,Monitoramento Automático
+EVT0329,2024-04-05 09:54:34,CRM,OK,Central de Controle
+EVT0330,2023-09-16 04:48:28,SCADA,WARNING,Monitoramento Automático
+EVT0331,2023-09-12 07:15:34,Medidores,OK,Equipe de Campo
+EVT0332,2024-07-22 00:02:14,ERP,OK,Equipe de Campo
+EVT0333,2023-04-12 13:35:35,CRM,WARNING,Monitoramento Automático
+EVT0334,2024-03-14 02:29:13,ERP,OK,Monitoramento Automático
+EVT0335,2024-01-24 18:38:19,Medidores,OK,Equipe de Campo
+EVT0336,2023-06-20 22:17:37,ERP,OK,Equipe de Campo
+EVT0337,2024-07-29 03:16:28,Medidores,OK,Equipe de Campo
+EVT0338,2023-01-19 14:45:25,ERP,CRITICAL,Central de Controle
+EVT0339,2023-10-16 07:18:34,Medidores,CRITICAL,Equipe de Campo
+EVT0340,2023-07-14 01:50:50,CRM,OK,Equipe de Campo
+EVT0341,2023-08-29 20:41:28,CRM,OK,Monitoramento Automático
+EVT0342,2024-04-26 00:44:58,CRM,OK,Equipe de Campo
+EVT0343,2024-11-13 14:46:17,CRM,OK,Equipe de Campo
+EVT0344,2023-08-05 13:14:53,SCADA,WARNING,Equipe de Campo
+EVT0345,2024-12-14 11:30:36,CRM,OK,Monitoramento Automático
+EVT0346,2024-03-28 07:46:26,SCADA,OK,Equipe de Campo
+EVT0347,2023-07-10 14:29:53,SCADA,OK,Monitoramento Automático
+EVT0348,2023-03-13 18:29:12,SCADA,OK,Monitoramento Automático
+EVT0349,2023-08-19 14:08:57,CRM,OK,Central de Controle
+EVT0350,2023-05-25 12:57:03,ERP,OK,Monitoramento Automático
+EVT0351,2024-05-23 00:53:27,ERP,OK,Equipe de Campo
+EVT0352,2024-09-28 13:14:09,SCADA,OK,Monitoramento Automático
+EVT0353,2024-10-22 16:33:28,ERP,OK,Equipe de Campo
+EVT0354,2023-10-10 19:45:36,ERP,OK,Monitoramento Automático
+EVT0355,2023-05-17 14:18:52,ERP,WARNING,Central de Controle
+EVT0356,2024-09-11 20:14:23,SCADA,OK,Equipe de Campo
+EVT0357,2023-10-21 13:20:40,SCADA,OK,Monitoramento Automático
+EVT0358,2024-03-18 08:42:10,SCADA,WARNING,Central de Controle
+EVT0359,2023-08-31 16:26:17,SCADA,WARNING,Monitoramento Automático
+EVT0360,2024-01-31 16:35:37,SCADA,CRITICAL,Central de Controle
+EVT0361,2023-10-13 05:10:42,Medidores,WARNING,Central de Controle
+EVT0362,2023-02-13 06:23:01,Medidores,OK,Central de Controle
+EVT0363,2024-05-28 19:25:39,CRM,OK,Central de Controle
+EVT0364,2024-06-26 05:11:28,CRM,WARNING,Monitoramento Automático
+EVT0365,2024-11-26 09:49:56,SCADA,OK,Equipe de Campo
+EVT0366,2024-02-21 16:58:34,ERP,CRITICAL,Central de Controle
+EVT0367,2023-08-14 16:19:53,CRM,WARNING,Equipe de Campo
+EVT0368,2023-12-14 06:47:06,SCADA,OK,Equipe de Campo
+EVT0369,2024-09-12 15:01:03,SCADA,WARNING,Central de Controle
+EVT0370,2024-11-19 15:10:29,Medidores,WARNING,Equipe de Campo
+EVT0371,2024-02-01 02:27:25,CRM,OK,Monitoramento Automático
+EVT0372,2024-08-12 20:19:28,CRM,OK,Equipe de Campo
+EVT0373,2023-03-21 20:34:43,ERP,OK,Monitoramento Automático
+EVT0374,2024-05-04 06:18:24,ERP,CRITICAL,Central de Controle
+EVT0375,2024-10-07 11:55:23,ERP,WARNING,Central de Controle
+EVT0376,2024-02-29 02:19:30,SCADA,OK,Central de Controle
+EVT0377,2024-09-19 07:26:21,Medidores,OK,Equipe de Campo
+EVT0378,2024-04-28 14:47:20,Medidores,OK,Equipe de Campo
+EVT0379,2023-10-10 19:40:39,ERP,OK,Central de Controle
+EVT0380,2024-11-24 02:10:30,CRM,OK,Monitoramento Automático
+EVT0381,2023-07-02 20:55:56,ERP,OK,Equipe de Campo
+EVT0382,2023-05-22 01:53:42,ERP,OK,Central de Controle
+EVT0383,2024-04-14 02:06:40,ERP,OK,Central de Controle
+EVT0384,2024-09-02 07:30:27,Medidores,OK,Central de Controle
+EVT0385,2023-05-07 23:28:01,SCADA,WARNING,Monitoramento Automático
+EVT0386,2024-06-16 15:13:19,Medidores,OK,Central de Controle
+EVT0387,2024-05-03 10:33:55,Medidores,OK,Equipe de Campo
+EVT0388,2024-10-19 10:34:09,SCADA,OK,Equipe de Campo
+EVT0389,2024-03-14 23:32:45,CRM,OK,Monitoramento Automático
+EVT0390,2023-05-02 23:18:50,CRM,OK,Central de Controle
+EVT0391,2023-02-01 07:53:21,CRM,OK,Equipe de Campo
+EVT0392,2024-07-29 17:50:29,CRM,WARNING,Equipe de Campo
+EVT0393,2023-09-04 15:30:54,Medidores,WARNING,Equipe de Campo
+EVT0394,2023-04-29 18:04:14,CRM,WARNING,Equipe de Campo
+EVT0395,2024-01-12 11:35:54,Medidores,OK,Central de Controle
+EVT0396,2023-12-23 17:01:16,ERP,CRITICAL,Monitoramento Automático
+EVT0397,2024-11-20 21:11:25,SCADA,OK,Equipe de Campo
+EVT0398,2023-06-04 16:17:08,CRM,OK,Central de Controle
+EVT0399,2023-03-26 09:01:43,Medidores,OK,Equipe de Campo
+EVT0400,2023-03-10 21:34:28,Medidores,OK,Central de Controle
+EVT0401,2024-07-16 11:01:15,Medidores,OK,Central de Controle
+EVT0402,2023-05-31 17:12:23,SCADA,OK,Equipe de Campo
+EVT0403,2024-02-09 15:44:11,CRM,WARNING,Central de Controle
+EVT0404,2023-03-26 19:26:25,CRM,OK,Monitoramento Automático
+EVT0405,2024-09-23 18:05:03,SCADA,CRITICAL,Equipe de Campo
+EVT0406,2024-10-09 00:15:27,CRM,OK,Equipe de Campo
+EVT0407,2023-01-29 09:18:40,ERP,CRITICAL,Central de Controle
+EVT0408,2024-01-14 13:19:32,Medidores,CRITICAL,Equipe de Campo
+EVT0409,2023-09-04 08:02:54,SCADA,WARNING,Central de Controle
+EVT0410,2023-07-11 14:29:51,SCADA,CRITICAL,Monitoramento Automático
+EVT0411,2024-03-18 10:50:06,Medidores,WARNING,Central de Controle
+EVT0412,2023-02-25 17:49:54,CRM,WARNING,Central de Controle
+EVT0413,2023-06-20 19:41:40,Medidores,OK,Equipe de Campo
+EVT0414,2024-09-01 21:24:38,ERP,CRITICAL,Central de Controle
+EVT0415,2024-11-24 01:24:10,Medidores,WARNING,Equipe de Campo
+EVT0416,2024-09-09 14:42:12,Medidores,OK,Central de Controle
+EVT0417,2023-05-11 04:15:03,ERP,OK,Central de Controle
+EVT0418,2024-09-25 18:28:30,SCADA,OK,Equipe de Campo
+EVT0419,2024-04-29 00:41:36,Medidores,OK,Monitoramento Automático
+EVT0420,2024-03-04 01:35:20,Medidores,OK,Equipe de Campo
+EVT0421,2023-09-06 12:54:30,CRM,WARNING,Equipe de Campo
+EVT0422,2023-04-29 12:35:49,CRM,OK,Equipe de Campo
+EVT0423,2023-04-09 12:12:58,ERP,OK,Equipe de Campo
+EVT0424,2023-04-07 16:28:43,Medidores,OK,Equipe de Campo
+EVT0425,2023-07-01 16:46:24,Medidores,WARNING,Equipe de Campo
+EVT0426,2023-12-16 15:53:59,ERP,CRITICAL,Equipe de Campo
+EVT0427,2023-11-03 23:29:02,SCADA,OK,Monitoramento Automático
+EVT0428,2023-06-02 22:42:20,CRM,OK,Central de Controle
+EVT0429,2023-10-11 16:16:10,SCADA,CRITICAL,Monitoramento Automático
+EVT0430,2023-02-22 06:30:55,CRM,OK,Central de Controle
+EVT0431,2023-02-27 07:05:58,CRM,OK,Monitoramento Automático
+EVT0432,2024-06-07 07:06:08,ERP,OK,Equipe de Campo
+EVT0433,2023-04-18 20:18:24,SCADA,WARNING,Equipe de Campo
+EVT0434,2024-02-04 03:28:01,CRM,OK,Equipe de Campo
+EVT0435,2023-07-14 14:37:04,ERP,OK,Central de Controle
+EVT0436,2024-11-22 10:30:47,CRM,OK,Equipe de Campo
+EVT0437,2024-04-01 23:52:47,SCADA,OK,Equipe de Campo
+EVT0438,2023-11-23 18:03:34,CRM,WARNING,Equipe de Campo
+EVT0439,2024-11-10 21:32:42,ERP,OK,Monitoramento Automático
+EVT0440,2023-11-11 15:08:08,SCADA,OK,Equipe de Campo
+EVT0441,2023-03-04 00:34:10,SCADA,WARNING,Monitoramento Automático
+EVT0442,2024-02-11 07:20:54,Medidores,OK,Central de Controle
+EVT0443,2024-05-06 22:07:15,CRM,OK,Monitoramento Automático
+EVT0444,2024-09-04 04:34:19,CRM,OK,Monitoramento Automático
+EVT0445,2023-04-15 14:56:12,SCADA,WARNING,Monitoramento Automático
+EVT0446,2024-09-22 23:21:11,SCADA,OK,Central de Controle
+EVT0447,2023-06-06 20:58:00,CRM,OK,Central de Controle
+EVT0448,2024-07-12 08:11:09,CRM,WARNING,Central de Controle
+EVT0449,2024-10-27 02:19:26,CRM,OK,Monitoramento Automático
+EVT0450,2023-01-29 02:24:09,ERP,OK,Monitoramento Automático
+EVT0451,2024-02-04 09:57:40,SCADA,OK,Monitoramento Automático
+EVT0452,2023-01-21 18:50:02,SCADA,WARNING,Equipe de Campo
+EVT0453,2024-02-12 22:41:05,CRM,OK,Equipe de Campo
+EVT0454,2024-04-10 06:42:29,Medidores,OK,Equipe de Campo
+EVT0455,2024-11-08 21:22:09,ERP,OK,Equipe de Campo
+EVT0456,2023-10-29 19:01:08,CRM,OK,Equipe de Campo
+EVT0457,2024-09-06 02:27:30,CRM,WARNING,Central de Controle
+EVT0458,2024-12-24 11:22:08,Medidores,OK,Central de Controle
+EVT0459,2024-02-15 16:10:05,SCADA,OK,Equipe de Campo
+EVT0460,2023-05-04 04:13:48,ERP,OK,Monitoramento Automático
+EVT0461,2024-11-13 16:18:19,CRM,OK,Monitoramento Automático
+EVT0462,2024-02-19 23:43:20,SCADA,WARNING,Equipe de Campo
+EVT0463,2023-02-21 16:40:45,Medidores,WARNING,Equipe de Campo
+EVT0464,2024-03-28 09:45:49,ERP,OK,Central de Controle
+EVT0465,2024-05-18 14:30:57,Medidores,OK,Equipe de Campo
+EVT0466,2024-12-08 16:08:56,Medidores,OK,Monitoramento Automático
+EVT0467,2024-09-21 11:31:32,Medidores,WARNING,Monitoramento Automático
+EVT0468,2024-11-06 15:02:00,Medidores,OK,Equipe de Campo
+EVT0469,2023-08-16 14:38:32,CRM,WARNING,Equipe de Campo
+EVT0470,2023-10-27 03:36:11,CRM,OK,Equipe de Campo
+EVT0471,2023-11-27 17:53:52,ERP,OK,Monitoramento Automático
+EVT0472,2024-05-05 01:07:51,Medidores,OK,Equipe de Campo
+EVT0473,2023-05-03 04:29:36,ERP,CRITICAL,Equipe de Campo
+EVT0474,2023-01-17 06:05:28,CRM,WARNING,Equipe de Campo
+EVT0475,2023-01-14 01:11:04,Medidores,WARNING,Equipe de Campo
+EVT0476,2024-02-09 07:23:28,CRM,WARNING,Monitoramento Automático
+EVT0477,2023-06-03 04:20:45,ERP,OK,Central de Controle
+EVT0478,2024-07-08 17:57:06,SCADA,WARNING,Equipe de Campo
+EVT0479,2023-02-21 16:28:45,ERP,OK,Equipe de Campo
+EVT0480,2023-05-09 08:49:52,CRM,OK,Monitoramento Automático
+EVT0481,2023-09-23 06:41:20,SCADA,OK,Monitoramento Automático
+EVT0482,2023-08-08 14:38:34,SCADA,OK,Central de Controle
+EVT0483,2023-08-23 14:31:37,CRM,OK,Monitoramento Automático
+EVT0484,2023-08-13 06:37:51,CRM,OK,Equipe de Campo
+EVT0485,2023-12-07 05:33:12,Medidores,WARNING,Central de Controle
+EVT0486,2023-09-08 19:10:10,Medidores,WARNING,Central de Controle
+EVT0487,2024-08-03 08:02:08,ERP,OK,Central de Controle
+EVT0488,2023-05-30 21:05:12,SCADA,WARNING,Central de Controle
+EVT0489,2024-07-06 19:27:39,CRM,OK,Equipe de Campo
+EVT0490,2023-08-18 01:47:42,CRM,WARNING,Central de Controle
+EVT0491,2023-02-08 19:14:04,Medidores,CRITICAL,Monitoramento Automático
+EVT0492,2024-06-21 04:59:11,Medidores,WARNING,Central de Controle
+EVT0493,2024-06-20 10:24:36,CRM,WARNING,Equipe de Campo
+EVT0494,2023-11-05 19:04:16,CRM,OK,Monitoramento Automático
+EVT0495,2023-02-07 22:01:08,ERP,WARNING,Monitoramento Automático
+EVT0496,2024-02-11 21:51:32,ERP,CRITICAL,Monitoramento Automático
+EVT0497,2023-05-16 19:21:14,Medidores,WARNING,Monitoramento Automático
+EVT0498,2024-12-28 07:54:41,SCADA,WARNING,Central de Controle
+EVT0499,2023-02-01 05:14:01,ERP,OK,Central de Controle
+EVT0500,2023-06-04 19:15:21,ERP,WARNING,Equipe de Campo

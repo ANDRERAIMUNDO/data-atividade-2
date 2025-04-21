@@ -1,0 +1,5 @@
+RootCause,Ocorrencias_anteriores,Tempo_medio_resolucao,Desvio_padrao,Prioridade_resolucao
+Conexão instável,30,4.2,1.1,Alta
+Erro de firmware,15,6.8,1.5,Média
+Sobrecarga elétrica,12,5.1,1.2,Alta
+Manutenção mal sucedida,7,7.3,0.8,Baixa

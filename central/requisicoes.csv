@@ -1,0 +1,301 @@
+RequestID,Type,Priority,Status,Requester
+REQ0001,Atualização de Cadastro,Média,Aprovado,Técnico de Campo
+REQ0002,Instalação de Medidor,Média,Aprovado,TI
+REQ0003,Instalação de Medidor,Alta,Negado,TI
+REQ0004,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0005,Instalação de Medidor,Média,Negado,TI
+REQ0006,Atualização de Cadastro,Média,Aprovado,TI
+REQ0007,Acesso ao SCADA,Média,Aprovado,TI
+REQ0008,Atualização de Cadastro,Média,Aprovado,TI
+REQ0009,Acesso ao SCADA,Média,Negado,TI
+REQ0010,Instalação de Medidor,Média,Negado,Técnico de Campo
+REQ0011,Atualização de Cadastro,Alta,Negado,Técnico de Campo
+REQ0012,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0013,Instalação de Medidor,Baixa,Aprovado,TI
+REQ0014,Acesso ao SCADA,Média,Aprovado,TI
+REQ0015,Instalação de Medidor,Alta,Em Análise,Técnico de Campo
+REQ0016,Acesso ao SCADA,Alta,Aprovado,Técnico de Campo
+REQ0017,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0018,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0019,Acesso ao SCADA,Baixa,Em Análise,Engenheiro
+REQ0020,Instalação de Medidor,Alta,Aprovado,Engenheiro
+REQ0021,Atualização de Cadastro,Média,Em Análise,TI
+REQ0022,Instalação de Medidor,Baixa,Aprovado,Técnico de Campo
+REQ0023,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0024,Atualização de Cadastro,Alta,Negado,TI
+REQ0025,Atualização de Cadastro,Baixa,Aprovado,TI
+REQ0026,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0027,Atualização de Cadastro,Alta,Negado,Técnico de Campo
+REQ0028,Instalação de Medidor,Média,Em Análise,TI
+REQ0029,Atualização de Cadastro,Média,Negado,TI
+REQ0030,Acesso ao SCADA,Baixa,Negado,TI
+REQ0031,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0032,Instalação de Medidor,Baixa,Aprovado,TI
+REQ0033,Atualização de Cadastro,Alta,Em Análise,Engenheiro
+REQ0034,Instalação de Medidor,Alta,Negado,Técnico de Campo
+REQ0035,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0036,Instalação de Medidor,Média,Negado,Engenheiro
+REQ0037,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0038,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0039,Instalação de Medidor,Média,Negado,TI
+REQ0040,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0041,Instalação de Medidor,Alta,Aprovado,TI
+REQ0042,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0043,Atualização de Cadastro,Média,Em Análise,TI
+REQ0044,Acesso ao SCADA,Média,Em Análise,TI
+REQ0045,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0046,Atualização de Cadastro,Média,Aprovado,Engenheiro
+REQ0047,Acesso ao SCADA,Baixa,Em Análise,TI
+REQ0048,Acesso ao SCADA,Média,Negado,Engenheiro
+REQ0049,Acesso ao SCADA,Média,Em Análise,TI
+REQ0050,Atualização de Cadastro,Baixa,Em Análise,Engenheiro
+REQ0051,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0052,Atualização de Cadastro,Média,Aprovado,Engenheiro
+REQ0053,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0054,Acesso ao SCADA,Baixa,Em Análise,Técnico de Campo
+REQ0055,Instalação de Medidor,Baixa,Aprovado,Técnico de Campo
+REQ0056,Atualização de Cadastro,Média,Em Análise,Técnico de Campo
+REQ0057,Instalação de Medidor,Alta,Aprovado,TI
+REQ0058,Atualização de Cadastro,Baixa,Negado,Engenheiro
+REQ0059,Acesso ao SCADA,Média,Aprovado,Engenheiro
+REQ0060,Acesso ao SCADA,Média,Negado,TI
+REQ0061,Atualização de Cadastro,Alta,Negado,Engenheiro
+REQ0062,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0063,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0064,Instalação de Medidor,Alta,Em Análise,TI
+REQ0065,Atualização de Cadastro,Alta,Em Análise,Engenheiro
+REQ0066,Acesso ao SCADA,Média,Negado,Engenheiro
+REQ0067,Acesso ao SCADA,Alta,Negado,TI
+REQ0068,Acesso ao SCADA,Baixa,Em Análise,Técnico de Campo
+REQ0069,Instalação de Medidor,Média,Em Análise,TI
+REQ0070,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0071,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0072,Atualização de Cadastro,Alta,Negado,Técnico de Campo
+REQ0073,Acesso ao SCADA,Alta,Aprovado,Engenheiro
+REQ0074,Acesso ao SCADA,Alta,Negado,Engenheiro
+REQ0075,Acesso ao SCADA,Alta,Em Análise,TI
+REQ0076,Acesso ao SCADA,Alta,Negado,TI
+REQ0077,Atualização de Cadastro,Alta,Negado,Técnico de Campo
+REQ0078,Instalação de Medidor,Baixa,Aprovado,Técnico de Campo
+REQ0079,Instalação de Medidor,Alta,Em Análise,Técnico de Campo
+REQ0080,Acesso ao SCADA,Alta,Negado,Técnico de Campo
+REQ0081,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0082,Instalação de Medidor,Alta,Aprovado,TI
+REQ0083,Atualização de Cadastro,Média,Negado,TI
+REQ0084,Acesso ao SCADA,Alta,Em Análise,TI
+REQ0085,Atualização de Cadastro,Baixa,Em Análise,Engenheiro
+REQ0086,Atualização de Cadastro,Baixa,Em Análise,Engenheiro
+REQ0087,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0088,Instalação de Medidor,Baixa,Em Análise,TI
+REQ0089,Atualização de Cadastro,Alta,Em Análise,Técnico de Campo
+REQ0090,Acesso ao SCADA,Alta,Negado,Técnico de Campo
+REQ0091,Atualização de Cadastro,Alta,Em Análise,Técnico de Campo
+REQ0092,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0093,Atualização de Cadastro,Baixa,Negado,Engenheiro
+REQ0094,Acesso ao SCADA,Baixa,Negado,Engenheiro
+REQ0095,Atualização de Cadastro,Média,Aprovado,Técnico de Campo
+REQ0096,Instalação de Medidor,Baixa,Negado,Engenheiro
+REQ0097,Acesso ao SCADA,Alta,Negado,Engenheiro
+REQ0098,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0099,Atualização de Cadastro,Alta,Em Análise,Técnico de Campo
+REQ0100,Atualização de Cadastro,Média,Aprovado,Engenheiro
+REQ0101,Instalação de Medidor,Baixa,Negado,Técnico de Campo
+REQ0102,Atualização de Cadastro,Baixa,Aprovado,TI
+REQ0103,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0104,Instalação de Medidor,Baixa,Negado,Técnico de Campo
+REQ0105,Atualização de Cadastro,Média,Em Análise,TI
+REQ0106,Acesso ao SCADA,Média,Negado,Engenheiro
+REQ0107,Instalação de Medidor,Média,Em Análise,Engenheiro
+REQ0108,Instalação de Medidor,Baixa,Negado,Engenheiro
+REQ0109,Atualização de Cadastro,Média,Em Análise,Engenheiro
+REQ0110,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0111,Atualização de Cadastro,Baixa,Negado,TI
+REQ0112,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0113,Atualização de Cadastro,Alta,Em Análise,TI
+REQ0114,Instalação de Medidor,Baixa,Em Análise,Engenheiro
+REQ0115,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0116,Acesso ao SCADA,Média,Aprovado,Técnico de Campo
+REQ0117,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0118,Instalação de Medidor,Alta,Aprovado,Técnico de Campo
+REQ0119,Atualização de Cadastro,Baixa,Em Análise,TI
+REQ0120,Acesso ao SCADA,Alta,Em Análise,TI
+REQ0121,Acesso ao SCADA,Média,Aprovado,TI
+REQ0122,Instalação de Medidor,Média,Negado,TI
+REQ0123,Instalação de Medidor,Alta,Em Análise,Técnico de Campo
+REQ0124,Acesso ao SCADA,Alta,Aprovado,Engenheiro
+REQ0125,Acesso ao SCADA,Média,Negado,TI
+REQ0126,Acesso ao SCADA,Média,Aprovado,TI
+REQ0127,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0128,Acesso ao SCADA,Média,Aprovado,Engenheiro
+REQ0129,Atualização de Cadastro,Alta,Em Análise,TI
+REQ0130,Instalação de Medidor,Alta,Em Análise,Engenheiro
+REQ0131,Acesso ao SCADA,Média,Em Análise,Técnico de Campo
+REQ0132,Instalação de Medidor,Baixa,Aprovado,Engenheiro
+REQ0133,Atualização de Cadastro,Média,Em Análise,TI
+REQ0134,Instalação de Medidor,Baixa,Negado,Técnico de Campo
+REQ0135,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0136,Instalação de Medidor,Baixa,Negado,Engenheiro
+REQ0137,Instalação de Medidor,Média,Em Análise,Engenheiro
+REQ0138,Acesso ao SCADA,Baixa,Em Análise,Engenheiro
+REQ0139,Atualização de Cadastro,Baixa,Aprovado,TI
+REQ0140,Atualização de Cadastro,Alta,Negado,Técnico de Campo
+REQ0141,Atualização de Cadastro,Alta,Negado,Engenheiro
+REQ0142,Acesso ao SCADA,Baixa,Aprovado,Técnico de Campo
+REQ0143,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0144,Instalação de Medidor,Baixa,Em Análise,TI
+REQ0145,Instalação de Medidor,Alta,Aprovado,Técnico de Campo
+REQ0146,Acesso ao SCADA,Alta,Aprovado,Técnico de Campo
+REQ0147,Atualização de Cadastro,Média,Negado,Engenheiro
+REQ0148,Instalação de Medidor,Alta,Aprovado,Engenheiro
+REQ0149,Instalação de Medidor,Média,Em Análise,Técnico de Campo
+REQ0150,Acesso ao SCADA,Alta,Em Análise,TI
+REQ0151,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0152,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0153,Acesso ao SCADA,Baixa,Em Análise,Técnico de Campo
+REQ0154,Instalação de Medidor,Baixa,Em Análise,Engenheiro
+REQ0155,Instalação de Medidor,Baixa,Aprovado,TI
+REQ0156,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0157,Atualização de Cadastro,Baixa,Aprovado,TI
+REQ0158,Instalação de Medidor,Baixa,Aprovado,Engenheiro
+REQ0159,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0160,Atualização de Cadastro,Média,Aprovado,Engenheiro
+REQ0161,Atualização de Cadastro,Alta,Aprovado,Engenheiro
+REQ0162,Instalação de Medidor,Alta,Em Análise,TI
+REQ0163,Atualização de Cadastro,Média,Negado,TI
+REQ0164,Instalação de Medidor,Média,Em Análise,TI
+REQ0165,Acesso ao SCADA,Média,Negado,TI
+REQ0166,Atualização de Cadastro,Baixa,Em Análise,TI
+REQ0167,Instalação de Medidor,Alta,Negado,TI
+REQ0168,Acesso ao SCADA,Baixa,Negado,Engenheiro
+REQ0169,Instalação de Medidor,Alta,Em Análise,Técnico de Campo
+REQ0170,Acesso ao SCADA,Baixa,Negado,TI
+REQ0171,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0172,Instalação de Medidor,Média,Negado,TI
+REQ0173,Instalação de Medidor,Alta,Aprovado,Engenheiro
+REQ0174,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0175,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0176,Instalação de Medidor,Alta,Aprovado,Técnico de Campo
+REQ0177,Acesso ao SCADA,Média,Aprovado,Engenheiro
+REQ0178,Atualização de Cadastro,Média,Negado,Técnico de Campo
+REQ0179,Acesso ao SCADA,Média,Negado,Engenheiro
+REQ0180,Instalação de Medidor,Baixa,Aprovado,Engenheiro
+REQ0181,Atualização de Cadastro,Baixa,Em Análise,TI
+REQ0182,Atualização de Cadastro,Alta,Negado,Engenheiro
+REQ0183,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0184,Acesso ao SCADA,Média,Negado,TI
+REQ0185,Acesso ao SCADA,Alta,Aprovado,Engenheiro
+REQ0186,Acesso ao SCADA,Alta,Em Análise,Engenheiro
+REQ0187,Atualização de Cadastro,Baixa,Em Análise,Engenheiro
+REQ0188,Instalação de Medidor,Média,Aprovado,TI
+REQ0189,Instalação de Medidor,Alta,Aprovado,TI
+REQ0190,Instalação de Medidor,Média,Em Análise,Técnico de Campo
+REQ0191,Acesso ao SCADA,Baixa,Negado,TI
+REQ0192,Acesso ao SCADA,Alta,Em Análise,Engenheiro
+REQ0193,Instalação de Medidor,Baixa,Negado,TI
+REQ0194,Acesso ao SCADA,Média,Aprovado,TI
+REQ0195,Instalação de Medidor,Média,Negado,Engenheiro
+REQ0196,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0197,Acesso ao SCADA,Média,Em Análise,Técnico de Campo
+REQ0198,Atualização de Cadastro,Baixa,Negado,Engenheiro
+REQ0199,Atualização de Cadastro,Média,Negado,Técnico de Campo
+REQ0200,Instalação de Medidor,Alta,Em Análise,Engenheiro
+REQ0201,Atualização de Cadastro,Média,Em Análise,TI
+REQ0202,Acesso ao SCADA,Média,Negado,TI
+REQ0203,Acesso ao SCADA,Alta,Negado,TI
+REQ0204,Acesso ao SCADA,Alta,Negado,Técnico de Campo
+REQ0205,Instalação de Medidor,Alta,Em Análise,Engenheiro
+REQ0206,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0207,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0208,Instalação de Medidor,Baixa,Negado,Técnico de Campo
+REQ0209,Acesso ao SCADA,Média,Aprovado,TI
+REQ0210,Acesso ao SCADA,Baixa,Em Análise,Engenheiro
+REQ0211,Instalação de Medidor,Média,Negado,Técnico de Campo
+REQ0212,Instalação de Medidor,Baixa,Em Análise,Técnico de Campo
+REQ0213,Atualização de Cadastro,Média,Negado,Técnico de Campo
+REQ0214,Instalação de Medidor,Baixa,Negado,Engenheiro
+REQ0215,Instalação de Medidor,Média,Negado,TI
+REQ0216,Acesso ao SCADA,Média,Aprovado,Técnico de Campo
+REQ0217,Instalação de Medidor,Média,Em Análise,Engenheiro
+REQ0218,Instalação de Medidor,Baixa,Em Análise,Engenheiro
+REQ0219,Instalação de Medidor,Média,Aprovado,TI
+REQ0220,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0221,Instalação de Medidor,Baixa,Aprovado,TI
+REQ0222,Acesso ao SCADA,Média,Aprovado,TI
+REQ0223,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0224,Acesso ao SCADA,Média,Aprovado,TI
+REQ0225,Acesso ao SCADA,Média,Negado,Engenheiro
+REQ0226,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0227,Acesso ao SCADA,Média,Aprovado,Técnico de Campo
+REQ0228,Atualização de Cadastro,Média,Em Análise,TI
+REQ0229,Acesso ao SCADA,Média,Em Análise,Técnico de Campo
+REQ0230,Instalação de Medidor,Alta,Em Análise,Engenheiro
+REQ0231,Acesso ao SCADA,Média,Negado,Técnico de Campo
+REQ0232,Atualização de Cadastro,Baixa,Aprovado,Técnico de Campo
+REQ0233,Atualização de Cadastro,Baixa,Negado,Engenheiro
+REQ0234,Atualização de Cadastro,Média,Negado,TI
+REQ0235,Atualização de Cadastro,Baixa,Negado,TI
+REQ0236,Acesso ao SCADA,Baixa,Em Análise,Técnico de Campo
+REQ0237,Acesso ao SCADA,Média,Em Análise,TI
+REQ0238,Instalação de Medidor,Baixa,Em Análise,Técnico de Campo
+REQ0239,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0240,Instalação de Medidor,Baixa,Em Análise,Engenheiro
+REQ0241,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0242,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0243,Instalação de Medidor,Alta,Aprovado,TI
+REQ0244,Instalação de Medidor,Média,Negado,Engenheiro
+REQ0245,Acesso ao SCADA,Baixa,Em Análise,Engenheiro
+REQ0246,Acesso ao SCADA,Alta,Negado,TI
+REQ0247,Instalação de Medidor,Média,Em Análise,Engenheiro
+REQ0248,Instalação de Medidor,Média,Negado,Engenheiro
+REQ0249,Atualização de Cadastro,Alta,Em Análise,TI
+REQ0250,Atualização de Cadastro,Alta,Aprovado,TI
+REQ0251,Atualização de Cadastro,Média,Aprovado,Técnico de Campo
+REQ0252,Atualização de Cadastro,Baixa,Aprovado,Engenheiro
+REQ0253,Instalação de Medidor,Baixa,Negado,TI
+REQ0254,Acesso ao SCADA,Média,Aprovado,Técnico de Campo
+REQ0255,Atualização de Cadastro,Alta,Aprovado,TI
+REQ0256,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0257,Atualização de Cadastro,Alta,Aprovado,Engenheiro
+REQ0258,Atualização de Cadastro,Baixa,Em Análise,Técnico de Campo
+REQ0259,Acesso ao SCADA,Alta,Negado,Engenheiro
+REQ0260,Acesso ao SCADA,Alta,Aprovado,TI
+REQ0261,Instalação de Medidor,Alta,Negado,Engenheiro
+REQ0262,Instalação de Medidor,Baixa,Negado,Técnico de Campo
+REQ0263,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0264,Instalação de Medidor,Baixa,Aprovado,Técnico de Campo
+REQ0265,Acesso ao SCADA,Baixa,Negado,TI
+REQ0266,Atualização de Cadastro,Alta,Negado,TI
+REQ0267,Instalação de Medidor,Média,Negado,Técnico de Campo
+REQ0268,Instalação de Medidor,Alta,Aprovado,Técnico de Campo
+REQ0269,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0270,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0271,Acesso ao SCADA,Média,Em Análise,TI
+REQ0272,Atualização de Cadastro,Alta,Aprovado,Engenheiro
+REQ0273,Instalação de Medidor,Alta,Negado,Técnico de Campo
+REQ0274,Atualização de Cadastro,Alta,Aprovado,TI
+REQ0275,Acesso ao SCADA,Baixa,Aprovado,Engenheiro
+REQ0276,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0277,Acesso ao SCADA,Baixa,Negado,TI
+REQ0278,Atualização de Cadastro,Alta,Negado,TI
+REQ0279,Instalação de Medidor,Baixa,Negado,TI
+REQ0280,Atualização de Cadastro,Alta,Em Análise,TI
+REQ0281,Atualização de Cadastro,Alta,Negado,TI
+REQ0282,Instalação de Medidor,Baixa,Aprovado,Técnico de Campo
+REQ0283,Atualização de Cadastro,Baixa,Em Análise,Engenheiro
+REQ0284,Instalação de Medidor,Baixa,Negado,Engenheiro
+REQ0285,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0286,Acesso ao SCADA,Alta,Em Análise,Técnico de Campo
+REQ0287,Atualização de Cadastro,Baixa,Em Análise,Técnico de Campo
+REQ0288,Instalação de Medidor,Baixa,Aprovado,TI
+REQ0289,Atualização de Cadastro,Baixa,Negado,Técnico de Campo
+REQ0290,Acesso ao SCADA,Alta,Negado,TI
+REQ0291,Instalação de Medidor,Média,Em Análise,TI
+REQ0292,Acesso ao SCADA,Média,Negado,TI
+REQ0293,Instalação de Medidor,Alta,Aprovado,Engenheiro
+REQ0294,Instalação de Medidor,Alta,Aprovado,Engenheiro
+REQ0295,Atualização de Cadastro,Alta,Aprovado,Técnico de Campo
+REQ0296,Instalação de Medidor,Alta,Em Análise,Técnico de Campo
+REQ0297,Acesso ao SCADA,Alta,Em Análise,Engenheiro
+REQ0298,Acesso ao SCADA,Baixa,Negado,Técnico de Campo
+REQ0299,Instalação de Medidor,Média,Aprovado,Engenheiro
+REQ0300,Instalação de Medidor,Alta,Negado,TI

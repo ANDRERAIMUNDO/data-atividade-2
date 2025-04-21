@@ -1,0 +1,301 @@
+ID_Recurso,Tipo_Recurso,Nome_Recurso,Status,Localizacao_Atual
+REC0001,Veículo Pesado,Veículo Pesado 63,Disponível,Base Operacional 2
+REC0002,Ferramenta Especializada,Ferramenta Especializada 62,Em Uso,Base Operacional 1
+REC0003,Ferramenta Especializada,Ferramenta Especializada 64,Disponível,Base Operacional 2
+REC0004,Veículo Pesado,Veículo Pesado 73,Disponível,Garagem Central
+REC0005,Veículo Leve,Veículo Leve 71,Em Manutenção,Base Operacional 2
+REC0006,Equipamento de Teste,Equipamento de Teste 91,Em Manutenção,Base Operacional 1
+REC0007,Veículo Leve,Veículo Leve 93,Em Uso,Base Operacional 1
+REC0008,Equipamento de Teste,Equipamento de Teste 66,Disponível,Base Operacional 2
+REC0009,Veículo Pesado,Veículo Pesado 79,Disponível,Base Operacional 1
+REC0010,Veículo Leve,Veículo Leve 44,Disponível,Garagem Central
+REC0011,Ferramenta Especializada,Ferramenta Especializada 38,Em Uso,Base Operacional 2
+REC0012,Veículo Leve,Veículo Leve 63,Em Uso,Base Operacional 1
+REC0013,Ferramenta Especializada,Ferramenta Especializada 49,Em Uso,Base Operacional 1
+REC0014,Veículo Pesado,Veículo Pesado 82,Disponível,Base Operacional 2
+REC0015,Equipamento de Teste,Equipamento de Teste 27,Disponível,Base Operacional 2
+REC0016,Ferramenta Especializada,Ferramenta Especializada 25,Em Manutenção,Base Operacional 1
+REC0017,Veículo Leve,Veículo Leve 19,Em Uso,Base Operacional 2
+REC0018,Veículo Leve,Veículo Leve 16,Disponível,Base Operacional 2
+REC0019,Equipamento de Teste,Equipamento de Teste 66,Em Uso,Base Operacional 1
+REC0020,Veículo Leve,Veículo Leve 88,Disponível,Garagem Central
+REC0021,Veículo Leve,Veículo Leve 93,Disponível,Garagem Central
+REC0022,Veículo Pesado,Veículo Pesado 27,Disponível,Garagem Central
+REC0023,Ferramenta Especializada,Ferramenta Especializada 77,Em Manutenção,Base Operacional 1
+REC0024,Veículo Pesado,Veículo Pesado 69,Disponível,Base Operacional 2
+REC0025,Veículo Leve,Veículo Leve 66,Em Uso,Garagem Central
+REC0026,Equipamento de Teste,Equipamento de Teste 39,Disponível,Garagem Central
+REC0027,Veículo Pesado,Veículo Pesado 70,Disponível,Base Operacional 1
+REC0028,Veículo Leve,Veículo Leve 58,Disponível,Base Operacional 1
+REC0029,Ferramenta Especializada,Ferramenta Especializada 69,Em Manutenção,Garagem Central
+REC0030,Ferramenta Especializada,Ferramenta Especializada 24,Em Uso,Base Operacional 1
+REC0031,Veículo Leve,Veículo Leve 24,Em Manutenção,Base Operacional 1
+REC0032,Veículo Pesado,Veículo Pesado 88,Em Uso,Base Operacional 2
+REC0033,Veículo Leve,Veículo Leve 64,Disponível,Base Operacional 2
+REC0034,Veículo Pesado,Veículo Pesado 47,Em Uso,Base Operacional 1
+REC0035,Equipamento de Teste,Equipamento de Teste 22,Em Uso,Base Operacional 2
+REC0036,Veículo Leve,Veículo Leve 59,Em Uso,Garagem Central
+REC0037,Equipamento de Teste,Equipamento de Teste 69,Em Manutenção,Base Operacional 2
+REC0038,Ferramenta Especializada,Ferramenta Especializada 97,Em Manutenção,Base Operacional 2
+REC0039,Equipamento de Teste,Equipamento de Teste 88,Disponível,Garagem Central
+REC0040,Ferramenta Especializada,Ferramenta Especializada 72,Disponível,Base Operacional 1
+REC0041,Equipamento de Teste,Equipamento de Teste 57,Em Manutenção,Base Operacional 1
+REC0042,Veículo Pesado,Veículo Pesado 19,Em Uso,Base Operacional 1
+REC0043,Ferramenta Especializada,Ferramenta Especializada 65,Disponível,Garagem Central
+REC0044,Ferramenta Especializada,Ferramenta Especializada 91,Em Uso,Garagem Central
+REC0045,Ferramenta Especializada,Ferramenta Especializada 89,Em Manutenção,Base Operacional 1
+REC0046,Veículo Leve,Veículo Leve 54,Disponível,Garagem Central
+REC0047,Veículo Leve,Veículo Leve 23,Em Manutenção,Base Operacional 1
+REC0048,Veículo Leve,Veículo Leve 62,Disponível,Base Operacional 1
+REC0049,Veículo Pesado,Veículo Pesado 16,Disponível,Base Operacional 2
+REC0050,Veículo Pesado,Veículo Pesado 24,Em Manutenção,Base Operacional 1
+REC0051,Ferramenta Especializada,Ferramenta Especializada 73,Em Uso,Base Operacional 1
+REC0052,Veículo Pesado,Veículo Pesado 45,Disponível,Base Operacional 2
+REC0053,Ferramenta Especializada,Ferramenta Especializada 21,Em Manutenção,Base Operacional 2
+REC0054,Veículo Pesado,Veículo Pesado 82,Disponível,Garagem Central
+REC0055,Veículo Leve,Veículo Leve 55,Em Manutenção,Base Operacional 1
+REC0056,Veículo Leve,Veículo Leve 60,Disponível,Base Operacional 2
+REC0057,Ferramenta Especializada,Ferramenta Especializada 83,Em Uso,Garagem Central
+REC0058,Equipamento de Teste,Equipamento de Teste 64,Em Manutenção,Base Operacional 1
+REC0059,Veículo Pesado,Veículo Pesado 37,Em Manutenção,Base Operacional 1
+REC0060,Equipamento de Teste,Equipamento de Teste 34,Em Uso,Base Operacional 2
+REC0061,Ferramenta Especializada,Ferramenta Especializada 49,Disponível,Garagem Central
+REC0062,Veículo Leve,Veículo Leve 53,Disponível,Base Operacional 1
+REC0063,Veículo Leve,Veículo Leve 96,Em Uso,Base Operacional 1
+REC0064,Ferramenta Especializada,Ferramenta Especializada 69,Disponível,Garagem Central
+REC0065,Veículo Pesado,Veículo Pesado 15,Disponível,Base Operacional 1
+REC0066,Veículo Leve,Veículo Leve 46,Disponível,Garagem Central
+REC0067,Veículo Pesado,Veículo Pesado 27,Disponível,Base Operacional 2
+REC0068,Ferramenta Especializada,Ferramenta Especializada 39,Em Uso,Garagem Central
+REC0069,Veículo Pesado,Veículo Pesado 55,Em Uso,Base Operacional 2
+REC0070,Ferramenta Especializada,Ferramenta Especializada 73,Disponível,Base Operacional 2
+REC0071,Veículo Leve,Veículo Leve 89,Em Manutenção,Base Operacional 1
+REC0072,Veículo Leve,Veículo Leve 31,Em Manutenção,Garagem Central
+REC0073,Veículo Leve,Veículo Leve 59,Disponível,Base Operacional 2
+REC0074,Equipamento de Teste,Equipamento de Teste 81,Disponível,Base Operacional 1
+REC0075,Ferramenta Especializada,Ferramenta Especializada 41,Em Uso,Base Operacional 2
+REC0076,Ferramenta Especializada,Ferramenta Especializada 79,Disponível,Garagem Central
+REC0077,Veículo Leve,Veículo Leve 79,Em Manutenção,Base Operacional 2
+REC0078,Veículo Pesado,Veículo Pesado 32,Em Uso,Base Operacional 1
+REC0079,Equipamento de Teste,Equipamento de Teste 66,Em Uso,Base Operacional 1
+REC0080,Equipamento de Teste,Equipamento de Teste 95,Disponível,Base Operacional 2
+REC0081,Ferramenta Especializada,Ferramenta Especializada 73,Em Manutenção,Garagem Central
+REC0082,Equipamento de Teste,Equipamento de Teste 75,Em Uso,Garagem Central
+REC0083,Ferramenta Especializada,Ferramenta Especializada 73,Disponível,Base Operacional 1
+REC0084,Ferramenta Especializada,Ferramenta Especializada 47,Disponível,Base Operacional 2
+REC0085,Equipamento de Teste,Equipamento de Teste 95,Disponível,Base Operacional 2
+REC0086,Ferramenta Especializada,Ferramenta Especializada 56,Disponível,Base Operacional 2
+REC0087,Ferramenta Especializada,Ferramenta Especializada 74,Em Manutenção,Garagem Central
+REC0088,Veículo Leve,Veículo Leve 58,Em Uso,Base Operacional 1
+REC0089,Ferramenta Especializada,Ferramenta Especializada 54,Disponível,Base Operacional 1
+REC0090,Ferramenta Especializada,Ferramenta Especializada 45,Disponível,Base Operacional 1
+REC0091,Equipamento de Teste,Equipamento de Teste 60,Em Uso,Base Operacional 2
+REC0092,Ferramenta Especializada,Ferramenta Especializada 88,Em Uso,Garagem Central
+REC0093,Veículo Pesado,Veículo Pesado 51,Disponível,Base Operacional 2
+REC0094,Veículo Pesado,Veículo Pesado 77,Em Uso,Base Operacional 2
+REC0095,Veículo Pesado,Veículo Pesado 65,Em Manutenção,Garagem Central
+REC0096,Veículo Leve,Veículo Leve 39,Disponível,Garagem Central
+REC0097,Ferramenta Especializada,Ferramenta Especializada 77,Disponível,Garagem Central
+REC0098,Veículo Leve,Veículo Leve 63,Disponível,Garagem Central
+REC0099,Veículo Leve,Veículo Leve 33,Em Manutenção,Base Operacional 2
+REC0100,Ferramenta Especializada,Ferramenta Especializada 39,Em Manutenção,Base Operacional 2
+REC0101,Ferramenta Especializada,Ferramenta Especializada 77,Disponível,Base Operacional 1
+REC0102,Veículo Pesado,Veículo Pesado 20,Em Uso,Base Operacional 2
+REC0103,Veículo Leve,Veículo Leve 95,Em Manutenção,Base Operacional 2
+REC0104,Equipamento de Teste,Equipamento de Teste 43,Disponível,Base Operacional 1
+REC0105,Equipamento de Teste,Equipamento de Teste 50,Em Uso,Base Operacional 2
+REC0106,Equipamento de Teste,Equipamento de Teste 43,Disponível,Base Operacional 2
+REC0107,Ferramenta Especializada,Ferramenta Especializada 71,Em Manutenção,Garagem Central
+REC0108,Veículo Pesado,Veículo Pesado 75,Disponível,Base Operacional 2
+REC0109,Equipamento de Teste,Equipamento de Teste 12,Em Manutenção,Base Operacional 2
+REC0110,Veículo Pesado,Veículo Pesado 56,Em Uso,Base Operacional 1
+REC0111,Ferramenta Especializada,Ferramenta Especializada 20,Disponível,Base Operacional 2
+REC0112,Equipamento de Teste,Equipamento de Teste 17,Disponível,Base Operacional 1
+REC0113,Ferramenta Especializada,Ferramenta Especializada 91,Disponível,Garagem Central
+REC0114,Veículo Pesado,Veículo Pesado 38,Em Manutenção,Garagem Central
+REC0115,Veículo Pesado,Veículo Pesado 29,Em Manutenção,Base Operacional 1
+REC0116,Veículo Leve,Veículo Leve 29,Em Manutenção,Base Operacional 2
+REC0117,Veículo Leve,Veículo Leve 45,Em Uso,Base Operacional 1
+REC0118,Veículo Pesado,Veículo Pesado 69,Disponível,Base Operacional 2
+REC0119,Veículo Pesado,Veículo Pesado 51,Em Manutenção,Base Operacional 2
+REC0120,Ferramenta Especializada,Ferramenta Especializada 13,Disponível,Garagem Central
+REC0121,Veículo Pesado,Veículo Pesado 45,Disponível,Base Operacional 1
+REC0122,Equipamento de Teste,Equipamento de Teste 82,Em Uso,Base Operacional 2
+REC0123,Equipamento de Teste,Equipamento de Teste 22,Em Uso,Garagem Central
+REC0124,Veículo Leve,Veículo Leve 93,Em Uso,Garagem Central
+REC0125,Veículo Leve,Veículo Leve 78,Em Uso,Base Operacional 2
+REC0126,Ferramenta Especializada,Ferramenta Especializada 38,Em Manutenção,Garagem Central
+REC0127,Ferramenta Especializada,Ferramenta Especializada 62,Em Manutenção,Garagem Central
+REC0128,Veículo Pesado,Veículo Pesado 74,Disponível,Garagem Central
+REC0129,Ferramenta Especializada,Ferramenta Especializada 51,Disponível,Garagem Central
+REC0130,Equipamento de Teste,Equipamento de Teste 20,Disponível,Base Operacional 2
+REC0131,Veículo Leve,Veículo Leve 77,Em Uso,Base Operacional 2
+REC0132,Veículo Pesado,Veículo Pesado 21,Disponível,Base Operacional 2
+REC0133,Veículo Pesado,Veículo Pesado 25,Em Uso,Garagem Central
+REC0134,Equipamento de Teste,Equipamento de Teste 66,Em Uso,Garagem Central
+REC0135,Veículo Leve,Veículo Leve 89,Em Manutenção,Garagem Central
+REC0136,Ferramenta Especializada,Ferramenta Especializada 75,Disponível,Base Operacional 2
+REC0137,Veículo Pesado,Veículo Pesado 71,Em Manutenção,Garagem Central
+REC0138,Veículo Leve,Veículo Leve 83,Em Uso,Garagem Central
+REC0139,Equipamento de Teste,Equipamento de Teste 39,Disponível,Base Operacional 1
+REC0140,Ferramenta Especializada,Ferramenta Especializada 59,Em Manutenção,Base Operacional 2
+REC0141,Veículo Pesado,Veículo Pesado 58,Em Manutenção,Base Operacional 2
+REC0142,Veículo Leve,Veículo Leve 98,Em Uso,Base Operacional 1
+REC0143,Veículo Pesado,Veículo Pesado 50,Em Manutenção,Garagem Central
+REC0144,Equipamento de Teste,Equipamento de Teste 94,Disponível,Garagem Central
+REC0145,Veículo Pesado,Veículo Pesado 29,Em Manutenção,Base Operacional 2
+REC0146,Equipamento de Teste,Equipamento de Teste 71,Em Uso,Garagem Central
+REC0147,Equipamento de Teste,Equipamento de Teste 41,Disponível,Garagem Central
+REC0148,Equipamento de Teste,Equipamento de Teste 69,Disponível,Base Operacional 2
+REC0149,Equipamento de Teste,Equipamento de Teste 39,Disponível,Garagem Central
+REC0150,Equipamento de Teste,Equipamento de Teste 16,Disponível,Garagem Central
+REC0151,Veículo Leve,Veículo Leve 75,Em Uso,Garagem Central
+REC0152,Veículo Pesado,Veículo Pesado 44,Em Uso,Garagem Central
+REC0153,Veículo Pesado,Veículo Pesado 21,Em Manutenção,Base Operacional 2
+REC0154,Equipamento de Teste,Equipamento de Teste 79,Em Manutenção,Base Operacional 1
+REC0155,Ferramenta Especializada,Ferramenta Especializada 52,Disponível,Base Operacional 2
+REC0156,Ferramenta Especializada,Ferramenta Especializada 16,Disponível,Garagem Central
+REC0157,Equipamento de Teste,Equipamento de Teste 56,Disponível,Garagem Central
+REC0158,Equipamento de Teste,Equipamento de Teste 60,Em Uso,Garagem Central
+REC0159,Ferramenta Especializada,Ferramenta Especializada 94,Disponível,Garagem Central
+REC0160,Ferramenta Especializada,Ferramenta Especializada 11,Em Uso,Base Operacional 1
+REC0161,Ferramenta Especializada,Ferramenta Especializada 34,Em Manutenção,Base Operacional 1
+REC0162,Equipamento de Teste,Equipamento de Teste 70,Em Uso,Garagem Central
+REC0163,Veículo Pesado,Veículo Pesado 46,Em Manutenção,Base Operacional 2
+REC0164,Veículo Pesado,Veículo Pesado 65,Disponível,Garagem Central
+REC0165,Veículo Leve,Veículo Leve 51,Disponível,Base Operacional 1
+REC0166,Veículo Leve,Veículo Leve 26,Disponível,Base Operacional 1
+REC0167,Ferramenta Especializada,Ferramenta Especializada 67,Em Uso,Base Operacional 2
+REC0168,Veículo Pesado,Veículo Pesado 15,Em Manutenção,Base Operacional 1
+REC0169,Veículo Leve,Veículo Leve 54,Em Manutenção,Base Operacional 2
+REC0170,Equipamento de Teste,Equipamento de Teste 56,Em Uso,Garagem Central
+REC0171,Ferramenta Especializada,Ferramenta Especializada 85,Em Manutenção,Base Operacional 1
+REC0172,Veículo Pesado,Veículo Pesado 99,Em Uso,Base Operacional 2
+REC0173,Veículo Leve,Veículo Leve 42,Disponível,Base Operacional 1
+REC0174,Veículo Pesado,Veículo Pesado 17,Em Manutenção,Base Operacional 1
+REC0175,Veículo Pesado,Veículo Pesado 12,Disponível,Garagem Central
+REC0176,Ferramenta Especializada,Ferramenta Especializada 61,Em Uso,Base Operacional 2
+REC0177,Veículo Pesado,Veículo Pesado 89,Em Uso,Garagem Central
+REC0178,Veículo Leve,Veículo Leve 41,Disponível,Base Operacional 1
+REC0179,Veículo Pesado,Veículo Pesado 99,Em Uso,Garagem Central
+REC0180,Veículo Leve,Veículo Leve 74,Em Manutenção,Garagem Central
+REC0181,Ferramenta Especializada,Ferramenta Especializada 67,Disponível,Base Operacional 2
+REC0182,Veículo Pesado,Veículo Pesado 42,Disponível,Base Operacional 2
+REC0183,Veículo Leve,Veículo Leve 78,Em Manutenção,Garagem Central
+REC0184,Ferramenta Especializada,Ferramenta Especializada 46,Em Manutenção,Base Operacional 2
+REC0185,Veículo Leve,Veículo Leve 32,Disponível,Garagem Central
+REC0186,Equipamento de Teste,Equipamento de Teste 91,Disponível,Garagem Central
+REC0187,Veículo Pesado,Veículo Pesado 39,Disponível,Garagem Central
+REC0188,Ferramenta Especializada,Ferramenta Especializada 64,Em Manutenção,Base Operacional 1
+REC0189,Veículo Leve,Veículo Leve 83,Disponível,Base Operacional 2
+REC0190,Veículo Leve,Veículo Leve 65,Em Manutenção,Base Operacional 1
+REC0191,Ferramenta Especializada,Ferramenta Especializada 63,Disponível,Garagem Central
+REC0192,Veículo Pesado,Veículo Pesado 86,Disponível,Base Operacional 1
+REC0193,Veículo Pesado,Veículo Pesado 17,Em Manutenção,Base Operacional 2
+REC0194,Equipamento de Teste,Equipamento de Teste 13,Em Uso,Garagem Central
+REC0195,Veículo Leve,Veículo Leve 22,Em Uso,Base Operacional 1
+REC0196,Equipamento de Teste,Equipamento de Teste 73,Em Manutenção,Garagem Central
+REC0197,Veículo Leve,Veículo Leve 68,Em Uso,Base Operacional 1
+REC0198,Veículo Pesado,Veículo Pesado 37,Em Manutenção,Base Operacional 1
+REC0199,Veículo Leve,Veículo Leve 41,Em Uso,Base Operacional 2
+REC0200,Equipamento de Teste,Equipamento de Teste 11,Disponível,Garagem Central
+REC0201,Ferramenta Especializada,Ferramenta Especializada 30,Em Manutenção,Garagem Central
+REC0202,Veículo Leve,Veículo Leve 31,Em Manutenção,Garagem Central
+REC0203,Veículo Leve,Veículo Leve 85,Em Uso,Base Operacional 1
+REC0204,Veículo Pesado,Veículo Pesado 80,Em Manutenção,Base Operacional 2
+REC0205,Equipamento de Teste,Equipamento de Teste 83,Disponível,Garagem Central
+REC0206,Veículo Pesado,Veículo Pesado 27,Disponível,Base Operacional 2
+REC0207,Equipamento de Teste,Equipamento de Teste 90,Em Uso,Base Operacional 1
+REC0208,Equipamento de Teste,Equipamento de Teste 39,Disponível,Base Operacional 2
+REC0209,Veículo Pesado,Veículo Pesado 15,Disponível,Garagem Central
+REC0210,Veículo Pesado,Veículo Pesado 89,Em Manutenção,Base Operacional 1
+REC0211,Equipamento de Teste,Equipamento de Teste 19,Em Manutenção,Base Operacional 1
+REC0212,Veículo Pesado,Veículo Pesado 72,Em Uso,Base Operacional 2
+REC0213,Ferramenta Especializada,Ferramenta Especializada 39,Em Manutenção,Garagem Central
+REC0214,Veículo Pesado,Veículo Pesado 48,Disponível,Base Operacional 1
+REC0215,Equipamento de Teste,Equipamento de Teste 74,Em Uso,Base Operacional 1
+REC0216,Veículo Pesado,Veículo Pesado 35,Disponível,Base Operacional 1
+REC0217,Ferramenta Especializada,Ferramenta Especializada 32,Em Manutenção,Garagem Central
+REC0218,Equipamento de Teste,Equipamento de Teste 34,Disponível,Base Operacional 2
+REC0219,Veículo Pesado,Veículo Pesado 96,Em Manutenção,Base Operacional 1
+REC0220,Equipamento de Teste,Equipamento de Teste 66,Disponível,Base Operacional 1
+REC0221,Ferramenta Especializada,Ferramenta Especializada 52,Disponível,Garagem Central
+REC0222,Equipamento de Teste,Equipamento de Teste 34,Em Uso,Base Operacional 1
+REC0223,Ferramenta Especializada,Ferramenta Especializada 96,Em Manutenção,Base Operacional 1
+REC0224,Equipamento de Teste,Equipamento de Teste 72,Em Uso,Base Operacional 2
+REC0225,Veículo Pesado,Veículo Pesado 15,Disponível,Base Operacional 2
+REC0226,Ferramenta Especializada,Ferramenta Especializada 43,Em Uso,Garagem Central
+REC0227,Ferramenta Especializada,Ferramenta Especializada 29,Em Manutenção,Base Operacional 1
+REC0228,Equipamento de Teste,Equipamento de Teste 92,Disponível,Base Operacional 2
+REC0229,Veículo Pesado,Veículo Pesado 20,Disponível,Base Operacional 2
+REC0230,Veículo Leve,Veículo Leve 44,Em Uso,Base Operacional 1
+REC0231,Veículo Leve,Veículo Leve 72,Em Uso,Garagem Central
+REC0232,Equipamento de Teste,Equipamento de Teste 89,Em Uso,Base Operacional 2
+REC0233,Ferramenta Especializada,Ferramenta Especializada 21,Disponível,Garagem Central
+REC0234,Ferramenta Especializada,Ferramenta Especializada 11,Em Uso,Base Operacional 2
+REC0235,Ferramenta Especializada,Ferramenta Especializada 15,Disponível,Garagem Central
+REC0236,Equipamento de Teste,Equipamento de Teste 44,Disponível,Garagem Central
+REC0237,Veículo Pesado,Veículo Pesado 27,Em Uso,Base Operacional 1
+REC0238,Veículo Leve,Veículo Leve 24,Em Uso,Base Operacional 1
+REC0239,Equipamento de Teste,Equipamento de Teste 86,Disponível,Base Operacional 2
+REC0240,Ferramenta Especializada,Ferramenta Especializada 90,Em Manutenção,Garagem Central
+REC0241,Veículo Leve,Veículo Leve 22,Disponível,Base Operacional 2
+REC0242,Equipamento de Teste,Equipamento de Teste 95,Em Manutenção,Base Operacional 2
+REC0243,Ferramenta Especializada,Ferramenta Especializada 15,Em Uso,Base Operacional 1
+REC0244,Veículo Pesado,Veículo Pesado 79,Disponível,Base Operacional 1
+REC0245,Veículo Pesado,Veículo Pesado 57,Disponível,Garagem Central
+REC0246,Equipamento de Teste,Equipamento de Teste 10,Em Uso,Base Operacional 2
+REC0247,Veículo Pesado,Veículo Pesado 24,Em Manutenção,Base Operacional 1
+REC0248,Ferramenta Especializada,Ferramenta Especializada 51,Disponível,Garagem Central
+REC0249,Equipamento de Teste,Equipamento de Teste 73,Em Uso,Base Operacional 1
+REC0250,Equipamento de Teste,Equipamento de Teste 95,Disponível,Base Operacional 1
+REC0251,Veículo Pesado,Veículo Pesado 42,Em Manutenção,Base Operacional 2
+REC0252,Equipamento de Teste,Equipamento de Teste 36,Em Uso,Base Operacional 2
+REC0253,Veículo Pesado,Veículo Pesado 99,Em Uso,Base Operacional 2
+REC0254,Veículo Leve,Veículo Leve 25,Disponível,Base Operacional 1
+REC0255,Equipamento de Teste,Equipamento de Teste 83,Em Uso,Base Operacional 2
+REC0256,Ferramenta Especializada,Ferramenta Especializada 57,Disponível,Base Operacional 1
+REC0257,Veículo Leve,Veículo Leve 44,Em Manutenção,Base Operacional 2
+REC0258,Veículo Leve,Veículo Leve 29,Disponível,Base Operacional 2
+REC0259,Equipamento de Teste,Equipamento de Teste 96,Em Manutenção,Base Operacional 1
+REC0260,Veículo Pesado,Veículo Pesado 78,Em Manutenção,Garagem Central
+REC0261,Ferramenta Especializada,Ferramenta Especializada 28,Em Manutenção,Base Operacional 1
+REC0262,Equipamento de Teste,Equipamento de Teste 90,Disponível,Base Operacional 2
+REC0263,Veículo Pesado,Veículo Pesado 48,Em Uso,Garagem Central
+REC0264,Ferramenta Especializada,Ferramenta Especializada 25,Em Manutenção,Base Operacional 2
+REC0265,Equipamento de Teste,Equipamento de Teste 29,Em Uso,Base Operacional 2
+REC0266,Equipamento de Teste,Equipamento de Teste 96,Disponível,Garagem Central
+REC0267,Veículo Pesado,Veículo Pesado 46,Disponível,Base Operacional 2
+REC0268,Veículo Leve,Veículo Leve 79,Em Uso,Garagem Central
+REC0269,Ferramenta Especializada,Ferramenta Especializada 49,Disponível,Base Operacional 2
+REC0270,Equipamento de Teste,Equipamento de Teste 71,Disponível,Garagem Central
+REC0271,Veículo Pesado,Veículo Pesado 50,Em Uso,Garagem Central
+REC0272,Ferramenta Especializada,Ferramenta Especializada 89,Em Uso,Base Operacional 1
+REC0273,Veículo Leve,Veículo Leve 22,Disponível,Garagem Central
+REC0274,Veículo Leve,Veículo Leve 23,Disponível,Garagem Central
+REC0275,Ferramenta Especializada,Ferramenta Especializada 72,Disponível,Garagem Central
+REC0276,Veículo Pesado,Veículo Pesado 78,Disponível,Garagem Central
+REC0277,Veículo Pesado,Veículo Pesado 53,Disponível,Garagem Central
+REC0278,Ferramenta Especializada,Ferramenta Especializada 41,Em Manutenção,Base Operacional 1
+REC0279,Equipamento de Teste,Equipamento de Teste 12,Disponível,Base Operacional 1
+REC0280,Ferramenta Especializada,Ferramenta Especializada 41,Em Uso,Garagem Central
+REC0281,Ferramenta Especializada,Ferramenta Especializada 78,Disponível,Garagem Central
+REC0282,Veículo Leve,Veículo Leve 97,Em Manutenção,Base Operacional 1
+REC0283,Ferramenta Especializada,Ferramenta Especializada 28,Em Uso,Base Operacional 1
+REC0284,Equipamento de Teste,Equipamento de Teste 37,Disponível,Garagem Central
+REC0285,Veículo Leve,Veículo Leve 80,Em Uso,Garagem Central
+REC0286,Veículo Leve,Veículo Leve 33,Em Manutenção,Base Operacional 1
+REC0287,Equipamento de Teste,Equipamento de Teste 49,Em Uso,Base Operacional 2
+REC0288,Equipamento de Teste,Equipamento de Teste 20,Disponível,Base Operacional 1
+REC0289,Ferramenta Especializada,Ferramenta Especializada 46,Em Manutenção,Base Operacional 2
+REC0290,Veículo Pesado,Veículo Pesado 51,Em Manutenção,Base Operacional 1
+REC0291,Equipamento de Teste,Equipamento de Teste 76,Em Uso,Base Operacional 2
+REC0292,Ferramenta Especializada,Ferramenta Especializada 95,Em Manutenção,Base Operacional 1
+REC0293,Veículo Leve,Veículo Leve 82,Em Manutenção,Garagem Central
+REC0294,Veículo Leve,Veículo Leve 23,Em Uso,Garagem Central
+REC0295,Veículo Pesado,Veículo Pesado 10,Em Uso,Base Operacional 2
+REC0296,Ferramenta Especializada,Ferramenta Especializada 32,Em Uso,Base Operacional 1
+REC0297,Ferramenta Especializada,Ferramenta Especializada 15,Disponível,Garagem Central
+REC0298,Ferramenta Especializada,Ferramenta Especializada 97,Disponível,Garagem Central
+REC0299,Veículo Pesado,Veículo Pesado 97,Disponível,Base Operacional 1
+REC0300,Veículo Leve,Veículo Leve 59,Em Uso,Base Operacional 2

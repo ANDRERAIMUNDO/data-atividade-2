@@ -1,0 +1,801 @@
+ID_Ativo,Tipo_Ativo,Numero_Serie,Data_Instalacao,Localizacao,Status
+ATIV0001,Transformador,TRA-5362,2022-08-20 04:42:52,"Rua Y, 123",Em Manutenção
+ATIV0002,Transformador,TRA-3268,2018-01-24 09:50:53,Subestação A,Inativo
+ATIV0003,Medidor de Energia,MED-4958,2020-02-03 01:36:18,"Rua Y, 123",Operacional
+ATIV0004,Medidor de Energia,MED-2913,2020-12-29 03:18:47,Subestação A,Em Manutenção
+ATIV0005,Transformador,TRA-4378,2021-11-02 10:59:25,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0006,Cabo de Alta Tensão,CAB-7204,2021-09-18 22:04:40,"Rua Y, 123",Operacional
+ATIV0007,Medidor de Energia,MED-5499,2019-11-07 01:05:27,Subestação A,Operacional
+ATIV0008,Cabo de Alta Tensão,CAB-6707,2021-02-24 15:49:58,"Rua Y, 123",Inativo
+ATIV0009,Cabo de Alta Tensão,CAB-7740,2018-05-15 03:04:12,Posto Z - Saída 5,Em Manutenção
+ATIV0010,Cabo de Alta Tensão,CAB-5670,2019-02-19 07:31:48,Posto Z - Saída 5,Em Manutenção
+ATIV0011,Medidor de Energia,MED-4034,2018-12-08 22:56:07,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0012,Medidor de Energia,MED-3838,2021-07-14 17:06:46,"Rua Y, 123",Operacional
+ATIV0013,Transformador,TRA-8810,2022-07-06 16:59:46,Posto Z - Saída 5,Em Manutenção
+ATIV0014,Transformador,TRA-6216,2019-12-07 02:46:29,"Rua Y, 123",Inativo
+ATIV0015,Chave Seccionadora,CHA-4167,2022-06-21 23:55:51,Posto Z - Saída 5,Operacional
+ATIV0016,Poste,POS-9954,2020-06-28 02:46:38,Subestação A,Inativo
+ATIV0017,Medidor de Energia,MED-7604,2020-02-05 22:25:58,"Rua Y, 123",Em Manutenção
+ATIV0018,Cabo de Alta Tensão,CAB-4174,2019-03-04 07:15:12,Posto Z - Saída 5,Inativo
+ATIV0019,Medidor de Energia,MED-9932,2020-01-17 15:28:13,"Rua Y, 123",Inativo
+ATIV0020,Chave Seccionadora,CHA-9559,2018-12-19 18:30:17,Subestação A,Inativo
+ATIV0021,Chave Seccionadora,CHA-6797,2022-05-19 11:25:06,Posto Z - Saída 5,Inativo
+ATIV0022,Cabo de Alta Tensão,CAB-7097,2018-05-22 14:26:49,Posto Z - Saída 5,Operacional
+ATIV0023,Transformador,TRA-6442,2021-02-23 12:55:02,"Rua Y, 123",Operacional
+ATIV0024,Cabo de Alta Tensão,CAB-4528,2021-06-08 23:11:32,Subestação A,Inativo
+ATIV0025,Chave Seccionadora,CHA-6548,2022-10-09 11:12:35,"Rua Y, 123",Em Manutenção
+ATIV0026,Poste,POS-4127,2019-05-30 11:37:14,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0027,Chave Seccionadora,CHA-4051,2020-08-13 17:12:56,Posto Z - Saída 5,Operacional
+ATIV0028,Cabo de Alta Tensão,CAB-3624,2020-08-22 02:39:21,Posto Z - Saída 5,Inativo
+ATIV0029,Chave Seccionadora,CHA-8337,2020-03-07 04:06:40,"Rua Y, 123",Operacional
+ATIV0030,Poste,POS-8360,2022-04-13 03:37:15,Posto Z - Saída 5,Em Manutenção
+ATIV0031,Poste,POS-2794,2018-03-27 17:11:09,Subestação A,Operacional
+ATIV0032,Poste,POS-8184,2021-07-19 00:52:21,Linha de Transmissão X - Km 10,Inativo
+ATIV0033,Cabo de Alta Tensão,CAB-3592,2020-05-07 15:51:19,Posto Z - Saída 5,Inativo
+ATIV0034,Chave Seccionadora,CHA-2413,2022-07-29 10:00:32,Subestação A,Em Manutenção
+ATIV0035,Chave Seccionadora,CHA-5636,2021-07-09 21:48:16,Linha de Transmissão X - Km 10,Inativo
+ATIV0036,Cabo de Alta Tensão,CAB-2280,2020-01-22 11:14:27,Posto Z - Saída 5,Operacional
+ATIV0037,Poste,POS-8368,2022-11-24 22:34:30,Posto Z - Saída 5,Em Manutenção
+ATIV0038,Medidor de Energia,MED-2889,2022-06-06 19:25:21,Subestação A,Inativo
+ATIV0039,Medidor de Energia,MED-4367,2019-05-23 05:00:20,Linha de Transmissão X - Km 10,Inativo
+ATIV0040,Medidor de Energia,MED-2250,2020-02-13 18:58:50,Subestação A,Em Manutenção
+ATIV0041,Poste,POS-2058,2021-09-05 18:36:25,Subestação A,Em Manutenção
+ATIV0042,Poste,POS-9265,2022-11-09 14:44:41,Posto Z - Saída 5,Operacional
+ATIV0043,Transformador,TRA-9777,2020-05-26 14:10:59,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0044,Medidor de Energia,MED-3807,2019-04-24 09:44:49,"Rua Y, 123",Operacional
+ATIV0045,Medidor de Energia,MED-7351,2019-12-28 03:08:17,"Rua Y, 123",Inativo
+ATIV0046,Chave Seccionadora,CHA-8542,2020-03-14 12:16:05,"Rua Y, 123",Em Manutenção
+ATIV0047,Poste,POS-4299,2022-02-12 06:02:23,Posto Z - Saída 5,Inativo
+ATIV0048,Cabo de Alta Tensão,CAB-6776,2020-03-28 20:53:46,Posto Z - Saída 5,Inativo
+ATIV0049,Medidor de Energia,MED-2670,2022-08-18 09:57:27,Posto Z - Saída 5,Em Manutenção
+ATIV0050,Cabo de Alta Tensão,CAB-8841,2021-01-30 00:34:31,Subestação A,Em Manutenção
+ATIV0051,Chave Seccionadora,CHA-5052,2018-08-30 14:05:34,Posto Z - Saída 5,Em Manutenção
+ATIV0052,Medidor de Energia,MED-4258,2018-06-12 19:52:13,Subestação A,Inativo
+ATIV0053,Poste,POS-5598,2022-12-29 00:08:16,Posto Z - Saída 5,Inativo
+ATIV0054,Poste,POS-8910,2019-10-11 17:51:58,Posto Z - Saída 5,Em Manutenção
+ATIV0055,Poste,POS-9054,2019-12-11 19:27:53,"Rua Y, 123",Inativo
+ATIV0056,Transformador,TRA-2538,2020-01-27 08:49:51,Posto Z - Saída 5,Operacional
+ATIV0057,Chave Seccionadora,CHA-8419,2018-12-31 06:32:15,Posto Z - Saída 5,Operacional
+ATIV0058,Chave Seccionadora,CHA-7218,2018-10-04 20:50:06,Linha de Transmissão X - Km 10,Inativo
+ATIV0059,Transformador,TRA-2108,2020-04-27 11:54:55,Posto Z - Saída 5,Em Manutenção
+ATIV0060,Medidor de Energia,MED-5753,2021-04-21 10:11:10,Posto Z - Saída 5,Em Manutenção
+ATIV0061,Chave Seccionadora,CHA-7529,2019-11-18 16:14:40,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0062,Medidor de Energia,MED-6995,2019-06-14 22:34:36,Posto Z - Saída 5,Em Manutenção
+ATIV0063,Poste,POS-9786,2019-11-30 18:52:48,Posto Z - Saída 5,Inativo
+ATIV0064,Poste,POS-5736,2022-09-01 23:36:16,Subestação A,Inativo
+ATIV0065,Transformador,TRA-1445,2021-03-03 01:54:56,"Rua Y, 123",Operacional
+ATIV0066,Transformador,TRA-4324,2020-12-21 16:38:59,Linha de Transmissão X - Km 10,Operacional
+ATIV0067,Cabo de Alta Tensão,CAB-6053,2018-10-29 04:33:35,"Rua Y, 123",Inativo
+ATIV0068,Medidor de Energia,MED-3800,2019-09-17 18:26:00,"Rua Y, 123",Em Manutenção
+ATIV0069,Poste,POS-5503,2022-06-28 11:22:18,Linha de Transmissão X - Km 10,Operacional
+ATIV0070,Transformador,TRA-8377,2020-08-24 14:15:11,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0071,Chave Seccionadora,CHA-6482,2019-03-15 01:51:33,Linha de Transmissão X - Km 10,Operacional
+ATIV0072,Transformador,TRA-8784,2022-02-16 09:23:25,"Rua Y, 123",Em Manutenção
+ATIV0073,Cabo de Alta Tensão,CAB-6869,2019-02-11 06:47:23,Subestação A,Inativo
+ATIV0074,Transformador,TRA-5511,2018-03-23 10:32:16,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0075,Chave Seccionadora,CHA-1777,2019-07-30 13:50:32,"Rua Y, 123",Em Manutenção
+ATIV0076,Medidor de Energia,MED-4044,2019-10-17 13:04:20,Subestação A,Inativo
+ATIV0077,Cabo de Alta Tensão,CAB-3181,2019-05-15 16:03:37,Posto Z - Saída 5,Em Manutenção
+ATIV0078,Chave Seccionadora,CHA-2622,2021-02-25 22:57:28,Linha de Transmissão X - Km 10,Inativo
+ATIV0079,Medidor de Energia,MED-5639,2022-10-03 10:47:32,"Rua Y, 123",Operacional
+ATIV0080,Poste,POS-3362,2018-09-04 16:11:10,Posto Z - Saída 5,Em Manutenção
+ATIV0081,Chave Seccionadora,CHA-4049,2020-11-06 16:37:36,Posto Z - Saída 5,Operacional
+ATIV0082,Medidor de Energia,MED-8981,2020-05-22 08:14:20,"Rua Y, 123",Inativo
+ATIV0083,Poste,POS-1447,2018-12-13 13:29:56,Linha de Transmissão X - Km 10,Operacional
+ATIV0084,Transformador,TRA-5963,2018-11-26 01:15:45,"Rua Y, 123",Operacional
+ATIV0085,Cabo de Alta Tensão,CAB-1462,2022-07-31 07:55:29,Posto Z - Saída 5,Operacional
+ATIV0086,Chave Seccionadora,CHA-4793,2021-10-22 03:04:31,Posto Z - Saída 5,Em Manutenção
+ATIV0087,Cabo de Alta Tensão,CAB-5841,2018-03-30 21:36:47,Posto Z - Saída 5,Em Manutenção
+ATIV0088,Chave Seccionadora,CHA-4296,2019-08-16 02:29:31,Subestação A,Operacional
+ATIV0089,Cabo de Alta Tensão,CAB-9138,2019-01-13 22:20:54,"Rua Y, 123",Em Manutenção
+ATIV0090,Medidor de Energia,MED-8371,2019-05-20 17:16:04,Linha de Transmissão X - Km 10,Inativo
+ATIV0091,Cabo de Alta Tensão,CAB-2835,2019-04-06 21:01:16,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0092,Poste,POS-6454,2019-04-16 02:26:22,"Rua Y, 123",Em Manutenção
+ATIV0093,Cabo de Alta Tensão,CAB-2396,2022-10-29 06:04:36,Posto Z - Saída 5,Inativo
+ATIV0094,Poste,POS-5578,2022-04-24 11:13:41,"Rua Y, 123",Inativo
+ATIV0095,Medidor de Energia,MED-5237,2020-12-08 11:14:09,Posto Z - Saída 5,Em Manutenção
+ATIV0096,Cabo de Alta Tensão,CAB-9798,2020-03-18 10:55:12,"Rua Y, 123",Operacional
+ATIV0097,Transformador,TRA-7339,2019-07-02 20:46:54,"Rua Y, 123",Operacional
+ATIV0098,Cabo de Alta Tensão,CAB-1151,2019-03-09 05:06:19,Subestação A,Operacional
+ATIV0099,Chave Seccionadora,CHA-2887,2019-01-25 06:05:24,"Rua Y, 123",Inativo
+ATIV0100,Medidor de Energia,MED-6114,2018-09-24 12:42:26,Subestação A,Em Manutenção
+ATIV0101,Poste,POS-1778,2018-08-07 17:52:48,Posto Z - Saída 5,Operacional
+ATIV0102,Transformador,TRA-9638,2021-11-30 22:19:22,Linha de Transmissão X - Km 10,Inativo
+ATIV0103,Transformador,TRA-9372,2022-02-10 06:37:50,Subestação A,Operacional
+ATIV0104,Poste,POS-9798,2020-06-13 13:36:30,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0105,Cabo de Alta Tensão,CAB-6573,2021-09-29 15:54:44,Subestação A,Em Manutenção
+ATIV0106,Chave Seccionadora,CHA-5049,2020-07-29 06:47:39,Linha de Transmissão X - Km 10,Inativo
+ATIV0107,Transformador,TRA-8937,2018-10-26 15:26:20,Posto Z - Saída 5,Em Manutenção
+ATIV0108,Poste,POS-4251,2019-06-10 13:28:00,"Rua Y, 123",Inativo
+ATIV0109,Transformador,TRA-4935,2019-07-06 02:41:06,Posto Z - Saída 5,Inativo
+ATIV0110,Medidor de Energia,MED-9066,2022-06-20 11:04:35,Subestação A,Inativo
+ATIV0111,Transformador,TRA-5520,2018-06-17 20:40:16,Subestação A,Operacional
+ATIV0112,Medidor de Energia,MED-3755,2021-02-24 17:16:57,Subestação A,Em Manutenção
+ATIV0113,Medidor de Energia,MED-4196,2022-07-28 01:22:36,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0114,Cabo de Alta Tensão,CAB-4502,2021-03-05 05:08:20,Subestação A,Em Manutenção
+ATIV0115,Medidor de Energia,MED-4454,2020-01-15 23:46:04,"Rua Y, 123",Em Manutenção
+ATIV0116,Cabo de Alta Tensão,CAB-4872,2018-06-22 01:56:56,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0117,Chave Seccionadora,CHA-1227,2019-05-20 03:34:21,"Rua Y, 123",Operacional
+ATIV0118,Poste,POS-8492,2018-03-24 15:37:03,Linha de Transmissão X - Km 10,Operacional
+ATIV0119,Poste,POS-5911,2021-07-21 19:15:33,Linha de Transmissão X - Km 10,Operacional
+ATIV0120,Medidor de Energia,MED-1655,2019-11-28 19:08:04,Posto Z - Saída 5,Inativo
+ATIV0121,Poste,POS-3397,2021-09-28 21:24:31,Posto Z - Saída 5,Operacional
+ATIV0122,Poste,POS-2782,2018-02-16 05:04:22,"Rua Y, 123",Em Manutenção
+ATIV0123,Medidor de Energia,MED-8461,2019-09-03 04:38:08,Linha de Transmissão X - Km 10,Inativo
+ATIV0124,Transformador,TRA-6896,2019-05-04 11:13:44,"Rua Y, 123",Em Manutenção
+ATIV0125,Transformador,TRA-5618,2019-03-16 03:50:23,Linha de Transmissão X - Km 10,Operacional
+ATIV0126,Poste,POS-6078,2018-06-29 16:02:01,Subestação A,Inativo
+ATIV0127,Transformador,TRA-1188,2021-08-18 16:58:14,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0128,Cabo de Alta Tensão,CAB-5517,2019-02-02 10:02:08,Subestação A,Inativo
+ATIV0129,Transformador,TRA-7269,2021-10-20 07:27:02,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0130,Poste,POS-4402,2020-09-03 17:36:58,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0131,Poste,POS-1667,2018-06-02 21:09:24,Posto Z - Saída 5,Inativo
+ATIV0132,Cabo de Alta Tensão,CAB-4658,2020-12-17 13:05:57,Posto Z - Saída 5,Em Manutenção
+ATIV0133,Cabo de Alta Tensão,CAB-8416,2019-10-02 03:07:53,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0134,Poste,POS-5042,2022-02-03 21:39:13,Linha de Transmissão X - Km 10,Inativo
+ATIV0135,Medidor de Energia,MED-2898,2022-06-23 19:04:47,"Rua Y, 123",Inativo
+ATIV0136,Cabo de Alta Tensão,CAB-3459,2018-07-22 09:52:55,Linha de Transmissão X - Km 10,Inativo
+ATIV0137,Cabo de Alta Tensão,CAB-7362,2018-01-22 22:40:47,Subestação A,Inativo
+ATIV0138,Transformador,TRA-6046,2019-10-29 07:24:26,"Rua Y, 123",Em Manutenção
+ATIV0139,Transformador,TRA-7651,2022-10-27 16:09:46,Posto Z - Saída 5,Operacional
+ATIV0140,Poste,POS-1880,2018-02-28 21:10:48,"Rua Y, 123",Em Manutenção
+ATIV0141,Transformador,TRA-2105,2018-10-10 22:10:55,"Rua Y, 123",Operacional
+ATIV0142,Cabo de Alta Tensão,CAB-2748,2018-07-02 00:04:20,Linha de Transmissão X - Km 10,Operacional
+ATIV0143,Cabo de Alta Tensão,CAB-2643,2020-03-11 18:17:58,Subestação A,Em Manutenção
+ATIV0144,Chave Seccionadora,CHA-4075,2021-04-03 15:55:34,Posto Z - Saída 5,Inativo
+ATIV0145,Medidor de Energia,MED-2454,2021-09-15 05:14:31,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0146,Transformador,TRA-5124,2019-03-20 00:05:15,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0147,Medidor de Energia,MED-1758,2018-09-19 14:45:40,Linha de Transmissão X - Km 10,Operacional
+ATIV0148,Medidor de Energia,MED-2113,2021-07-14 10:30:18,Subestação A,Operacional
+ATIV0149,Cabo de Alta Tensão,CAB-6608,2019-08-18 08:27:13,Subestação A,Inativo
+ATIV0150,Chave Seccionadora,CHA-9224,2019-03-29 04:47:48,Posto Z - Saída 5,Operacional
+ATIV0151,Poste,POS-6642,2020-04-29 22:50:12,Subestação A,Inativo
+ATIV0152,Medidor de Energia,MED-9593,2019-03-30 21:36:28,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0153,Transformador,TRA-5719,2022-09-07 12:27:18,Posto Z - Saída 5,Em Manutenção
+ATIV0154,Cabo de Alta Tensão,CAB-2868,2022-09-22 08:17:03,Posto Z - Saída 5,Inativo
+ATIV0155,Poste,POS-4747,2019-02-06 16:15:20,Subestação A,Inativo
+ATIV0156,Poste,POS-9712,2019-02-28 02:32:28,Subestação A,Inativo
+ATIV0157,Cabo de Alta Tensão,CAB-4962,2018-06-03 17:07:46,Posto Z - Saída 5,Inativo
+ATIV0158,Transformador,TRA-6803,2020-04-30 04:09:42,Posto Z - Saída 5,Operacional
+ATIV0159,Chave Seccionadora,CHA-7595,2020-10-03 09:42:04,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0160,Poste,POS-4566,2020-08-09 21:03:40,"Rua Y, 123",Operacional
+ATIV0161,Medidor de Energia,MED-7603,2019-03-14 08:09:42,Subestação A,Operacional
+ATIV0162,Chave Seccionadora,CHA-1320,2021-05-19 02:18:19,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0163,Transformador,TRA-9793,2022-03-02 06:14:56,"Rua Y, 123",Em Manutenção
+ATIV0164,Transformador,TRA-6671,2022-06-22 20:09:22,"Rua Y, 123",Inativo
+ATIV0165,Poste,POS-8970,2021-03-25 18:01:55,"Rua Y, 123",Em Manutenção
+ATIV0166,Chave Seccionadora,CHA-1194,2020-12-28 19:29:31,"Rua Y, 123",Inativo
+ATIV0167,Transformador,TRA-6189,2021-06-07 08:47:58,Posto Z - Saída 5,Em Manutenção
+ATIV0168,Poste,POS-4443,2022-12-03 00:28:51,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0169,Chave Seccionadora,CHA-5531,2018-07-28 08:03:52,Posto Z - Saída 5,Operacional
+ATIV0170,Poste,POS-1226,2018-05-29 23:23:16,Posto Z - Saída 5,Inativo
+ATIV0171,Medidor de Energia,MED-2924,2019-07-02 13:57:11,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0172,Cabo de Alta Tensão,CAB-6686,2019-11-13 15:59:56,Posto Z - Saída 5,Inativo
+ATIV0173,Poste,POS-8184,2019-10-11 13:32:07,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0174,Chave Seccionadora,CHA-8584,2022-12-12 22:33:17,Subestação A,Operacional
+ATIV0175,Medidor de Energia,MED-9885,2021-12-23 09:12:20,Linha de Transmissão X - Km 10,Inativo
+ATIV0176,Transformador,TRA-1631,2021-03-29 02:02:41,Subestação A,Inativo
+ATIV0177,Chave Seccionadora,CHA-7001,2020-03-12 07:11:33,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0178,Cabo de Alta Tensão,CAB-3724,2020-08-01 03:44:14,Subestação A,Em Manutenção
+ATIV0179,Transformador,TRA-1624,2022-05-20 17:35:52,Posto Z - Saída 5,Inativo
+ATIV0180,Medidor de Energia,MED-9598,2022-12-08 18:41:08,Posto Z - Saída 5,Em Manutenção
+ATIV0181,Cabo de Alta Tensão,CAB-2459,2020-10-11 19:49:12,Subestação A,Inativo
+ATIV0182,Cabo de Alta Tensão,CAB-2648,2020-01-21 01:24:05,Posto Z - Saída 5,Em Manutenção
+ATIV0183,Medidor de Energia,MED-7947,2020-08-02 13:33:56,Linha de Transmissão X - Km 10,Inativo
+ATIV0184,Medidor de Energia,MED-7789,2019-03-17 21:06:00,Posto Z - Saída 5,Operacional
+ATIV0185,Poste,POS-1536,2019-10-07 14:52:13,Posto Z - Saída 5,Operacional
+ATIV0186,Cabo de Alta Tensão,CAB-9319,2020-06-25 09:26:46,Subestação A,Operacional
+ATIV0187,Chave Seccionadora,CHA-4178,2021-10-09 13:05:34,Subestação A,Operacional
+ATIV0188,Medidor de Energia,MED-9270,2018-03-04 12:59:23,Subestação A,Em Manutenção
+ATIV0189,Cabo de Alta Tensão,CAB-3223,2021-04-03 10:50:32,Linha de Transmissão X - Km 10,Operacional
+ATIV0190,Poste,POS-7697,2019-09-15 05:46:43,"Rua Y, 123",Em Manutenção
+ATIV0191,Transformador,TRA-1672,2020-05-23 05:10:56,Subestação A,Inativo
+ATIV0192,Chave Seccionadora,CHA-4011,2021-12-01 07:41:01,Linha de Transmissão X - Km 10,Operacional
+ATIV0193,Medidor de Energia,MED-9045,2020-11-30 18:17:09,Linha de Transmissão X - Km 10,Operacional
+ATIV0194,Cabo de Alta Tensão,CAB-9748,2018-12-30 14:03:50,"Rua Y, 123",Inativo
+ATIV0195,Chave Seccionadora,CHA-8416,2021-04-13 14:35:36,Posto Z - Saída 5,Em Manutenção
+ATIV0196,Cabo de Alta Tensão,CAB-4604,2018-05-12 17:33:03,Linha de Transmissão X - Km 10,Operacional
+ATIV0197,Transformador,TRA-7640,2021-04-19 08:34:11,Posto Z - Saída 5,Operacional
+ATIV0198,Medidor de Energia,MED-4065,2019-12-11 21:58:28,"Rua Y, 123",Operacional
+ATIV0199,Transformador,TRA-5110,2018-11-19 03:08:52,"Rua Y, 123",Inativo
+ATIV0200,Cabo de Alta Tensão,CAB-9708,2018-08-05 11:27:35,Linha de Transmissão X - Km 10,Inativo
+ATIV0201,Chave Seccionadora,CHA-7112,2020-05-08 23:00:43,Linha de Transmissão X - Km 10,Inativo
+ATIV0202,Transformador,TRA-2458,2022-09-01 06:55:16,Posto Z - Saída 5,Inativo
+ATIV0203,Cabo de Alta Tensão,CAB-2975,2022-07-25 00:05:12,Linha de Transmissão X - Km 10,Operacional
+ATIV0204,Cabo de Alta Tensão,CAB-2036,2020-01-28 11:25:36,Subestação A,Inativo
+ATIV0205,Medidor de Energia,MED-4457,2018-12-19 18:45:31,Subestação A,Em Manutenção
+ATIV0206,Cabo de Alta Tensão,CAB-9885,2021-06-25 19:33:09,Linha de Transmissão X - Km 10,Operacional
+ATIV0207,Cabo de Alta Tensão,CAB-1952,2019-08-23 05:05:11,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0208,Poste,POS-7747,2021-10-16 13:19:41,Subestação A,Operacional
+ATIV0209,Chave Seccionadora,CHA-6847,2021-06-14 04:01:45,Linha de Transmissão X - Km 10,Operacional
+ATIV0210,Medidor de Energia,MED-2262,2020-01-03 01:43:26,Subestação A,Operacional
+ATIV0211,Medidor de Energia,MED-3737,2018-11-17 20:27:04,Linha de Transmissão X - Km 10,Inativo
+ATIV0212,Cabo de Alta Tensão,CAB-9699,2022-04-03 11:45:01,Subestação A,Em Manutenção
+ATIV0213,Cabo de Alta Tensão,CAB-5168,2022-10-10 12:01:48,"Rua Y, 123",Inativo
+ATIV0214,Medidor de Energia,MED-3340,2021-07-18 21:13:17,Linha de Transmissão X - Km 10,Operacional
+ATIV0215,Transformador,TRA-7877,2021-09-08 01:33:41,Posto Z - Saída 5,Operacional
+ATIV0216,Chave Seccionadora,CHA-2644,2022-08-21 20:28:37,Subestação A,Operacional
+ATIV0217,Medidor de Energia,MED-4934,2020-07-31 06:46:56,Linha de Transmissão X - Km 10,Operacional
+ATIV0218,Transformador,TRA-5150,2020-05-19 11:40:56,"Rua Y, 123",Inativo
+ATIV0219,Poste,POS-9614,2020-09-29 04:56:26,Subestação A,Em Manutenção
+ATIV0220,Poste,POS-8152,2018-01-12 05:45:56,Linha de Transmissão X - Km 10,Operacional
+ATIV0221,Medidor de Energia,MED-5404,2022-07-22 07:41:12,Posto Z - Saída 5,Operacional
+ATIV0222,Medidor de Energia,MED-8394,2022-02-10 09:01:17,"Rua Y, 123",Inativo
+ATIV0223,Poste,POS-2078,2018-03-19 10:04:27,Posto Z - Saída 5,Operacional
+ATIV0224,Medidor de Energia,MED-2540,2019-10-21 05:53:29,Posto Z - Saída 5,Em Manutenção
+ATIV0225,Cabo de Alta Tensão,CAB-1652,2018-10-06 19:19:03,Posto Z - Saída 5,Inativo
+ATIV0226,Poste,POS-7962,2018-12-18 05:05:48,Subestação A,Operacional
+ATIV0227,Transformador,TRA-3979,2021-04-21 20:49:56,"Rua Y, 123",Operacional
+ATIV0228,Transformador,TRA-4833,2019-03-13 11:36:07,Linha de Transmissão X - Km 10,Inativo
+ATIV0229,Medidor de Energia,MED-2542,2018-08-03 12:33:08,"Rua Y, 123",Operacional
+ATIV0230,Cabo de Alta Tensão,CAB-8250,2018-04-16 22:45:40,Posto Z - Saída 5,Operacional
+ATIV0231,Chave Seccionadora,CHA-1433,2020-07-29 20:39:39,Subestação A,Inativo
+ATIV0232,Poste,POS-2304,2019-07-03 23:19:10,Subestação A,Operacional
+ATIV0233,Transformador,TRA-6766,2020-01-07 11:22:34,"Rua Y, 123",Operacional
+ATIV0234,Chave Seccionadora,CHA-5941,2022-01-09 18:20:09,Posto Z - Saída 5,Em Manutenção
+ATIV0235,Medidor de Energia,MED-2402,2022-03-19 08:25:12,Posto Z - Saída 5,Em Manutenção
+ATIV0236,Chave Seccionadora,CHA-6385,2018-06-22 12:22:39,Subestação A,Em Manutenção
+ATIV0237,Cabo de Alta Tensão,CAB-6407,2020-02-23 02:04:39,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0238,Cabo de Alta Tensão,CAB-3002,2018-04-07 22:16:30,"Rua Y, 123",Operacional
+ATIV0239,Chave Seccionadora,CHA-4826,2022-03-04 09:58:38,"Rua Y, 123",Inativo
+ATIV0240,Poste,POS-1687,2021-06-05 16:40:42,Linha de Transmissão X - Km 10,Inativo
+ATIV0241,Chave Seccionadora,CHA-9291,2020-05-03 18:22:16,Linha de Transmissão X - Km 10,Inativo
+ATIV0242,Chave Seccionadora,CHA-3664,2019-07-13 17:39:05,Posto Z - Saída 5,Inativo
+ATIV0243,Transformador,TRA-8267,2018-04-01 06:10:25,Subestação A,Inativo
+ATIV0244,Medidor de Energia,MED-9284,2019-01-05 13:25:18,Posto Z - Saída 5,Inativo
+ATIV0245,Chave Seccionadora,CHA-9162,2018-03-19 15:58:38,Linha de Transmissão X - Km 10,Operacional
+ATIV0246,Cabo de Alta Tensão,CAB-9039,2020-04-25 08:44:54,Subestação A,Operacional
+ATIV0247,Cabo de Alta Tensão,CAB-1928,2020-09-04 15:06:59,Subestação A,Operacional
+ATIV0248,Transformador,TRA-9548,2022-03-20 22:43:15,Subestação A,Em Manutenção
+ATIV0249,Poste,POS-9973,2018-05-22 18:38:37,Linha de Transmissão X - Km 10,Inativo
+ATIV0250,Medidor de Energia,MED-1353,2022-04-26 23:56:07,Posto Z - Saída 5,Em Manutenção
+ATIV0251,Chave Seccionadora,CHA-1276,2019-09-16 04:22:56,Subestação A,Em Manutenção
+ATIV0252,Chave Seccionadora,CHA-3304,2021-02-12 04:09:20,"Rua Y, 123",Operacional
+ATIV0253,Poste,POS-7773,2020-02-24 20:17:46,Linha de Transmissão X - Km 10,Inativo
+ATIV0254,Poste,POS-9742,2020-11-05 11:44:51,Linha de Transmissão X - Km 10,Inativo
+ATIV0255,Poste,POS-8905,2021-06-12 09:54:17,"Rua Y, 123",Em Manutenção
+ATIV0256,Transformador,TRA-2584,2020-05-27 22:28:55,Linha de Transmissão X - Km 10,Inativo
+ATIV0257,Transformador,TRA-5222,2020-05-08 00:53:14,Subestação A,Operacional
+ATIV0258,Transformador,TRA-1143,2022-06-17 23:53:13,"Rua Y, 123",Inativo
+ATIV0259,Medidor de Energia,MED-7074,2021-09-09 19:54:37,"Rua Y, 123",Operacional
+ATIV0260,Cabo de Alta Tensão,CAB-1256,2020-08-25 09:11:24,"Rua Y, 123",Em Manutenção
+ATIV0261,Chave Seccionadora,CHA-7982,2020-07-28 11:47:44,"Rua Y, 123",Em Manutenção
+ATIV0262,Chave Seccionadora,CHA-6315,2022-12-22 13:05:15,Posto Z - Saída 5,Inativo
+ATIV0263,Transformador,TRA-1420,2021-05-23 16:33:07,Posto Z - Saída 5,Inativo
+ATIV0264,Poste,POS-3100,2022-07-07 15:54:55,Subestação A,Operacional
+ATIV0265,Poste,POS-1545,2020-08-07 14:01:12,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0266,Poste,POS-8270,2021-04-10 13:32:04,Posto Z - Saída 5,Inativo
+ATIV0267,Chave Seccionadora,CHA-4089,2022-01-29 23:55:22,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0268,Medidor de Energia,MED-3141,2020-04-20 16:55:05,Posto Z - Saída 5,Em Manutenção
+ATIV0269,Medidor de Energia,MED-7861,2020-08-30 18:16:53,Subestação A,Operacional
+ATIV0270,Chave Seccionadora,CHA-2150,2022-06-21 16:24:15,Posto Z - Saída 5,Em Manutenção
+ATIV0271,Chave Seccionadora,CHA-7233,2021-10-11 22:27:52,Posto Z - Saída 5,Em Manutenção
+ATIV0272,Cabo de Alta Tensão,CAB-3970,2019-03-07 20:12:51,Linha de Transmissão X - Km 10,Inativo
+ATIV0273,Cabo de Alta Tensão,CAB-5888,2018-08-09 15:23:18,"Rua Y, 123",Em Manutenção
+ATIV0274,Cabo de Alta Tensão,CAB-2886,2019-11-26 00:20:09,Linha de Transmissão X - Km 10,Inativo
+ATIV0275,Medidor de Energia,MED-1982,2018-09-13 13:43:42,Subestação A,Em Manutenção
+ATIV0276,Cabo de Alta Tensão,CAB-8355,2021-03-09 17:23:40,"Rua Y, 123",Inativo
+ATIV0277,Cabo de Alta Tensão,CAB-2400,2019-09-10 17:51:26,Linha de Transmissão X - Km 10,Inativo
+ATIV0278,Medidor de Energia,MED-6258,2019-10-28 20:42:13,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0279,Poste,POS-9763,2022-09-07 23:57:30,Posto Z - Saída 5,Operacional
+ATIV0280,Chave Seccionadora,CHA-5088,2022-07-09 08:49:59,"Rua Y, 123",Operacional
+ATIV0281,Chave Seccionadora,CHA-3095,2020-03-12 22:06:21,Subestação A,Em Manutenção
+ATIV0282,Chave Seccionadora,CHA-3555,2019-07-26 23:17:38,Posto Z - Saída 5,Em Manutenção
+ATIV0283,Poste,POS-6502,2021-12-31 01:00:38,"Rua Y, 123",Operacional
+ATIV0284,Cabo de Alta Tensão,CAB-7655,2021-11-21 00:15:24,Subestação A,Inativo
+ATIV0285,Poste,POS-5900,2022-11-05 07:55:07,"Rua Y, 123",Operacional
+ATIV0286,Poste,POS-6117,2021-06-12 20:37:43,Posto Z - Saída 5,Em Manutenção
+ATIV0287,Medidor de Energia,MED-6281,2022-06-19 14:27:03,Posto Z - Saída 5,Inativo
+ATIV0288,Cabo de Alta Tensão,CAB-3325,2022-11-09 04:01:37,"Rua Y, 123",Em Manutenção
+ATIV0289,Chave Seccionadora,CHA-4353,2021-09-21 07:57:05,Linha de Transmissão X - Km 10,Operacional
+ATIV0290,Poste,POS-7933,2021-08-31 02:08:04,"Rua Y, 123",Inativo
+ATIV0291,Medidor de Energia,MED-9865,2018-06-13 04:12:36,Subestação A,Operacional
+ATIV0292,Cabo de Alta Tensão,CAB-9148,2020-07-01 15:54:24,"Rua Y, 123",Em Manutenção
+ATIV0293,Poste,POS-7810,2018-04-16 12:57:36,"Rua Y, 123",Em Manutenção
+ATIV0294,Cabo de Alta Tensão,CAB-3938,2019-11-21 21:16:07,Subestação A,Inativo
+ATIV0295,Cabo de Alta Tensão,CAB-4374,2018-10-24 17:00:03,"Rua Y, 123",Operacional
+ATIV0296,Poste,POS-2116,2019-04-12 08:23:52,Linha de Transmissão X - Km 10,Operacional
+ATIV0297,Poste,POS-7444,2021-06-06 01:49:10,Subestação A,Inativo
+ATIV0298,Poste,POS-9415,2020-12-08 02:20:01,"Rua Y, 123",Operacional
+ATIV0299,Chave Seccionadora,CHA-7079,2018-10-20 06:20:55,Subestação A,Inativo
+ATIV0300,Chave Seccionadora,CHA-8230,2022-06-10 16:56:50,Linha de Transmissão X - Km 10,Inativo
+ATIV0301,Poste,POS-4383,2019-12-31 05:35:23,Posto Z - Saída 5,Operacional
+ATIV0302,Cabo de Alta Tensão,CAB-9563,2022-01-21 20:03:30,Linha de Transmissão X - Km 10,Operacional
+ATIV0303,Poste,POS-7395,2022-05-12 06:52:40,Linha de Transmissão X - Km 10,Operacional
+ATIV0304,Medidor de Energia,MED-3659,2020-08-25 11:33:05,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0305,Chave Seccionadora,CHA-7678,2020-05-29 17:56:42,"Rua Y, 123",Em Manutenção
+ATIV0306,Medidor de Energia,MED-1072,2021-09-30 13:23:00,"Rua Y, 123",Inativo
+ATIV0307,Medidor de Energia,MED-3563,2018-02-27 15:02:42,"Rua Y, 123",Operacional
+ATIV0308,Transformador,TRA-1616,2022-03-12 11:24:04,Posto Z - Saída 5,Em Manutenção
+ATIV0309,Cabo de Alta Tensão,CAB-6476,2019-08-04 13:24:16,Subestação A,Operacional
+ATIV0310,Medidor de Energia,MED-1621,2021-12-29 02:47:02,"Rua Y, 123",Operacional
+ATIV0311,Poste,POS-8770,2021-01-08 18:32:30,"Rua Y, 123",Em Manutenção
+ATIV0312,Poste,POS-3949,2018-03-11 09:28:36,Linha de Transmissão X - Km 10,Inativo
+ATIV0313,Medidor de Energia,MED-8227,2019-12-29 01:16:33,"Rua Y, 123",Inativo
+ATIV0314,Cabo de Alta Tensão,CAB-1466,2021-05-31 01:23:11,Subestação A,Em Manutenção
+ATIV0315,Medidor de Energia,MED-8550,2018-06-13 09:25:20,Linha de Transmissão X - Km 10,Inativo
+ATIV0316,Poste,POS-8657,2018-06-24 17:27:48,Linha de Transmissão X - Km 10,Operacional
+ATIV0317,Medidor de Energia,MED-5749,2018-06-26 05:44:39,Subestação A,Inativo
+ATIV0318,Cabo de Alta Tensão,CAB-6045,2020-09-28 05:30:46,"Rua Y, 123",Inativo
+ATIV0319,Poste,POS-1876,2022-02-08 23:41:14,Posto Z - Saída 5,Em Manutenção
+ATIV0320,Poste,POS-1964,2021-02-02 21:09:47,Linha de Transmissão X - Km 10,Inativo
+ATIV0321,Cabo de Alta Tensão,CAB-5636,2019-04-04 14:33:26,Linha de Transmissão X - Km 10,Operacional
+ATIV0322,Medidor de Energia,MED-8970,2019-04-15 01:38:17,Subestação A,Em Manutenção
+ATIV0323,Medidor de Energia,MED-9714,2022-06-05 09:03:24,Linha de Transmissão X - Km 10,Operacional
+ATIV0324,Chave Seccionadora,CHA-5148,2022-03-17 14:24:52,Posto Z - Saída 5,Em Manutenção
+ATIV0325,Chave Seccionadora,CHA-1726,2021-07-28 20:27:07,"Rua Y, 123",Inativo
+ATIV0326,Transformador,TRA-8519,2022-10-17 13:38:57,Linha de Transmissão X - Km 10,Inativo
+ATIV0327,Transformador,TRA-9043,2018-12-07 21:03:00,"Rua Y, 123",Inativo
+ATIV0328,Medidor de Energia,MED-1691,2021-12-14 23:08:43,Posto Z - Saída 5,Em Manutenção
+ATIV0329,Transformador,TRA-5847,2020-06-02 04:23:04,Subestação A,Operacional
+ATIV0330,Chave Seccionadora,CHA-1405,2018-03-29 02:36:58,Posto Z - Saída 5,Inativo
+ATIV0331,Cabo de Alta Tensão,CAB-2289,2019-09-04 17:13:01,Linha de Transmissão X - Km 10,Operacional
+ATIV0332,Medidor de Energia,MED-8484,2020-01-09 00:23:46,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0333,Poste,POS-5227,2022-07-29 10:20:46,"Rua Y, 123",Em Manutenção
+ATIV0334,Poste,POS-1322,2018-01-18 19:46:38,Subestação A,Inativo
+ATIV0335,Poste,POS-8698,2019-11-27 11:33:45,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0336,Chave Seccionadora,CHA-1737,2020-01-02 18:30:27,"Rua Y, 123",Operacional
+ATIV0337,Poste,POS-1659,2019-07-01 19:40:39,Subestação A,Inativo
+ATIV0338,Cabo de Alta Tensão,CAB-6462,2019-01-25 12:34:40,Posto Z - Saída 5,Inativo
+ATIV0339,Poste,POS-7647,2018-07-02 03:37:54,Posto Z - Saída 5,Em Manutenção
+ATIV0340,Cabo de Alta Tensão,CAB-9478,2020-07-09 21:17:36,Posto Z - Saída 5,Inativo
+ATIV0341,Chave Seccionadora,CHA-7292,2022-03-07 06:27:40,Posto Z - Saída 5,Inativo
+ATIV0342,Poste,POS-9429,2020-11-13 02:53:04,"Rua Y, 123",Inativo
+ATIV0343,Cabo de Alta Tensão,CAB-3929,2021-01-08 13:36:26,Linha de Transmissão X - Km 10,Operacional
+ATIV0344,Cabo de Alta Tensão,CAB-4710,2022-07-01 03:55:45,"Rua Y, 123",Inativo
+ATIV0345,Chave Seccionadora,CHA-3016,2022-07-11 12:11:30,Subestação A,Inativo
+ATIV0346,Cabo de Alta Tensão,CAB-7123,2021-11-16 10:59:50,Posto Z - Saída 5,Inativo
+ATIV0347,Medidor de Energia,MED-6485,2018-11-02 17:35:49,Posto Z - Saída 5,Operacional
+ATIV0348,Chave Seccionadora,CHA-2628,2021-11-24 15:09:37,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0349,Poste,POS-5492,2019-02-02 00:56:24,Posto Z - Saída 5,Inativo
+ATIV0350,Medidor de Energia,MED-9809,2020-06-06 14:39:57,"Rua Y, 123",Em Manutenção
+ATIV0351,Transformador,TRA-5883,2018-05-09 01:31:27,Posto Z - Saída 5,Em Manutenção
+ATIV0352,Poste,POS-2890,2020-06-09 22:04:22,Subestação A,Em Manutenção
+ATIV0353,Poste,POS-9979,2020-02-03 12:57:49,Linha de Transmissão X - Km 10,Inativo
+ATIV0354,Medidor de Energia,MED-2678,2021-01-05 00:26:02,Posto Z - Saída 5,Operacional
+ATIV0355,Transformador,TRA-2214,2021-09-13 16:56:02,"Rua Y, 123",Inativo
+ATIV0356,Medidor de Energia,MED-5344,2021-11-03 11:25:00,"Rua Y, 123",Inativo
+ATIV0357,Poste,POS-2549,2020-03-09 17:10:48,Subestação A,Inativo
+ATIV0358,Poste,POS-1847,2022-06-10 15:54:35,Subestação A,Inativo
+ATIV0359,Cabo de Alta Tensão,CAB-8449,2022-11-25 04:27:08,Subestação A,Inativo
+ATIV0360,Cabo de Alta Tensão,CAB-6233,2021-03-30 19:29:57,Subestação A,Em Manutenção
+ATIV0361,Medidor de Energia,MED-3328,2020-10-17 00:09:20,Linha de Transmissão X - Km 10,Operacional
+ATIV0362,Transformador,TRA-7908,2022-05-29 04:23:07,Subestação A,Operacional
+ATIV0363,Cabo de Alta Tensão,CAB-4345,2022-02-08 19:26:47,Subestação A,Em Manutenção
+ATIV0364,Chave Seccionadora,CHA-9000,2021-06-10 11:42:27,Posto Z - Saída 5,Inativo
+ATIV0365,Poste,POS-9891,2022-06-12 22:37:53,"Rua Y, 123",Operacional
+ATIV0366,Poste,POS-9207,2018-11-07 14:08:33,"Rua Y, 123",Inativo
+ATIV0367,Poste,POS-3606,2021-05-24 04:27:14,Posto Z - Saída 5,Inativo
+ATIV0368,Medidor de Energia,MED-7334,2019-11-19 04:53:03,Subestação A,Inativo
+ATIV0369,Transformador,TRA-7214,2020-05-26 00:41:15,"Rua Y, 123",Em Manutenção
+ATIV0370,Medidor de Energia,MED-5547,2020-10-15 02:50:54,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0371,Transformador,TRA-1659,2021-08-06 13:51:20,Linha de Transmissão X - Km 10,Operacional
+ATIV0372,Chave Seccionadora,CHA-3269,2020-04-19 16:44:57,Subestação A,Inativo
+ATIV0373,Cabo de Alta Tensão,CAB-3624,2018-12-13 10:19:22,Linha de Transmissão X - Km 10,Operacional
+ATIV0374,Medidor de Energia,MED-9133,2022-11-18 22:44:58,Subestação A,Operacional
+ATIV0375,Transformador,TRA-9460,2018-11-28 17:07:54,"Rua Y, 123",Inativo
+ATIV0376,Poste,POS-6214,2020-01-14 23:04:58,Subestação A,Inativo
+ATIV0377,Medidor de Energia,MED-4867,2021-07-11 17:13:25,"Rua Y, 123",Em Manutenção
+ATIV0378,Medidor de Energia,MED-1448,2022-02-12 11:37:54,Posto Z - Saída 5,Inativo
+ATIV0379,Chave Seccionadora,CHA-2589,2019-12-20 21:40:08,Posto Z - Saída 5,Inativo
+ATIV0380,Cabo de Alta Tensão,CAB-4051,2019-12-22 21:29:34,Subestação A,Operacional
+ATIV0381,Chave Seccionadora,CHA-4488,2022-06-06 18:33:28,Linha de Transmissão X - Km 10,Inativo
+ATIV0382,Transformador,TRA-7195,2021-12-20 15:21:18,Posto Z - Saída 5,Inativo
+ATIV0383,Cabo de Alta Tensão,CAB-8870,2020-03-09 13:46:50,Subestação A,Em Manutenção
+ATIV0384,Poste,POS-8210,2021-07-12 00:30:54,Posto Z - Saída 5,Inativo
+ATIV0385,Medidor de Energia,MED-9350,2018-02-01 19:03:10,Subestação A,Em Manutenção
+ATIV0386,Medidor de Energia,MED-1050,2018-01-30 06:26:18,"Rua Y, 123",Inativo
+ATIV0387,Poste,POS-3527,2020-02-28 13:47:39,Subestação A,Inativo
+ATIV0388,Medidor de Energia,MED-6098,2021-07-01 05:14:13,Posto Z - Saída 5,Operacional
+ATIV0389,Chave Seccionadora,CHA-3745,2020-08-09 12:06:26,"Rua Y, 123",Inativo
+ATIV0390,Poste,POS-6266,2019-04-13 06:32:00,Subestação A,Inativo
+ATIV0391,Medidor de Energia,MED-1843,2021-02-01 17:14:07,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0392,Transformador,TRA-1348,2021-07-27 03:13:27,Subestação A,Em Manutenção
+ATIV0393,Medidor de Energia,MED-4850,2019-10-17 09:09:20,"Rua Y, 123",Operacional
+ATIV0394,Chave Seccionadora,CHA-1068,2022-07-29 04:49:01,Subestação A,Em Manutenção
+ATIV0395,Transformador,TRA-9040,2022-08-09 03:26:51,"Rua Y, 123",Inativo
+ATIV0396,Poste,POS-2680,2019-12-27 07:36:59,"Rua Y, 123",Em Manutenção
+ATIV0397,Chave Seccionadora,CHA-4041,2020-03-02 03:00:47,Subestação A,Em Manutenção
+ATIV0398,Cabo de Alta Tensão,CAB-8928,2020-04-22 20:10:01,"Rua Y, 123",Operacional
+ATIV0399,Chave Seccionadora,CHA-3806,2018-05-16 07:50:43,Posto Z - Saída 5,Operacional
+ATIV0400,Chave Seccionadora,CHA-5845,2019-12-26 05:21:44,Posto Z - Saída 5,Operacional
+ATIV0401,Medidor de Energia,MED-3930,2020-11-12 09:25:59,Posto Z - Saída 5,Operacional
+ATIV0402,Poste,POS-5020,2022-02-12 01:54:44,Posto Z - Saída 5,Inativo
+ATIV0403,Chave Seccionadora,CHA-8401,2018-11-28 14:17:00,Subestação A,Operacional
+ATIV0404,Chave Seccionadora,CHA-4417,2018-10-01 13:05:00,"Rua Y, 123",Operacional
+ATIV0405,Poste,POS-4581,2021-02-13 17:49:02,"Rua Y, 123",Em Manutenção
+ATIV0406,Chave Seccionadora,CHA-9800,2019-09-11 13:03:52,Posto Z - Saída 5,Inativo
+ATIV0407,Chave Seccionadora,CHA-9499,2020-03-04 14:03:36,Subestação A,Inativo
+ATIV0408,Medidor de Energia,MED-4393,2019-01-22 06:30:43,"Rua Y, 123",Em Manutenção
+ATIV0409,Cabo de Alta Tensão,CAB-7008,2022-04-14 00:53:57,Subestação A,Inativo
+ATIV0410,Poste,POS-9377,2021-05-30 13:40:00,Posto Z - Saída 5,Em Manutenção
+ATIV0411,Chave Seccionadora,CHA-9047,2020-06-24 10:34:51,Posto Z - Saída 5,Em Manutenção
+ATIV0412,Poste,POS-3193,2021-01-28 04:07:18,Subestação A,Em Manutenção
+ATIV0413,Chave Seccionadora,CHA-9640,2019-12-19 18:44:03,Linha de Transmissão X - Km 10,Operacional
+ATIV0414,Chave Seccionadora,CHA-6477,2021-06-19 16:25:27,"Rua Y, 123",Inativo
+ATIV0415,Chave Seccionadora,CHA-8953,2022-07-06 02:47:20,"Rua Y, 123",Em Manutenção
+ATIV0416,Poste,POS-8673,2022-08-17 09:36:41,Linha de Transmissão X - Km 10,Inativo
+ATIV0417,Chave Seccionadora,CHA-6116,2022-04-01 05:52:32,Subestação A,Operacional
+ATIV0418,Cabo de Alta Tensão,CAB-2541,2019-02-12 10:49:38,Linha de Transmissão X - Km 10,Inativo
+ATIV0419,Poste,POS-7010,2019-10-09 20:30:08,Linha de Transmissão X - Km 10,Inativo
+ATIV0420,Transformador,TRA-1343,2021-01-22 14:19:59,"Rua Y, 123",Operacional
+ATIV0421,Medidor de Energia,MED-9878,2020-11-26 17:35:10,Posto Z - Saída 5,Operacional
+ATIV0422,Transformador,TRA-5950,2020-07-17 09:03:39,Posto Z - Saída 5,Em Manutenção
+ATIV0423,Medidor de Energia,MED-8906,2021-10-26 23:20:51,"Rua Y, 123",Operacional
+ATIV0424,Transformador,TRA-5433,2020-07-29 12:59:55,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0425,Cabo de Alta Tensão,CAB-1361,2019-05-03 23:11:08,"Rua Y, 123",Inativo
+ATIV0426,Medidor de Energia,MED-7211,2018-07-18 16:36:48,Subestação A,Operacional
+ATIV0427,Poste,POS-5911,2019-12-09 00:56:03,Subestação A,Operacional
+ATIV0428,Medidor de Energia,MED-6991,2018-09-13 12:58:40,Linha de Transmissão X - Km 10,Operacional
+ATIV0429,Cabo de Alta Tensão,CAB-7396,2021-06-09 22:36:18,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0430,Poste,POS-3473,2019-08-29 14:07:15,"Rua Y, 123",Inativo
+ATIV0431,Poste,POS-2862,2018-08-20 11:31:33,"Rua Y, 123",Em Manutenção
+ATIV0432,Transformador,TRA-2183,2020-03-14 21:03:58,"Rua Y, 123",Operacional
+ATIV0433,Poste,POS-4941,2020-01-23 23:27:35,Posto Z - Saída 5,Em Manutenção
+ATIV0434,Transformador,TRA-1653,2018-07-27 18:48:20,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0435,Chave Seccionadora,CHA-8552,2018-01-31 12:32:31,Subestação A,Inativo
+ATIV0436,Cabo de Alta Tensão,CAB-2759,2022-12-24 03:06:05,"Rua Y, 123",Em Manutenção
+ATIV0437,Poste,POS-4917,2020-05-13 08:06:00,Posto Z - Saída 5,Inativo
+ATIV0438,Transformador,TRA-7289,2020-10-10 04:10:20,"Rua Y, 123",Em Manutenção
+ATIV0439,Poste,POS-4545,2021-04-07 21:23:24,"Rua Y, 123",Operacional
+ATIV0440,Medidor de Energia,MED-1210,2019-11-08 20:59:53,"Rua Y, 123",Em Manutenção
+ATIV0441,Cabo de Alta Tensão,CAB-8628,2019-06-21 05:30:13,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0442,Chave Seccionadora,CHA-4688,2019-07-02 23:23:52,"Rua Y, 123",Em Manutenção
+ATIV0443,Cabo de Alta Tensão,CAB-2000,2022-11-21 21:13:11,Subestação A,Operacional
+ATIV0444,Poste,POS-1108,2019-09-15 11:05:18,Subestação A,Em Manutenção
+ATIV0445,Cabo de Alta Tensão,CAB-7184,2020-12-11 03:49:58,Subestação A,Operacional
+ATIV0446,Medidor de Energia,MED-9994,2018-02-20 16:26:56,Posto Z - Saída 5,Operacional
+ATIV0447,Chave Seccionadora,CHA-9293,2019-12-23 11:09:30,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0448,Poste,POS-6625,2019-06-25 18:24:14,Linha de Transmissão X - Km 10,Operacional
+ATIV0449,Chave Seccionadora,CHA-2824,2018-02-07 18:45:37,Posto Z - Saída 5,Em Manutenção
+ATIV0450,Cabo de Alta Tensão,CAB-9457,2022-08-21 23:44:20,"Rua Y, 123",Em Manutenção
+ATIV0451,Cabo de Alta Tensão,CAB-7796,2018-09-19 19:12:14,Subestação A,Em Manutenção
+ATIV0452,Transformador,TRA-4659,2019-09-24 19:38:43,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0453,Cabo de Alta Tensão,CAB-8483,2020-11-01 13:23:45,"Rua Y, 123",Em Manutenção
+ATIV0454,Chave Seccionadora,CHA-4411,2022-03-08 11:31:06,"Rua Y, 123",Em Manutenção
+ATIV0455,Chave Seccionadora,CHA-8887,2020-04-05 11:47:32,"Rua Y, 123",Inativo
+ATIV0456,Cabo de Alta Tensão,CAB-9309,2018-09-25 16:19:03,Posto Z - Saída 5,Operacional
+ATIV0457,Cabo de Alta Tensão,CAB-5558,2020-03-09 06:37:46,Linha de Transmissão X - Km 10,Operacional
+ATIV0458,Cabo de Alta Tensão,CAB-6310,2019-10-17 03:07:11,Subestação A,Inativo
+ATIV0459,Transformador,TRA-4318,2018-08-08 15:34:03,Posto Z - Saída 5,Inativo
+ATIV0460,Chave Seccionadora,CHA-8629,2019-03-30 23:26:05,Subestação A,Inativo
+ATIV0461,Cabo de Alta Tensão,CAB-1390,2022-11-27 16:19:42,"Rua Y, 123",Operacional
+ATIV0462,Cabo de Alta Tensão,CAB-3923,2018-10-12 21:24:39,Linha de Transmissão X - Km 10,Operacional
+ATIV0463,Cabo de Alta Tensão,CAB-8521,2021-02-05 01:27:44,Posto Z - Saída 5,Inativo
+ATIV0464,Poste,POS-4687,2020-12-10 06:39:35,Subestação A,Operacional
+ATIV0465,Chave Seccionadora,CHA-6426,2020-09-29 22:43:50,Subestação A,Em Manutenção
+ATIV0466,Cabo de Alta Tensão,CAB-2022,2021-01-12 05:20:54,"Rua Y, 123",Operacional
+ATIV0467,Transformador,TRA-1067,2021-05-29 21:34:17,"Rua Y, 123",Operacional
+ATIV0468,Poste,POS-9900,2020-05-20 17:24:04,Linha de Transmissão X - Km 10,Inativo
+ATIV0469,Cabo de Alta Tensão,CAB-6003,2021-10-18 13:40:19,Subestação A,Em Manutenção
+ATIV0470,Medidor de Energia,MED-5992,2018-03-06 17:07:09,"Rua Y, 123",Inativo
+ATIV0471,Chave Seccionadora,CHA-5248,2019-12-30 20:24:10,Linha de Transmissão X - Km 10,Operacional
+ATIV0472,Transformador,TRA-6776,2022-06-09 15:19:20,Posto Z - Saída 5,Em Manutenção
+ATIV0473,Transformador,TRA-8528,2020-03-06 22:30:37,Subestação A,Em Manutenção
+ATIV0474,Chave Seccionadora,CHA-3433,2022-01-12 17:56:25,Subestação A,Em Manutenção
+ATIV0475,Poste,POS-2819,2022-12-07 17:13:51,"Rua Y, 123",Inativo
+ATIV0476,Cabo de Alta Tensão,CAB-1660,2020-01-07 07:35:29,Subestação A,Em Manutenção
+ATIV0477,Medidor de Energia,MED-5801,2018-03-12 17:53:00,"Rua Y, 123",Inativo
+ATIV0478,Cabo de Alta Tensão,CAB-5634,2020-06-28 13:33:45,"Rua Y, 123",Em Manutenção
+ATIV0479,Medidor de Energia,MED-6670,2021-04-24 22:53:47,"Rua Y, 123",Em Manutenção
+ATIV0480,Poste,POS-9285,2021-09-29 22:53:33,Subestação A,Inativo
+ATIV0481,Poste,POS-5902,2019-04-25 14:18:48,Posto Z - Saída 5,Operacional
+ATIV0482,Chave Seccionadora,CHA-7523,2019-12-26 03:43:58,Subestação A,Operacional
+ATIV0483,Transformador,TRA-3422,2022-11-09 04:49:16,"Rua Y, 123",Operacional
+ATIV0484,Medidor de Energia,MED-2658,2019-04-13 14:14:19,Subestação A,Inativo
+ATIV0485,Cabo de Alta Tensão,CAB-8198,2022-09-20 04:38:23,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0486,Transformador,TRA-1791,2022-11-13 00:50:27,Subestação A,Em Manutenção
+ATIV0487,Chave Seccionadora,CHA-1500,2022-04-12 06:14:04,"Rua Y, 123",Inativo
+ATIV0488,Cabo de Alta Tensão,CAB-8802,2021-10-29 13:49:05,Posto Z - Saída 5,Inativo
+ATIV0489,Medidor de Energia,MED-5507,2022-04-04 17:21:21,"Rua Y, 123",Em Manutenção
+ATIV0490,Cabo de Alta Tensão,CAB-9760,2018-05-11 22:16:22,Linha de Transmissão X - Km 10,Operacional
+ATIV0491,Cabo de Alta Tensão,CAB-8882,2021-07-06 10:31:31,"Rua Y, 123",Em Manutenção
+ATIV0492,Poste,POS-8114,2020-01-24 23:53:40,"Rua Y, 123",Inativo
+ATIV0493,Chave Seccionadora,CHA-5204,2020-05-02 20:59:09,Posto Z - Saída 5,Inativo
+ATIV0494,Chave Seccionadora,CHA-2462,2021-08-11 17:05:30,"Rua Y, 123",Inativo
+ATIV0495,Chave Seccionadora,CHA-1058,2022-03-10 11:55:50,Posto Z - Saída 5,Inativo
+ATIV0496,Transformador,TRA-1226,2021-04-15 03:13:12,Subestação A,Inativo
+ATIV0497,Chave Seccionadora,CHA-3944,2022-04-18 15:31:54,Posto Z - Saída 5,Em Manutenção
+ATIV0498,Transformador,TRA-6961,2018-12-13 19:23:39,Linha de Transmissão X - Km 10,Inativo
+ATIV0499,Transformador,TRA-1518,2022-05-27 17:12:23,Posto Z - Saída 5,Inativo
+ATIV0500,Poste,POS-2699,2018-06-03 13:35:56,Posto Z - Saída 5,Operacional
+ATIV0501,Transformador,TRA-7606,2018-04-14 12:53:53,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0502,Transformador,TRA-6204,2022-11-29 03:57:19,Subestação A,Operacional
+ATIV0503,Medidor de Energia,MED-8370,2018-12-06 08:09:48,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0504,Chave Seccionadora,CHA-9495,2019-12-28 23:52:46,"Rua Y, 123",Em Manutenção
+ATIV0505,Medidor de Energia,MED-9399,2020-03-29 10:34:13,Linha de Transmissão X - Km 10,Operacional
+ATIV0506,Medidor de Energia,MED-9021,2022-11-11 12:28:26,Subestação A,Em Manutenção
+ATIV0507,Medidor de Energia,MED-5927,2020-06-25 12:37:43,"Rua Y, 123",Operacional
+ATIV0508,Chave Seccionadora,CHA-5051,2022-08-26 04:35:59,Posto Z - Saída 5,Em Manutenção
+ATIV0509,Medidor de Energia,MED-9349,2022-12-28 09:43:05,Posto Z - Saída 5,Inativo
+ATIV0510,Transformador,TRA-4989,2022-07-28 11:29:02,Linha de Transmissão X - Km 10,Operacional
+ATIV0511,Chave Seccionadora,CHA-7923,2022-07-24 07:52:35,"Rua Y, 123",Inativo
+ATIV0512,Transformador,TRA-9000,2022-04-20 11:02:53,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0513,Chave Seccionadora,CHA-6278,2020-04-05 10:45:31,Posto Z - Saída 5,Operacional
+ATIV0514,Chave Seccionadora,CHA-8587,2022-09-14 12:16:13,Posto Z - Saída 5,Inativo
+ATIV0515,Poste,POS-3607,2022-05-25 05:06:39,"Rua Y, 123",Inativo
+ATIV0516,Chave Seccionadora,CHA-3547,2020-01-21 04:29:05,Subestação A,Inativo
+ATIV0517,Poste,POS-7359,2020-09-13 01:53:14,"Rua Y, 123",Em Manutenção
+ATIV0518,Poste,POS-1680,2018-03-19 01:55:55,Posto Z - Saída 5,Inativo
+ATIV0519,Chave Seccionadora,CHA-5504,2018-06-18 06:46:01,Subestação A,Inativo
+ATIV0520,Cabo de Alta Tensão,CAB-3621,2021-03-22 14:45:50,Linha de Transmissão X - Km 10,Inativo
+ATIV0521,Poste,POS-6013,2020-11-02 10:09:27,Linha de Transmissão X - Km 10,Inativo
+ATIV0522,Poste,POS-1586,2022-11-29 13:25:02,Linha de Transmissão X - Km 10,Inativo
+ATIV0523,Cabo de Alta Tensão,CAB-4383,2018-06-08 15:03:02,"Rua Y, 123",Operacional
+ATIV0524,Cabo de Alta Tensão,CAB-7337,2018-03-24 08:43:15,"Rua Y, 123",Inativo
+ATIV0525,Cabo de Alta Tensão,CAB-7311,2018-12-21 13:42:17,Posto Z - Saída 5,Operacional
+ATIV0526,Cabo de Alta Tensão,CAB-4627,2019-08-22 05:04:17,Posto Z - Saída 5,Inativo
+ATIV0527,Medidor de Energia,MED-1026,2019-05-23 18:24:51,"Rua Y, 123",Em Manutenção
+ATIV0528,Poste,POS-3512,2019-11-16 04:35:02,"Rua Y, 123",Em Manutenção
+ATIV0529,Chave Seccionadora,CHA-1565,2020-07-27 13:08:25,Linha de Transmissão X - Km 10,Inativo
+ATIV0530,Poste,POS-2787,2022-06-19 19:48:31,"Rua Y, 123",Inativo
+ATIV0531,Chave Seccionadora,CHA-1142,2018-02-27 09:49:06,Linha de Transmissão X - Km 10,Operacional
+ATIV0532,Transformador,TRA-6120,2020-12-15 11:11:46,"Rua Y, 123",Inativo
+ATIV0533,Transformador,TRA-3662,2018-03-01 10:42:00,Linha de Transmissão X - Km 10,Operacional
+ATIV0534,Poste,POS-8123,2018-09-18 04:14:43,Subestação A,Em Manutenção
+ATIV0535,Chave Seccionadora,CHA-9622,2019-01-08 05:18:02,Posto Z - Saída 5,Inativo
+ATIV0536,Medidor de Energia,MED-7130,2018-04-15 04:23:47,"Rua Y, 123",Inativo
+ATIV0537,Chave Seccionadora,CHA-5554,2021-09-20 10:34:10,Subestação A,Operacional
+ATIV0538,Poste,POS-3381,2018-03-26 20:09:21,"Rua Y, 123",Inativo
+ATIV0539,Medidor de Energia,MED-6138,2022-11-10 02:07:41,"Rua Y, 123",Em Manutenção
+ATIV0540,Transformador,TRA-9875,2018-12-25 02:05:53,Subestação A,Em Manutenção
+ATIV0541,Chave Seccionadora,CHA-8126,2020-12-27 00:47:18,Posto Z - Saída 5,Inativo
+ATIV0542,Poste,POS-1113,2022-03-21 20:54:57,"Rua Y, 123",Em Manutenção
+ATIV0543,Cabo de Alta Tensão,CAB-3995,2021-06-18 15:15:05,Linha de Transmissão X - Km 10,Operacional
+ATIV0544,Cabo de Alta Tensão,CAB-7998,2018-07-10 20:41:27,Subestação A,Inativo
+ATIV0545,Medidor de Energia,MED-9052,2021-06-30 16:39:23,Posto Z - Saída 5,Inativo
+ATIV0546,Cabo de Alta Tensão,CAB-6686,2022-09-18 00:44:41,"Rua Y, 123",Inativo
+ATIV0547,Chave Seccionadora,CHA-1502,2021-10-17 03:19:08,Posto Z - Saída 5,Operacional
+ATIV0548,Cabo de Alta Tensão,CAB-7335,2022-02-20 17:33:48,"Rua Y, 123",Em Manutenção
+ATIV0549,Poste,POS-7595,2022-11-24 19:51:12,"Rua Y, 123",Inativo
+ATIV0550,Chave Seccionadora,CHA-4668,2021-11-13 03:00:14,Subestação A,Em Manutenção
+ATIV0551,Chave Seccionadora,CHA-6609,2021-08-27 12:44:22,"Rua Y, 123",Operacional
+ATIV0552,Chave Seccionadora,CHA-7788,2020-12-18 09:27:52,Linha de Transmissão X - Km 10,Inativo
+ATIV0553,Medidor de Energia,MED-5649,2021-06-05 16:12:34,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0554,Transformador,TRA-1316,2019-08-28 04:09:56,Linha de Transmissão X - Km 10,Operacional
+ATIV0555,Chave Seccionadora,CHA-3262,2022-02-24 06:44:04,Subestação A,Inativo
+ATIV0556,Cabo de Alta Tensão,CAB-2127,2021-11-08 05:47:47,Posto Z - Saída 5,Em Manutenção
+ATIV0557,Cabo de Alta Tensão,CAB-9158,2018-03-09 06:08:24,Linha de Transmissão X - Km 10,Inativo
+ATIV0558,Cabo de Alta Tensão,CAB-3633,2019-02-12 17:58:26,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0559,Medidor de Energia,MED-2949,2018-02-11 16:56:22,Subestação A,Operacional
+ATIV0560,Medidor de Energia,MED-3066,2021-04-02 00:29:01,Posto Z - Saída 5,Operacional
+ATIV0561,Chave Seccionadora,CHA-5635,2019-05-02 08:03:34,Subestação A,Em Manutenção
+ATIV0562,Medidor de Energia,MED-2057,2021-10-25 15:50:37,Linha de Transmissão X - Km 10,Inativo
+ATIV0563,Cabo de Alta Tensão,CAB-5150,2018-02-08 23:33:29,"Rua Y, 123",Inativo
+ATIV0564,Transformador,TRA-8168,2021-07-26 18:51:06,"Rua Y, 123",Em Manutenção
+ATIV0565,Poste,POS-5412,2018-11-04 23:20:39,"Rua Y, 123",Inativo
+ATIV0566,Chave Seccionadora,CHA-1916,2022-08-15 04:41:55,"Rua Y, 123",Em Manutenção
+ATIV0567,Transformador,TRA-3921,2020-06-28 20:32:33,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0568,Cabo de Alta Tensão,CAB-3822,2022-12-01 05:09:26,Subestação A,Inativo
+ATIV0569,Cabo de Alta Tensão,CAB-8381,2020-11-07 12:12:39,"Rua Y, 123",Operacional
+ATIV0570,Chave Seccionadora,CHA-4351,2019-09-20 19:45:27,Subestação A,Operacional
+ATIV0571,Poste,POS-4623,2021-12-25 16:26:11,Subestação A,Em Manutenção
+ATIV0572,Medidor de Energia,MED-6607,2019-01-21 01:43:48,Linha de Transmissão X - Km 10,Inativo
+ATIV0573,Poste,POS-4454,2021-07-16 00:19:43,"Rua Y, 123",Inativo
+ATIV0574,Medidor de Energia,MED-7723,2019-04-23 20:02:13,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0575,Poste,POS-3999,2020-09-30 20:12:55,Posto Z - Saída 5,Em Manutenção
+ATIV0576,Cabo de Alta Tensão,CAB-2034,2019-03-17 20:34:59,Subestação A,Em Manutenção
+ATIV0577,Medidor de Energia,MED-1722,2019-10-31 22:00:44,"Rua Y, 123",Operacional
+ATIV0578,Chave Seccionadora,CHA-1040,2018-06-29 16:13:10,Posto Z - Saída 5,Em Manutenção
+ATIV0579,Cabo de Alta Tensão,CAB-1605,2019-12-30 19:41:08,"Rua Y, 123",Inativo
+ATIV0580,Transformador,TRA-1574,2018-11-20 08:03:48,Posto Z - Saída 5,Operacional
+ATIV0581,Cabo de Alta Tensão,CAB-6130,2020-02-06 04:40:07,Linha de Transmissão X - Km 10,Operacional
+ATIV0582,Chave Seccionadora,CHA-1979,2018-03-05 10:43:40,Posto Z - Saída 5,Operacional
+ATIV0583,Medidor de Energia,MED-6988,2018-06-11 16:11:59,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0584,Chave Seccionadora,CHA-4277,2019-06-16 15:47:01,Linha de Transmissão X - Km 10,Operacional
+ATIV0585,Cabo de Alta Tensão,CAB-5233,2020-08-17 02:07:25,"Rua Y, 123",Operacional
+ATIV0586,Chave Seccionadora,CHA-2908,2020-07-20 22:33:35,Posto Z - Saída 5,Inativo
+ATIV0587,Poste,POS-8550,2020-08-19 08:28:40,Linha de Transmissão X - Km 10,Inativo
+ATIV0588,Cabo de Alta Tensão,CAB-5008,2018-04-06 01:39:36,Posto Z - Saída 5,Inativo
+ATIV0589,Medidor de Energia,MED-9470,2021-01-23 03:15:40,Posto Z - Saída 5,Operacional
+ATIV0590,Cabo de Alta Tensão,CAB-5910,2018-04-22 18:20:50,Posto Z - Saída 5,Em Manutenção
+ATIV0591,Chave Seccionadora,CHA-3889,2019-02-21 14:34:23,"Rua Y, 123",Inativo
+ATIV0592,Medidor de Energia,MED-2187,2019-08-19 17:27:01,Subestação A,Em Manutenção
+ATIV0593,Transformador,TRA-1990,2021-07-05 18:32:45,Posto Z - Saída 5,Inativo
+ATIV0594,Transformador,TRA-8485,2018-12-03 11:52:11,Subestação A,Inativo
+ATIV0595,Transformador,TRA-7846,2021-12-13 17:37:53,Linha de Transmissão X - Km 10,Operacional
+ATIV0596,Chave Seccionadora,CHA-5721,2021-06-16 00:39:30,Subestação A,Operacional
+ATIV0597,Transformador,TRA-3195,2019-10-12 10:39:16,Posto Z - Saída 5,Em Manutenção
+ATIV0598,Medidor de Energia,MED-7909,2018-10-24 02:55:36,Linha de Transmissão X - Km 10,Inativo
+ATIV0599,Chave Seccionadora,CHA-8143,2019-04-03 16:09:00,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0600,Transformador,TRA-3426,2019-05-31 11:53:27,"Rua Y, 123",Inativo
+ATIV0601,Poste,POS-6762,2019-07-06 00:27:20,Posto Z - Saída 5,Operacional
+ATIV0602,Chave Seccionadora,CHA-7980,2018-09-10 04:17:31,Subestação A,Inativo
+ATIV0603,Medidor de Energia,MED-4469,2018-05-06 12:00:14,"Rua Y, 123",Inativo
+ATIV0604,Medidor de Energia,MED-3612,2020-10-01 17:16:24,Subestação A,Em Manutenção
+ATIV0605,Cabo de Alta Tensão,CAB-8413,2019-09-02 20:13:45,"Rua Y, 123",Em Manutenção
+ATIV0606,Chave Seccionadora,CHA-3183,2020-06-15 15:26:21,"Rua Y, 123",Em Manutenção
+ATIV0607,Transformador,TRA-8754,2021-03-16 08:07:03,Posto Z - Saída 5,Operacional
+ATIV0608,Chave Seccionadora,CHA-8220,2020-11-27 02:02:09,"Rua Y, 123",Em Manutenção
+ATIV0609,Poste,POS-7382,2022-07-05 04:56:54,Linha de Transmissão X - Km 10,Operacional
+ATIV0610,Chave Seccionadora,CHA-8554,2019-11-07 01:26:23,"Rua Y, 123",Inativo
+ATIV0611,Chave Seccionadora,CHA-4931,2021-12-03 12:51:43,Posto Z - Saída 5,Em Manutenção
+ATIV0612,Poste,POS-9893,2021-01-04 03:40:20,Posto Z - Saída 5,Operacional
+ATIV0613,Medidor de Energia,MED-2842,2018-06-23 01:08:33,Posto Z - Saída 5,Inativo
+ATIV0614,Chave Seccionadora,CHA-6843,2019-07-31 01:28:03,Posto Z - Saída 5,Operacional
+ATIV0615,Transformador,TRA-4028,2022-09-21 00:11:26,Subestação A,Inativo
+ATIV0616,Transformador,TRA-4575,2020-08-20 10:03:49,Posto Z - Saída 5,Em Manutenção
+ATIV0617,Cabo de Alta Tensão,CAB-2829,2019-09-01 22:27:54,Subestação A,Operacional
+ATIV0618,Poste,POS-6875,2021-03-05 00:25:30,Subestação A,Inativo
+ATIV0619,Transformador,TRA-1953,2018-12-26 11:26:13,"Rua Y, 123",Inativo
+ATIV0620,Poste,POS-2329,2020-05-30 10:28:40,Linha de Transmissão X - Km 10,Inativo
+ATIV0621,Chave Seccionadora,CHA-2197,2022-10-02 17:42:20,"Rua Y, 123",Inativo
+ATIV0622,Chave Seccionadora,CHA-2126,2022-01-13 15:23:30,Linha de Transmissão X - Km 10,Operacional
+ATIV0623,Medidor de Energia,MED-6385,2018-11-04 16:35:32,Subestação A,Operacional
+ATIV0624,Medidor de Energia,MED-4566,2019-02-03 22:00:56,"Rua Y, 123",Inativo
+ATIV0625,Poste,POS-8153,2018-03-29 10:13:24,Linha de Transmissão X - Km 10,Operacional
+ATIV0626,Medidor de Energia,MED-3391,2022-01-07 12:09:34,Subestação A,Operacional
+ATIV0627,Transformador,TRA-9807,2019-07-02 12:09:50,Linha de Transmissão X - Km 10,Operacional
+ATIV0628,Transformador,TRA-7191,2022-04-11 15:58:04,"Rua Y, 123",Operacional
+ATIV0629,Transformador,TRA-3428,2020-10-04 19:50:10,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0630,Poste,POS-3892,2018-04-15 07:23:34,Subestação A,Em Manutenção
+ATIV0631,Medidor de Energia,MED-6414,2019-05-23 00:50:26,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0632,Chave Seccionadora,CHA-5901,2022-11-12 05:55:04,Subestação A,Inativo
+ATIV0633,Medidor de Energia,MED-7567,2022-02-15 01:20:28,"Rua Y, 123",Inativo
+ATIV0634,Poste,POS-1694,2021-02-06 19:44:14,Posto Z - Saída 5,Operacional
+ATIV0635,Transformador,TRA-5798,2020-04-07 12:20:02,Linha de Transmissão X - Km 10,Inativo
+ATIV0636,Transformador,TRA-8496,2022-07-17 04:01:20,Subestação A,Em Manutenção
+ATIV0637,Cabo de Alta Tensão,CAB-4571,2021-04-22 08:04:48,"Rua Y, 123",Inativo
+ATIV0638,Chave Seccionadora,CHA-2178,2020-11-14 04:38:16,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0639,Poste,POS-8068,2019-04-07 05:14:08,Posto Z - Saída 5,Em Manutenção
+ATIV0640,Chave Seccionadora,CHA-2905,2018-03-08 10:35:28,Linha de Transmissão X - Km 10,Operacional
+ATIV0641,Poste,POS-7070,2018-06-19 15:21:52,Posto Z - Saída 5,Em Manutenção
+ATIV0642,Medidor de Energia,MED-4039,2019-12-02 13:11:28,Subestação A,Em Manutenção
+ATIV0643,Poste,POS-9798,2020-12-05 15:01:29,Subestação A,Em Manutenção
+ATIV0644,Medidor de Energia,MED-8349,2018-02-25 05:01:38,Subestação A,Inativo
+ATIV0645,Poste,POS-6746,2020-07-09 04:45:52,Posto Z - Saída 5,Em Manutenção
+ATIV0646,Medidor de Energia,MED-4776,2019-06-28 05:25:21,Posto Z - Saída 5,Operacional
+ATIV0647,Poste,POS-2286,2019-03-13 03:31:10,Linha de Transmissão X - Km 10,Inativo
+ATIV0648,Transformador,TRA-5284,2020-04-03 07:34:57,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0649,Transformador,TRA-2551,2021-10-12 19:52:34,Subestação A,Inativo
+ATIV0650,Medidor de Energia,MED-6796,2018-03-07 08:07:20,"Rua Y, 123",Em Manutenção
+ATIV0651,Transformador,TRA-3501,2022-09-14 18:56:13,Posto Z - Saída 5,Operacional
+ATIV0652,Poste,POS-2724,2020-06-10 15:07:39,Subestação A,Operacional
+ATIV0653,Cabo de Alta Tensão,CAB-8762,2018-05-22 08:45:24,"Rua Y, 123",Operacional
+ATIV0654,Medidor de Energia,MED-2335,2020-04-14 12:41:16,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0655,Chave Seccionadora,CHA-4539,2020-05-24 09:04:22,Subestação A,Operacional
+ATIV0656,Medidor de Energia,MED-3387,2020-11-03 14:10:28,Posto Z - Saída 5,Em Manutenção
+ATIV0657,Transformador,TRA-3618,2021-06-30 11:26:37,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0658,Poste,POS-7614,2019-05-27 01:11:14,"Rua Y, 123",Inativo
+ATIV0659,Chave Seccionadora,CHA-1769,2021-10-19 23:59:06,Posto Z - Saída 5,Em Manutenção
+ATIV0660,Chave Seccionadora,CHA-1782,2019-04-05 00:36:36,"Rua Y, 123",Inativo
+ATIV0661,Medidor de Energia,MED-9396,2021-11-13 15:16:38,Subestação A,Em Manutenção
+ATIV0662,Cabo de Alta Tensão,CAB-4278,2020-12-24 00:06:37,Subestação A,Operacional
+ATIV0663,Chave Seccionadora,CHA-9650,2020-03-15 12:33:16,Subestação A,Inativo
+ATIV0664,Chave Seccionadora,CHA-4918,2019-08-30 17:43:39,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0665,Poste,POS-9814,2020-08-20 23:45:35,Posto Z - Saída 5,Em Manutenção
+ATIV0666,Transformador,TRA-5951,2018-03-06 07:14:21,"Rua Y, 123",Operacional
+ATIV0667,Poste,POS-3743,2021-02-15 11:42:25,Posto Z - Saída 5,Operacional
+ATIV0668,Cabo de Alta Tensão,CAB-2221,2019-12-07 17:07:42,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0669,Transformador,TRA-8324,2022-08-21 17:43:01,Linha de Transmissão X - Km 10,Operacional
+ATIV0670,Poste,POS-9119,2018-10-23 09:30:47,Subestação A,Em Manutenção
+ATIV0671,Poste,POS-3337,2022-12-16 20:38:45,"Rua Y, 123",Em Manutenção
+ATIV0672,Medidor de Energia,MED-9242,2018-08-28 00:53:26,Linha de Transmissão X - Km 10,Inativo
+ATIV0673,Poste,POS-9146,2022-10-07 01:41:13,"Rua Y, 123",Em Manutenção
+ATIV0674,Medidor de Energia,MED-3120,2022-04-09 23:09:58,"Rua Y, 123",Em Manutenção
+ATIV0675,Cabo de Alta Tensão,CAB-4271,2020-08-24 05:39:43,"Rua Y, 123",Operacional
+ATIV0676,Poste,POS-6077,2020-07-24 18:54:41,Posto Z - Saída 5,Em Manutenção
+ATIV0677,Chave Seccionadora,CHA-3916,2020-09-04 10:51:37,"Rua Y, 123",Inativo
+ATIV0678,Cabo de Alta Tensão,CAB-8470,2022-07-18 08:28:40,"Rua Y, 123",Operacional
+ATIV0679,Medidor de Energia,MED-8772,2021-09-30 09:18:38,Posto Z - Saída 5,Operacional
+ATIV0680,Medidor de Energia,MED-6191,2020-01-08 01:04:48,"Rua Y, 123",Operacional
+ATIV0681,Transformador,TRA-1192,2018-03-24 12:36:51,Linha de Transmissão X - Km 10,Operacional
+ATIV0682,Cabo de Alta Tensão,CAB-4820,2018-05-01 08:15:22,Linha de Transmissão X - Km 10,Inativo
+ATIV0683,Chave Seccionadora,CHA-7110,2020-04-15 07:06:27,"Rua Y, 123",Inativo
+ATIV0684,Transformador,TRA-8372,2019-01-05 05:07:12,Linha de Transmissão X - Km 10,Operacional
+ATIV0685,Medidor de Energia,MED-6926,2020-07-01 14:28:20,"Rua Y, 123",Em Manutenção
+ATIV0686,Chave Seccionadora,CHA-5464,2022-06-03 12:21:04,Posto Z - Saída 5,Operacional
+ATIV0687,Poste,POS-1594,2022-09-09 08:38:55,"Rua Y, 123",Operacional
+ATIV0688,Cabo de Alta Tensão,CAB-9092,2018-01-24 09:54:16,Subestação A,Em Manutenção
+ATIV0689,Medidor de Energia,MED-2871,2019-09-19 09:35:51,"Rua Y, 123",Em Manutenção
+ATIV0690,Medidor de Energia,MED-4980,2020-07-03 05:58:34,Posto Z - Saída 5,Em Manutenção
+ATIV0691,Poste,POS-9652,2018-02-26 03:46:45,Posto Z - Saída 5,Inativo
+ATIV0692,Cabo de Alta Tensão,CAB-2419,2021-02-15 15:14:34,Subestação A,Inativo
+ATIV0693,Medidor de Energia,MED-2262,2018-05-07 15:42:56,"Rua Y, 123",Inativo
+ATIV0694,Poste,POS-8206,2021-02-26 23:55:27,Posto Z - Saída 5,Inativo
+ATIV0695,Transformador,TRA-3659,2021-09-26 02:59:32,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0696,Chave Seccionadora,CHA-4795,2019-09-05 16:23:30,Posto Z - Saída 5,Em Manutenção
+ATIV0697,Medidor de Energia,MED-6756,2021-05-20 08:36:08,"Rua Y, 123",Inativo
+ATIV0698,Medidor de Energia,MED-6880,2020-03-06 15:34:17,Linha de Transmissão X - Km 10,Inativo
+ATIV0699,Transformador,TRA-6149,2021-01-07 23:24:52,Posto Z - Saída 5,Operacional
+ATIV0700,Transformador,TRA-6104,2019-05-09 20:56:01,Subestação A,Em Manutenção
+ATIV0701,Cabo de Alta Tensão,CAB-7820,2018-08-26 13:26:29,"Rua Y, 123",Inativo
+ATIV0702,Cabo de Alta Tensão,CAB-5312,2021-10-12 16:58:28,"Rua Y, 123",Operacional
+ATIV0703,Medidor de Energia,MED-5942,2022-04-06 03:12:45,"Rua Y, 123",Inativo
+ATIV0704,Cabo de Alta Tensão,CAB-8641,2022-08-09 17:32:34,Subestação A,Em Manutenção
+ATIV0705,Cabo de Alta Tensão,CAB-4337,2021-10-10 23:55:19,Subestação A,Em Manutenção
+ATIV0706,Chave Seccionadora,CHA-2011,2020-08-31 20:43:46,Posto Z - Saída 5,Inativo
+ATIV0707,Poste,POS-7276,2022-03-04 03:16:35,"Rua Y, 123",Operacional
+ATIV0708,Transformador,TRA-3693,2021-01-28 12:47:35,Linha de Transmissão X - Km 10,Inativo
+ATIV0709,Poste,POS-4662,2020-09-05 07:39:17,Posto Z - Saída 5,Em Manutenção
+ATIV0710,Transformador,TRA-8243,2019-12-07 14:39:24,Subestação A,Inativo
+ATIV0711,Chave Seccionadora,CHA-8248,2019-04-04 05:49:24,Subestação A,Inativo
+ATIV0712,Poste,POS-9190,2022-08-03 11:26:43,Linha de Transmissão X - Km 10,Operacional
+ATIV0713,Chave Seccionadora,CHA-4047,2019-12-19 07:42:37,"Rua Y, 123",Em Manutenção
+ATIV0714,Chave Seccionadora,CHA-1142,2018-01-22 23:38:13,Subestação A,Operacional
+ATIV0715,Cabo de Alta Tensão,CAB-9375,2019-12-10 03:40:33,Linha de Transmissão X - Km 10,Inativo
+ATIV0716,Poste,POS-4434,2020-10-10 19:46:00,Posto Z - Saída 5,Em Manutenção
+ATIV0717,Medidor de Energia,MED-4132,2020-04-06 08:45:45,Subestação A,Em Manutenção
+ATIV0718,Poste,POS-2823,2020-03-03 20:16:02,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0719,Chave Seccionadora,CHA-9175,2018-04-02 15:27:47,Linha de Transmissão X - Km 10,Inativo
+ATIV0720,Transformador,TRA-4008,2018-07-18 10:22:05,Linha de Transmissão X - Km 10,Inativo
+ATIV0721,Cabo de Alta Tensão,CAB-9947,2020-05-09 01:31:02,Posto Z - Saída 5,Inativo
+ATIV0722,Medidor de Energia,MED-2903,2020-04-18 20:29:46,Subestação A,Operacional
+ATIV0723,Chave Seccionadora,CHA-3306,2019-10-05 00:24:26,"Rua Y, 123",Inativo
+ATIV0724,Transformador,TRA-3950,2018-03-02 07:29:39,Linha de Transmissão X - Km 10,Inativo
+ATIV0725,Chave Seccionadora,CHA-5524,2019-04-30 15:08:32,"Rua Y, 123",Operacional
+ATIV0726,Cabo de Alta Tensão,CAB-1787,2018-01-20 19:24:00,Subestação A,Operacional
+ATIV0727,Poste,POS-9203,2021-06-24 04:31:31,"Rua Y, 123",Operacional
+ATIV0728,Cabo de Alta Tensão,CAB-1850,2018-10-18 15:04:41,Subestação A,Em Manutenção
+ATIV0729,Poste,POS-2977,2021-09-15 02:17:10,Posto Z - Saída 5,Inativo
+ATIV0730,Poste,POS-4584,2018-03-28 06:11:02,Subestação A,Inativo
+ATIV0731,Chave Seccionadora,CHA-1992,2021-02-07 06:06:13,Posto Z - Saída 5,Inativo
+ATIV0732,Poste,POS-7990,2021-06-22 02:32:36,Posto Z - Saída 5,Operacional
+ATIV0733,Cabo de Alta Tensão,CAB-9233,2020-05-15 09:35:25,"Rua Y, 123",Inativo
+ATIV0734,Chave Seccionadora,CHA-5478,2021-05-13 01:00:09,Subestação A,Inativo
+ATIV0735,Medidor de Energia,MED-1837,2022-06-23 23:14:29,Linha de Transmissão X - Km 10,Operacional
+ATIV0736,Cabo de Alta Tensão,CAB-1391,2021-12-09 07:47:11,Subestação A,Em Manutenção
+ATIV0737,Transformador,TRA-5849,2022-08-25 08:33:17,Posto Z - Saída 5,Em Manutenção
+ATIV0738,Transformador,TRA-4014,2018-03-04 11:26:09,Linha de Transmissão X - Km 10,Inativo
+ATIV0739,Cabo de Alta Tensão,CAB-7011,2019-04-13 20:17:59,Subestação A,Operacional
+ATIV0740,Transformador,TRA-1706,2018-01-11 00:21:43,Subestação A,Em Manutenção
+ATIV0741,Poste,POS-5787,2022-05-01 03:49:38,"Rua Y, 123",Em Manutenção
+ATIV0742,Medidor de Energia,MED-3837,2019-08-19 18:39:51,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0743,Poste,POS-9011,2021-02-10 17:22:41,Linha de Transmissão X - Km 10,Inativo
+ATIV0744,Cabo de Alta Tensão,CAB-2432,2018-11-25 17:39:23,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0745,Medidor de Energia,MED-7392,2020-09-22 04:41:36,Subestação A,Inativo
+ATIV0746,Poste,POS-9247,2021-08-07 12:50:08,Subestação A,Inativo
+ATIV0747,Cabo de Alta Tensão,CAB-3694,2021-03-19 02:50:07,Subestação A,Em Manutenção
+ATIV0748,Chave Seccionadora,CHA-9086,2018-09-22 03:10:42,"Rua Y, 123",Em Manutenção
+ATIV0749,Chave Seccionadora,CHA-9227,2019-04-22 20:28:51,Linha de Transmissão X - Km 10,Em Manutenção
+ATIV0750,Cabo de Alta Tensão,CAB-6819,2022-05-16 18:36:50,Posto Z - Saída 5,Operacional
+ATIV0751,Chave Seccionadora,CHA-3535,2020-04-14 20:02:30,"Rua Y, 123",Em Manutenção
+ATIV0752,Medidor de Energia,MED-3621,2019-02-16 01:14:05,Linha de Transmissão X - Km 10,Inativo
+ATIV0753,Transformador,TRA-4738,2019-09-11 21:32:13,"Rua Y, 123",Em Manutenção
+ATIV0754,Medidor de Energia,MED-3591,2022-09-17 13:20:21,Subestação A,Operacional
+ATIV0755,Cabo de Alta Tensão,CAB-1604,2019-03-27 22:59:41,"Rua Y, 123",Em Manutenção
+ATIV0756,Transformador,TRA-8023,2022-07-20 17:02:44,"Rua Y, 123",Operacional
+ATIV0757,Medidor de Energia,MED-2399,2018-11-04 13:00:02,Subestação A,Em Manutenção
+ATIV0758,Poste,POS-9595,2019-01-04 00:20:42,Subestação A,Em Manutenção
+ATIV0759,Poste,POS-6107,2021-07-20 10:50:08,Posto Z - Saída 5,Inativo
+ATIV0760,Medidor de Energia,MED-1640,2022-10-02 16:27:43,"Rua Y, 123",Operacional
+ATIV0761,Medidor de Energia,MED-2502,2021-01-31 19:29:51,Linha de Transmissão X - Km 10,Operacional
+ATIV0762,Medidor de Energia,MED-7629,2019-05-20 05:17:59,"Rua Y, 123",Inativo
+ATIV0763,Poste,POS-3553,2020-07-06 02:39:40,Subestação A,Operacional
+ATIV0764,Medidor de Energia,MED-1024,2018-11-09 03:47:15,"Rua Y, 123",Em Manutenção
+ATIV0765,Transformador,TRA-3996,2021-01-21 07:29:33,Subestação A,Em Manutenção
+ATIV0766,Cabo de Alta Tensão,CAB-6584,2020-07-24 21:17:43,"Rua Y, 123",Operacional
+ATIV0767,Medidor de Energia,MED-2045,2022-11-27 21:49:53,Subestação A,Operacional
+ATIV0768,Cabo de Alta Tensão,CAB-1571,2021-01-10 22:14:26,"Rua Y, 123",Operacional
+ATIV0769,Chave Seccionadora,CHA-4666,2018-04-28 08:41:42,Posto Z - Saída 5,Inativo
+ATIV0770,Cabo de Alta Tensão,CAB-1644,2020-02-08 12:33:54,Posto Z - Saída 5,Em Manutenção
+ATIV0771,Chave Seccionadora,CHA-4444,2019-05-17 04:16:03,"Rua Y, 123",Inativo
+ATIV0772,Cabo de Alta Tensão,CAB-7112,2019-05-13 12:43:03,Linha de Transmissão X - Km 10,Operacional
+ATIV0773,Transformador,TRA-4662,2018-09-05 18:01:21,Subestação A,Inativo
+ATIV0774,Transformador,TRA-9842,2021-07-26 21:54:18,Subestação A,Em Manutenção
+ATIV0775,Poste,POS-6216,2020-09-23 02:02:28,"Rua Y, 123",Operacional
+ATIV0776,Transformador,TRA-5962,2019-03-09 17:48:41,Linha de Transmissão X - Km 10,Operacional
+ATIV0777,Poste,POS-2356,2020-04-20 04:58:59,"Rua Y, 123",Inativo
+ATIV0778,Cabo de Alta Tensão,CAB-8006,2018-09-13 13:09:04,Linha de Transmissão X - Km 10,Inativo
+ATIV0779,Medidor de Energia,MED-5025,2021-04-17 18:03:52,"Rua Y, 123",Em Manutenção
+ATIV0780,Cabo de Alta Tensão,CAB-2093,2018-11-27 20:14:35,Subestação A,Operacional
+ATIV0781,Transformador,TRA-3140,2022-01-13 12:53:16,Subestação A,Inativo
+ATIV0782,Chave Seccionadora,CHA-2631,2020-11-03 14:46:20,Subestação A,Inativo
+ATIV0783,Transformador,TRA-1589,2018-05-23 06:59:50,"Rua Y, 123",Operacional
+ATIV0784,Medidor de Energia,MED-9108,2022-10-16 06:18:00,Subestação A,Inativo
+ATIV0785,Transformador,TRA-5826,2022-09-12 01:57:26,Subestação A,Em Manutenção
+ATIV0786,Medidor de Energia,MED-5998,2022-07-14 16:36:19,Linha de Transmissão X - Km 10,Operacional
+ATIV0787,Cabo de Alta Tensão,CAB-1101,2018-02-14 14:46:39,"Rua Y, 123",Em Manutenção
+ATIV0788,Cabo de Alta Tensão,CAB-3489,2018-01-15 11:38:42,Linha de Transmissão X - Km 10,Inativo
+ATIV0789,Medidor de Energia,MED-3812,2021-03-29 10:02:51,"Rua Y, 123",Inativo
+ATIV0790,Medidor de Energia,MED-7389,2018-09-12 10:49:35,Posto Z - Saída 5,Em Manutenção
+ATIV0791,Chave Seccionadora,CHA-8715,2019-08-01 16:21:10,Subestação A,Operacional
+ATIV0792,Poste,POS-9067,2021-01-14 18:32:01,Linha de Transmissão X - Km 10,Operacional
+ATIV0793,Medidor de Energia,MED-1157,2022-08-12 18:47:05,Subestação A,Em Manutenção
+ATIV0794,Chave Seccionadora,CHA-8132,2022-01-04 06:05:21,Subestação A,Em Manutenção
+ATIV0795,Cabo de Alta Tensão,CAB-9997,2020-03-02 02:08:20,Subestação A,Em Manutenção
+ATIV0796,Transformador,TRA-1325,2021-12-29 22:30:27,Posto Z - Saída 5,Em Manutenção
+ATIV0797,Chave Seccionadora,CHA-3651,2020-06-03 17:12:22,Posto Z - Saída 5,Em Manutenção
+ATIV0798,Poste,POS-9344,2018-05-13 16:31:54,Posto Z - Saída 5,Em Manutenção
+ATIV0799,Chave Seccionadora,CHA-8789,2022-09-15 09:59:57,Subestação A,Inativo
+ATIV0800,Cabo de Alta Tensão,CAB-2289,2020-05-07 11:52:18,Linha de Transmissão X - Km 10,Em Manutenção

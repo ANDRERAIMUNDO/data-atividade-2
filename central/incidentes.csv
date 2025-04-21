@@ -1,0 +1,501 @@
+IncidentID,Description,Urgency,Impact,ResponseTime(min),Status
+INC0001,Perda de comunicação com medidor,Alta,4,125,Em Análise
+INC0002,Erro de autenticação no SCADA,Alta,4,73,Resolvido
+INC0003,Falha de leitura remota,Média,1,35,Pendente
+INC0004,Falha de leitura remota,Alta,5,10,Pendente
+INC0005,Perda de comunicação com medidor,Média,4,19,Resolvido
+INC0006,Instabilidade na central,Alta,1,21,Pendente
+INC0007,Falha de leitura remota,Alta,2,169,Em Análise
+INC0008,Instabilidade na central,Alta,1,25,Em Análise
+INC0009,Perda de comunicação com medidor,Alta,2,178,Resolvido
+INC0010,Falha de leitura remota,Baixa,5,176,Em Análise
+INC0011,Falha de leitura remota,Baixa,5,152,Resolvido
+INC0012,Erro de autenticação no SCADA,Baixa,1,171,Resolvido
+INC0013,Falha de leitura remota,Baixa,4,122,Pendente
+INC0014,Perda de comunicação com medidor,Média,2,32,Em Análise
+INC0015,Falha de leitura remota,Alta,2,162,Resolvido
+INC0016,Perda de comunicação com medidor,Alta,2,135,Em Análise
+INC0017,Perda de comunicação com medidor,Alta,5,178,Resolvido
+INC0018,Erro de autenticação no SCADA,Média,1,10,Resolvido
+INC0019,Instabilidade na central,Média,4,123,Resolvido
+INC0020,Erro de autenticação no SCADA,Média,3,116,Em Análise
+INC0021,Erro de autenticação no SCADA,Média,3,45,Resolvido
+INC0022,Erro de autenticação no SCADA,Média,3,55,Resolvido
+INC0023,Erro de autenticação no SCADA,Média,2,75,Resolvido
+INC0024,Falha de leitura remota,Alta,2,93,Em Análise
+INC0025,Perda de comunicação com medidor,Baixa,1,148,Em Análise
+INC0026,Erro de autenticação no SCADA,Baixa,3,12,Em Análise
+INC0027,Falha de leitura remota,Média,1,93,Pendente
+INC0028,Instabilidade na central,Média,4,132,Pendente
+INC0029,Falha de leitura remota,Média,2,149,Em Análise
+INC0030,Erro de autenticação no SCADA,Baixa,5,34,Pendente
+INC0031,Instabilidade na central,Alta,1,75,Pendente
+INC0032,Erro de autenticação no SCADA,Baixa,4,41,Resolvido
+INC0033,Erro de autenticação no SCADA,Média,2,173,Em Análise
+INC0034,Instabilidade na central,Média,5,22,Em Análise
+INC0035,Falha de leitura remota,Média,1,103,Pendente
+INC0036,Perda de comunicação com medidor,Média,3,116,Pendente
+INC0037,Instabilidade na central,Alta,5,117,Pendente
+INC0038,Perda de comunicação com medidor,Alta,1,81,Resolvido
+INC0039,Instabilidade na central,Alta,2,111,Pendente
+INC0040,Perda de comunicação com medidor,Média,2,178,Em Análise
+INC0041,Falha de leitura remota,Alta,5,27,Pendente
+INC0042,Erro de autenticação no SCADA,Média,4,28,Resolvido
+INC0043,Perda de comunicação com medidor,Média,5,164,Em Análise
+INC0044,Falha de leitura remota,Média,4,139,Em Análise
+INC0045,Perda de comunicação com medidor,Baixa,4,41,Resolvido
+INC0046,Erro de autenticação no SCADA,Média,2,86,Pendente
+INC0047,Falha de leitura remota,Média,2,98,Em Análise
+INC0048,Falha de leitura remota,Baixa,3,122,Pendente
+INC0049,Instabilidade na central,Média,3,93,Resolvido
+INC0050,Falha de leitura remota,Média,1,12,Resolvido
+INC0051,Falha de leitura remota,Alta,1,11,Pendente
+INC0052,Erro de autenticação no SCADA,Média,3,22,Pendente
+INC0053,Instabilidade na central,Média,3,61,Em Análise
+INC0054,Falha de leitura remota,Alta,2,40,Em Análise
+INC0055,Perda de comunicação com medidor,Média,1,128,Resolvido
+INC0056,Falha de leitura remota,Baixa,1,168,Pendente
+INC0057,Falha de leitura remota,Alta,3,144,Em Análise
+INC0058,Perda de comunicação com medidor,Baixa,5,42,Em Análise
+INC0059,Perda de comunicação com medidor,Baixa,1,73,Pendente
+INC0060,Instabilidade na central,Média,5,92,Resolvido
+INC0061,Perda de comunicação com medidor,Média,2,37,Em Análise
+INC0062,Instabilidade na central,Alta,5,47,Resolvido
+INC0063,Perda de comunicação com medidor,Alta,1,134,Resolvido
+INC0064,Perda de comunicação com medidor,Alta,5,122,Resolvido
+INC0065,Perda de comunicação com medidor,Média,5,37,Resolvido
+INC0066,Falha de leitura remota,Alta,5,34,Resolvido
+INC0067,Instabilidade na central,Alta,5,178,Resolvido
+INC0068,Instabilidade na central,Alta,5,68,Resolvido
+INC0069,Perda de comunicação com medidor,Média,5,107,Resolvido
+INC0070,Perda de comunicação com medidor,Alta,4,135,Em Análise
+INC0071,Falha de leitura remota,Média,3,21,Resolvido
+INC0072,Instabilidade na central,Alta,4,150,Resolvido
+INC0073,Erro de autenticação no SCADA,Baixa,3,72,Pendente
+INC0074,Erro de autenticação no SCADA,Média,5,163,Pendente
+INC0075,Erro de autenticação no SCADA,Baixa,5,39,Em Análise
+INC0076,Perda de comunicação com medidor,Alta,3,96,Resolvido
+INC0077,Erro de autenticação no SCADA,Média,1,86,Resolvido
+INC0078,Instabilidade na central,Alta,3,160,Em Análise
+INC0079,Instabilidade na central,Média,4,160,Resolvido
+INC0080,Perda de comunicação com medidor,Baixa,4,94,Em Análise
+INC0081,Perda de comunicação com medidor,Média,3,55,Pendente
+INC0082,Perda de comunicação com medidor,Alta,3,25,Pendente
+INC0083,Falha de leitura remota,Alta,2,105,Resolvido
+INC0084,Perda de comunicação com medidor,Média,2,78,Resolvido
+INC0085,Instabilidade na central,Baixa,1,52,Pendente
+INC0086,Erro de autenticação no SCADA,Média,3,168,Em Análise
+INC0087,Instabilidade na central,Alta,2,45,Em Análise
+INC0088,Erro de autenticação no SCADA,Alta,2,170,Em Análise
+INC0089,Falha de leitura remota,Baixa,2,75,Pendente
+INC0090,Perda de comunicação com medidor,Média,3,113,Pendente
+INC0091,Erro de autenticação no SCADA,Baixa,4,125,Em Análise
+INC0092,Perda de comunicação com medidor,Média,4,56,Em Análise
+INC0093,Instabilidade na central,Baixa,2,76,Em Análise
+INC0094,Instabilidade na central,Média,3,147,Pendente
+INC0095,Instabilidade na central,Alta,4,43,Pendente
+INC0096,Falha de leitura remota,Baixa,2,165,Resolvido
+INC0097,Erro de autenticação no SCADA,Média,1,11,Em Análise
+INC0098,Falha de leitura remota,Baixa,3,20,Pendente
+INC0099,Erro de autenticação no SCADA,Alta,4,106,Em Análise
+INC0100,Instabilidade na central,Baixa,1,144,Em Análise
+INC0101,Perda de comunicação com medidor,Alta,2,11,Resolvido
+INC0102,Instabilidade na central,Alta,5,167,Resolvido
+INC0103,Erro de autenticação no SCADA,Média,1,37,Pendente
+INC0104,Erro de autenticação no SCADA,Baixa,5,90,Em Análise
+INC0105,Instabilidade na central,Média,1,44,Resolvido
+INC0106,Instabilidade na central,Baixa,2,168,Em Análise
+INC0107,Erro de autenticação no SCADA,Média,3,72,Resolvido
+INC0108,Erro de autenticação no SCADA,Média,5,167,Pendente
+INC0109,Erro de autenticação no SCADA,Baixa,2,19,Resolvido
+INC0110,Instabilidade na central,Média,5,163,Pendente
+INC0111,Erro de autenticação no SCADA,Média,4,82,Resolvido
+INC0112,Falha de leitura remota,Média,2,67,Em Análise
+INC0113,Falha de leitura remota,Baixa,5,142,Em Análise
+INC0114,Erro de autenticação no SCADA,Média,3,29,Resolvido
+INC0115,Perda de comunicação com medidor,Alta,3,133,Pendente
+INC0116,Instabilidade na central,Média,3,179,Pendente
+INC0117,Falha de leitura remota,Alta,2,114,Pendente
+INC0118,Falha de leitura remota,Média,3,34,Em Análise
+INC0119,Falha de leitura remota,Média,3,137,Pendente
+INC0120,Perda de comunicação com medidor,Média,2,134,Resolvido
+INC0121,Instabilidade na central,Média,2,133,Resolvido
+INC0122,Perda de comunicação com medidor,Média,1,52,Em Análise
+INC0123,Perda de comunicação com medidor,Média,5,25,Resolvido
+INC0124,Perda de comunicação com medidor,Média,2,41,Pendente
+INC0125,Falha de leitura remota,Alta,3,96,Resolvido
+INC0126,Falha de leitura remota,Média,5,123,Em Análise
+INC0127,Erro de autenticação no SCADA,Média,1,140,Em Análise
+INC0128,Falha de leitura remota,Média,1,63,Em Análise
+INC0129,Instabilidade na central,Alta,2,46,Pendente
+INC0130,Instabilidade na central,Baixa,3,45,Pendente
+INC0131,Instabilidade na central,Média,4,171,Pendente
+INC0132,Erro de autenticação no SCADA,Alta,4,56,Resolvido
+INC0133,Instabilidade na central,Média,3,147,Resolvido
+INC0134,Erro de autenticação no SCADA,Alta,1,137,Em Análise
+INC0135,Perda de comunicação com medidor,Média,5,65,Resolvido
+INC0136,Erro de autenticação no SCADA,Média,1,88,Pendente
+INC0137,Falha de leitura remota,Média,1,177,Pendente
+INC0138,Perda de comunicação com medidor,Alta,4,179,Resolvido
+INC0139,Perda de comunicação com medidor,Média,3,57,Resolvido
+INC0140,Falha de leitura remota,Média,4,103,Resolvido
+INC0141,Perda de comunicação com medidor,Alta,2,114,Pendente
+INC0142,Falha de leitura remota,Alta,3,153,Em Análise
+INC0143,Perda de comunicação com medidor,Média,5,152,Em Análise
+INC0144,Erro de autenticação no SCADA,Média,3,106,Resolvido
+INC0145,Instabilidade na central,Baixa,1,48,Resolvido
+INC0146,Falha de leitura remota,Média,4,57,Em Análise
+INC0147,Perda de comunicação com medidor,Média,5,148,Em Análise
+INC0148,Instabilidade na central,Média,3,111,Resolvido
+INC0149,Falha de leitura remota,Média,4,63,Em Análise
+INC0150,Instabilidade na central,Alta,2,77,Em Análise
+INC0151,Perda de comunicação com medidor,Alta,1,138,Resolvido
+INC0152,Instabilidade na central,Média,1,77,Pendente
+INC0153,Perda de comunicação com medidor,Baixa,2,159,Em Análise
+INC0154,Erro de autenticação no SCADA,Baixa,4,66,Resolvido
+INC0155,Falha de leitura remota,Baixa,5,139,Em Análise
+INC0156,Erro de autenticação no SCADA,Média,1,47,Resolvido
+INC0157,Falha de leitura remota,Média,2,145,Resolvido
+INC0158,Perda de comunicação com medidor,Alta,2,15,Resolvido
+INC0159,Erro de autenticação no SCADA,Alta,5,115,Resolvido
+INC0160,Instabilidade na central,Alta,1,62,Em Análise
+INC0161,Erro de autenticação no SCADA,Média,5,132,Resolvido
+INC0162,Falha de leitura remota,Alta,4,62,Resolvido
+INC0163,Falha de leitura remota,Média,2,152,Em Análise
+INC0164,Falha de leitura remota,Alta,5,42,Pendente
+INC0165,Instabilidade na central,Alta,4,134,Resolvido
+INC0166,Falha de leitura remota,Média,5,103,Em Análise
+INC0167,Instabilidade na central,Média,4,111,Em Análise
+INC0168,Erro de autenticação no SCADA,Média,5,81,Em Análise
+INC0169,Instabilidade na central,Alta,5,83,Pendente
+INC0170,Falha de leitura remota,Média,2,123,Em Análise
+INC0171,Falha de leitura remota,Alta,5,40,Resolvido
+INC0172,Falha de leitura remota,Média,4,62,Resolvido
+INC0173,Perda de comunicação com medidor,Média,3,110,Em Análise
+INC0174,Falha de leitura remota,Alta,5,127,Resolvido
+INC0175,Erro de autenticação no SCADA,Média,1,176,Pendente
+INC0176,Falha de leitura remota,Alta,2,94,Resolvido
+INC0177,Perda de comunicação com medidor,Alta,3,66,Pendente
+INC0178,Erro de autenticação no SCADA,Baixa,3,34,Resolvido
+INC0179,Erro de autenticação no SCADA,Baixa,3,28,Pendente
+INC0180,Erro de autenticação no SCADA,Baixa,2,57,Em Análise
+INC0181,Instabilidade na central,Média,3,145,Pendente
+INC0182,Falha de leitura remota,Alta,3,98,Resolvido
+INC0183,Instabilidade na central,Alta,3,39,Em Análise
+INC0184,Falha de leitura remota,Média,4,139,Pendente
+INC0185,Perda de comunicação com medidor,Média,1,126,Pendente
+INC0186,Instabilidade na central,Alta,2,170,Em Análise
+INC0187,Perda de comunicação com medidor,Alta,1,13,Pendente
+INC0188,Perda de comunicação com medidor,Alta,5,93,Resolvido
+INC0189,Perda de comunicação com medidor,Média,4,49,Resolvido
+INC0190,Perda de comunicação com medidor,Alta,2,107,Resolvido
+INC0191,Erro de autenticação no SCADA,Média,5,163,Pendente
+INC0192,Falha de leitura remota,Baixa,2,48,Resolvido
+INC0193,Erro de autenticação no SCADA,Média,4,178,Pendente
+INC0194,Erro de autenticação no SCADA,Alta,4,13,Pendente
+INC0195,Falha de leitura remota,Baixa,4,159,Em Análise
+INC0196,Instabilidade na central,Média,2,129,Em Análise
+INC0197,Instabilidade na central,Média,4,129,Pendente
+INC0198,Falha de leitura remota,Alta,3,58,Resolvido
+INC0199,Erro de autenticação no SCADA,Média,1,117,Resolvido
+INC0200,Erro de autenticação no SCADA,Alta,5,35,Pendente
+INC0201,Erro de autenticação no SCADA,Baixa,3,73,Pendente
+INC0202,Instabilidade na central,Média,1,114,Resolvido
+INC0203,Instabilidade na central,Baixa,3,98,Resolvido
+INC0204,Instabilidade na central,Alta,4,24,Pendente
+INC0205,Erro de autenticação no SCADA,Média,2,46,Resolvido
+INC0206,Erro de autenticação no SCADA,Média,1,177,Resolvido
+INC0207,Perda de comunicação com medidor,Média,3,34,Em Análise
+INC0208,Erro de autenticação no SCADA,Média,1,99,Em Análise
+INC0209,Instabilidade na central,Baixa,1,138,Resolvido
+INC0210,Instabilidade na central,Baixa,5,62,Pendente
+INC0211,Instabilidade na central,Média,2,84,Em Análise
+INC0212,Perda de comunicação com medidor,Alta,1,173,Em Análise
+INC0213,Perda de comunicação com medidor,Alta,1,84,Pendente
+INC0214,Perda de comunicação com medidor,Baixa,1,62,Em Análise
+INC0215,Perda de comunicação com medidor,Média,1,179,Em Análise
+INC0216,Perda de comunicação com medidor,Média,3,52,Pendente
+INC0217,Erro de autenticação no SCADA,Alta,4,106,Resolvido
+INC0218,Perda de comunicação com medidor,Média,2,143,Em Análise
+INC0219,Perda de comunicação com medidor,Média,4,105,Em Análise
+INC0220,Erro de autenticação no SCADA,Baixa,2,22,Em Análise
+INC0221,Falha de leitura remota,Média,4,140,Resolvido
+INC0222,Perda de comunicação com medidor,Alta,4,112,Pendente
+INC0223,Falha de leitura remota,Média,4,94,Pendente
+INC0224,Perda de comunicação com medidor,Média,1,19,Em Análise
+INC0225,Instabilidade na central,Média,3,34,Em Análise
+INC0226,Perda de comunicação com medidor,Média,4,74,Em Análise
+INC0227,Falha de leitura remota,Alta,4,98,Pendente
+INC0228,Falha de leitura remota,Média,1,121,Em Análise
+INC0229,Falha de leitura remota,Alta,5,92,Resolvido
+INC0230,Falha de leitura remota,Média,4,114,Resolvido
+INC0231,Erro de autenticação no SCADA,Média,3,55,Em Análise
+INC0232,Instabilidade na central,Alta,4,103,Em Análise
+INC0233,Instabilidade na central,Média,4,38,Pendente
+INC0234,Falha de leitura remota,Baixa,4,54,Pendente
+INC0235,Instabilidade na central,Média,4,166,Pendente
+INC0236,Erro de autenticação no SCADA,Baixa,3,26,Resolvido
+INC0237,Erro de autenticação no SCADA,Alta,3,75,Resolvido
+INC0238,Erro de autenticação no SCADA,Alta,2,146,Em Análise
+INC0239,Erro de autenticação no SCADA,Alta,2,165,Resolvido
+INC0240,Falha de leitura remota,Média,5,35,Resolvido
+INC0241,Falha de leitura remota,Baixa,1,119,Pendente
+INC0242,Instabilidade na central,Alta,4,22,Pendente
+INC0243,Falha de leitura remota,Média,3,64,Resolvido
+INC0244,Perda de comunicação com medidor,Alta,3,103,Resolvido
+INC0245,Instabilidade na central,Alta,4,70,Resolvido
+INC0246,Perda de comunicação com medidor,Baixa,1,34,Pendente
+INC0247,Erro de autenticação no SCADA,Média,4,99,Em Análise
+INC0248,Instabilidade na central,Baixa,5,34,Resolvido
+INC0249,Instabilidade na central,Alta,4,85,Em Análise
+INC0250,Perda de comunicação com medidor,Média,5,168,Resolvido
+INC0251,Erro de autenticação no SCADA,Média,1,40,Resolvido
+INC0252,Falha de leitura remota,Alta,3,127,Resolvido
+INC0253,Erro de autenticação no SCADA,Baixa,5,16,Resolvido
+INC0254,Falha de leitura remota,Alta,2,160,Resolvido
+INC0255,Falha de leitura remota,Baixa,3,134,Em Análise
+INC0256,Instabilidade na central,Média,4,50,Em Análise
+INC0257,Falha de leitura remota,Média,5,37,Pendente
+INC0258,Instabilidade na central,Alta,2,58,Pendente
+INC0259,Perda de comunicação com medidor,Alta,5,91,Resolvido
+INC0260,Instabilidade na central,Média,1,151,Pendente
+INC0261,Erro de autenticação no SCADA,Média,5,112,Em Análise
+INC0262,Instabilidade na central,Alta,5,132,Em Análise
+INC0263,Perda de comunicação com medidor,Média,4,110,Em Análise
+INC0264,Perda de comunicação com medidor,Alta,5,16,Em Análise
+INC0265,Instabilidade na central,Baixa,2,67,Em Análise
+INC0266,Instabilidade na central,Baixa,3,92,Resolvido
+INC0267,Falha de leitura remota,Média,2,21,Pendente
+INC0268,Instabilidade na central,Alta,4,77,Resolvido
+INC0269,Perda de comunicação com medidor,Média,3,41,Resolvido
+INC0270,Instabilidade na central,Média,1,101,Pendente
+INC0271,Instabilidade na central,Baixa,5,133,Resolvido
+INC0272,Perda de comunicação com medidor,Baixa,5,154,Em Análise
+INC0273,Falha de leitura remota,Média,4,62,Pendente
+INC0274,Perda de comunicação com medidor,Média,2,23,Pendente
+INC0275,Erro de autenticação no SCADA,Alta,3,118,Em Análise
+INC0276,Instabilidade na central,Baixa,3,41,Em Análise
+INC0277,Erro de autenticação no SCADA,Alta,5,133,Em Análise
+INC0278,Falha de leitura remota,Média,5,87,Em Análise
+INC0279,Erro de autenticação no SCADA,Média,2,138,Pendente
+INC0280,Instabilidade na central,Baixa,2,94,Pendente
+INC0281,Perda de comunicação com medidor,Média,1,110,Resolvido
+INC0282,Falha de leitura remota,Média,4,137,Pendente
+INC0283,Erro de autenticação no SCADA,Média,3,87,Pendente
+INC0284,Perda de comunicação com medidor,Baixa,3,173,Em Análise
+INC0285,Erro de autenticação no SCADA,Alta,3,143,Pendente
+INC0286,Perda de comunicação com medidor,Alta,4,54,Pendente
+INC0287,Falha de leitura remota,Média,3,154,Resolvido
+INC0288,Erro de autenticação no SCADA,Alta,3,61,Resolvido
+INC0289,Erro de autenticação no SCADA,Média,1,106,Em Análise
+INC0290,Falha de leitura remota,Média,3,166,Resolvido
+INC0291,Instabilidade na central,Alta,5,104,Em Análise
+INC0292,Falha de leitura remota,Alta,2,18,Em Análise
+INC0293,Instabilidade na central,Alta,5,179,Em Análise
+INC0294,Erro de autenticação no SCADA,Média,1,52,Pendente
+INC0295,Erro de autenticação no SCADA,Média,3,19,Pendente
+INC0296,Perda de comunicação com medidor,Média,4,178,Resolvido
+INC0297,Perda de comunicação com medidor,Alta,1,36,Resolvido
+INC0298,Falha de leitura remota,Alta,2,20,Resolvido
+INC0299,Erro de autenticação no SCADA,Média,1,64,Em Análise
+INC0300,Perda de comunicação com medidor,Média,4,130,Em Análise
+INC0301,Perda de comunicação com medidor,Baixa,1,139,Em Análise
+INC0302,Perda de comunicação com medidor,Baixa,4,111,Pendente
+INC0303,Erro de autenticação no SCADA,Média,3,108,Em Análise
+INC0304,Falha de leitura remota,Alta,5,93,Pendente
+INC0305,Falha de leitura remota,Baixa,3,147,Em Análise
+INC0306,Perda de comunicação com medidor,Média,5,34,Em Análise
+INC0307,Instabilidade na central,Média,1,55,Pendente
+INC0308,Falha de leitura remota,Alta,1,86,Resolvido
+INC0309,Erro de autenticação no SCADA,Média,5,127,Em Análise
+INC0310,Perda de comunicação com medidor,Baixa,2,172,Resolvido
+INC0311,Instabilidade na central,Baixa,1,121,Em Análise
+INC0312,Falha de leitura remota,Média,3,67,Pendente
+INC0313,Erro de autenticação no SCADA,Média,4,23,Resolvido
+INC0314,Falha de leitura remota,Alta,4,135,Pendente
+INC0315,Instabilidade na central,Alta,2,102,Resolvido
+INC0316,Falha de leitura remota,Alta,3,82,Em Análise
+INC0317,Perda de comunicação com medidor,Média,4,123,Em Análise
+INC0318,Falha de leitura remota,Alta,4,20,Em Análise
+INC0319,Instabilidade na central,Média,1,90,Pendente
+INC0320,Perda de comunicação com medidor,Alta,3,16,Em Análise
+INC0321,Perda de comunicação com medidor,Alta,1,29,Resolvido
+INC0322,Perda de comunicação com medidor,Alta,2,69,Em Análise
+INC0323,Instabilidade na central,Média,3,36,Pendente
+INC0324,Perda de comunicação com medidor,Baixa,2,153,Resolvido
+INC0325,Perda de comunicação com medidor,Média,5,146,Resolvido
+INC0326,Falha de leitura remota,Baixa,4,15,Resolvido
+INC0327,Falha de leitura remota,Alta,4,126,Em Análise
+INC0328,Perda de comunicação com medidor,Baixa,4,40,Em Análise
+INC0329,Instabilidade na central,Alta,1,125,Pendente
+INC0330,Instabilidade na central,Média,2,155,Resolvido
+INC0331,Instabilidade na central,Baixa,3,25,Pendente
+INC0332,Falha de leitura remota,Média,4,157,Pendente
+INC0333,Instabilidade na central,Baixa,4,14,Resolvido
+INC0334,Falha de leitura remota,Alta,4,148,Em Análise
+INC0335,Falha de leitura remota,Média,5,60,Pendente
+INC0336,Erro de autenticação no SCADA,Média,2,49,Pendente
+INC0337,Erro de autenticação no SCADA,Alta,1,178,Em Análise
+INC0338,Falha de leitura remota,Alta,5,26,Resolvido
+INC0339,Falha de leitura remota,Alta,4,167,Em Análise
+INC0340,Instabilidade na central,Média,3,42,Em Análise
+INC0341,Falha de leitura remota,Média,5,159,Pendente
+INC0342,Instabilidade na central,Média,5,103,Pendente
+INC0343,Instabilidade na central,Alta,1,150,Resolvido
+INC0344,Perda de comunicação com medidor,Média,1,156,Resolvido
+INC0345,Erro de autenticação no SCADA,Média,2,112,Pendente
+INC0346,Falha de leitura remota,Baixa,2,60,Em Análise
+INC0347,Perda de comunicação com medidor,Média,2,64,Resolvido
+INC0348,Falha de leitura remota,Baixa,3,165,Em Análise
+INC0349,Perda de comunicação com medidor,Alta,3,118,Pendente
+INC0350,Erro de autenticação no SCADA,Baixa,3,29,Resolvido
+INC0351,Erro de autenticação no SCADA,Média,1,15,Em Análise
+INC0352,Instabilidade na central,Média,4,108,Em Análise
+INC0353,Erro de autenticação no SCADA,Média,2,18,Resolvido
+INC0354,Instabilidade na central,Alta,3,165,Resolvido
+INC0355,Erro de autenticação no SCADA,Média,1,145,Pendente
+INC0356,Erro de autenticação no SCADA,Média,3,38,Pendente
+INC0357,Falha de leitura remota,Baixa,3,140,Resolvido
+INC0358,Instabilidade na central,Alta,1,12,Resolvido
+INC0359,Erro de autenticação no SCADA,Alta,1,21,Resolvido
+INC0360,Instabilidade na central,Média,2,75,Resolvido
+INC0361,Falha de leitura remota,Média,2,146,Resolvido
+INC0362,Falha de leitura remota,Alta,2,139,Em Análise
+INC0363,Perda de comunicação com medidor,Média,2,108,Pendente
+INC0364,Erro de autenticação no SCADA,Alta,1,113,Pendente
+INC0365,Perda de comunicação com medidor,Média,2,23,Resolvido
+INC0366,Erro de autenticação no SCADA,Média,4,74,Em Análise
+INC0367,Falha de leitura remota,Baixa,1,62,Pendente
+INC0368,Instabilidade na central,Alta,2,56,Pendente
+INC0369,Falha de leitura remota,Média,2,73,Em Análise
+INC0370,Instabilidade na central,Alta,1,170,Em Análise
+INC0371,Perda de comunicação com medidor,Alta,3,27,Em Análise
+INC0372,Erro de autenticação no SCADA,Média,2,112,Em Análise
+INC0373,Instabilidade na central,Média,5,160,Resolvido
+INC0374,Perda de comunicação com medidor,Alta,2,151,Em Análise
+INC0375,Falha de leitura remota,Alta,4,134,Em Análise
+INC0376,Perda de comunicação com medidor,Média,1,75,Em Análise
+INC0377,Erro de autenticação no SCADA,Média,3,137,Resolvido
+INC0378,Instabilidade na central,Alta,1,149,Resolvido
+INC0379,Perda de comunicação com medidor,Alta,1,161,Pendente
+INC0380,Falha de leitura remota,Média,3,177,Pendente
+INC0381,Perda de comunicação com medidor,Alta,2,132,Em Análise
+INC0382,Perda de comunicação com medidor,Média,3,167,Em Análise
+INC0383,Erro de autenticação no SCADA,Alta,5,132,Em Análise
+INC0384,Erro de autenticação no SCADA,Média,5,97,Resolvido
+INC0385,Erro de autenticação no SCADA,Alta,4,67,Em Análise
+INC0386,Erro de autenticação no SCADA,Média,5,160,Pendente
+INC0387,Falha de leitura remota,Alta,4,157,Resolvido
+INC0388,Perda de comunicação com medidor,Alta,4,26,Pendente
+INC0389,Instabilidade na central,Média,4,37,Pendente
+INC0390,Erro de autenticação no SCADA,Média,4,176,Pendente
+INC0391,Erro de autenticação no SCADA,Baixa,4,175,Pendente
+INC0392,Erro de autenticação no SCADA,Alta,5,13,Pendente
+INC0393,Instabilidade na central,Alta,5,60,Pendente
+INC0394,Perda de comunicação com medidor,Alta,5,10,Pendente
+INC0395,Instabilidade na central,Média,4,51,Em Análise
+INC0396,Instabilidade na central,Média,2,55,Resolvido
+INC0397,Erro de autenticação no SCADA,Média,5,96,Resolvido
+INC0398,Erro de autenticação no SCADA,Média,1,47,Pendente
+INC0399,Falha de leitura remota,Alta,5,76,Pendente
+INC0400,Falha de leitura remota,Média,5,39,Em Análise
+INC0401,Perda de comunicação com medidor,Média,1,98,Em Análise
+INC0402,Perda de comunicação com medidor,Média,2,86,Pendente
+INC0403,Falha de leitura remota,Baixa,3,29,Pendente
+INC0404,Instabilidade na central,Média,3,30,Pendente
+INC0405,Falha de leitura remota,Média,3,108,Em Análise
+INC0406,Perda de comunicação com medidor,Média,2,63,Resolvido
+INC0407,Instabilidade na central,Média,5,61,Pendente
+INC0408,Perda de comunicação com medidor,Alta,2,159,Pendente
+INC0409,Erro de autenticação no SCADA,Alta,5,62,Em Análise
+INC0410,Instabilidade na central,Média,5,90,Pendente
+INC0411,Erro de autenticação no SCADA,Média,5,172,Pendente
+INC0412,Instabilidade na central,Média,3,124,Em Análise
+INC0413,Perda de comunicação com medidor,Alta,1,110,Em Análise
+INC0414,Falha de leitura remota,Média,5,89,Pendente
+INC0415,Erro de autenticação no SCADA,Média,1,58,Pendente
+INC0416,Falha de leitura remota,Alta,4,120,Pendente
+INC0417,Perda de comunicação com medidor,Média,5,13,Resolvido
+INC0418,Falha de leitura remota,Baixa,1,19,Em Análise
+INC0419,Falha de leitura remota,Alta,4,153,Pendente
+INC0420,Instabilidade na central,Média,2,158,Em Análise
+INC0421,Instabilidade na central,Baixa,2,74,Em Análise
+INC0422,Erro de autenticação no SCADA,Média,4,76,Pendente
+INC0423,Erro de autenticação no SCADA,Alta,3,150,Resolvido
+INC0424,Perda de comunicação com medidor,Média,4,143,Em Análise
+INC0425,Perda de comunicação com medidor,Alta,5,108,Em Análise
+INC0426,Instabilidade na central,Baixa,2,123,Em Análise
+INC0427,Instabilidade na central,Média,2,63,Resolvido
+INC0428,Instabilidade na central,Média,3,107,Resolvido
+INC0429,Perda de comunicação com medidor,Alta,5,12,Pendente
+INC0430,Erro de autenticação no SCADA,Média,4,103,Em Análise
+INC0431,Erro de autenticação no SCADA,Média,3,139,Pendente
+INC0432,Erro de autenticação no SCADA,Baixa,4,65,Em Análise
+INC0433,Erro de autenticação no SCADA,Alta,3,58,Resolvido
+INC0434,Falha de leitura remota,Média,1,45,Em Análise
+INC0435,Instabilidade na central,Alta,2,27,Resolvido
+INC0436,Perda de comunicação com medidor,Média,2,42,Em Análise
+INC0437,Falha de leitura remota,Baixa,3,134,Pendente
+INC0438,Falha de leitura remota,Média,1,98,Pendente
+INC0439,Falha de leitura remota,Média,2,90,Pendente
+INC0440,Erro de autenticação no SCADA,Baixa,3,32,Em Análise
+INC0441,Instabilidade na central,Média,2,169,Em Análise
+INC0442,Perda de comunicação com medidor,Alta,3,77,Em Análise
+INC0443,Erro de autenticação no SCADA,Baixa,2,167,Resolvido
+INC0444,Perda de comunicação com medidor,Baixa,3,32,Em Análise
+INC0445,Falha de leitura remota,Média,1,135,Resolvido
+INC0446,Instabilidade na central,Alta,1,23,Pendente
+INC0447,Instabilidade na central,Média,1,35,Resolvido
+INC0448,Falha de leitura remota,Média,2,63,Em Análise
+INC0449,Erro de autenticação no SCADA,Média,1,88,Resolvido
+INC0450,Instabilidade na central,Média,3,93,Resolvido
+INC0451,Perda de comunicação com medidor,Alta,4,65,Resolvido
+INC0452,Instabilidade na central,Alta,2,75,Em Análise
+INC0453,Instabilidade na central,Média,4,158,Em Análise
+INC0454,Instabilidade na central,Baixa,4,35,Em Análise
+INC0455,Perda de comunicação com medidor,Alta,1,86,Pendente
+INC0456,Erro de autenticação no SCADA,Média,4,106,Resolvido
+INC0457,Falha de leitura remota,Média,2,47,Em Análise
+INC0458,Instabilidade na central,Baixa,4,131,Em Análise
+INC0459,Perda de comunicação com medidor,Média,3,112,Pendente
+INC0460,Erro de autenticação no SCADA,Média,4,134,Pendente
+INC0461,Falha de leitura remota,Média,3,106,Resolvido
+INC0462,Instabilidade na central,Média,5,26,Em Análise
+INC0463,Falha de leitura remota,Baixa,2,144,Em Análise
+INC0464,Instabilidade na central,Baixa,2,177,Resolvido
+INC0465,Instabilidade na central,Média,2,111,Pendente
+INC0466,Erro de autenticação no SCADA,Média,3,92,Em Análise
+INC0467,Perda de comunicação com medidor,Alta,1,47,Resolvido
+INC0468,Falha de leitura remota,Média,1,66,Em Análise
+INC0469,Instabilidade na central,Média,1,125,Resolvido
+INC0470,Perda de comunicação com medidor,Média,2,30,Em Análise
+INC0471,Perda de comunicação com medidor,Média,5,18,Pendente
+INC0472,Instabilidade na central,Baixa,5,179,Pendente
+INC0473,Falha de leitura remota,Média,3,75,Em Análise
+INC0474,Falha de leitura remota,Média,2,143,Em Análise
+INC0475,Erro de autenticação no SCADA,Alta,4,118,Resolvido
+INC0476,Perda de comunicação com medidor,Média,5,162,Resolvido
+INC0477,Erro de autenticação no SCADA,Alta,2,44,Resolvido
+INC0478,Erro de autenticação no SCADA,Média,3,174,Em Análise
+INC0479,Instabilidade na central,Média,5,49,Em Análise
+INC0480,Instabilidade na central,Média,3,109,Resolvido
+INC0481,Perda de comunicação com medidor,Média,4,122,Pendente
+INC0482,Erro de autenticação no SCADA,Alta,4,134,Resolvido
+INC0483,Instabilidade na central,Média,2,167,Resolvido
+INC0484,Instabilidade na central,Média,2,148,Em Análise
+INC0485,Instabilidade na central,Alta,1,122,Pendente
+INC0486,Erro de autenticação no SCADA,Média,3,32,Em Análise
+INC0487,Erro de autenticação no SCADA,Média,2,103,Pendente
+INC0488,Perda de comunicação com medidor,Alta,5,103,Em Análise
+INC0489,Erro de autenticação no SCADA,Alta,1,106,Pendente
+INC0490,Falha de leitura remota,Baixa,5,70,Pendente
+INC0491,Erro de autenticação no SCADA,Alta,2,43,Resolvido
+INC0492,Erro de autenticação no SCADA,Alta,1,65,Resolvido
+INC0493,Falha de leitura remota,Baixa,4,56,Pendente
+INC0494,Falha de leitura remota,Alta,5,83,Resolvido
+INC0495,Perda de comunicação com medidor,Média,2,42,Em Análise
+INC0496,Perda de comunicação com medidor,Média,3,80,Em Análise
+INC0497,Instabilidade na central,Alta,2,170,Em Análise
+INC0498,Falha de leitura remota,Alta,2,58,Resolvido
+INC0499,Perda de comunicação com medidor,Alta,4,108,Pendente
+INC0500,Erro de autenticação no SCADA,Média,1,63,Em Análise

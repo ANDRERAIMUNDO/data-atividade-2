@@ -1,0 +1,501 @@
+ID_Funcionario,Nome,Departamento,Cargo,Data_Admissao,Nivel_Acesso
+FUNC0001,Funcionario 1,Engenharia,Técnico de Operação,2014-04-08 08:05:53,Básico
+FUNC0002,Funcionario 2,Operação,Analista Administrativo,2014-09-26 16:28:08,Básico
+FUNC0003,Funcionario 3,TI,Eletricista,2019-07-20 11:44:25,Administrador
+FUNC0004,Funcionario 4,Manutenção,Eletricista,2016-10-17 15:56:58,Avançado
+FUNC0005,Funcionario 5,Administrativo,Analista Administrativo,2013-04-14 12:43:32,Administrador
+FUNC0006,Funcionario 6,Administrativo,Analista Administrativo,2016-07-10 19:41:11,Administrador
+FUNC0007,Funcionario 7,TI,Eletricista,2019-12-08 12:05:17,Administrador
+FUNC0008,Funcionario 8,TI,Técnico de TI,2019-11-17 01:23:06,Básico
+FUNC0009,Funcionario 9,Engenharia,Engenheiro de Projetos,2022-01-13 15:07:37,Administrador
+FUNC0010,Funcionario 10,Operação,Eletricista,2013-03-06 01:10:21,Básico
+FUNC0011,Funcionario 11,TI,Técnico de TI,2019-08-11 20:41:20,Avançado
+FUNC0012,Funcionario 12,Administrativo,Analista Administrativo,2014-02-03 20:06:51,Básico
+FUNC0013,Funcionario 13,TI,Técnico de TI,2021-05-13 07:27:34,Avançado
+FUNC0014,Funcionario 14,TI,Analista Administrativo,2014-06-02 17:17:18,Básico
+FUNC0015,Funcionario 15,Manutenção,Engenheiro de Projetos,2022-05-01 07:42:29,Intermediário
+FUNC0016,Funcionario 16,Administrativo,Técnico de TI,2018-07-13 17:34:30,Intermediário
+FUNC0017,Funcionario 17,Operação,Analista Administrativo,2020-06-16 15:10:12,Administrador
+FUNC0018,Funcionario 18,Manutenção,Analista Administrativo,2014-06-09 18:56:54,Avançado
+FUNC0019,Funcionario 19,Administrativo,Eletricista,2018-11-15 22:01:07,Básico
+FUNC0020,Funcionario 20,TI,Engenheiro de Projetos,2018-10-21 03:45:33,Administrador
+FUNC0021,Funcionario 21,Operação,Técnico de Operação,2020-03-14 11:23:27,Básico
+FUNC0022,Funcionario 22,Administrativo,Técnico de TI,2016-10-16 06:56:58,Intermediário
+FUNC0023,Funcionario 23,Manutenção,Técnico de Operação,2016-11-13 22:41:45,Avançado
+FUNC0024,Funcionario 24,Engenharia,Eletricista,2014-07-20 22:28:17,Básico
+FUNC0025,Funcionario 25,TI,Eletricista,2016-06-11 22:11:24,Básico
+FUNC0026,Funcionario 26,Operação,Eletricista,2013-04-19 04:52:31,Básico
+FUNC0027,Funcionario 27,Administrativo,Técnico de Operação,2018-10-20 15:32:23,Avançado
+FUNC0028,Funcionario 28,Engenharia,Analista Administrativo,2018-10-30 05:26:38,Intermediário
+FUNC0029,Funcionario 29,TI,Técnico de Operação,2020-05-21 08:19:09,Avançado
+FUNC0030,Funcionario 30,Operação,Analista Administrativo,2020-06-28 03:01:28,Intermediário
+FUNC0031,Funcionario 31,Manutenção,Eletricista,2017-11-04 15:28:06,Intermediário
+FUNC0032,Funcionario 32,Manutenção,Analista Administrativo,2016-06-28 10:27:53,Administrador
+FUNC0033,Funcionario 33,Engenharia,Técnico de Operação,2016-03-29 19:46:29,Administrador
+FUNC0034,Funcionario 34,Manutenção,Eletricista,2018-12-18 12:56:34,Administrador
+FUNC0035,Funcionario 35,Administrativo,Eletricista,2017-09-03 07:05:58,Intermediário
+FUNC0036,Funcionario 36,Operação,Engenheiro de Projetos,2015-09-06 04:45:48,Avançado
+FUNC0037,Funcionario 37,Engenharia,Eletricista,2017-09-20 04:47:06,Intermediário
+FUNC0038,Funcionario 38,Operação,Eletricista,2013-08-28 05:40:06,Avançado
+FUNC0039,Funcionario 39,TI,Analista Administrativo,2014-07-21 01:54:19,Administrador
+FUNC0040,Funcionario 40,TI,Analista Administrativo,2022-06-03 19:32:37,Intermediário
+FUNC0041,Funcionario 41,Manutenção,Analista Administrativo,2018-09-11 23:37:23,Básico
+FUNC0042,Funcionario 42,Administrativo,Técnico de Operação,2018-02-27 20:30:47,Avançado
+FUNC0043,Funcionario 43,TI,Engenheiro de Projetos,2016-07-03 16:21:04,Básico
+FUNC0044,Funcionario 44,Engenharia,Técnico de Operação,2017-12-27 23:10:28,Intermediário
+FUNC0045,Funcionario 45,Operação,Analista Administrativo,2017-12-06 19:50:59,Administrador
+FUNC0046,Funcionario 46,TI,Técnico de Operação,2016-09-18 17:35:30,Intermediário
+FUNC0047,Funcionario 47,Administrativo,Analista Administrativo,2022-03-11 00:58:41,Básico
+FUNC0048,Funcionario 48,Manutenção,Técnico de Operação,2020-06-28 12:20:16,Avançado
+FUNC0049,Funcionario 49,Administrativo,Técnico de TI,2018-10-08 11:48:52,Avançado
+FUNC0050,Funcionario 50,Manutenção,Técnico de Operação,2016-09-04 22:21:50,Avançado
+FUNC0051,Funcionario 51,Engenharia,Eletricista,2014-09-02 17:57:51,Intermediário
+FUNC0052,Funcionario 52,TI,Técnico de TI,2013-08-31 12:03:55,Avançado
+FUNC0053,Funcionario 53,Administrativo,Engenheiro de Projetos,2015-10-13 23:26:01,Básico
+FUNC0054,Funcionario 54,Manutenção,Técnico de TI,2017-10-25 22:57:03,Avançado
+FUNC0055,Funcionario 55,Operação,Técnico de Operação,2021-08-13 12:20:38,Administrador
+FUNC0056,Funcionario 56,Manutenção,Engenheiro de Projetos,2016-06-30 06:57:20,Administrador
+FUNC0057,Funcionario 57,TI,Engenheiro de Projetos,2017-10-30 11:26:23,Intermediário
+FUNC0058,Funcionario 58,TI,Técnico de Operação,2019-01-20 12:21:28,Administrador
+FUNC0059,Funcionario 59,Operação,Técnico de TI,2015-05-14 00:45:19,Básico
+FUNC0060,Funcionario 60,Manutenção,Analista Administrativo,2020-04-26 15:27:12,Intermediário
+FUNC0061,Funcionario 61,Manutenção,Analista Administrativo,2020-05-30 17:48:07,Intermediário
+FUNC0062,Funcionario 62,Administrativo,Técnico de TI,2020-11-24 22:54:21,Avançado
+FUNC0063,Funcionario 63,Manutenção,Técnico de TI,2019-06-02 15:08:00,Avançado
+FUNC0064,Funcionario 64,Administrativo,Analista Administrativo,2015-10-05 07:18:16,Administrador
+FUNC0065,Funcionario 65,Administrativo,Técnico de Operação,2018-09-25 12:21:03,Básico
+FUNC0066,Funcionario 66,Engenharia,Eletricista,2022-11-05 12:36:05,Avançado
+FUNC0067,Funcionario 67,Manutenção,Técnico de TI,2021-07-05 09:03:25,Básico
+FUNC0068,Funcionario 68,Manutenção,Engenheiro de Projetos,2015-04-15 06:23:54,Intermediário
+FUNC0069,Funcionario 69,Manutenção,Técnico de TI,2019-02-25 20:34:26,Intermediário
+FUNC0070,Funcionario 70,Engenharia,Técnico de TI,2018-07-14 15:14:50,Básico
+FUNC0071,Funcionario 71,Administrativo,Eletricista,2017-08-08 13:16:26,Avançado
+FUNC0072,Funcionario 72,Operação,Eletricista,2017-12-01 15:55:55,Intermediário
+FUNC0073,Funcionario 73,Operação,Engenheiro de Projetos,2014-09-18 11:03:26,Avançado
+FUNC0074,Funcionario 74,Administrativo,Técnico de TI,2016-07-21 03:56:29,Administrador
+FUNC0075,Funcionario 75,TI,Engenheiro de Projetos,2020-03-29 03:58:29,Intermediário
+FUNC0076,Funcionario 76,Manutenção,Analista Administrativo,2022-11-05 18:14:13,Administrador
+FUNC0077,Funcionario 77,Operação,Engenheiro de Projetos,2019-04-21 00:14:44,Intermediário
+FUNC0078,Funcionario 78,Operação,Técnico de Operação,2015-01-21 10:32:48,Básico
+FUNC0079,Funcionario 79,Administrativo,Eletricista,2019-04-04 14:49:57,Básico
+FUNC0080,Funcionario 80,Administrativo,Engenheiro de Projetos,2017-09-11 18:11:17,Avançado
+FUNC0081,Funcionario 81,Manutenção,Eletricista,2017-08-06 15:25:10,Avançado
+FUNC0082,Funcionario 82,Engenharia,Analista Administrativo,2015-06-19 07:55:58,Administrador
+FUNC0083,Funcionario 83,Operação,Analista Administrativo,2014-04-12 15:57:48,Intermediário
+FUNC0084,Funcionario 84,Administrativo,Eletricista,2013-03-10 22:19:42,Intermediário
+FUNC0085,Funcionario 85,Engenharia,Técnico de Operação,2019-11-27 15:56:46,Intermediário
+FUNC0086,Funcionario 86,Engenharia,Técnico de Operação,2020-05-09 16:39:30,Básico
+FUNC0087,Funcionario 87,Engenharia,Técnico de TI,2014-10-27 19:25:39,Avançado
+FUNC0088,Funcionario 88,Engenharia,Técnico de Operação,2017-12-28 13:49:26,Intermediário
+FUNC0089,Funcionario 89,Operação,Analista Administrativo,2021-08-22 04:51:10,Básico
+FUNC0090,Funcionario 90,Operação,Eletricista,2017-02-18 02:18:46,Intermediário
+FUNC0091,Funcionario 91,TI,Técnico de Operação,2022-02-19 05:20:14,Intermediário
+FUNC0092,Funcionario 92,TI,Técnico de TI,2022-03-19 20:32:57,Básico
+FUNC0093,Funcionario 93,Manutenção,Técnico de TI,2019-07-19 21:46:45,Básico
+FUNC0094,Funcionario 94,Manutenção,Eletricista,2017-10-10 20:10:41,Avançado
+FUNC0095,Funcionario 95,Manutenção,Eletricista,2017-09-04 22:22:15,Básico
+FUNC0096,Funcionario 96,TI,Eletricista,2020-09-30 05:43:46,Avançado
+FUNC0097,Funcionario 97,TI,Eletricista,2019-02-14 13:13:47,Básico
+FUNC0098,Funcionario 98,Operação,Analista Administrativo,2016-07-16 10:35:55,Intermediário
+FUNC0099,Funcionario 99,Engenharia,Técnico de Operação,2020-10-28 10:48:37,Básico
+FUNC0100,Funcionario 100,Operação,Técnico de Operação,2016-05-19 04:59:25,Básico
+FUNC0101,Funcionario 101,Engenharia,Engenheiro de Projetos,2020-07-16 12:04:12,Avançado
+FUNC0102,Funcionario 102,Administrativo,Engenheiro de Projetos,2013-03-07 20:33:49,Básico
+FUNC0103,Funcionario 103,Operação,Analista Administrativo,2021-08-13 01:19:53,Básico
+FUNC0104,Funcionario 104,Engenharia,Analista Administrativo,2013-05-31 13:51:55,Básico
+FUNC0105,Funcionario 105,Administrativo,Eletricista,2015-01-22 16:29:57,Avançado
+FUNC0106,Funcionario 106,Manutenção,Técnico de Operação,2015-04-19 07:53:01,Intermediário
+FUNC0107,Funcionario 107,TI,Analista Administrativo,2014-12-12 04:19:00,Avançado
+FUNC0108,Funcionario 108,TI,Eletricista,2022-01-29 03:53:36,Intermediário
+FUNC0109,Funcionario 109,Manutenção,Engenheiro de Projetos,2016-11-01 08:12:20,Intermediário
+FUNC0110,Funcionario 110,Administrativo,Engenheiro de Projetos,2021-06-20 11:22:31,Administrador
+FUNC0111,Funcionario 111,TI,Técnico de Operação,2015-09-04 14:49:50,Administrador
+FUNC0112,Funcionario 112,Administrativo,Analista Administrativo,2019-11-29 04:07:50,Administrador
+FUNC0113,Funcionario 113,Operação,Técnico de TI,2022-04-18 00:39:28,Básico
+FUNC0114,Funcionario 114,Manutenção,Analista Administrativo,2020-04-09 11:00:15,Básico
+FUNC0115,Funcionario 115,Operação,Técnico de Operação,2013-09-29 04:18:04,Avançado
+FUNC0116,Funcionario 116,Administrativo,Técnico de Operação,2015-02-21 02:27:17,Básico
+FUNC0117,Funcionario 117,Manutenção,Engenheiro de Projetos,2014-09-17 12:49:55,Avançado
+FUNC0118,Funcionario 118,Operação,Técnico de Operação,2016-04-06 08:54:15,Administrador
+FUNC0119,Funcionario 119,Manutenção,Engenheiro de Projetos,2019-01-28 11:02:35,Básico
+FUNC0120,Funcionario 120,Administrativo,Técnico de TI,2021-12-12 05:45:40,Avançado
+FUNC0121,Funcionario 121,Administrativo,Técnico de TI,2018-08-12 13:51:47,Intermediário
+FUNC0122,Funcionario 122,Manutenção,Técnico de Operação,2014-11-30 16:47:18,Avançado
+FUNC0123,Funcionario 123,TI,Eletricista,2021-11-14 03:09:41,Avançado
+FUNC0124,Funcionario 124,TI,Analista Administrativo,2015-06-21 13:07:26,Básico
+FUNC0125,Funcionario 125,Operação,Técnico de TI,2017-07-30 00:47:34,Básico
+FUNC0126,Funcionario 126,Administrativo,Analista Administrativo,2022-11-09 15:50:36,Intermediário
+FUNC0127,Funcionario 127,Administrativo,Engenheiro de Projetos,2022-07-22 19:49:44,Intermediário
+FUNC0128,Funcionario 128,Engenharia,Eletricista,2016-11-06 22:27:26,Intermediário
+FUNC0129,Funcionario 129,Administrativo,Técnico de TI,2017-11-23 15:11:14,Básico
+FUNC0130,Funcionario 130,Operação,Analista Administrativo,2018-10-31 05:28:09,Intermediário
+FUNC0131,Funcionario 131,Administrativo,Analista Administrativo,2015-04-20 12:17:44,Básico
+FUNC0132,Funcionario 132,Engenharia,Engenheiro de Projetos,2014-02-28 16:30:11,Administrador
+FUNC0133,Funcionario 133,Administrativo,Eletricista,2021-04-14 16:01:48,Administrador
+FUNC0134,Funcionario 134,Manutenção,Engenheiro de Projetos,2015-07-14 08:51:15,Avançado
+FUNC0135,Funcionario 135,Administrativo,Eletricista,2021-06-14 14:49:27,Avançado
+FUNC0136,Funcionario 136,Operação,Eletricista,2022-10-15 11:55:10,Avançado
+FUNC0137,Funcionario 137,Administrativo,Engenheiro de Projetos,2017-02-25 14:56:11,Avançado
+FUNC0138,Funcionario 138,TI,Analista Administrativo,2021-10-02 17:22:35,Avançado
+FUNC0139,Funcionario 139,Operação,Eletricista,2021-03-02 23:13:13,Básico
+FUNC0140,Funcionario 140,Administrativo,Analista Administrativo,2021-04-01 23:42:28,Básico
+FUNC0141,Funcionario 141,Administrativo,Técnico de TI,2017-11-23 23:42:38,Intermediário
+FUNC0142,Funcionario 142,Administrativo,Engenheiro de Projetos,2015-11-26 07:27:18,Administrador
+FUNC0143,Funcionario 143,TI,Técnico de Operação,2014-07-03 02:54:02,Avançado
+FUNC0144,Funcionario 144,TI,Eletricista,2020-07-02 10:57:07,Intermediário
+FUNC0145,Funcionario 145,Administrativo,Técnico de Operação,2013-01-23 03:35:58,Administrador
+FUNC0146,Funcionario 146,Administrativo,Técnico de Operação,2013-05-05 04:36:17,Avançado
+FUNC0147,Funcionario 147,TI,Analista Administrativo,2021-07-04 02:37:31,Básico
+FUNC0148,Funcionario 148,Manutenção,Eletricista,2020-09-27 04:46:59,Administrador
+FUNC0149,Funcionario 149,Operação,Analista Administrativo,2016-04-24 16:26:02,Básico
+FUNC0150,Funcionario 150,Operação,Eletricista,2013-03-15 13:41:49,Administrador
+FUNC0151,Funcionario 151,Manutenção,Eletricista,2020-10-22 17:34:49,Básico
+FUNC0152,Funcionario 152,Manutenção,Técnico de Operação,2016-05-14 07:40:05,Administrador
+FUNC0153,Funcionario 153,Administrativo,Eletricista,2015-12-05 18:00:30,Administrador
+FUNC0154,Funcionario 154,Administrativo,Eletricista,2013-02-04 14:12:46,Intermediário
+FUNC0155,Funcionario 155,Engenharia,Técnico de Operação,2015-05-02 11:28:40,Avançado
+FUNC0156,Funcionario 156,TI,Analista Administrativo,2014-07-20 07:31:39,Administrador
+FUNC0157,Funcionario 157,Operação,Analista Administrativo,2014-05-23 07:12:14,Administrador
+FUNC0158,Funcionario 158,TI,Engenheiro de Projetos,2021-10-04 03:38:51,Administrador
+FUNC0159,Funcionario 159,TI,Técnico de Operação,2018-06-02 14:09:29,Básico
+FUNC0160,Funcionario 160,Engenharia,Analista Administrativo,2014-04-02 22:21:49,Básico
+FUNC0161,Funcionario 161,Administrativo,Analista Administrativo,2022-02-15 01:36:45,Intermediário
+FUNC0162,Funcionario 162,Administrativo,Técnico de TI,2013-03-08 05:52:43,Avançado
+FUNC0163,Funcionario 163,Engenharia,Eletricista,2014-04-22 06:44:43,Intermediário
+FUNC0164,Funcionario 164,Operação,Engenheiro de Projetos,2021-06-14 13:31:35,Básico
+FUNC0165,Funcionario 165,TI,Eletricista,2021-12-22 21:34:44,Avançado
+FUNC0166,Funcionario 166,Administrativo,Engenheiro de Projetos,2017-05-30 14:56:02,Administrador
+FUNC0167,Funcionario 167,TI,Técnico de TI,2018-09-03 22:34:05,Intermediário
+FUNC0168,Funcionario 168,Engenharia,Analista Administrativo,2019-02-21 02:03:00,Intermediário
+FUNC0169,Funcionario 169,TI,Engenheiro de Projetos,2014-09-13 10:59:27,Básico
+FUNC0170,Funcionario 170,Operação,Técnico de Operação,2018-12-27 17:58:46,Básico
+FUNC0171,Funcionario 171,Engenharia,Analista Administrativo,2017-04-11 01:34:35,Básico
+FUNC0172,Funcionario 172,Operação,Técnico de TI,2017-04-28 22:29:05,Avançado
+FUNC0173,Funcionario 173,Administrativo,Técnico de TI,2014-12-10 12:50:10,Avançado
+FUNC0174,Funcionario 174,Administrativo,Técnico de Operação,2014-07-24 06:10:43,Administrador
+FUNC0175,Funcionario 175,Administrativo,Analista Administrativo,2016-12-23 19:45:35,Avançado
+FUNC0176,Funcionario 176,Administrativo,Engenheiro de Projetos,2016-08-03 19:54:51,Intermediário
+FUNC0177,Funcionario 177,TI,Técnico de Operação,2015-11-10 06:49:35,Intermediário
+FUNC0178,Funcionario 178,Administrativo,Eletricista,2014-04-22 17:07:37,Administrador
+FUNC0179,Funcionario 179,Manutenção,Eletricista,2020-03-15 00:25:06,Avançado
+FUNC0180,Funcionario 180,Administrativo,Engenheiro de Projetos,2013-05-15 06:59:26,Administrador
+FUNC0181,Funcionario 181,Administrativo,Analista Administrativo,2013-02-23 12:38:33,Básico
+FUNC0182,Funcionario 182,Manutenção,Engenheiro de Projetos,2016-08-30 09:28:03,Básico
+FUNC0183,Funcionario 183,Operação,Engenheiro de Projetos,2015-04-27 02:49:19,Intermediário
+FUNC0184,Funcionario 184,Administrativo,Engenheiro de Projetos,2017-04-21 19:59:01,Avançado
+FUNC0185,Funcionario 185,Manutenção,Eletricista,2016-06-04 23:33:44,Intermediário
+FUNC0186,Funcionario 186,Operação,Eletricista,2013-12-16 06:07:33,Básico
+FUNC0187,Funcionario 187,Manutenção,Analista Administrativo,2020-08-09 09:15:35,Administrador
+FUNC0188,Funcionario 188,Operação,Engenheiro de Projetos,2014-08-04 06:06:37,Intermediário
+FUNC0189,Funcionario 189,Engenharia,Engenheiro de Projetos,2022-04-10 10:59:17,Administrador
+FUNC0190,Funcionario 190,Engenharia,Técnico de Operação,2018-09-12 08:03:18,Avançado
+FUNC0191,Funcionario 191,Operação,Técnico de TI,2020-01-16 20:30:46,Avançado
+FUNC0192,Funcionario 192,Engenharia,Engenheiro de Projetos,2014-07-08 18:06:03,Intermediário
+FUNC0193,Funcionario 193,TI,Técnico de Operação,2017-11-06 18:31:30,Intermediário
+FUNC0194,Funcionario 194,TI,Eletricista,2017-09-24 18:40:47,Básico
+FUNC0195,Funcionario 195,Engenharia,Engenheiro de Projetos,2013-03-13 04:10:31,Administrador
+FUNC0196,Funcionario 196,Engenharia,Eletricista,2014-02-03 01:21:05,Intermediário
+FUNC0197,Funcionario 197,Engenharia,Engenheiro de Projetos,2018-11-08 21:45:19,Básico
+FUNC0198,Funcionario 198,Manutenção,Analista Administrativo,2020-10-06 21:26:25,Administrador
+FUNC0199,Funcionario 199,Manutenção,Engenheiro de Projetos,2020-04-15 06:55:43,Intermediário
+FUNC0200,Funcionario 200,Administrativo,Eletricista,2021-05-16 16:56:11,Intermediário
+FUNC0201,Funcionario 201,Manutenção,Engenheiro de Projetos,2022-08-26 05:30:23,Avançado
+FUNC0202,Funcionario 202,TI,Analista Administrativo,2013-10-22 04:02:16,Básico
+FUNC0203,Funcionario 203,Manutenção,Analista Administrativo,2017-03-23 19:38:28,Intermediário
+FUNC0204,Funcionario 204,Operação,Engenheiro de Projetos,2021-09-09 09:06:53,Administrador
+FUNC0205,Funcionario 205,TI,Técnico de TI,2022-02-23 11:53:10,Básico
+FUNC0206,Funcionario 206,Engenharia,Analista Administrativo,2018-09-13 09:01:29,Básico
+FUNC0207,Funcionario 207,Operação,Engenheiro de Projetos,2021-10-03 00:48:11,Básico
+FUNC0208,Funcionario 208,Operação,Técnico de Operação,2021-07-14 01:12:33,Intermediário
+FUNC0209,Funcionario 209,Administrativo,Técnico de TI,2019-01-21 07:10:53,Avançado
+FUNC0210,Funcionario 210,Engenharia,Técnico de Operação,2016-12-04 16:41:21,Intermediário
+FUNC0211,Funcionario 211,Administrativo,Técnico de TI,2019-03-20 10:30:25,Básico
+FUNC0212,Funcionario 212,TI,Técnico de TI,2016-12-10 23:23:18,Administrador
+FUNC0213,Funcionario 213,Manutenção,Eletricista,2018-06-24 06:55:42,Administrador
+FUNC0214,Funcionario 214,Operação,Analista Administrativo,2013-02-25 22:06:32,Intermediário
+FUNC0215,Funcionario 215,Operação,Analista Administrativo,2016-12-24 22:33:11,Intermediário
+FUNC0216,Funcionario 216,Operação,Técnico de TI,2019-07-18 10:26:59,Intermediário
+FUNC0217,Funcionario 217,Administrativo,Analista Administrativo,2014-12-21 10:22:49,Administrador
+FUNC0218,Funcionario 218,Operação,Engenheiro de Projetos,2017-01-13 12:32:24,Administrador
+FUNC0219,Funcionario 219,TI,Engenheiro de Projetos,2016-11-16 05:27:18,Básico
+FUNC0220,Funcionario 220,Administrativo,Engenheiro de Projetos,2021-11-17 16:22:00,Intermediário
+FUNC0221,Funcionario 221,Manutenção,Técnico de Operação,2019-06-16 01:37:51,Avançado
+FUNC0222,Funcionario 222,TI,Engenheiro de Projetos,2016-02-04 13:54:13,Administrador
+FUNC0223,Funcionario 223,Engenharia,Técnico de TI,2019-12-16 22:00:14,Avançado
+FUNC0224,Funcionario 224,Manutenção,Técnico de TI,2017-05-30 14:32:38,Básico
+FUNC0225,Funcionario 225,Manutenção,Engenheiro de Projetos,2019-02-28 13:05:31,Intermediário
+FUNC0226,Funcionario 226,Administrativo,Técnico de TI,2015-12-30 00:00:53,Avançado
+FUNC0227,Funcionario 227,Administrativo,Engenheiro de Projetos,2018-07-05 18:59:30,Intermediário
+FUNC0228,Funcionario 228,Engenharia,Técnico de TI,2017-06-13 03:28:07,Avançado
+FUNC0229,Funcionario 229,Administrativo,Engenheiro de Projetos,2015-10-14 08:21:37,Administrador
+FUNC0230,Funcionario 230,Operação,Eletricista,2018-10-22 04:23:33,Avançado
+FUNC0231,Funcionario 231,Operação,Eletricista,2013-12-21 02:27:52,Administrador
+FUNC0232,Funcionario 232,Operação,Analista Administrativo,2017-09-11 18:09:18,Avançado
+FUNC0233,Funcionario 233,Manutenção,Técnico de Operação,2021-11-19 13:28:19,Avançado
+FUNC0234,Funcionario 234,Manutenção,Eletricista,2014-06-27 22:12:14,Intermediário
+FUNC0235,Funcionario 235,TI,Eletricista,2022-04-06 01:46:55,Administrador
+FUNC0236,Funcionario 236,TI,Técnico de TI,2021-10-01 03:59:09,Básico
+FUNC0237,Funcionario 237,Operação,Técnico de Operação,2021-08-29 08:40:35,Avançado
+FUNC0238,Funcionario 238,Operação,Técnico de TI,2019-09-13 23:14:16,Básico
+FUNC0239,Funcionario 239,Administrativo,Eletricista,2015-03-25 07:20:21,Avançado
+FUNC0240,Funcionario 240,Manutenção,Analista Administrativo,2020-11-22 03:34:36,Intermediário
+FUNC0241,Funcionario 241,Operação,Técnico de Operação,2015-11-20 16:48:43,Intermediário
+FUNC0242,Funcionario 242,TI,Técnico de TI,2013-08-17 01:54:32,Avançado
+FUNC0243,Funcionario 243,Manutenção,Engenheiro de Projetos,2017-05-04 20:06:05,Básico
+FUNC0244,Funcionario 244,Operação,Analista Administrativo,2019-05-19 11:21:50,Administrador
+FUNC0245,Funcionario 245,Operação,Engenheiro de Projetos,2016-10-07 16:52:56,Administrador
+FUNC0246,Funcionario 246,Administrativo,Analista Administrativo,2013-05-17 15:45:00,Avançado
+FUNC0247,Funcionario 247,Administrativo,Engenheiro de Projetos,2020-02-20 08:49:56,Avançado
+FUNC0248,Funcionario 248,Manutenção,Analista Administrativo,2013-11-04 01:04:20,Avançado
+FUNC0249,Funcionario 249,Manutenção,Técnico de TI,2021-05-09 12:19:21,Administrador
+FUNC0250,Funcionario 250,Manutenção,Analista Administrativo,2020-08-16 20:28:20,Administrador
+FUNC0251,Funcionario 251,Manutenção,Técnico de TI,2014-02-10 17:50:07,Básico
+FUNC0252,Funcionario 252,Engenharia,Engenheiro de Projetos,2014-08-12 04:20:42,Administrador
+FUNC0253,Funcionario 253,Engenharia,Analista Administrativo,2022-01-03 04:12:14,Administrador
+FUNC0254,Funcionario 254,Manutenção,Técnico de TI,2018-11-16 13:01:09,Avançado
+FUNC0255,Funcionario 255,Administrativo,Técnico de Operação,2022-06-18 13:02:23,Administrador
+FUNC0256,Funcionario 256,Manutenção,Analista Administrativo,2018-09-22 11:15:33,Avançado
+FUNC0257,Funcionario 257,Engenharia,Técnico de Operação,2021-04-07 06:44:11,Intermediário
+FUNC0258,Funcionario 258,TI,Engenheiro de Projetos,2016-08-14 23:35:11,Básico
+FUNC0259,Funcionario 259,Administrativo,Analista Administrativo,2015-01-02 22:32:31,Intermediário
+FUNC0260,Funcionario 260,TI,Engenheiro de Projetos,2014-04-26 03:18:22,Intermediário
+FUNC0261,Funcionario 261,Manutenção,Técnico de Operação,2018-07-12 14:59:54,Avançado
+FUNC0262,Funcionario 262,Manutenção,Técnico de TI,2020-05-09 14:18:12,Intermediário
+FUNC0263,Funcionario 263,Engenharia,Técnico de Operação,2019-05-05 02:27:05,Intermediário
+FUNC0264,Funcionario 264,TI,Analista Administrativo,2022-10-17 05:31:26,Intermediário
+FUNC0265,Funcionario 265,TI,Técnico de TI,2019-07-07 17:15:08,Básico
+FUNC0266,Funcionario 266,Administrativo,Eletricista,2018-06-05 00:26:54,Intermediário
+FUNC0267,Funcionario 267,Engenharia,Eletricista,2014-08-04 23:46:24,Avançado
+FUNC0268,Funcionario 268,TI,Analista Administrativo,2016-03-27 13:43:46,Básico
+FUNC0269,Funcionario 269,Manutenção,Técnico de Operação,2014-12-29 23:02:58,Administrador
+FUNC0270,Funcionario 270,Administrativo,Técnico de Operação,2018-03-25 20:55:07,Avançado
+FUNC0271,Funcionario 271,Engenharia,Analista Administrativo,2019-06-25 18:24:26,Administrador
+FUNC0272,Funcionario 272,Administrativo,Eletricista,2019-07-11 07:57:16,Intermediário
+FUNC0273,Funcionario 273,Engenharia,Engenheiro de Projetos,2020-02-23 13:39:29,Avançado
+FUNC0274,Funcionario 274,Administrativo,Técnico de TI,2018-10-12 13:14:11,Intermediário
+FUNC0275,Funcionario 275,Engenharia,Eletricista,2016-12-11 23:12:23,Administrador
+FUNC0276,Funcionario 276,Operação,Eletricista,2013-02-24 08:41:29,Administrador
+FUNC0277,Funcionario 277,Administrativo,Técnico de TI,2017-07-31 17:24:54,Básico
+FUNC0278,Funcionario 278,Operação,Eletricista,2013-11-20 05:24:05,Básico
+FUNC0279,Funcionario 279,Operação,Eletricista,2016-12-13 18:17:24,Administrador
+FUNC0280,Funcionario 280,Administrativo,Analista Administrativo,2016-11-12 18:48:01,Avançado
+FUNC0281,Funcionario 281,Operação,Técnico de TI,2021-06-18 08:49:06,Avançado
+FUNC0282,Funcionario 282,TI,Engenheiro de Projetos,2016-01-19 04:49:13,Administrador
+FUNC0283,Funcionario 283,TI,Eletricista,2014-04-18 02:34:41,Intermediário
+FUNC0284,Funcionario 284,TI,Técnico de TI,2020-08-24 12:42:22,Básico
+FUNC0285,Funcionario 285,Engenharia,Analista Administrativo,2018-01-15 12:22:29,Intermediário
+FUNC0286,Funcionario 286,Engenharia,Técnico de Operação,2020-06-10 23:50:56,Intermediário
+FUNC0287,Funcionario 287,Administrativo,Engenheiro de Projetos,2015-02-07 23:31:03,Básico
+FUNC0288,Funcionario 288,Engenharia,Eletricista,2022-06-24 04:34:46,Intermediário
+FUNC0289,Funcionario 289,Operação,Engenheiro de Projetos,2019-02-26 14:38:10,Básico
+FUNC0290,Funcionario 290,Manutenção,Técnico de Operação,2019-03-08 16:22:38,Avançado
+FUNC0291,Funcionario 291,Manutenção,Analista Administrativo,2020-01-12 17:48:44,Avançado
+FUNC0292,Funcionario 292,Operação,Técnico de TI,2015-01-30 15:18:15,Básico
+FUNC0293,Funcionario 293,Manutenção,Eletricista,2016-02-20 21:09:14,Básico
+FUNC0294,Funcionario 294,Administrativo,Técnico de Operação,2019-12-11 07:52:00,Avançado
+FUNC0295,Funcionario 295,Manutenção,Técnico de TI,2016-08-22 23:38:50,Avançado
+FUNC0296,Funcionario 296,Manutenção,Técnico de Operação,2017-12-11 22:29:49,Intermediário
+FUNC0297,Funcionario 297,Administrativo,Técnico de Operação,2014-08-09 03:44:32,Avançado
+FUNC0298,Funcionario 298,Manutenção,Engenheiro de Projetos,2016-01-05 20:48:17,Intermediário
+FUNC0299,Funcionario 299,Manutenção,Analista Administrativo,2015-12-11 06:35:33,Básico
+FUNC0300,Funcionario 300,Manutenção,Analista Administrativo,2015-05-12 02:57:52,Avançado
+FUNC0301,Funcionario 301,TI,Técnico de Operação,2021-08-24 05:48:08,Administrador
+FUNC0302,Funcionario 302,Administrativo,Analista Administrativo,2013-03-19 18:17:40,Intermediário
+FUNC0303,Funcionario 303,TI,Engenheiro de Projetos,2021-09-22 18:29:26,Básico
+FUNC0304,Funcionario 304,Administrativo,Analista Administrativo,2014-07-17 05:33:42,Avançado
+FUNC0305,Funcionario 305,Operação,Analista Administrativo,2015-10-27 03:10:18,Administrador
+FUNC0306,Funcionario 306,TI,Eletricista,2021-04-08 01:31:57,Administrador
+FUNC0307,Funcionario 307,Operação,Eletricista,2021-12-03 13:28:37,Avançado
+FUNC0308,Funcionario 308,Manutenção,Engenheiro de Projetos,2019-10-20 14:06:09,Avançado
+FUNC0309,Funcionario 309,TI,Analista Administrativo,2016-04-02 23:38:12,Intermediário
+FUNC0310,Funcionario 310,TI,Técnico de TI,2014-11-15 16:12:20,Administrador
+FUNC0311,Funcionario 311,Manutenção,Eletricista,2016-09-11 20:27:16,Avançado
+FUNC0312,Funcionario 312,Administrativo,Analista Administrativo,2022-10-20 15:15:31,Básico
+FUNC0313,Funcionario 313,TI,Técnico de TI,2014-12-15 19:37:15,Administrador
+FUNC0314,Funcionario 314,Operação,Engenheiro de Projetos,2015-10-17 06:22:37,Intermediário
+FUNC0315,Funcionario 315,Engenharia,Eletricista,2019-04-25 21:13:22,Básico
+FUNC0316,Funcionario 316,Administrativo,Eletricista,2017-12-10 04:33:30,Intermediário
+FUNC0317,Funcionario 317,Operação,Técnico de Operação,2020-03-07 12:25:16,Avançado
+FUNC0318,Funcionario 318,Operação,Técnico de TI,2013-05-27 07:33:12,Básico
+FUNC0319,Funcionario 319,Engenharia,Analista Administrativo,2022-08-18 22:31:52,Intermediário
+FUNC0320,Funcionario 320,Manutenção,Técnico de Operação,2017-07-09 14:38:25,Administrador
+FUNC0321,Funcionario 321,Manutenção,Técnico de Operação,2014-08-02 23:06:08,Administrador
+FUNC0322,Funcionario 322,Manutenção,Técnico de Operação,2021-08-18 17:06:08,Básico
+FUNC0323,Funcionario 323,Engenharia,Engenheiro de Projetos,2016-05-25 07:15:38,Básico
+FUNC0324,Funcionario 324,Engenharia,Eletricista,2021-01-13 21:05:39,Avançado
+FUNC0325,Funcionario 325,Operação,Eletricista,2014-04-29 20:50:05,Administrador
+FUNC0326,Funcionario 326,Manutenção,Eletricista,2013-12-03 06:52:03,Administrador
+FUNC0327,Funcionario 327,Operação,Eletricista,2016-01-29 08:06:05,Avançado
+FUNC0328,Funcionario 328,Administrativo,Engenheiro de Projetos,2016-05-25 06:54:57,Administrador
+FUNC0329,Funcionario 329,Manutenção,Engenheiro de Projetos,2017-11-11 17:43:33,Administrador
+FUNC0330,Funcionario 330,Engenharia,Analista Administrativo,2015-06-30 14:25:01,Administrador
+FUNC0331,Funcionario 331,TI,Eletricista,2018-11-29 17:49:27,Avançado
+FUNC0332,Funcionario 332,Manutenção,Analista Administrativo,2020-08-15 15:34:03,Administrador
+FUNC0333,Funcionario 333,Operação,Analista Administrativo,2022-08-24 03:50:39,Intermediário
+FUNC0334,Funcionario 334,Administrativo,Técnico de Operação,2017-09-17 10:09:44,Administrador
+FUNC0335,Funcionario 335,Engenharia,Técnico de TI,2013-01-15 19:45:40,Avançado
+FUNC0336,Funcionario 336,Engenharia,Analista Administrativo,2022-08-06 13:08:52,Avançado
+FUNC0337,Funcionario 337,Operação,Técnico de Operação,2017-01-04 07:30:56,Básico
+FUNC0338,Funcionario 338,Administrativo,Técnico de TI,2014-10-06 09:05:07,Administrador
+FUNC0339,Funcionario 339,TI,Técnico de TI,2018-09-02 16:30:30,Intermediário
+FUNC0340,Funcionario 340,Engenharia,Engenheiro de Projetos,2013-12-23 20:18:13,Básico
+FUNC0341,Funcionario 341,Operação,Técnico de TI,2015-03-27 09:07:00,Administrador
+FUNC0342,Funcionario 342,Administrativo,Técnico de Operação,2014-02-03 15:49:43,Avançado
+FUNC0343,Funcionario 343,Operação,Técnico de TI,2014-02-11 14:33:41,Avançado
+FUNC0344,Funcionario 344,Engenharia,Engenheiro de Projetos,2015-08-20 14:40:34,Intermediário
+FUNC0345,Funcionario 345,Manutenção,Eletricista,2015-05-13 20:48:15,Avançado
+FUNC0346,Funcionario 346,Operação,Eletricista,2017-09-26 19:29:05,Administrador
+FUNC0347,Funcionario 347,Manutenção,Técnico de TI,2020-10-06 00:15:12,Administrador
+FUNC0348,Funcionario 348,Operação,Técnico de Operação,2018-10-04 12:15:33,Administrador
+FUNC0349,Funcionario 349,Operação,Analista Administrativo,2021-06-18 11:47:15,Intermediário
+FUNC0350,Funcionario 350,Manutenção,Eletricista,2016-04-15 20:22:14,Administrador
+FUNC0351,Funcionario 351,Manutenção,Analista Administrativo,2017-01-27 10:16:00,Básico
+FUNC0352,Funcionario 352,Operação,Engenheiro de Projetos,2021-07-10 07:45:49,Administrador
+FUNC0353,Funcionario 353,Operação,Engenheiro de Projetos,2019-07-13 21:18:41,Básico
+FUNC0354,Funcionario 354,Operação,Engenheiro de Projetos,2014-12-25 20:25:29,Administrador
+FUNC0355,Funcionario 355,Engenharia,Técnico de Operação,2022-03-26 13:58:24,Avançado
+FUNC0356,Funcionario 356,Manutenção,Analista Administrativo,2016-07-17 21:46:36,Básico
+FUNC0357,Funcionario 357,Engenharia,Analista Administrativo,2016-05-31 23:41:24,Básico
+FUNC0358,Funcionario 358,Administrativo,Engenheiro de Projetos,2021-08-17 18:57:24,Básico
+FUNC0359,Funcionario 359,Engenharia,Engenheiro de Projetos,2017-04-13 14:58:29,Administrador
+FUNC0360,Funcionario 360,TI,Técnico de Operação,2015-12-08 15:42:45,Administrador
+FUNC0361,Funcionario 361,Engenharia,Analista Administrativo,2019-04-27 12:17:23,Básico
+FUNC0362,Funcionario 362,Engenharia,Técnico de TI,2018-02-03 00:50:27,Básico
+FUNC0363,Funcionario 363,TI,Engenheiro de Projetos,2017-04-15 04:16:36,Administrador
+FUNC0364,Funcionario 364,Operação,Engenheiro de Projetos,2016-02-14 04:39:57,Básico
+FUNC0365,Funcionario 365,Administrativo,Analista Administrativo,2015-11-18 02:48:37,Intermediário
+FUNC0366,Funcionario 366,Manutenção,Técnico de TI,2018-01-11 14:39:05,Básico
+FUNC0367,Funcionario 367,TI,Eletricista,2020-06-06 08:33:33,Avançado
+FUNC0368,Funcionario 368,Manutenção,Eletricista,2016-01-10 03:16:23,Intermediário
+FUNC0369,Funcionario 369,TI,Técnico de Operação,2022-10-19 23:44:05,Avançado
+FUNC0370,Funcionario 370,Engenharia,Técnico de Operação,2016-12-08 15:21:33,Administrador
+FUNC0371,Funcionario 371,Administrativo,Técnico de Operação,2017-01-02 23:55:11,Avançado
+FUNC0372,Funcionario 372,Manutenção,Engenheiro de Projetos,2017-04-12 19:21:04,Intermediário
+FUNC0373,Funcionario 373,Operação,Eletricista,2015-11-14 21:31:42,Intermediário
+FUNC0374,Funcionario 374,Operação,Analista Administrativo,2022-05-18 02:32:59,Administrador
+FUNC0375,Funcionario 375,Administrativo,Engenheiro de Projetos,2021-04-23 05:27:25,Avançado
+FUNC0376,Funcionario 376,Engenharia,Técnico de Operação,2015-03-01 06:27:47,Intermediário
+FUNC0377,Funcionario 377,Engenharia,Técnico de Operação,2018-02-07 07:48:15,Básico
+FUNC0378,Funcionario 378,Engenharia,Técnico de Operação,2019-12-09 21:02:36,Avançado
+FUNC0379,Funcionario 379,Administrativo,Eletricista,2017-12-21 18:00:56,Avançado
+FUNC0380,Funcionario 380,Administrativo,Eletricista,2014-09-01 07:31:33,Administrador
+FUNC0381,Funcionario 381,Engenharia,Técnico de TI,2021-05-13 20:24:59,Avançado
+FUNC0382,Funcionario 382,Manutenção,Técnico de TI,2018-07-29 14:44:24,Básico
+FUNC0383,Funcionario 383,Operação,Engenheiro de Projetos,2019-01-15 02:47:37,Avançado
+FUNC0384,Funcionario 384,Engenharia,Analista Administrativo,2020-01-19 18:44:41,Administrador
+FUNC0385,Funcionario 385,Engenharia,Engenheiro de Projetos,2015-09-15 01:17:03,Administrador
+FUNC0386,Funcionario 386,Operação,Técnico de TI,2022-01-18 04:08:25,Básico
+FUNC0387,Funcionario 387,Manutenção,Engenheiro de Projetos,2018-08-28 11:51:49,Básico
+FUNC0388,Funcionario 388,TI,Eletricista,2013-07-19 19:06:16,Intermediário
+FUNC0389,Funcionario 389,Engenharia,Engenheiro de Projetos,2020-07-23 04:07:44,Avançado
+FUNC0390,Funcionario 390,TI,Analista Administrativo,2014-11-24 22:48:00,Administrador
+FUNC0391,Funcionario 391,Manutenção,Técnico de Operação,2017-11-04 20:22:06,Avançado
+FUNC0392,Funcionario 392,Engenharia,Eletricista,2021-04-13 08:35:33,Básico
+FUNC0393,Funcionario 393,TI,Eletricista,2014-12-26 02:09:02,Avançado
+FUNC0394,Funcionario 394,Administrativo,Eletricista,2015-04-20 14:24:00,Avançado
+FUNC0395,Funcionario 395,Manutenção,Engenheiro de Projetos,2018-11-05 20:03:16,Avançado
+FUNC0396,Funcionario 396,Operação,Engenheiro de Projetos,2014-05-26 14:35:35,Administrador
+FUNC0397,Funcionario 397,Manutenção,Engenheiro de Projetos,2015-02-25 15:12:37,Avançado
+FUNC0398,Funcionario 398,Engenharia,Engenheiro de Projetos,2016-01-25 00:17:44,Administrador
+FUNC0399,Funcionario 399,Operação,Eletricista,2020-07-14 10:31:29,Intermediário
+FUNC0400,Funcionario 400,TI,Eletricista,2017-07-11 14:03:40,Básico
+FUNC0401,Funcionario 401,Engenharia,Engenheiro de Projetos,2022-05-28 00:57:08,Básico
+FUNC0402,Funcionario 402,Manutenção,Analista Administrativo,2013-12-14 17:44:54,Administrador
+FUNC0403,Funcionario 403,TI,Técnico de TI,2020-07-12 02:48:08,Avançado
+FUNC0404,Funcionario 404,Operação,Técnico de Operação,2021-12-19 07:30:12,Básico
+FUNC0405,Funcionario 405,Manutenção,Eletricista,2016-01-22 02:50:41,Administrador
+FUNC0406,Funcionario 406,Manutenção,Analista Administrativo,2020-11-05 09:03:57,Avançado
+FUNC0407,Funcionario 407,Engenharia,Técnico de Operação,2020-08-23 10:07:57,Intermediário
+FUNC0408,Funcionario 408,Administrativo,Engenheiro de Projetos,2015-12-21 12:31:19,Avançado
+FUNC0409,Funcionario 409,Manutenção,Engenheiro de Projetos,2022-09-17 05:41:13,Avançado
+FUNC0410,Funcionario 410,TI,Eletricista,2020-04-19 14:53:38,Avançado
+FUNC0411,Funcionario 411,TI,Eletricista,2017-09-28 17:55:37,Avançado
+FUNC0412,Funcionario 412,Administrativo,Técnico de TI,2020-05-07 05:30:26,Intermediário
+FUNC0413,Funcionario 413,Engenharia,Analista Administrativo,2015-05-06 08:53:32,Administrador
+FUNC0414,Funcionario 414,Manutenção,Técnico de TI,2021-01-18 20:13:46,Básico
+FUNC0415,Funcionario 415,Engenharia,Eletricista,2019-11-03 01:54:28,Administrador
+FUNC0416,Funcionario 416,Engenharia,Técnico de Operação,2013-09-27 09:50:32,Intermediário
+FUNC0417,Funcionario 417,Manutenção,Eletricista,2017-09-09 15:32:56,Intermediário
+FUNC0418,Funcionario 418,Administrativo,Analista Administrativo,2021-08-30 09:50:01,Intermediário
+FUNC0419,Funcionario 419,TI,Eletricista,2020-02-20 21:54:54,Avançado
+FUNC0420,Funcionario 420,Operação,Técnico de TI,2021-04-23 09:00:35,Básico
+FUNC0421,Funcionario 421,Manutenção,Analista Administrativo,2022-12-31 01:49:47,Intermediário
+FUNC0422,Funcionario 422,Administrativo,Engenheiro de Projetos,2022-12-28 10:55:38,Avançado
+FUNC0423,Funcionario 423,Administrativo,Engenheiro de Projetos,2020-10-16 20:05:35,Avançado
+FUNC0424,Funcionario 424,Manutenção,Eletricista,2016-10-13 21:56:16,Intermediário
+FUNC0425,Funcionario 425,Operação,Engenheiro de Projetos,2013-02-11 20:02:37,Intermediário
+FUNC0426,Funcionario 426,Engenharia,Engenheiro de Projetos,2017-11-30 16:28:45,Básico
+FUNC0427,Funcionario 427,Manutenção,Engenheiro de Projetos,2014-08-04 03:35:42,Básico
+FUNC0428,Funcionario 428,TI,Técnico de TI,2016-10-18 07:14:04,Intermediário
+FUNC0429,Funcionario 429,Operação,Técnico de Operação,2022-06-04 08:26:52,Avançado
+FUNC0430,Funcionario 430,Operação,Engenheiro de Projetos,2022-04-14 07:02:52,Básico
+FUNC0431,Funcionario 431,Manutenção,Analista Administrativo,2017-11-07 09:26:27,Básico
+FUNC0432,Funcionario 432,TI,Técnico de TI,2013-03-12 01:28:40,Básico
+FUNC0433,Funcionario 433,Administrativo,Eletricista,2013-12-04 18:54:48,Avançado
+FUNC0434,Funcionario 434,Manutenção,Técnico de TI,2021-11-17 01:52:01,Intermediário
+FUNC0435,Funcionario 435,Operação,Eletricista,2015-12-31 05:35:54,Intermediário
+FUNC0436,Funcionario 436,Engenharia,Técnico de TI,2017-05-26 21:37:31,Básico
+FUNC0437,Funcionario 437,Manutenção,Técnico de Operação,2016-04-01 23:23:19,Administrador
+FUNC0438,Funcionario 438,Operação,Técnico de Operação,2022-12-01 14:13:55,Administrador
+FUNC0439,Funcionario 439,Engenharia,Analista Administrativo,2019-06-13 18:54:37,Avançado
+FUNC0440,Funcionario 440,Engenharia,Analista Administrativo,2013-08-14 15:20:43,Avançado
+FUNC0441,Funcionario 441,TI,Analista Administrativo,2019-09-17 00:47:13,Administrador
+FUNC0442,Funcionario 442,Administrativo,Técnico de TI,2020-07-03 04:02:13,Administrador
+FUNC0443,Funcionario 443,Operação,Técnico de Operação,2017-06-26 01:16:38,Básico
+FUNC0444,Funcionario 444,TI,Técnico de TI,2018-11-25 20:37:09,Administrador
+FUNC0445,Funcionario 445,Manutenção,Técnico de Operação,2014-06-07 02:08:40,Básico
+FUNC0446,Funcionario 446,Operação,Técnico de TI,2020-01-29 03:34:56,Avançado
+FUNC0447,Funcionario 447,Engenharia,Analista Administrativo,2020-05-09 23:12:01,Intermediário
+FUNC0448,Funcionario 448,Manutenção,Técnico de Operação,2018-05-22 20:43:04,Intermediário
+FUNC0449,Funcionario 449,TI,Engenheiro de Projetos,2016-02-04 13:22:05,Intermediário
+FUNC0450,Funcionario 450,Manutenção,Eletricista,2017-04-27 09:07:44,Básico
+FUNC0451,Funcionario 451,Engenharia,Técnico de TI,2019-02-13 18:50:32,Intermediário
+FUNC0452,Funcionario 452,TI,Técnico de Operação,2013-01-08 09:21:43,Intermediário
+FUNC0453,Funcionario 453,Operação,Eletricista,2014-12-22 12:22:09,Intermediário
+FUNC0454,Funcionario 454,Administrativo,Engenheiro de Projetos,2022-03-02 04:13:55,Básico
+FUNC0455,Funcionario 455,Administrativo,Eletricista,2022-06-18 07:38:17,Avançado
+FUNC0456,Funcionario 456,Operação,Técnico de TI,2019-09-10 00:12:49,Básico
+FUNC0457,Funcionario 457,Manutenção,Técnico de TI,2021-03-29 20:47:00,Avançado
+FUNC0458,Funcionario 458,TI,Técnico de Operação,2014-10-16 22:16:20,Básico
+FUNC0459,Funcionario 459,TI,Analista Administrativo,2020-01-15 21:17:03,Avançado
+FUNC0460,Funcionario 460,Administrativo,Analista Administrativo,2022-09-25 06:46:42,Básico
+FUNC0461,Funcionario 461,Engenharia,Eletricista,2014-07-31 12:51:55,Administrador
+FUNC0462,Funcionario 462,TI,Eletricista,2013-03-06 07:22:05,Básico
+FUNC0463,Funcionario 463,Administrativo,Eletricista,2021-06-28 02:13:18,Intermediário
+FUNC0464,Funcionario 464,Administrativo,Técnico de TI,2017-12-11 16:10:13,Avançado
+FUNC0465,Funcionario 465,Administrativo,Técnico de TI,2021-11-08 21:15:22,Administrador
+FUNC0466,Funcionario 466,TI,Técnico de Operação,2015-12-10 20:57:52,Avançado
+FUNC0467,Funcionario 467,Engenharia,Engenheiro de Projetos,2022-10-16 15:01:15,Intermediário
+FUNC0468,Funcionario 468,Engenharia,Engenheiro de Projetos,2019-03-10 11:21:59,Básico
+FUNC0469,Funcionario 469,Engenharia,Técnico de Operação,2016-04-02 18:06:32,Básico
+FUNC0470,Funcionario 470,Manutenção,Técnico de Operação,2022-09-24 15:31:11,Intermediário
+FUNC0471,Funcionario 471,Engenharia,Engenheiro de Projetos,2020-09-10 02:10:25,Básico
+FUNC0472,Funcionario 472,Administrativo,Analista Administrativo,2020-11-23 20:55:54,Administrador
+FUNC0473,Funcionario 473,Engenharia,Técnico de Operação,2014-05-31 02:43:55,Intermediário
+FUNC0474,Funcionario 474,Operação,Eletricista,2017-10-22 03:20:32,Básico
+FUNC0475,Funcionario 475,Manutenção,Eletricista,2015-03-10 13:00:23,Avançado
+FUNC0476,Funcionario 476,Manutenção,Técnico de TI,2020-07-31 11:14:06,Administrador
+FUNC0477,Funcionario 477,Manutenção,Técnico de TI,2015-08-14 22:45:42,Básico
+FUNC0478,Funcionario 478,Manutenção,Técnico de TI,2015-05-11 02:15:16,Básico
+FUNC0479,Funcionario 479,Manutenção,Técnico de Operação,2022-10-04 10:13:25,Básico
+FUNC0480,Funcionario 480,Manutenção,Analista Administrativo,2019-07-21 18:21:46,Intermediário
+FUNC0481,Funcionario 481,TI,Técnico de Operação,2015-04-08 02:10:12,Intermediário
+FUNC0482,Funcionario 482,Operação,Engenheiro de Projetos,2018-02-02 22:05:00,Avançado
+FUNC0483,Funcionario 483,Operação,Técnico de TI,2018-10-17 21:03:21,Intermediário
+FUNC0484,Funcionario 484,Engenharia,Analista Administrativo,2019-05-28 02:39:11,Básico
+FUNC0485,Funcionario 485,Engenharia,Engenheiro de Projetos,2020-04-24 07:58:18,Básico
+FUNC0486,Funcionario 486,Manutenção,Engenheiro de Projetos,2021-10-11 05:33:13,Intermediário
+FUNC0487,Funcionario 487,TI,Eletricista,2015-04-03 07:12:58,Intermediário
+FUNC0488,Funcionario 488,Engenharia,Eletricista,2020-10-19 19:42:50,Administrador
+FUNC0489,Funcionario 489,TI,Analista Administrativo,2015-07-09 17:06:21,Básico
+FUNC0490,Funcionario 490,Administrativo,Eletricista,2022-08-25 00:02:54,Intermediário
+FUNC0491,Funcionario 491,Manutenção,Técnico de TI,2016-12-14 17:21:34,Básico
+FUNC0492,Funcionario 492,Manutenção,Técnico de TI,2018-04-23 20:34:54,Intermediário
+FUNC0493,Funcionario 493,TI,Analista Administrativo,2017-09-04 05:36:17,Básico
+FUNC0494,Funcionario 494,Administrativo,Eletricista,2016-02-25 23:19:15,Avançado
+FUNC0495,Funcionario 495,Engenharia,Técnico de TI,2014-03-12 23:43:44,Avançado
+FUNC0496,Funcionario 496,Engenharia,Eletricista,2022-11-13 08:03:32,Básico
+FUNC0497,Funcionario 497,Manutenção,Técnico de Operação,2017-08-31 09:23:09,Intermediário
+FUNC0498,Funcionario 498,Operação,Analista Administrativo,2016-08-13 00:04:39,Básico
+FUNC0499,Funcionario 499,Administrativo,Eletricista,2022-03-10 16:51:30,Intermediário
+FUNC0500,Funcionario 500,Administrativo,Eletricista,2016-10-31 16:47:49,Básico

@@ -1,0 +1,201 @@
+ID_Obra,Descricao,Data_Inicio,Data_Prevista_Conclusao,Status,Orcamento_Previsto(R$),Responsavel
+OBR0001,Expansão da Subestação,2023-04-25 07:34:37,2023-09-15 07:34:37,Em Andamento,1128300,Engenharia
+OBR0002,Modernização da Rede de Distribuição,2023-03-16 12:53:11,2023-11-07 12:53:11,Atrasada,3312856,Construção
+OBR0003,Modernização da Rede de Distribuição,2023-01-08 08:53:27,2023-03-20 08:53:27,Planejada,4578569,Construção
+OBR0004,Expansão da Subestação,2023-11-29 07:40:04,2024-05-11 07:40:04,Atrasada,929171,Departamento de Projetos
+OBR0005,Instalação de Novos Medidores,2023-10-07 15:47:14,2024-04-08 15:47:14,Atrasada,3661100,Construção
+OBR0006,Expansão da Subestação,2023-07-27 06:14:29,2024-05-22 06:14:29,Em Andamento,2530257,Construção
+OBR0007,Modernização da Rede de Distribuição,2023-03-27 10:16:09,2024-02-24 10:16:09,Concluída,233793,Departamento de Projetos
+OBR0008,Instalação de Novos Medidores,2023-04-15 06:10:24,2023-11-01 06:10:24,Atrasada,4939946,Engenharia
+OBR0009,Modernização da Rede de Distribuição,2023-09-14 13:08:20,2024-01-15 13:08:20,Concluída,3952413,Departamento de Projetos
+OBR0010,Instalação de Novos Medidores,2023-07-09 06:45:59,2024-03-23 06:45:59,Concluída,1958927,Construção
+OBR0011,Instalação de Novos Medidores,2023-11-18 14:33:27,2024-04-25 14:33:27,Atrasada,4447875,Engenharia
+OBR0012,Instalação de Novos Medidores,2023-11-12 06:27:26,2024-01-16 06:27:26,Concluída,3674468,Departamento de Projetos
+OBR0013,Expansão da Subestação,2023-08-18 17:32:58,2023-11-15 17:32:58,Atrasada,3147477,Engenharia
+OBR0014,Expansão da Subestação,2023-11-08 06:50:26,2024-10-02 06:50:26,Planejada,3119055,Construção
+OBR0015,Manutenção Preventiva em Linha de Transmissão,2023-11-05 06:07:45,2024-04-29 06:07:45,Em Andamento,4664902,Departamento de Projetos
+OBR0016,Manutenção Preventiva em Linha de Transmissão,2023-10-12 09:04:19,2024-01-26 09:04:19,Concluída,1406407,Engenharia
+OBR0017,Expansão da Subestação,2023-09-07 13:36:54,2024-08-15 13:36:54,Concluída,4437944,Construção
+OBR0018,Expansão da Subestação,2023-07-14 00:46:52,2024-01-19 00:46:52,Planejada,4098820,Construção
+OBR0019,Expansão da Subestação,2023-01-27 19:02:19,2024-01-07 19:02:19,Concluída,2656362,Departamento de Projetos
+OBR0020,Modernização da Rede de Distribuição,2023-05-26 07:43:27,2023-11-26 07:43:27,Planejada,54943,Construção
+OBR0021,Instalação de Novos Medidores,2023-02-20 03:19:42,2023-06-27 03:19:42,Concluída,447019,Construção
+OBR0022,Instalação de Novos Medidores,2023-01-13 19:34:47,2023-07-06 19:34:47,Em Andamento,4449294,Engenharia
+OBR0023,Expansão da Subestação,2023-12-01 16:03:07,2024-07-23 16:03:07,Em Andamento,1268259,Departamento de Projetos
+OBR0024,Expansão da Subestação,2023-09-16 14:08:16,2024-05-22 14:08:16,Em Andamento,3499785,Engenharia
+OBR0025,Manutenção Preventiva em Linha de Transmissão,2023-12-07 01:55:05,2024-11-16 01:55:05,Atrasada,3170146,Engenharia
+OBR0026,Expansão da Subestação,2023-10-07 17:09:15,2024-09-22 17:09:15,Concluída,570447,Engenharia
+OBR0027,Instalação de Novos Medidores,2023-01-30 09:15:12,2023-03-14 09:15:12,Concluída,1430407,Engenharia
+OBR0028,Modernização da Rede de Distribuição,2023-04-16 03:37:47,2023-07-17 03:37:47,Em Andamento,1476793,Construção
+OBR0029,Expansão da Subestação,2023-01-28 09:28:36,2023-05-12 09:28:36,Em Andamento,4387170,Construção
+OBR0030,Expansão da Subestação,2023-12-16 07:10:18,2024-03-18 07:10:18,Atrasada,3032378,Construção
+OBR0031,Manutenção Preventiva em Linha de Transmissão,2023-05-21 13:42:56,2023-12-14 13:42:56,Atrasada,907066,Departamento de Projetos
+OBR0032,Instalação de Novos Medidores,2023-03-31 11:21:56,2024-03-26 11:21:56,Planejada,3155582,Engenharia
+OBR0033,Instalação de Novos Medidores,2023-03-28 15:45:56,2024-03-26 15:45:56,Planejada,2165693,Engenharia
+OBR0034,Modernização da Rede de Distribuição,2023-10-24 00:47:40,2024-05-06 00:47:40,Em Andamento,4940822,Engenharia
+OBR0035,Instalação de Novos Medidores,2023-10-22 04:44:41,2024-07-17 04:44:41,Em Andamento,2034467,Construção
+OBR0036,Instalação de Novos Medidores,2023-04-11 22:19:08,2024-04-04 22:19:08,Planejada,2320131,Construção
+OBR0037,Manutenção Preventiva em Linha de Transmissão,2023-07-10 21:50:43,2023-11-27 21:50:43,Concluída,1673263,Engenharia
+OBR0038,Manutenção Preventiva em Linha de Transmissão,2023-10-29 01:42:11,2024-09-06 01:42:11,Planejada,97386,Construção
+OBR0039,Manutenção Preventiva em Linha de Transmissão,2023-08-27 21:33:47,2024-04-27 21:33:47,Em Andamento,396635,Departamento de Projetos
+OBR0040,Manutenção Preventiva em Linha de Transmissão,2023-02-10 17:02:09,2024-02-10 17:02:09,Concluída,4969787,Construção
+OBR0041,Instalação de Novos Medidores,2023-02-23 09:36:52,2023-12-01 09:36:52,Em Andamento,1794368,Engenharia
+OBR0042,Expansão da Subestação,2023-04-26 14:53:43,2024-02-16 14:53:43,Atrasada,4756425,Departamento de Projetos
+OBR0043,Instalação de Novos Medidores,2023-02-05 01:52:01,2023-06-17 01:52:01,Concluída,4338295,Construção
+OBR0044,Expansão da Subestação,2023-09-12 06:35:55,2024-04-05 06:35:55,Atrasada,4711897,Departamento de Projetos
+OBR0045,Modernização da Rede de Distribuição,2023-06-12 20:57:26,2023-11-08 20:57:26,Planejada,4374330,Departamento de Projetos
+OBR0046,Instalação de Novos Medidores,2023-05-30 08:46:32,2024-05-26 08:46:32,Atrasada,2761841,Departamento de Projetos
+OBR0047,Modernização da Rede de Distribuição,2023-05-11 10:29:33,2023-09-24 10:29:33,Em Andamento,607126,Departamento de Projetos
+OBR0048,Expansão da Subestação,2023-08-01 18:51:18,2024-05-29 18:51:18,Concluída,4439161,Departamento de Projetos
+OBR0049,Instalação de Novos Medidores,2023-01-09 01:16:48,2023-09-15 01:16:48,Planejada,3687237,Departamento de Projetos
+OBR0050,Expansão da Subestação,2023-12-26 10:33:40,2024-12-17 10:33:40,Atrasada,1280340,Construção
+OBR0051,Manutenção Preventiva em Linha de Transmissão,2023-12-27 00:07:48,2024-02-23 00:07:48,Atrasada,3578921,Departamento de Projetos
+OBR0052,Expansão da Subestação,2023-05-10 15:43:50,2023-07-17 15:43:50,Concluída,4972600,Engenharia
+OBR0053,Expansão da Subestação,2023-10-26 08:38:23,2024-09-17 08:38:23,Em Andamento,3894046,Engenharia
+OBR0054,Expansão da Subestação,2023-11-13 03:12:07,2024-04-25 03:12:07,Concluída,2031349,Engenharia
+OBR0055,Instalação de Novos Medidores,2023-10-23 23:24:14,2024-05-06 23:24:14,Concluída,4914402,Departamento de Projetos
+OBR0056,Modernização da Rede de Distribuição,2023-07-25 21:12:49,2024-04-09 21:12:49,Em Andamento,2406040,Engenharia
+OBR0057,Modernização da Rede de Distribuição,2023-08-14 19:28:42,2024-05-02 19:28:42,Atrasada,4041495,Engenharia
+OBR0058,Manutenção Preventiva em Linha de Transmissão,2023-10-29 19:39:30,2023-12-13 19:39:30,Atrasada,4675195,Construção
+OBR0059,Expansão da Subestação,2023-03-09 04:37:56,2024-02-25 04:37:56,Atrasada,2560898,Departamento de Projetos
+OBR0060,Modernização da Rede de Distribuição,2023-10-12 17:51:28,2023-12-13 17:51:28,Atrasada,4914265,Engenharia
+OBR0061,Instalação de Novos Medidores,2023-01-25 20:17:46,2023-04-05 20:17:46,Concluída,3837497,Construção
+OBR0062,Instalação de Novos Medidores,2023-06-22 04:33:07,2024-02-11 04:33:07,Planejada,3270763,Departamento de Projetos
+OBR0063,Instalação de Novos Medidores,2023-04-05 10:47:22,2023-12-11 10:47:22,Atrasada,3078970,Construção
+OBR0064,Expansão da Subestação,2023-09-27 06:36:03,2024-05-16 06:36:03,Atrasada,1433586,Departamento de Projetos
+OBR0065,Modernização da Rede de Distribuição,2023-06-26 00:54:54,2024-06-05 00:54:54,Concluída,2793558,Construção
+OBR0066,Expansão da Subestação,2023-05-22 19:38:22,2023-11-26 19:38:22,Planejada,1618833,Construção
+OBR0067,Expansão da Subestação,2023-11-14 00:27:48,2024-08-08 00:27:48,Em Andamento,2650928,Engenharia
+OBR0068,Modernização da Rede de Distribuição,2023-10-03 07:54:33,2024-02-16 07:54:33,Em Andamento,4936418,Engenharia
+OBR0069,Instalação de Novos Medidores,2023-08-28 10:52:48,2024-01-29 10:52:48,Planejada,2246146,Departamento de Projetos
+OBR0070,Modernização da Rede de Distribuição,2023-08-17 13:32:16,2024-04-13 13:32:16,Em Andamento,3848774,Engenharia
+OBR0071,Manutenção Preventiva em Linha de Transmissão,2023-11-29 01:41:48,2024-01-02 01:41:48,Planejada,3421323,Construção
+OBR0072,Manutenção Preventiva em Linha de Transmissão,2023-02-08 02:58:29,2023-08-18 02:58:29,Concluída,1882166,Construção
+OBR0073,Instalação de Novos Medidores,2023-02-08 20:46:36,2023-04-08 20:46:36,Atrasada,1757429,Construção
+OBR0074,Manutenção Preventiva em Linha de Transmissão,2023-07-05 15:13:46,2023-10-09 15:13:46,Concluída,419547,Construção
+OBR0075,Instalação de Novos Medidores,2023-06-17 13:07:46,2023-09-04 13:07:46,Em Andamento,1394623,Engenharia
+OBR0076,Manutenção Preventiva em Linha de Transmissão,2023-09-23 03:55:54,2024-01-08 03:55:54,Em Andamento,3654746,Departamento de Projetos
+OBR0077,Modernização da Rede de Distribuição,2023-11-28 21:52:05,2024-06-23 21:52:05,Em Andamento,2422153,Departamento de Projetos
+OBR0078,Manutenção Preventiva em Linha de Transmissão,2023-11-04 13:14:16,2024-07-02 13:14:16,Em Andamento,2941034,Construção
+OBR0079,Manutenção Preventiva em Linha de Transmissão,2023-03-14 22:39:49,2024-03-04 22:39:49,Concluída,4962274,Departamento de Projetos
+OBR0080,Expansão da Subestação,2023-05-21 16:09:10,2024-03-21 16:09:10,Atrasada,2626796,Engenharia
+OBR0081,Manutenção Preventiva em Linha de Transmissão,2023-06-26 23:41:44,2024-04-12 23:41:44,Planejada,3821141,Construção
+OBR0082,Expansão da Subestação,2023-02-24 13:16:38,2023-06-30 13:16:38,Planejada,4712695,Engenharia
+OBR0083,Modernização da Rede de Distribuição,2023-06-24 03:34:40,2024-01-09 03:34:40,Em Andamento,1808718,Engenharia
+OBR0084,Modernização da Rede de Distribuição,2023-11-07 02:15:01,2024-02-25 02:15:01,Planejada,3582944,Engenharia
+OBR0085,Instalação de Novos Medidores,2023-10-25 12:41:16,2024-03-10 12:41:16,Planejada,423358,Departamento de Projetos
+OBR0086,Instalação de Novos Medidores,2023-02-04 14:43:03,2023-04-01 14:43:03,Concluída,2807620,Engenharia
+OBR0087,Instalação de Novos Medidores,2023-07-15 07:38:41,2023-08-29 07:38:41,Concluída,2459103,Departamento de Projetos
+OBR0088,Manutenção Preventiva em Linha de Transmissão,2023-04-19 21:45:14,2024-03-08 21:45:14,Em Andamento,858717,Engenharia
+OBR0089,Manutenção Preventiva em Linha de Transmissão,2023-11-05 00:19:52,2024-11-01 00:19:52,Concluída,4075012,Engenharia
+OBR0090,Instalação de Novos Medidores,2023-01-12 10:43:08,2023-12-06 10:43:08,Em Andamento,4871275,Departamento de Projetos
+OBR0091,Instalação de Novos Medidores,2023-06-09 11:30:31,2023-12-04 11:30:31,Em Andamento,4288854,Departamento de Projetos
+OBR0092,Instalação de Novos Medidores,2023-05-02 14:35:59,2024-01-28 14:35:59,Concluída,3427882,Departamento de Projetos
+OBR0093,Modernização da Rede de Distribuição,2023-09-09 15:32:32,2024-03-14 15:32:32,Em Andamento,4492726,Engenharia
+OBR0094,Manutenção Preventiva em Linha de Transmissão,2023-03-10 11:46:55,2023-04-28 11:46:55,Atrasada,4648075,Departamento de Projetos
+OBR0095,Manutenção Preventiva em Linha de Transmissão,2023-05-03 06:31:39,2024-03-27 06:31:39,Em Andamento,351333,Construção
+OBR0096,Instalação de Novos Medidores,2023-05-03 07:50:42,2024-04-29 07:50:42,Planejada,982727,Construção
+OBR0097,Modernização da Rede de Distribuição,2023-04-24 03:22:02,2023-12-03 03:22:02,Atrasada,3653166,Construção
+OBR0098,Manutenção Preventiva em Linha de Transmissão,2023-01-15 00:07:04,2023-12-12 00:07:04,Concluída,540350,Construção
+OBR0099,Expansão da Subestação,2023-03-03 23:35:45,2023-11-21 23:35:45,Concluída,1767117,Construção
+OBR0100,Expansão da Subestação,2023-09-10 19:12:14,2023-11-15 19:12:14,Planejada,3557119,Departamento de Projetos
+OBR0101,Expansão da Subestação,2023-03-22 09:45:00,2023-08-17 09:45:00,Em Andamento,501779,Departamento de Projetos
+OBR0102,Modernização da Rede de Distribuição,2023-03-02 02:00:08,2023-11-17 02:00:08,Atrasada,1157378,Construção
+OBR0103,Manutenção Preventiva em Linha de Transmissão,2023-08-19 13:00:15,2024-01-09 13:00:15,Concluída,668004,Construção
+OBR0104,Manutenção Preventiva em Linha de Transmissão,2023-07-11 15:38:44,2024-01-25 15:38:44,Em Andamento,4580992,Engenharia
+OBR0105,Modernização da Rede de Distribuição,2023-07-04 13:07:59,2023-08-03 13:07:59,Em Andamento,377542,Departamento de Projetos
+OBR0106,Instalação de Novos Medidores,2023-02-18 13:32:21,2023-06-30 13:32:21,Atrasada,1446787,Engenharia
+OBR0107,Manutenção Preventiva em Linha de Transmissão,2023-12-16 18:20:10,2024-11-22 18:20:10,Concluída,1233644,Engenharia
+OBR0108,Modernização da Rede de Distribuição,2023-08-31 18:56:49,2023-10-10 18:56:49,Planejada,593280,Construção
+OBR0109,Modernização da Rede de Distribuição,2023-11-14 18:41:43,2024-07-15 18:41:43,Atrasada,2749089,Construção
+OBR0110,Expansão da Subestação,2023-01-21 01:14:47,2024-01-11 01:14:47,Em Andamento,1688128,Departamento de Projetos
+OBR0111,Instalação de Novos Medidores,2023-02-09 02:08:10,2023-12-10 02:08:10,Concluída,1438448,Construção
+OBR0112,Expansão da Subestação,2023-04-16 10:27:35,2023-10-21 10:27:35,Em Andamento,2010456,Engenharia
+OBR0113,Expansão da Subestação,2023-04-14 11:02:25,2024-01-29 11:02:25,Atrasada,2555964,Engenharia
+OBR0114,Expansão da Subestação,2023-06-15 17:00:48,2024-05-15 17:00:48,Atrasada,4966626,Construção
+OBR0115,Manutenção Preventiva em Linha de Transmissão,2023-03-18 08:39:27,2023-08-23 08:39:27,Em Andamento,4109348,Construção
+OBR0116,Instalação de Novos Medidores,2023-01-30 01:05:59,2023-06-12 01:05:59,Concluída,4915472,Departamento de Projetos
+OBR0117,Expansão da Subestação,2023-01-27 12:44:44,2023-05-05 12:44:44,Atrasada,2585814,Departamento de Projetos
+OBR0118,Modernização da Rede de Distribuição,2023-04-19 05:48:10,2023-09-29 05:48:10,Atrasada,2252576,Engenharia
+OBR0119,Manutenção Preventiva em Linha de Transmissão,2023-07-06 22:04:55,2024-05-31 22:04:55,Concluída,2277661,Construção
+OBR0120,Modernização da Rede de Distribuição,2023-01-24 01:52:43,2023-04-07 01:52:43,Concluída,2525025,Departamento de Projetos
+OBR0121,Instalação de Novos Medidores,2023-04-09 03:50:12,2023-12-09 03:50:12,Atrasada,2582544,Engenharia
+OBR0122,Expansão da Subestação,2023-06-07 10:39:30,2023-09-26 10:39:30,Atrasada,3853633,Engenharia
+OBR0123,Expansão da Subestação,2023-09-10 11:52:58,2023-11-26 11:52:58,Planejada,4395875,Engenharia
+OBR0124,Modernização da Rede de Distribuição,2023-02-07 21:18:10,2023-04-26 21:18:10,Planejada,2266001,Departamento de Projetos
+OBR0125,Manutenção Preventiva em Linha de Transmissão,2023-04-10 11:33:23,2023-12-25 11:33:23,Planejada,500783,Construção
+OBR0126,Expansão da Subestação,2023-06-23 21:00:59,2024-01-10 21:00:59,Em Andamento,4395482,Construção
+OBR0127,Modernização da Rede de Distribuição,2023-07-17 04:00:14,2024-07-11 04:00:14,Atrasada,2907722,Engenharia
+OBR0128,Modernização da Rede de Distribuição,2023-07-31 12:58:45,2023-12-24 12:58:45,Concluída,884728,Construção
+OBR0129,Manutenção Preventiva em Linha de Transmissão,2023-01-07 04:03:15,2023-03-23 04:03:15,Em Andamento,4109199,Departamento de Projetos
+OBR0130,Manutenção Preventiva em Linha de Transmissão,2023-05-23 19:27:17,2023-10-12 19:27:17,Atrasada,2856200,Departamento de Projetos
+OBR0131,Manutenção Preventiva em Linha de Transmissão,2023-07-09 07:12:55,2023-12-24 07:12:55,Atrasada,2199192,Engenharia
+OBR0132,Instalação de Novos Medidores,2023-12-15 07:12:26,2024-02-07 07:12:26,Concluída,4609304,Departamento de Projetos
+OBR0133,Expansão da Subestação,2023-07-23 14:57:22,2024-01-27 14:57:22,Planejada,4521763,Construção
+OBR0134,Expansão da Subestação,2023-01-22 21:26:35,2023-06-23 21:26:35,Planejada,2296214,Construção
+OBR0135,Modernização da Rede de Distribuição,2023-05-21 19:05:50,2023-09-10 19:05:50,Atrasada,2726278,Departamento de Projetos
+OBR0136,Expansão da Subestação,2023-05-08 01:03:04,2024-04-16 01:03:04,Concluída,870702,Departamento de Projetos
+OBR0137,Modernização da Rede de Distribuição,2023-01-17 04:26:07,2023-05-09 04:26:07,Concluída,4631784,Construção
+OBR0138,Instalação de Novos Medidores,2023-10-01 20:53:21,2023-11-15 20:53:21,Concluída,4829773,Construção
+OBR0139,Modernização da Rede de Distribuição,2023-09-29 08:03:27,2024-04-13 08:03:27,Concluída,3150645,Construção
+OBR0140,Modernização da Rede de Distribuição,2023-05-06 15:39:19,2023-08-07 15:39:19,Atrasada,1352146,Engenharia
+OBR0141,Modernização da Rede de Distribuição,2023-11-26 11:58:39,2024-09-23 11:58:39,Atrasada,176307,Construção
+OBR0142,Instalação de Novos Medidores,2023-01-29 00:24:01,2023-04-25 00:24:01,Em Andamento,510810,Construção
+OBR0143,Instalação de Novos Medidores,2023-05-19 09:58:04,2023-09-23 09:58:04,Atrasada,4363508,Engenharia
+OBR0144,Modernização da Rede de Distribuição,2023-01-22 23:30:35,2023-04-25 23:30:35,Planejada,849802,Construção
+OBR0145,Modernização da Rede de Distribuição,2023-09-20 20:16:16,2024-05-08 20:16:16,Atrasada,4210080,Engenharia
+OBR0146,Manutenção Preventiva em Linha de Transmissão,2023-07-17 00:59:28,2024-05-17 00:59:28,Planejada,468983,Engenharia
+OBR0147,Expansão da Subestação,2023-10-30 04:26:30,2024-02-22 04:26:30,Em Andamento,2540208,Departamento de Projetos
+OBR0148,Manutenção Preventiva em Linha de Transmissão,2023-05-27 02:19:21,2023-12-19 02:19:21,Planejada,1699532,Engenharia
+OBR0149,Manutenção Preventiva em Linha de Transmissão,2023-12-19 23:34:19,2024-04-24 23:34:19,Concluída,3530297,Engenharia
+OBR0150,Instalação de Novos Medidores,2023-04-13 17:47:35,2024-01-05 17:47:35,Atrasada,387036,Construção
+OBR0151,Modernização da Rede de Distribuição,2023-04-11 00:50:28,2024-02-05 00:50:28,Atrasada,1929551,Departamento de Projetos
+OBR0152,Instalação de Novos Medidores,2023-10-09 01:38:23,2023-12-17 01:38:23,Em Andamento,1805599,Departamento de Projetos
+OBR0153,Manutenção Preventiva em Linha de Transmissão,2023-07-06 15:25:32,2023-08-18 15:25:32,Concluída,4018634,Engenharia
+OBR0154,Instalação de Novos Medidores,2023-05-18 19:43:54,2023-12-05 19:43:54,Concluída,1992892,Departamento de Projetos
+OBR0155,Expansão da Subestação,2023-12-14 06:00:06,2024-01-18 06:00:06,Concluída,4446868,Engenharia
+OBR0156,Instalação de Novos Medidores,2023-02-25 21:17:49,2023-10-04 21:17:49,Atrasada,1398618,Construção
+OBR0157,Modernização da Rede de Distribuição,2023-12-26 00:39:53,2024-09-14 00:39:53,Concluída,3385957,Departamento de Projetos
+OBR0158,Instalação de Novos Medidores,2023-03-27 03:33:08,2023-07-12 03:33:08,Atrasada,4005390,Departamento de Projetos
+OBR0159,Expansão da Subestação,2023-03-01 10:05:40,2023-08-10 10:05:40,Atrasada,2789030,Construção
+OBR0160,Manutenção Preventiva em Linha de Transmissão,2023-05-15 00:26:45,2024-03-02 00:26:45,Em Andamento,4511854,Engenharia
+OBR0161,Instalação de Novos Medidores,2023-10-05 13:26:02,2024-03-29 13:26:02,Atrasada,1377471,Construção
+OBR0162,Instalação de Novos Medidores,2023-05-21 18:38:14,2023-11-11 18:38:14,Atrasada,1425076,Construção
+OBR0163,Expansão da Subestação,2023-05-09 04:20:38,2023-09-19 04:20:38,Planejada,649881,Engenharia
+OBR0164,Modernização da Rede de Distribuição,2023-05-30 08:21:05,2023-12-22 08:21:05,Concluída,1335656,Engenharia
+OBR0165,Modernização da Rede de Distribuição,2023-06-21 05:07:25,2023-08-01 05:07:25,Atrasada,4333657,Construção
+OBR0166,Modernização da Rede de Distribuição,2023-02-11 06:44:44,2023-08-03 06:44:44,Concluída,270685,Construção
+OBR0167,Instalação de Novos Medidores,2023-04-11 21:44:13,2023-11-04 21:44:13,Em Andamento,282407,Engenharia
+OBR0168,Modernização da Rede de Distribuição,2023-07-31 20:31:45,2024-06-26 20:31:45,Concluída,2315346,Construção
+OBR0169,Instalação de Novos Medidores,2023-06-24 09:38:33,2023-09-29 09:38:33,Planejada,208050,Departamento de Projetos
+OBR0170,Modernização da Rede de Distribuição,2023-03-08 21:05:25,2024-02-29 21:05:25,Em Andamento,1666836,Construção
+OBR0171,Instalação de Novos Medidores,2023-06-06 23:43:09,2024-03-20 23:43:09,Atrasada,4289770,Departamento de Projetos
+OBR0172,Expansão da Subestação,2023-03-11 09:18:21,2023-08-06 09:18:21,Planejada,3030617,Departamento de Projetos
+OBR0173,Modernização da Rede de Distribuição,2023-06-24 21:50:27,2023-11-25 21:50:27,Atrasada,4960676,Departamento de Projetos
+OBR0174,Instalação de Novos Medidores,2023-06-02 08:28:03,2024-02-07 08:28:03,Concluída,342471,Engenharia
+OBR0175,Manutenção Preventiva em Linha de Transmissão,2023-08-20 07:47:19,2023-09-26 07:47:19,Em Andamento,4467407,Construção
+OBR0176,Instalação de Novos Medidores,2023-11-24 09:58:17,2023-12-30 09:58:17,Planejada,4109939,Engenharia
+OBR0177,Expansão da Subestação,2023-04-26 09:49:46,2024-03-03 09:49:46,Atrasada,1688610,Construção
+OBR0178,Expansão da Subestação,2023-04-15 01:25:42,2023-10-17 01:25:42,Concluída,4019613,Departamento de Projetos
+OBR0179,Manutenção Preventiva em Linha de Transmissão,2023-02-28 08:48:58,2024-01-17 08:48:58,Em Andamento,1901236,Construção
+OBR0180,Manutenção Preventiva em Linha de Transmissão,2023-10-18 08:36:17,2024-05-17 08:36:17,Planejada,1973532,Construção
+OBR0181,Manutenção Preventiva em Linha de Transmissão,2023-09-22 08:04:35,2023-10-28 08:04:35,Planejada,2363885,Construção
+OBR0182,Modernização da Rede de Distribuição,2023-10-12 03:48:52,2024-05-23 03:48:52,Planejada,3160478,Departamento de Projetos
+OBR0183,Instalação de Novos Medidores,2023-12-23 02:49:01,2024-02-27 02:49:01,Planejada,3629147,Construção
+OBR0184,Instalação de Novos Medidores,2023-04-04 08:32:09,2024-01-29 08:32:09,Em Andamento,718733,Departamento de Projetos
+OBR0185,Expansão da Subestação,2023-02-10 12:56:54,2023-11-04 12:56:54,Planejada,2464027,Engenharia
+OBR0186,Expansão da Subestação,2023-10-10 15:01:47,2024-06-21 15:01:47,Planejada,3549782,Engenharia
+OBR0187,Modernização da Rede de Distribuição,2023-10-24 02:47:18,2024-05-12 02:47:18,Atrasada,1976536,Engenharia
+OBR0188,Manutenção Preventiva em Linha de Transmissão,2023-01-18 17:04:55,2023-07-24 17:04:55,Concluída,3440428,Engenharia
+OBR0189,Expansão da Subestação,2023-05-26 06:04:23,2024-04-09 06:04:23,Em Andamento,1589257,Construção
+OBR0190,Modernização da Rede de Distribuição,2023-11-09 03:39:24,2024-01-05 03:39:24,Atrasada,3535875,Engenharia
+OBR0191,Manutenção Preventiva em Linha de Transmissão,2023-01-22 05:18:28,2023-08-15 05:18:28,Atrasada,1385437,Departamento de Projetos
+OBR0192,Modernização da Rede de Distribuição,2023-10-31 08:23:48,2024-01-23 08:23:48,Atrasada,4344789,Engenharia
+OBR0193,Instalação de Novos Medidores,2023-03-09 03:02:54,2023-12-25 03:02:54,Atrasada,1859726,Departamento de Projetos
+OBR0194,Instalação de Novos Medidores,2023-11-05 00:32:55,2024-02-24 00:32:55,Planejada,580663,Engenharia
+OBR0195,Instalação de Novos Medidores,2023-05-17 11:18:08,2024-02-16 11:18:08,Atrasada,3149856,Construção
+OBR0196,Manutenção Preventiva em Linha de Transmissão,2023-11-14 17:37:51,2024-09-16 17:37:51,Planejada,4762774,Construção
+OBR0197,Manutenção Preventiva em Linha de Transmissão,2023-10-05 08:54:28,2023-11-06 08:54:28,Planejada,2553329,Departamento de Projetos
+OBR0198,Manutenção Preventiva em Linha de Transmissão,2023-02-21 17:08:33,2023-07-29 17:08:33,Concluída,1594874,Construção
+OBR0199,Expansão da Subestação,2023-10-31 08:28:58,2024-02-14 08:28:58,Em Andamento,1603330,Departamento de Projetos
+OBR0200,Instalação de Novos Medidores,2023-07-02 23:36:33,2023-12-04 23:36:33,Concluída,4606806,Departamento de Projetos

@@ -1,0 +1,201 @@
+ProblemID,RelatedIncident,RootCause,Frequency,Status
+PRB0001,INC0105,Conexão instável,8,Investigando
+PRB0002,INC0162,Manutenção mal sucedida,1,Corrigido
+PRB0003,INC0003,Erro de firmware,8,Corrigido
+PRB0004,INC0007,Sobrecarga elétrica,6,Investigando
+PRB0005,INC0264,Conexão instável,9,Investigando
+PRB0006,INC0301,Erro de firmware,4,Identificado
+PRB0007,INC0175,Conexão instável,4,Corrigido
+PRB0008,INC0077,Conexão instável,8,Investigando
+PRB0009,INC0447,Sobrecarga elétrica,6,Corrigido
+PRB0010,INC0062,Manutenção mal sucedida,5,Corrigido
+PRB0011,INC0429,Conexão instável,6,Identificado
+PRB0012,INC0056,Erro de firmware,2,Investigando
+PRB0013,INC0062,Manutenção mal sucedida,3,Investigando
+PRB0014,INC0046,Manutenção mal sucedida,6,Investigando
+PRB0015,INC0034,Erro de firmware,7,Corrigido
+PRB0016,INC0487,Manutenção mal sucedida,6,Corrigido
+PRB0017,INC0133,Conexão instável,3,Identificado
+PRB0018,INC0032,Erro de firmware,3,Corrigido
+PRB0019,INC0474,Manutenção mal sucedida,2,Identificado
+PRB0020,INC0178,Manutenção mal sucedida,6,Corrigido
+PRB0021,INC0188,Sobrecarga elétrica,8,Corrigido
+PRB0022,INC0014,Conexão instável,7,Investigando
+PRB0023,INC0497,Manutenção mal sucedida,7,Identificado
+PRB0024,INC0040,Conexão instável,9,Investigando
+PRB0025,INC0356,Erro de firmware,4,Identificado
+PRB0026,INC0416,Conexão instável,1,Investigando
+PRB0027,INC0135,Manutenção mal sucedida,7,Identificado
+PRB0028,INC0316,Sobrecarga elétrica,5,Identificado
+PRB0029,INC0358,Manutenção mal sucedida,7,Investigando
+PRB0030,INC0128,Sobrecarga elétrica,6,Identificado
+PRB0031,INC0472,Erro de firmware,2,Investigando
+PRB0032,INC0486,Erro de firmware,3,Identificado
+PRB0033,INC0472,Manutenção mal sucedida,8,Investigando
+PRB0034,INC0247,Manutenção mal sucedida,3,Identificado
+PRB0035,INC0487,Sobrecarga elétrica,3,Investigando
+PRB0036,INC0481,Conexão instável,5,Identificado
+PRB0037,INC0035,Manutenção mal sucedida,7,Corrigido
+PRB0038,INC0255,Erro de firmware,3,Corrigido
+PRB0039,INC0423,Manutenção mal sucedida,9,Corrigido
+PRB0040,INC0285,Conexão instável,8,Corrigido
+PRB0041,INC0304,Sobrecarga elétrica,1,Identificado
+PRB0042,INC0384,Conexão instável,1,Investigando
+PRB0043,INC0034,Manutenção mal sucedida,1,Identificado
+PRB0044,INC0087,Conexão instável,9,Investigando
+PRB0045,INC0051,Erro de firmware,5,Identificado
+PRB0046,INC0429,Sobrecarga elétrica,9,Identificado
+PRB0047,INC0433,Manutenção mal sucedida,3,Investigando
+PRB0048,INC0277,Conexão instável,3,Identificado
+PRB0049,INC0061,Manutenção mal sucedida,4,Corrigido
+PRB0050,INC0081,Manutenção mal sucedida,9,Investigando
+PRB0051,INC0472,Erro de firmware,5,Corrigido
+PRB0052,INC0004,Conexão instável,1,Identificado
+PRB0053,INC0202,Conexão instável,1,Corrigido
+PRB0054,INC0033,Conexão instável,4,Corrigido
+PRB0055,INC0412,Manutenção mal sucedida,8,Investigando
+PRB0056,INC0287,Conexão instável,9,Corrigido
+PRB0057,INC0110,Sobrecarga elétrica,4,Investigando
+PRB0058,INC0434,Manutenção mal sucedida,2,Identificado
+PRB0059,INC0262,Manutenção mal sucedida,3,Investigando
+PRB0060,INC0315,Erro de firmware,1,Investigando
+PRB0061,INC0228,Manutenção mal sucedida,9,Investigando
+PRB0062,INC0262,Manutenção mal sucedida,8,Identificado
+PRB0063,INC0326,Erro de firmware,4,Corrigido
+PRB0064,INC0059,Conexão instável,5,Investigando
+PRB0065,INC0266,Erro de firmware,6,Corrigido
+PRB0066,INC0157,Sobrecarga elétrica,8,Investigando
+PRB0067,INC0098,Sobrecarga elétrica,4,Investigando
+PRB0068,INC0468,Manutenção mal sucedida,8,Identificado
+PRB0069,INC0239,Manutenção mal sucedida,3,Corrigido
+PRB0070,INC0191,Sobrecarga elétrica,7,Corrigido
+PRB0071,INC0458,Manutenção mal sucedida,1,Corrigido
+PRB0072,INC0061,Conexão instável,3,Corrigido
+PRB0073,INC0134,Conexão instável,3,Corrigido
+PRB0074,INC0166,Conexão instável,5,Corrigido
+PRB0075,INC0128,Erro de firmware,9,Identificado
+PRB0076,INC0038,Manutenção mal sucedida,6,Investigando
+PRB0077,INC0472,Manutenção mal sucedida,4,Identificado
+PRB0078,INC0064,Manutenção mal sucedida,1,Corrigido
+PRB0079,INC0129,Erro de firmware,6,Investigando
+PRB0080,INC0216,Conexão instável,6,Investigando
+PRB0081,INC0155,Conexão instável,7,Corrigido
+PRB0082,INC0191,Sobrecarga elétrica,5,Corrigido
+PRB0083,INC0401,Erro de firmware,6,Corrigido
+PRB0084,INC0330,Sobrecarga elétrica,5,Investigando
+PRB0085,INC0234,Conexão instável,7,Corrigido
+PRB0086,INC0006,Sobrecarga elétrica,7,Investigando
+PRB0087,INC0466,Sobrecarga elétrica,4,Identificado
+PRB0088,INC0216,Manutenção mal sucedida,8,Corrigido
+PRB0089,INC0052,Erro de firmware,3,Identificado
+PRB0090,INC0349,Erro de firmware,5,Identificado
+PRB0091,INC0121,Conexão instável,5,Identificado
+PRB0092,INC0461,Erro de firmware,5,Investigando
+PRB0093,INC0075,Manutenção mal sucedida,9,Identificado
+PRB0094,INC0293,Conexão instável,9,Identificado
+PRB0095,INC0210,Conexão instável,4,Corrigido
+PRB0096,INC0394,Erro de firmware,6,Identificado
+PRB0097,INC0448,Sobrecarga elétrica,9,Investigando
+PRB0098,INC0358,Erro de firmware,2,Identificado
+PRB0099,INC0055,Manutenção mal sucedida,6,Identificado
+PRB0100,INC0194,Sobrecarga elétrica,7,Identificado
+PRB0101,INC0444,Conexão instável,7,Corrigido
+PRB0102,INC0075,Erro de firmware,5,Identificado
+PRB0103,INC0223,Conexão instável,8,Investigando
+PRB0104,INC0116,Erro de firmware,4,Investigando
+PRB0105,INC0168,Sobrecarga elétrica,4,Investigando
+PRB0106,INC0480,Sobrecarga elétrica,8,Investigando
+PRB0107,INC0228,Sobrecarga elétrica,2,Corrigido
+PRB0108,INC0436,Erro de firmware,9,Corrigido
+PRB0109,INC0355,Erro de firmware,2,Identificado
+PRB0110,INC0384,Erro de firmware,6,Identificado
+PRB0111,INC0126,Sobrecarga elétrica,7,Identificado
+PRB0112,INC0292,Sobrecarga elétrica,1,Identificado
+PRB0113,INC0018,Conexão instável,9,Identificado
+PRB0114,INC0276,Manutenção mal sucedida,3,Corrigido
+PRB0115,INC0229,Manutenção mal sucedida,5,Identificado
+PRB0116,INC0049,Conexão instável,2,Investigando
+PRB0117,INC0405,Sobrecarga elétrica,9,Investigando
+PRB0118,INC0377,Sobrecarga elétrica,2,Identificado
+PRB0119,INC0350,Manutenção mal sucedida,1,Investigando
+PRB0120,INC0329,Manutenção mal sucedida,4,Corrigido
+PRB0121,INC0302,Manutenção mal sucedida,8,Investigando
+PRB0122,INC0294,Sobrecarga elétrica,4,Investigando
+PRB0123,INC0211,Conexão instável,5,Investigando
+PRB0124,INC0243,Sobrecarga elétrica,1,Identificado
+PRB0125,INC0264,Manutenção mal sucedida,2,Investigando
+PRB0126,INC0097,Erro de firmware,2,Investigando
+PRB0127,INC0084,Conexão instável,7,Corrigido
+PRB0128,INC0031,Sobrecarga elétrica,4,Investigando
+PRB0129,INC0350,Sobrecarga elétrica,6,Corrigido
+PRB0130,INC0406,Manutenção mal sucedida,8,Identificado
+PRB0131,INC0279,Manutenção mal sucedida,8,Investigando
+PRB0132,INC0282,Sobrecarga elétrica,6,Corrigido
+PRB0133,INC0319,Conexão instável,1,Corrigido
+PRB0134,INC0263,Sobrecarga elétrica,9,Investigando
+PRB0135,INC0158,Erro de firmware,3,Corrigido
+PRB0136,INC0207,Erro de firmware,9,Investigando
+PRB0137,INC0150,Manutenção mal sucedida,2,Identificado
+PRB0138,INC0310,Erro de firmware,3,Identificado
+PRB0139,INC0298,Sobrecarga elétrica,8,Corrigido
+PRB0140,INC0117,Erro de firmware,1,Corrigido
+PRB0141,INC0129,Conexão instável,6,Corrigido
+PRB0142,INC0041,Manutenção mal sucedida,7,Identificado
+PRB0143,INC0240,Sobrecarga elétrica,8,Corrigido
+PRB0144,INC0392,Conexão instável,8,Investigando
+PRB0145,INC0422,Sobrecarga elétrica,5,Corrigido
+PRB0146,INC0477,Manutenção mal sucedida,4,Investigando
+PRB0147,INC0233,Sobrecarga elétrica,5,Corrigido
+PRB0148,INC0380,Manutenção mal sucedida,9,Corrigido
+PRB0149,INC0273,Erro de firmware,1,Investigando
+PRB0150,INC0326,Manutenção mal sucedida,4,Corrigido
+PRB0151,INC0295,Sobrecarga elétrica,5,Identificado
+PRB0152,INC0409,Conexão instável,2,Identificado
+PRB0153,INC0099,Sobrecarga elétrica,2,Investigando
+PRB0154,INC0331,Manutenção mal sucedida,3,Investigando
+PRB0155,INC0284,Conexão instável,1,Corrigido
+PRB0156,INC0095,Conexão instável,8,Investigando
+PRB0157,INC0442,Manutenção mal sucedida,3,Investigando
+PRB0158,INC0220,Conexão instável,6,Identificado
+PRB0159,INC0172,Manutenção mal sucedida,7,Corrigido
+PRB0160,INC0196,Sobrecarga elétrica,2,Identificado
+PRB0161,INC0140,Conexão instável,3,Corrigido
+PRB0162,INC0286,Sobrecarga elétrica,2,Corrigido
+PRB0163,INC0480,Erro de firmware,8,Identificado
+PRB0164,INC0075,Sobrecarga elétrica,6,Investigando
+PRB0165,INC0166,Sobrecarga elétrica,1,Corrigido
+PRB0166,INC0367,Manutenção mal sucedida,6,Corrigido
+PRB0167,INC0015,Sobrecarga elétrica,2,Identificado
+PRB0168,INC0083,Erro de firmware,9,Investigando
+PRB0169,INC0495,Erro de firmware,9,Investigando
+PRB0170,INC0163,Conexão instável,9,Investigando
+PRB0171,INC0345,Sobrecarga elétrica,6,Identificado
+PRB0172,INC0151,Erro de firmware,9,Identificado
+PRB0173,INC0132,Erro de firmware,7,Investigando
+PRB0174,INC0010,Conexão instável,6,Identificado
+PRB0175,INC0417,Sobrecarga elétrica,7,Identificado
+PRB0176,INC0131,Erro de firmware,3,Corrigido
+PRB0177,INC0133,Manutenção mal sucedida,5,Investigando
+PRB0178,INC0364,Conexão instável,3,Corrigido
+PRB0179,INC0455,Manutenção mal sucedida,2,Identificado
+PRB0180,INC0099,Sobrecarga elétrica,2,Investigando
+PRB0181,INC0026,Manutenção mal sucedida,1,Identificado
+PRB0182,INC0130,Manutenção mal sucedida,7,Investigando
+PRB0183,INC0365,Manutenção mal sucedida,1,Investigando
+PRB0184,INC0030,Manutenção mal sucedida,7,Identificado
+PRB0185,INC0191,Conexão instável,3,Corrigido
+PRB0186,INC0075,Conexão instável,4,Corrigido
+PRB0187,INC0239,Erro de firmware,1,Corrigido
+PRB0188,INC0494,Conexão instável,5,Corrigido
+PRB0189,INC0462,Conexão instável,2,Identificado
+PRB0190,INC0074,Erro de firmware,3,Identificado
+PRB0191,INC0400,Erro de firmware,9,Corrigido
+PRB0192,INC0168,Conexão instável,6,Identificado
+PRB0193,INC0205,Manutenção mal sucedida,4,Corrigido
+PRB0194,INC0211,Manutenção mal sucedida,7,Investigando
+PRB0195,INC0308,Sobrecarga elétrica,7,Corrigido
+PRB0196,INC0444,Sobrecarga elétrica,5,Corrigido
+PRB0197,INC0056,Manutenção mal sucedida,7,Corrigido
+PRB0198,INC0107,Conexão instável,5,Identificado
+PRB0199,INC0426,Conexão instável,5,Corrigido
+PRB0200,INC0135,Manutenção mal sucedida,7,Identificado
