@@ -1,5 +1,201 @@
 RootCause,Ocorrencias_anteriores,Tempo_medio_resolucao,Desvio_padrao,Prioridade_resolucao
-Conexão instável,30,4.2,1.1,Alta
-Erro de firmware,15,6.8,1.5,Média
-Sobrecarga elétrica,12,5.1,1.2,Alta
-Manutenção mal sucedida,7,7.3,0.8,Baixa
+Cabo rompido,56,3.83,0.73,Alta
+Curto-circuito,57,5.98,1.4,Média
+Atualização mal aplicada,57,4.63,0.78,Alta
+Atualização mal aplicada,48,4.71,0.53,Média
+Interferência externa,32,5.83,1.07,Baixa
+Falha de roteador,7,4.35,1.79,Média
+Falha de roteador,43,2.46,0.52,Alta
+Cabo rompido,48,7.18,1.24,Alta
+Conexão instável,40,6.35,1.14,Alta
+Manutenção mal sucedida,58,4.44,0.55,Baixa
+Erro de firmware,14,5.83,1.88,Alta
+Cabo rompido,44,6.82,1.77,Média
+Falta de energia,28,3.48,1.31,Alta
+Conexão instável,29,4.18,1.98,Média
+Curto-circuito,28,6.9,1.41,Baixa
+Interferência externa,45,6.52,1.87,Baixa
+Erro de firmware,37,5.23,0.99,Média
+Curto-circuito,26,4.88,1.83,Alta
+Falta de energia,51,6.96,1.34,Média
+Cabo rompido,31,6.69,1.28,Alta
+Interferência externa,17,5.73,1.21,Média
+Manutenção mal sucedida,34,5.33,0.71,Média
+Manutenção mal sucedida,17,5.18,0.74,Baixa
+Falha de roteador,57,4.86,1.81,Baixa
+Manutenção mal sucedida,34,4.98,0.68,Alta
+Conexão instável,5,6.63,0.84,Alta
+Manutenção mal sucedida,17,1.52,0.83,Alta
+Curto-circuito,19,6.02,0.75,Alta
+Curto-circuito,45,4.51,0.88,Alta
+Cabo rompido,6,5.28,1.57,Alta
+Curto-circuito,21,4.84,1.02,Média
+Erro de firmware,57,5.37,1.23,Baixa
+Cabo rompido,8,5.18,0.86,Baixa
+Falta de energia,56,4.47,1.98,Alta
+Conexão instável,13,4.01,0.56,Média
+Manutenção mal sucedida,23,4.65,1.57,Baixa
+Manutenção mal sucedida,36,6.14,1.76,Média
+Falha de roteador,29,1.8,0.81,Média
+Interferência externa,39,4.56,1.97,Média
+Conexão instável,6,4.72,1.99,Baixa
+Falta de energia,41,5.28,0.92,Média
+Sobrecarga elétrica,24,5.77,1.83,Média
+Curto-circuito,56,5.84,0.51,Alta
+Sobrecarga elétrica,29,6.77,0.51,Alta
+Erro de firmware,6,7.07,0.84,Média
+Conexão instável,18,7.49,0.99,Média
+Curto-circuito,11,4.06,1.31,Média
+Atualização mal aplicada,59,7.16,0.88,Média
+Atualização mal aplicada,49,6.87,1.15,Alta
+Conexão instável,32,5.46,1.5,Baixa
+Sobrecarga elétrica,8,5.56,0.77,Baixa
+Falta de energia,10,5.29,1.06,Alta
+Curto-circuito,33,6.21,1.95,Baixa
+Falta de energia,36,5.39,1.78,Alta
+Erro de firmware,29,7.14,1.9,Alta
+Erro de firmware,36,5.0,1.51,Alta
+Interferência externa,6,6.82,0.7,Média
+Cabo rompido,33,4.83,0.94,Alta
+Erro de firmware,29,4.4,0.51,Média
+Manutenção mal sucedida,5,5.79,0.61,Alta
+Sobrecarga elétrica,27,5.6,1.16,Média
+Sobrecarga elétrica,29,4.89,0.73,Baixa
+Atualização mal aplicada,26,6.03,0.99,Baixa
+Falta de energia,43,2.68,0.63,Alta
+Manutenção mal sucedida,34,8.72,1.59,Baixa
+Interferência externa,34,6.45,0.56,Alta
+Sobrecarga elétrica,32,4.21,0.78,Alta
+Falha de roteador,16,6.76,1.11,Alta
+Conexão instável,51,5.98,1.57,Média
+Falta de energia,5,3.08,1.93,Média
+Falta de energia,26,3.72,0.68,Alta
+Falta de energia,51,5.84,0.56,Baixa
+Manutenção mal sucedida,9,4.11,1.24,Alta
+Conexão instável,34,5.41,1.47,Alta
+Atualização mal aplicada,9,5.01,0.52,Baixa
+Conexão instável,9,6.29,1.53,Média
+Cabo rompido,6,5.6,1.91,Média
+Erro de firmware,39,4.92,1.46,Alta
+Sobrecarga elétrica,47,5.27,1.94,Baixa
+Erro de firmware,55,6.38,1.43,Alta
+Interferência externa,12,7.83,1.01,Alta
+Cabo rompido,8,4.03,1.54,Alta
+Curto-circuito,40,6.17,1.32,Alta
+Curto-circuito,39,5.38,1.99,Alta
+Erro de firmware,53,4.5,1.9,Baixa
+Conexão instável,59,7.24,1.63,Média
+Falha de roteador,34,5.52,1.74,Alta
+Sobrecarga elétrica,53,6.9,0.58,Baixa
+Sobrecarga elétrica,16,6.09,1.52,Alta
+Interferência externa,51,5.31,0.62,Alta
+Falha de roteador,56,7.24,1.69,Média
+Falta de energia,46,6.69,1.96,Baixa
+Interferência externa,9,5.99,1.56,Baixa
+Falha de roteador,14,8.01,1.76,Baixa
+Atualização mal aplicada,11,3.34,1.09,Baixa
+Erro de firmware,9,4.92,1.27,Alta
+Curto-circuito,52,5.93,1.39,Alta
+Sobrecarga elétrica,48,5.22,1.34,Alta
+Interferência externa,23,5.47,0.52,Alta
+Interferência externa,24,4.0,0.68,Alta
+Falha de roteador,43,6.28,1.94,Alta
+Conexão instável,29,7.8,1.8,Alta
+Atualização mal aplicada,48,5.57,0.98,Alta
+Falta de energia,15,6.08,1.88,Alta
+Sobrecarga elétrica,24,4.45,1.99,Média
+Sobrecarga elétrica,20,4.05,1.61,Baixa
+Interferência externa,36,5.29,0.66,Alta
+Interferência externa,32,4.6,1.47,Alta
+Erro de firmware,32,2.63,1.72,Média
+Sobrecarga elétrica,10,6.04,1.92,Média
+Falha de roteador,6,3.65,1.12,Média
+Erro de firmware,36,5.78,1.98,Alta
+Interferência externa,29,5.33,1.12,Alta
+Cabo rompido,10,7.36,1.54,Média
+Falta de energia,42,5.75,1.59,Média
+Sobrecarga elétrica,21,6.71,0.86,Alta
+Conexão instável,55,4.19,1.82,Média
+Erro de firmware,32,4.49,0.9,Alta
+Interferência externa,38,7.41,0.96,Baixa
+Falta de energia,34,5.36,1.81,Alta
+Cabo rompido,19,6.39,1.71,Baixa
+Erro de firmware,42,7.32,1.41,Média
+Sobrecarga elétrica,38,5.8,1.68,Alta
+Cabo rompido,46,2.24,1.79,Baixa
+Manutenção mal sucedida,14,5.48,0.89,Alta
+Erro de firmware,10,6.69,1.24,Alta
+Sobrecarga elétrica,51,3.85,1.02,Baixa
+Sobrecarga elétrica,31,6.23,1.5,Alta
+Interferência externa,55,4.28,0.63,Alta
+Falha de roteador,16,4.66,0.81,Alta
+Interferência externa,49,4.56,1.22,Média
+Curto-circuito,34,5.09,0.74,Alta
+Conexão instável,30,5.77,1.3,Baixa
+Interferência externa,32,5.55,1.05,Alta
+Interferência externa,18,6.8,1.62,Alta
+Erro de firmware,42,6.21,1.3,Alta
+Falha de roteador,59,5.22,0.98,Alta
+Interferência externa,48,5.43,0.85,Alta
+Falha de roteador,8,7.51,1.22,Média
+Atualização mal aplicada,38,3.54,1.34,Média
+Sobrecarga elétrica,46,4.19,1.47,Média
+Curto-circuito,49,3.43,1.0,Baixa
+Falta de energia,26,4.57,1.23,Baixa
+Curto-circuito,59,3.61,1.76,Alta
+Curto-circuito,41,6.09,1.8,Baixa
+Conexão instável,34,5.37,0.76,Média
+Falha de roteador,6,8.56,0.92,Média
+Atualização mal aplicada,30,7.93,0.99,Alta
+Conexão instável,24,4.81,1.42,Alta
+Falta de energia,15,5.04,1.9,Alta
+Sobrecarga elétrica,37,4.38,1.32,Média
+Erro de firmware,17,2.29,1.53,Alta
+Falta de energia,13,6.29,1.21,Alta
+Conexão instável,9,7.66,1.75,Baixa
+Falta de energia,15,5.63,1.36,Baixa
+Curto-circuito,15,5.27,1.69,Alta
+Sobrecarga elétrica,25,4.64,1.45,Baixa
+Falha de roteador,49,4.48,1.38,Média
+Curto-circuito,43,6.33,1.44,Média
+Conexão instável,29,5.94,1.03,Alta
+Erro de firmware,18,2.07,1.0,Média
+Interferência externa,56,7.65,1.69,Média
+Manutenção mal sucedida,34,5.77,0.73,Alta
+Falta de energia,31,5.87,1.62,Alta
+Atualização mal aplicada,6,6.22,1.01,Baixa
+Manutenção mal sucedida,49,6.0,0.69,Alta
+Curto-circuito,9,1.64,1.66,Alta
+Sobrecarga elétrica,55,4.92,1.35,Média
+Falta de energia,24,2.83,1.19,Baixa
+Interferência externa,17,7.74,0.71,Alta
+Conexão instável,51,6.47,0.65,Baixa
+Falta de energia,41,7.85,1.56,Alta
+Interferência externa,13,7.89,1.9,Baixa
+Cabo rompido,5,4.73,0.67,Baixa
+Manutenção mal sucedida,58,4.79,0.97,Alta
+Falta de energia,51,6.93,0.58,Alta
+Manutenção mal sucedida,57,4.13,1.12,Baixa
+Atualização mal aplicada,6,5.87,1.2,Alta
+Conexão instável,47,6.21,0.75,Alta
+Conexão instável,53,3.21,1.67,Alta
+Interferência externa,32,5.62,1.96,Alta
+Manutenção mal sucedida,58,3.27,1.79,Média
+Curto-circuito,53,3.91,1.1,Alta
+Curto-circuito,23,3.82,1.02,Alta
+Conexão instável,49,7.13,1.38,Alta
+Sobrecarga elétrica,51,4.91,1.29,Média
+Conexão instável,54,7.89,0.65,Alta
+Cabo rompido,43,5.47,1.63,Alta
+Sobrecarga elétrica,50,7.62,1.97,Baixa
+Cabo rompido,33,5.69,1.11,Média
+Sobrecarga elétrica,28,5.54,1.39,Alta
+Falta de energia,7,3.38,1.83,Média
+Curto-circuito,38,7.37,1.94,Baixa
+Atualização mal aplicada,25,6.13,1.11,Alta
+Erro de firmware,11,7.54,1.77,Alta
+Sobrecarga elétrica,40,6.65,1.46,Média
+Conexão instável,51,3.25,1.74,Alta
+Cabo rompido,16,7.21,1.75,Alta
+Falha de roteador,38,4.95,1.96,Média
+Conexão instável,14,6.21,1.35,Baixa
