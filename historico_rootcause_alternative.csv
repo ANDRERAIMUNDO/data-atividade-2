@@ -1,2001 +1,2001 @@
 RootCause,Ocorrencias_anteriores,Tempo_medio_resolucao,Desvio_padrao,Prioridade_resolucao
-Curto-circuito,8,5.8,0.4,Alta
-Manutenção mal sucedida,15,2.1,0.6,Alta
-Falta de energia,8,4.3,0.9,Baixa
-Falha de roteador,9,7.6,0.6,Alta
-Cabo rompido,4,3.8,0.7,Alta
-Cabo rompido,15,4.1,1.0,Média
-Atualização mal aplicada,10,4.3,0.6,Baixa
-Interferência externa,18,3.2,0.7,Média
-Falha de roteador,16,1.7,0.6,Alta
-Falta de energia,9,4.7,0.6,Média
-Atualização mal aplicada,7,5.2,0.8,Média
-Manutenção mal sucedida,7,4.9,1.0,Média
-Interferência externa,11,4.8,0.7,Média
-Cabo rompido,5,5.1,0.8,Baixa
-Cabo rompido,7,6.5,0.4,Baixa
-Cabo rompido,14,4.7,0.4,Média
-Conexão instável,10,4.1,0.7,Média
-Erro de firmware,10,4.6,0.3,Média
-Curto-circuito,10,5.9,0.5,Baixa
-Conexão instável,10,7.1,0.7,Alta
-Falha de roteador,11,4.1,0.3,Baixa
-Cabo rompido,4,5.1,0.5,Alta
-Conexão instável,13,5.5,0.7,Média
-Curto-circuito,7,3.5,0.7,Baixa
-Erro de firmware,6,5.0,0.9,Alta
-Interferência externa,13,2.8,0.8,Média
-Cabo rompido,7,2.3,0.6,Alta
-Erro de firmware,10,5.6,1.0,Alta
-Falha de roteador,10,4.4,0.8,Alta
-Atualização mal aplicada,5,5.3,0.4,Alta
-Falha de roteador,13,5.0,0.4,Alta
-Cabo rompido,7,3.5,0.8,Baixa
-Atualização mal aplicada,8,4.9,0.7,Baixa
-Manutenção mal sucedida,11,3.2,0.9,Alta
-Manutenção mal sucedida,13,7.1,0.8,Média
-Interferência externa,15,3.0,0.7,Alta
-Conexão instável,6,4.7,1.0,Alta
-Atualização mal aplicada,13,3.4,0.7,Alta
-Falta de energia,6,5.9,0.4,Baixa
-Curto-circuito,7,4.5,0.9,Baixa
-Cabo rompido,11,4.2,0.5,Alta
-Erro de firmware,9,6.3,0.8,Alta
-Atualização mal aplicada,5,5.0,1.0,Alta
-Manutenção mal sucedida,13,5.8,0.8,Média
-Conexão instável,19,3.5,0.7,Média
-Falha de roteador,11,2.9,0.6,Alta
-Conexão instável,14,5.2,0.6,Média
-Erro de firmware,6,4.5,0.5,Alta
-Erro de firmware,11,5.9,0.7,Baixa
-Cabo rompido,7,4.9,0.8,Média
-Manutenção mal sucedida,13,5.3,0.8,Média
-Falta de energia,12,2.6,0.4,Média
-Manutenção mal sucedida,10,7.8,0.6,Baixa
-Manutenção mal sucedida,10,4.8,0.9,Alta
-Falha de roteador,10,6.0,0.6,Alta
-Manutenção mal sucedida,8,3.7,0.7,Baixa
-Atualização mal aplicada,5,5.5,0.8,Alta
-Cabo rompido,6,3.0,0.8,Alta
-Atualização mal aplicada,9,5.7,0.6,Média
-Conexão instável,11,4.5,0.9,Baixa
-Curto-circuito,8,5.0,0.4,Média
-Conexão instável,11,6.0,1.0,Baixa
-Interferência externa,12,3.2,0.4,Média
-Curto-circuito,12,4.0,0.3,Alta
-Conexão instável,8,5.7,0.9,Média
-Erro de firmware,12,8.1,0.5,Média
-Cabo rompido,8,4.8,0.8,Alta
-Interferência externa,13,5.9,0.9,Alta
-Atualização mal aplicada,12,4.8,0.9,Alta
-Manutenção mal sucedida,5,7.9,1.0,Média
-Falta de energia,10,2.4,0.5,Baixa
-Cabo rompido,10,5.1,0.8,Média
-Atualização mal aplicada,21,2.6,0.4,Baixa
-Interferência externa,9,1.2,0.6,Alta
-Falta de energia,8,5.4,0.9,Baixa
-Falta de energia,8,5.2,0.6,Baixa
-Falta de energia,12,4.6,0.7,Alta
-Atualização mal aplicada,14,4.8,0.7,Baixa
-Curto-circuito,14,9.6,0.8,Alta
-Cabo rompido,12,4.6,1.0,Baixa
-Interferência externa,5,5.8,0.3,Baixa
-Falha de roteador,8,4.0,0.7,Média
-Conexão instável,8,5.4,0.9,Média
-Atualização mal aplicada,12,4.6,0.6,Alta
-Conexão instável,12,4.4,0.4,Média
-Conexão instável,15,7.7,0.7,Alta
-Falta de energia,4,6.8,0.5,Média
-Falha de roteador,13,5.2,0.4,Média
-Interferência externa,14,1.5,0.9,Baixa
-Erro de firmware,11,4.5,0.7,Alta
-Cabo rompido,14,9.1,1.0,Baixa
-Falta de energia,10,4.7,0.9,Baixa
-Falta de energia,8,6.7,0.8,Média
-Falha de roteador,13,7.2,0.3,Alta
-Falta de energia,15,5.3,0.6,Alta
-Erro de firmware,11,3.7,0.4,Alta
-Erro de firmware,11,1.3,0.9,Média
-Curto-circuito,7,6.0,0.4,Média
-Atualização mal aplicada,5,3.8,0.5,Baixa
-Atualização mal aplicada,10,5.3,0.7,Alta
-Atualização mal aplicada,17,3.1,0.5,Alta
-Falha de roteador,12,4.6,0.4,Média
-Conexão instável,11,5.1,0.7,Baixa
-Erro de firmware,7,5.4,0.4,Baixa
-Manutenção mal sucedida,10,3.3,0.3,Baixa
-Conexão instável,6,6.8,0.6,Média
-Curto-circuito,10,4.1,0.8,Média
-Falta de energia,11,2.5,0.7,Baixa
-Conexão instável,7,4.8,0.6,Média
-Atualização mal aplicada,7,5.1,0.7,Alta
-Conexão instável,5,5.2,0.6,Alta
-Cabo rompido,13,7.0,1.0,Alta
-Manutenção mal sucedida,10,4.6,0.3,Média
-Interferência externa,16,4.8,0.8,Alta
-Falha de roteador,5,3.3,0.9,Alta
-Interferência externa,5,6.2,0.9,Alta
-Interferência externa,10,5.3,0.4,Média
-Cabo rompido,10,4.4,0.5,Alta
-Manutenção mal sucedida,8,2.1,0.8,Média
-Erro de firmware,9,7.2,0.4,Alta
-Interferência externa,15,3.2,0.9,Alta
-Manutenção mal sucedida,11,4.1,0.8,Média
-Conexão instável,13,5.5,0.8,Alta
-Atualização mal aplicada,11,3.2,0.4,Alta
-Conexão instável,7,2.8,0.8,Alta
-Curto-circuito,11,1.8,0.8,Baixa
-Interferência externa,5,6.1,0.9,Média
-Interferência externa,10,4.2,0.3,Alta
-Atualização mal aplicada,6,9.4,0.3,Alta
-Erro de firmware,13,3.5,0.6,Baixa
-Curto-circuito,4,3.6,0.4,Média
-Cabo rompido,16,4.2,0.7,Média
-Cabo rompido,12,5.4,0.9,Média
-Curto-circuito,11,4.3,0.6,Média
-Manutenção mal sucedida,12,5.9,0.9,Média
-Conexão instável,15,3.5,0.3,Média
-Erro de firmware,10,2.9,0.4,Média
-Falta de energia,8,2.3,0.3,Alta
-Curto-circuito,11,1.7,0.5,Baixa
-Manutenção mal sucedida,6,4.2,0.9,Média
-Manutenção mal sucedida,8,4.5,0.4,Alta
-Conexão instável,11,4.1,0.7,Baixa
-Erro de firmware,12,6.9,0.6,Baixa
-Conexão instável,12,6.8,1.0,Baixa
-Conexão instável,8,4.5,0.4,Baixa
-Atualização mal aplicada,9,2.3,0.4,Baixa
-Falha de roteador,15,4.1,0.3,Alta
-Erro de firmware,8,4.1,0.6,Baixa
-Atualização mal aplicada,9,4.0,0.5,Baixa
-Conexão instável,12,4.0,0.9,Alta
-Manutenção mal sucedida,9,4.0,0.7,Alta
-Conexão instável,9,4.4,0.7,Baixa
-Cabo rompido,15,4.0,0.7,Alta
-Erro de firmware,6,5.3,0.4,Baixa
-Manutenção mal sucedida,11,5.5,0.6,Alta
-Conexão instável,8,3.6,1.0,Alta
-Falta de energia,9,6.9,0.9,Média
-Falta de energia,12,3.5,0.9,Alta
-Conexão instável,9,2.6,0.9,Média
-Falta de energia,12,5.6,0.4,Média
-Curto-circuito,10,3.8,0.5,Alta
-Falha de roteador,9,5.5,0.3,Alta
-Falha de roteador,6,1.4,0.5,Alta
-Erro de firmware,13,7.1,0.4,Alta
-Atualização mal aplicada,8,6.0,0.6,Média
-Interferência externa,8,2.7,0.8,Média
-Conexão instável,11,2.8,0.9,Alta
-Cabo rompido,18,7.5,0.8,Média
-Atualização mal aplicada,9,3.9,1.0,Alta
-Falha de roteador,10,3.7,0.3,Alta
-Falta de energia,10,1.6,0.3,Alta
-Atualização mal aplicada,9,4.5,0.8,Baixa
-Erro de firmware,7,4.7,0.5,Baixa
-Conexão instável,10,6.1,0.5,Baixa
-Falha de roteador,11,2.9,0.5,Alta
-Cabo rompido,9,2.7,0.5,Alta
-Falta de energia,10,5.7,0.7,Média
-Curto-circuito,11,6.5,0.6,Média
-Manutenção mal sucedida,11,2.6,0.7,Baixa
-Cabo rompido,9,6.6,0.8,Alta
-Curto-circuito,10,5.1,0.6,Alta
-Cabo rompido,15,6.6,0.5,Média
-Manutenção mal sucedida,10,4.9,0.4,Baixa
-Interferência externa,6,1.2,0.5,Baixa
-Conexão instável,6,4.8,0.8,Média
-Falha de roteador,8,6.6,0.8,Baixa
-Interferência externa,16,3.7,0.8,Média
-Erro de firmware,10,4.4,0.5,Baixa
-Erro de firmware,11,4.7,0.7,Baixa
-Conexão instável,8,0.7,0.7,Baixa
-Atualização mal aplicada,13,7.5,0.6,Alta
-Manutenção mal sucedida,10,3.6,0.7,Alta
-Manutenção mal sucedida,13,5.8,0.6,Média
-Falha de roteador,7,4.9,0.7,Média
-Curto-circuito,14,6.9,0.8,Baixa
-Curto-circuito,9,5.6,0.4,Alta
-Falta de energia,12,4.6,0.8,Alta
-Manutenção mal sucedida,12,3.7,0.4,Média
-Interferência externa,8,6.2,0.3,Alta
-Interferência externa,13,2.2,1.0,Alta
-Falha de roteador,8,6.0,1.0,Alta
-Atualização mal aplicada,12,3.4,0.3,Média
-Cabo rompido,11,6.9,0.6,Alta
-Manutenção mal sucedida,14,5.2,0.4,Baixa
-Falha de roteador,5,6.0,0.6,Média
-Atualização mal aplicada,4,5.1,0.9,Baixa
-Atualização mal aplicada,9,2.4,1.0,Média
-Falha de roteador,8,3.7,0.7,Alta
-Atualização mal aplicada,10,6.0,0.5,Alta
-Cabo rompido,4,5.2,0.7,Alta
-Erro de firmware,3,6.8,0.5,Média
-Falta de energia,9,5.6,0.9,Alta
-Falha de roteador,7,3.5,0.9,Alta
-Conexão instável,9,3.8,0.7,Média
-Falta de energia,8,5.2,0.5,Alta
-Conexão instável,7,1.5,0.5,Alta
-Conexão instável,9,7.5,0.3,Média
-Falta de energia,6,5.7,0.9,Baixa
-Falha de roteador,10,6.8,0.6,Alta
-Interferência externa,11,2.6,0.5,Alta
-Falha de roteador,7,6.9,0.6,Baixa
-Falha de roteador,10,8.3,0.9,Alta
-Atualização mal aplicada,6,3.0,0.4,Baixa
-Curto-circuito,8,6.2,0.9,Alta
-Conexão instável,8,5.0,0.9,Baixa
-Conexão instável,11,2.7,1.0,Alta
-Manutenção mal sucedida,12,5.7,0.6,Baixa
-Curto-circuito,3,6.3,0.5,Alta
-Manutenção mal sucedida,12,4.1,0.6,Média
-Falha de roteador,14,6.7,0.5,Alta
-Interferência externa,7,2.5,0.4,Alta
-Erro de firmware,8,2.8,0.7,Média
-Falha de roteador,9,5.2,0.6,Média
-Erro de firmware,14,5.0,0.9,Baixa
-Cabo rompido,9,3.9,0.3,Média
-Falta de energia,5,6.2,0.8,Baixa
-Conexão instável,10,5.8,0.8,Média
-Atualização mal aplicada,11,6.3,0.8,Baixa
-Falha de roteador,12,4.8,0.9,Baixa
-Cabo rompido,17,5.9,0.8,Alta
-Manutenção mal sucedida,8,4.3,0.9,Baixa
-Manutenção mal sucedida,13,8.1,0.5,Baixa
-Manutenção mal sucedida,3,3.8,0.7,Alta
-Curto-circuito,17,8.2,0.3,Média
-Atualização mal aplicada,9,5.1,0.3,Alta
-Manutenção mal sucedida,7,2.9,0.5,Baixa
-Curto-circuito,9,7.1,0.4,Alta
-Manutenção mal sucedida,13,5.2,0.5,Alta
-Manutenção mal sucedida,7,6.3,0.4,Média
-Interferência externa,10,6.8,0.3,Média
-Conexão instável,7,5.5,0.9,Baixa
-Curto-circuito,11,4.1,0.3,Baixa
-Interferência externa,6,6.5,0.8,Média
-Conexão instável,12,5.0,0.4,Alta
-Cabo rompido,11,6.0,0.9,Média
-Falha de roteador,12,1.8,0.9,Média
-Manutenção mal sucedida,15,5.7,0.8,Média
-Falta de energia,9,4.0,0.8,Alta
-Falha de roteador,5,7.5,0.3,Média
-Atualização mal aplicada,8,5.9,1.0,Alta
-Falha de roteador,8,5.4,0.9,Média
-Manutenção mal sucedida,6,5.7,0.9,Média
-Cabo rompido,10,3.5,0.8,Baixa
-Erro de firmware,10,7.4,0.5,Média
-Interferência externa,18,8.0,0.9,Alta
-Falta de energia,12,5.6,0.5,Baixa
-Falta de energia,6,7.4,0.7,Média
-Falta de energia,6,4.1,0.4,Alta
-Curto-circuito,13,3.8,0.9,Média
-Conexão instável,8,5.1,0.4,Alta
-Interferência externa,14,5.7,0.5,Baixa
-Interferência externa,13,4.4,0.7,Média
-Interferência externa,9,5.8,0.8,Média
-Manutenção mal sucedida,4,5.5,0.7,Alta
-Erro de firmware,7,3.5,0.5,Alta
-Erro de firmware,12,5.8,0.3,Baixa
-Interferência externa,16,6.3,0.8,Baixa
-Falha de roteador,18,5.3,1.0,Alta
-Falta de energia,9,6.7,0.9,Alta
-Interferência externa,7,3.2,0.6,Alta
-Manutenção mal sucedida,11,5.7,0.9,Média
-Curto-circuito,11,3.2,0.6,Média
-Curto-circuito,13,3.3,0.7,Média
-Atualização mal aplicada,9,4.1,0.6,Média
-Falha de roteador,7,3.6,0.6,Baixa
-Atualização mal aplicada,15,4.2,0.8,Média
-Erro de firmware,10,4.7,0.7,Alta
-Erro de firmware,12,6.3,0.5,Média
-Conexão instável,6,4.5,0.5,Baixa
-Falha de roteador,11,2.6,0.3,Média
-Atualização mal aplicada,10,6.7,0.7,Média
-Atualização mal aplicada,10,3.7,0.5,Média
-Interferência externa,4,4.9,0.4,Baixa
-Curto-circuito,13,5.7,0.8,Média
-Cabo rompido,10,5.3,0.8,Alta
-Erro de firmware,9,6.6,0.8,Baixa
-Falta de energia,14,5.7,0.7,Baixa
-Cabo rompido,18,3.7,0.9,Alta
-Falha de roteador,11,8.3,1.0,Média
-Atualização mal aplicada,9,5.3,0.9,Média
-Atualização mal aplicada,16,4.8,0.7,Alta
-Erro de firmware,13,6.4,0.5,Baixa
-Erro de firmware,10,5.4,1.0,Média
-Falha de roteador,7,5.6,0.5,Baixa
-Falta de energia,12,8.7,0.4,Alta
-Manutenção mal sucedida,11,4.6,0.6,Média
-Erro de firmware,10,4.5,0.3,Alta
-Conexão instável,16,5.2,1.0,Média
-Interferência externa,11,6.6,0.7,Média
-Conexão instável,8,2.7,0.7,Média
-Curto-circuito,12,2.1,0.8,Alta
-Atualização mal aplicada,9,4.1,0.6,Alta
-Atualização mal aplicada,10,2.5,0.3,Alta
-Manutenção mal sucedida,5,4.4,0.7,Alta
-Interferência externa,9,5.8,0.8,Média
-Falta de energia,13,3.7,0.6,Média
-Curto-circuito,9,2.9,0.8,Média
-Cabo rompido,11,5.1,0.5,Média
-Cabo rompido,13,6.3,0.5,Alta
-Conexão instável,11,2.5,0.4,Alta
-Erro de firmware,11,6.2,0.6,Alta
-Falta de energia,5,6.2,0.9,Baixa
-Falha de roteador,7,6.4,0.9,Média
-Conexão instável,2,6.8,0.6,Alta
-Manutenção mal sucedida,14,8.3,0.7,Alta
-Falta de energia,17,4.5,0.8,Baixa
-Erro de firmware,9,5.2,0.5,Média
-Falha de roteador,10,4.4,0.4,Média
-Curto-circuito,8,5.0,1.0,Média
-Conexão instável,15,7.3,0.7,Alta
-Curto-circuito,13,3.0,1.0,Baixa
-Falta de energia,10,3.7,0.5,Média
-Atualização mal aplicada,11,7.1,0.8,Alta
-Cabo rompido,8,6.5,0.5,Baixa
-Atualização mal aplicada,7,4.5,0.5,Média
-Atualização mal aplicada,10,6.3,0.7,Alta
-Interferência externa,8,5.5,0.5,Média
-Falta de energia,13,7.3,0.4,Alta
-Erro de firmware,10,5.1,0.5,Alta
-Atualização mal aplicada,9,6.5,0.3,Média
-Erro de firmware,6,9.0,0.8,Alta
-Erro de firmware,10,5.9,0.6,Baixa
-Cabo rompido,20,5.1,0.4,Baixa
-Curto-circuito,8,6.1,0.4,Alta
-Curto-circuito,7,4.5,0.4,Média
-Falha de roteador,7,8.6,0.7,Baixa
-Falha de roteador,9,5.3,0.4,Média
-Atualização mal aplicada,8,4.6,0.8,Média
-Curto-circuito,13,3.7,0.3,Alta
-Falha de roteador,9,6.6,0.5,Média
-Erro de firmware,13,6.3,0.9,Média
-Interferência externa,11,4.3,0.8,Baixa
-Falha de roteador,12,5.9,0.4,Alta
-Cabo rompido,13,2.7,0.9,Baixa
-Atualização mal aplicada,17,5.3,0.6,Alta
-Falha de roteador,8,5.7,0.9,Baixa
-Atualização mal aplicada,8,7.6,0.7,Média
-Falha de roteador,13,3.8,0.8,Média
-Manutenção mal sucedida,10,3.1,1.0,Média
-Falha de roteador,9,3.7,0.5,Alta
-Curto-circuito,13,3.0,0.7,Alta
-Falha de roteador,12,7.0,0.6,Alta
-Erro de firmware,15,7.3,0.3,Alta
-Erro de firmware,8,5.5,0.3,Alta
-Manutenção mal sucedida,7,6.8,0.4,Média
-Curto-circuito,12,5.2,0.8,Média
-Manutenção mal sucedida,17,4.9,0.7,Alta
-Manutenção mal sucedida,9,4.5,0.7,Baixa
-Cabo rompido,9,4.5,0.3,Média
-Atualização mal aplicada,14,2.7,0.6,Baixa
-Atualização mal aplicada,9,5.4,0.9,Média
-Atualização mal aplicada,10,4.9,0.6,Alta
-Atualização mal aplicada,6,6.1,0.7,Média
-Falta de energia,6,5.1,0.8,Média
-Atualização mal aplicada,8,4.8,0.8,Alta
-Conexão instável,7,3.7,0.7,Alta
-Interferência externa,11,5.1,0.9,Alta
-Atualização mal aplicada,15,6.1,0.6,Alta
-Interferência externa,12,3.3,0.9,Média
-Conexão instável,10,5.1,0.5,Média
-Cabo rompido,8,5.3,0.5,Alta
-Falta de energia,11,3.9,0.3,Média
-Falha de roteador,12,4.1,0.9,Média
-Interferência externa,8,5.3,0.6,Alta
-Falta de energia,12,3.3,0.5,Alta
-Interferência externa,12,5.5,0.5,Alta
-Conexão instável,7,3.7,0.9,Alta
-Cabo rompido,12,6.6,0.9,Alta
-Falta de energia,8,8.5,0.7,Alta
-Interferência externa,4,3.7,0.7,Média
-Manutenção mal sucedida,5,5.8,0.6,Média
-Curto-circuito,12,3.9,0.6,Alta
-Curto-circuito,9,6.6,0.9,Alta
-Falta de energia,9,3.1,0.4,Média
-Curto-circuito,7,5.7,0.6,Baixa
-Manutenção mal sucedida,8,3.7,0.5,Média
-Interferência externa,11,4.7,0.6,Média
-Curto-circuito,8,3.5,0.6,Alta
-Falta de energia,11,6.2,0.7,Alta
-Falta de energia,11,3.7,0.4,Baixa
-Atualização mal aplicada,7,5.8,0.7,Alta
-Manutenção mal sucedida,12,4.5,0.5,Baixa
-Erro de firmware,8,4.8,0.4,Média
-Interferência externa,17,5.2,0.3,Média
-Conexão instável,7,3.9,0.8,Alta
-Manutenção mal sucedida,12,5.3,0.6,Média
-Curto-circuito,9,7.3,0.7,Média
-Atualização mal aplicada,11,3.8,0.8,Alta
-Manutenção mal sucedida,9,6.8,0.8,Alta
-Atualização mal aplicada,7,7.2,0.6,Baixa
-Conexão instável,21,3.8,0.6,Média
-Manutenção mal sucedida,5,2.8,0.6,Média
-Manutenção mal sucedida,15,5.5,0.7,Alta
-Falha de roteador,7,4.2,0.6,Média
-Falha de roteador,12,7.8,0.9,Média
-Erro de firmware,11,5.1,0.9,Média
-Conexão instável,11,3.8,0.4,Média
-Conexão instável,12,3.3,0.4,Média
-Falta de energia,7,6.6,0.7,Média
-Falta de energia,12,4.1,0.5,Alta
-Interferência externa,7,5.1,0.3,Baixa
-Interferência externa,8,6.4,0.9,Média
-Atualização mal aplicada,4,4.3,0.5,Alta
-Erro de firmware,12,4.9,1.0,Média
-Atualização mal aplicada,12,5.0,0.8,Baixa
-Erro de firmware,16,6.0,0.8,Alta
-Curto-circuito,7,5.9,0.4,Alta
-Interferência externa,12,4.7,0.5,Média
-Curto-circuito,10,5.1,0.7,Alta
-Cabo rompido,9,4.4,0.4,Média
-Cabo rompido,11,2.8,0.5,Alta
-Falta de energia,8,5.4,0.5,Média
-Falha de roteador,13,7.8,0.4,Alta
-Atualização mal aplicada,11,3.7,0.4,Alta
-Atualização mal aplicada,12,3.8,0.9,Baixa
-Falta de energia,9,3.7,0.4,Média
-Atualização mal aplicada,16,6.1,0.3,Alta
-Interferência externa,13,5.7,0.7,Alta
-Falta de energia,9,4.8,1.0,Média
-Atualização mal aplicada,8,3.6,0.5,Média
-Atualização mal aplicada,16,5.1,0.4,Baixa
-Manutenção mal sucedida,13,2.7,0.7,Baixa
-Curto-circuito,11,5.2,0.9,Média
-Curto-circuito,6,6.3,0.8,Média
-Interferência externa,4,3.1,0.7,Média
-Manutenção mal sucedida,13,2.7,0.5,Média
-Manutenção mal sucedida,5,7.4,0.7,Alta
-Falta de energia,8,4.1,0.4,Alta
-Curto-circuito,10,6.7,0.8,Alta
-Atualização mal aplicada,9,4.8,0.8,Alta
-Falta de energia,13,4.8,1.0,Alta
-Falha de roteador,17,5.7,0.5,Média
-Curto-circuito,8,3.7,0.3,Média
-Manutenção mal sucedida,16,5.2,0.7,Média
-Cabo rompido,5,4.4,0.8,Alta
-Erro de firmware,10,3.0,0.9,Alta
-Atualização mal aplicada,7,5.5,0.4,Média
-Erro de firmware,9,4.6,0.5,Alta
-Atualização mal aplicada,6,4.8,0.7,Média
-Cabo rompido,7,3.2,0.5,Baixa
-Cabo rompido,6,7.4,0.9,Alta
-Falha de roteador,12,6.3,0.6,Alta
-Falta de energia,10,6.4,0.9,Média
-Falha de roteador,5,4.5,0.7,Baixa
-Manutenção mal sucedida,7,2.4,0.8,Média
-Curto-circuito,5,7.9,0.5,Baixa
-Conexão instável,10,4.9,0.9,Alta
-Interferência externa,7,3.9,0.5,Baixa
-Conexão instável,9,5.6,0.7,Alta
-Manutenção mal sucedida,11,6.8,0.4,Alta
-Atualização mal aplicada,9,5.0,0.6,Baixa
-Manutenção mal sucedida,10,6.9,0.5,Baixa
-Atualização mal aplicada,12,6.6,0.5,Alta
-Manutenção mal sucedida,10,3.4,1.0,Alta
-Erro de firmware,14,4.0,0.4,Alta
-Manutenção mal sucedida,10,6.4,0.9,Alta
-Atualização mal aplicada,11,0.9,1.0,Alta
-Erro de firmware,8,4.8,0.3,Baixa
-Manutenção mal sucedida,12,2.9,0.8,Média
-Erro de firmware,9,4.3,0.5,Média
-Falha de roteador,7,4.6,0.3,Média
-Falta de energia,9,4.5,0.6,Média
-Erro de firmware,13,4.2,1.0,Média
-Falha de roteador,10,3.4,0.3,Média
-Falha de roteador,11,8.4,0.7,Alta
-Manutenção mal sucedida,7,7.8,0.7,Média
-Atualização mal aplicada,12,3.3,0.9,Média
-Conexão instável,14,7.4,0.4,Baixa
-Manutenção mal sucedida,8,4.4,0.8,Baixa
-Manutenção mal sucedida,9,5.2,0.8,Média
-Erro de firmware,10,4.9,0.8,Média
-Falha de roteador,9,4.0,1.0,Alta
-Conexão instável,15,6.5,0.9,Média
-Cabo rompido,9,5.2,0.3,Alta
-Erro de firmware,19,4.3,0.6,Alta
-Curto-circuito,11,3.0,0.6,Alta
-Falha de roteador,9,3.7,0.5,Média
-Atualização mal aplicada,11,2.5,0.6,Alta
-Manutenção mal sucedida,7,5.0,0.6,Baixa
-Manutenção mal sucedida,9,3.2,0.6,Alta
-Falta de energia,9,4.6,1.0,Baixa
-Erro de firmware,12,7.1,0.4,Média
-Conexão instável,12,6.8,0.9,Alta
-Interferência externa,7,5.0,0.6,Alta
-Falta de energia,10,4.9,0.7,Média
-Cabo rompido,10,7.8,0.9,Média
-Manutenção mal sucedida,13,5.8,0.6,Média
-Interferência externa,13,4.5,0.6,Alta
-Manutenção mal sucedida,6,2.9,0.6,Média
-Falta de energia,11,5.6,0.6,Baixa
-Falha de roteador,6,6.2,0.9,Alta
-Curto-circuito,11,4.1,0.9,Média
-Manutenção mal sucedida,15,5.4,0.4,Alta
-Interferência externa,11,4.5,0.4,Média
-Atualização mal aplicada,10,4.7,0.6,Média
-Atualização mal aplicada,8,1.3,0.4,Alta
-Curto-circuito,8,4.7,0.7,Alta
-Interferência externa,7,6.5,0.4,Alta
-Manutenção mal sucedida,15,4.1,0.7,Média
-Cabo rompido,7,5.1,0.3,Média
-Falha de roteador,12,3.9,0.5,Baixa
-Curto-circuito,13,5.5,0.8,Média
-Manutenção mal sucedida,13,4.7,0.6,Alta
-Interferência externa,12,3.6,1.0,Baixa
-Interferência externa,16,7.0,0.9,Média
-Erro de firmware,8,6.4,0.6,Média
-Curto-circuito,7,4.1,0.3,Alta
-Conexão instável,7,5.7,0.9,Alta
-Atualização mal aplicada,8,5.8,0.9,Baixa
-Interferência externa,13,6.0,0.9,Média
-Interferência externa,5,2.5,0.4,Alta
-Manutenção mal sucedida,9,6.5,1.0,Média
-Manutenção mal sucedida,7,4.1,0.5,Baixa
-Erro de firmware,15,4.5,0.8,Alta
-Falta de energia,7,9.0,0.9,Média
-Manutenção mal sucedida,4,5.5,0.5,Baixa
-Interferência externa,12,4.4,0.9,Alta
-Conexão instável,7,1.7,0.5,Média
-Erro de firmware,9,7.1,1.0,Média
-Cabo rompido,13,3.0,0.5,Média
-Manutenção mal sucedida,8,3.5,1.0,Alta
-Falha de roteador,7,4.5,0.3,Alta
-Conexão instável,13,7.1,0.8,Média
-Falta de energia,13,6.2,0.7,Alta
-Falha de roteador,11,4.8,0.6,Média
-Curto-circuito,14,5.5,0.5,Alta
-Cabo rompido,13,4.1,0.8,Alta
-Falta de energia,12,5.2,0.4,Baixa
-Erro de firmware,7,5.1,0.7,Média
-Falta de energia,8,6.5,0.5,Baixa
-Erro de firmware,13,6.5,1.0,Alta
-Interferência externa,11,5.7,0.3,Média
-Erro de firmware,9,4.5,0.4,Alta
-Falha de roteador,12,6.1,0.5,Média
-Interferência externa,16,4.9,0.6,Média
-Curto-circuito,10,3.4,0.5,Alta
-Cabo rompido,12,4.4,0.6,Baixa
-Atualização mal aplicada,8,5.1,0.9,Alta
-Falta de energia,11,6.4,0.8,Média
-Falha de roteador,9,4.7,0.7,Baixa
-Falta de energia,14,3.2,0.4,Baixa
-Cabo rompido,11,5.1,0.8,Baixa
-Cabo rompido,18,5.2,0.4,Alta
-Atualização mal aplicada,10,5.3,0.9,Alta
-Curto-circuito,6,6.4,0.5,Alta
-Falha de roteador,8,6.5,0.6,Média
-Curto-circuito,11,4.1,0.5,Média
-Curto-circuito,9,4.1,0.9,Alta
-Manutenção mal sucedida,5,3.4,0.4,Média
-Curto-circuito,12,6.0,0.7,Alta
-Erro de firmware,7,7.2,0.4,Alta
-Interferência externa,8,4.5,0.8,Média
-Curto-circuito,15,4.6,0.9,Média
-Falha de roteador,14,7.2,0.6,Baixa
-Interferência externa,8,5.8,0.6,Alta
-Manutenção mal sucedida,5,5.7,0.9,Média
-Cabo rompido,4,3.2,0.7,Alta
-Manutenção mal sucedida,7,6.0,0.6,Alta
-Erro de firmware,8,3.6,0.7,Média
-Conexão instável,6,3.3,0.8,Baixa
-Erro de firmware,19,4.5,0.4,Alta
-Manutenção mal sucedida,8,4.1,0.9,Alta
-Erro de firmware,8,4.7,0.6,Média
-Conexão instável,7,2.8,0.4,Alta
-Falha de roteador,7,6.4,0.9,Baixa
-Conexão instável,12,6.7,0.6,Média
-Atualização mal aplicada,7,2.1,0.4,Alta
-Cabo rompido,6,6.5,0.7,Média
-Cabo rompido,14,3.8,0.9,Média
-Cabo rompido,5,6.3,0.9,Alta
-Cabo rompido,8,4.9,1.0,Média
-Falha de roteador,13,5.0,0.9,Alta
-Cabo rompido,11,4.7,0.3,Média
-Curto-circuito,6,6.8,0.6,Alta
-Manutenção mal sucedida,8,3.1,0.9,Baixa
-Erro de firmware,5,5.9,0.6,Alta
-Falta de energia,8,6.7,0.7,Alta
-Cabo rompido,10,6.1,0.7,Baixa
-Cabo rompido,11,8.5,0.6,Alta
-Atualização mal aplicada,8,4.2,0.9,Alta
-Cabo rompido,15,6.4,0.7,Alta
-Conexão instável,7,4.8,0.6,Alta
-Cabo rompido,12,6.9,1.0,Baixa
-Atualização mal aplicada,10,5.0,0.6,Média
-Cabo rompido,9,4.4,0.4,Alta
-Erro de firmware,9,7.0,0.7,Média
-Cabo rompido,9,4.3,0.9,Média
-Curto-circuito,6,2.9,0.8,Baixa
-Erro de firmware,17,4.2,0.9,Alta
-Falta de energia,11,5.9,0.8,Média
-Atualização mal aplicada,10,7.1,0.5,Média
-Interferência externa,7,5.2,0.9,Média
-Falha de roteador,9,7.0,0.9,Média
-Atualização mal aplicada,6,3.0,0.4,Alta
-Interferência externa,7,4.3,0.4,Média
-Manutenção mal sucedida,7,4.6,1.0,Média
-Atualização mal aplicada,13,4.8,0.9,Baixa
-Conexão instável,11,5.1,0.9,Alta
-Interferência externa,9,6.0,0.9,Média
-Falta de energia,9,4.3,0.7,Baixa
-Cabo rompido,10,5.2,0.8,Média
-Cabo rompido,13,4.9,0.7,Baixa
-Curto-circuito,12,3.6,0.3,Baixa
-Erro de firmware,7,4.8,0.8,Alta
-Falha de roteador,13,4.8,0.7,Média
-Curto-circuito,12,4.8,0.8,Alta
-Erro de firmware,10,5.0,0.7,Média
-Falta de energia,5,5.1,0.6,Alta
-Atualização mal aplicada,15,4.4,0.4,Média
-Conexão instável,8,6.9,0.5,Média
-Falta de energia,10,3.2,0.4,Média
-Manutenção mal sucedida,13,3.9,0.4,Alta
-Erro de firmware,10,9.2,1.0,Baixa
-Erro de firmware,13,3.4,0.4,Alta
-Atualização mal aplicada,13,3.0,0.5,Alta
-Erro de firmware,8,6.1,0.7,Alta
-Erro de firmware,10,1.9,0.7,Baixa
-Conexão instável,3,4.6,0.4,Baixa
-Conexão instável,10,8.2,0.9,Média
-Curto-circuito,14,2.7,0.8,Baixa
-Atualização mal aplicada,7,2.0,0.5,Alta
-Conexão instável,12,2.8,0.5,Baixa
-Cabo rompido,11,6.3,1.0,Alta
-Conexão instável,6,6.7,0.9,Alta
-Cabo rompido,13,4.2,0.8,Alta
-Manutenção mal sucedida,12,6.0,0.4,Média
-Falha de roteador,13,7.1,0.6,Média
-Falta de energia,12,7.7,0.7,Alta
-Interferência externa,16,4.6,0.4,Baixa
-Erro de firmware,4,1.5,0.6,Média
-Atualização mal aplicada,13,3.8,0.7,Alta
-Erro de firmware,13,4.4,0.5,Média
-Falha de roteador,8,4.6,0.8,Média
-Falta de energia,16,4.7,0.9,Baixa
-Curto-circuito,11,6.7,0.5,Média
-Cabo rompido,8,6.9,0.9,Média
-Conexão instável,12,4.7,0.4,Alta
-Curto-circuito,12,6.6,0.9,Média
-Falha de roteador,8,5.5,0.4,Baixa
-Falha de roteador,9,5.1,0.4,Alta
-Curto-circuito,8,6.4,0.7,Baixa
-Manutenção mal sucedida,16,5.1,0.6,Média
-Falha de roteador,9,8.1,0.9,Alta
-Conexão instável,4,2.8,0.6,Baixa
-Atualização mal aplicada,6,4.2,0.5,Média
-Cabo rompido,9,4.8,0.7,Alta
-Conexão instável,7,5.7,0.6,Alta
-Cabo rompido,13,6.9,0.5,Alta
-Cabo rompido,13,5.0,0.8,Baixa
-Conexão instável,12,2.9,0.8,Média
-Cabo rompido,9,6.3,0.9,Baixa
-Manutenção mal sucedida,8,6.1,1.0,Alta
-Atualização mal aplicada,8,2.1,0.5,Alta
-Erro de firmware,7,5.0,0.8,Alta
-Curto-circuito,9,2.6,0.6,Média
-Manutenção mal sucedida,6,4.0,0.8,Baixa
-Cabo rompido,10,3.6,0.6,Média
-Curto-circuito,10,6.2,1.0,Alta
-Manutenção mal sucedida,11,5.2,0.8,Baixa
-Interferência externa,6,3.1,1.0,Média
-Interferência externa,10,6.3,0.9,Alta
-Conexão instável,8,2.8,0.9,Baixa
-Cabo rompido,13,5.5,0.9,Alta
-Falta de energia,9,3.8,0.6,Alta
-Manutenção mal sucedida,13,4.5,0.5,Alta
-Falha de roteador,11,5.8,0.6,Média
-Falha de roteador,7,5.8,0.3,Média
-Conexão instável,11,7.0,0.7,Alta
-Falta de energia,10,4.9,0.7,Alta
-Cabo rompido,6,5.5,0.7,Média
-Conexão instável,9,4.3,1.0,Baixa
-Curto-circuito,3,5.3,0.9,Média
-Erro de firmware,12,5.7,0.4,Alta
-Conexão instável,7,4.9,0.6,Alta
-Cabo rompido,7,2.3,0.6,Alta
-Falha de roteador,9,5.5,0.6,Alta
-Conexão instável,13,5.5,0.9,Média
-Falha de roteador,8,4.0,0.7,Média
-Cabo rompido,13,3.1,0.7,Média
-Erro de firmware,7,7.2,0.9,Média
-Erro de firmware,10,5.7,0.9,Alta
-Atualização mal aplicada,14,4.7,0.4,Alta
-Curto-circuito,9,3.3,0.8,Média
-Cabo rompido,13,3.8,0.6,Alta
-Atualização mal aplicada,10,7.0,0.5,Alta
-Manutenção mal sucedida,16,5.2,0.3,Alta
-Conexão instável,16,4.2,0.6,Alta
-Interferência externa,10,5.8,0.5,Alta
-Conexão instável,10,3.8,0.5,Baixa
-Falta de energia,6,7.3,0.8,Baixa
-Falta de energia,19,7.0,0.8,Alta
-Falha de roteador,12,4.3,0.5,Alta
-Erro de firmware,9,4.1,0.3,Média
-Curto-circuito,12,1.1,0.9,Alta
-Curto-circuito,8,2.8,0.3,Alta
-Manutenção mal sucedida,9,3.0,1.0,Alta
-Interferência externa,13,5.2,0.7,Alta
-Manutenção mal sucedida,9,4.5,0.5,Média
-Cabo rompido,5,3.0,0.5,Baixa
-Falta de energia,9,4.6,0.3,Alta
-Manutenção mal sucedida,11,5.8,0.5,Alta
-Cabo rompido,9,5.8,0.4,Alta
-Atualização mal aplicada,10,2.2,0.7,Alta
-Falta de energia,10,4.8,0.4,Baixa
-Falha de roteador,18,2.9,0.7,Média
-Interferência externa,15,6.4,0.7,Média
-Cabo rompido,11,6.2,0.5,Média
-Interferência externa,13,3.7,0.3,Baixa
-Cabo rompido,12,3.9,0.3,Baixa
-Cabo rompido,10,4.3,0.3,Alta
-Cabo rompido,9,1.6,0.8,Alta
-Interferência externa,15,5.5,0.5,Média
-Falha de roteador,14,4.6,0.9,Alta
-Erro de firmware,10,6.5,0.6,Baixa
-Curto-circuito,11,3.4,0.6,Média
-Interferência externa,19,4.1,0.7,Baixa
-Curto-circuito,12,2.7,0.8,Alta
-Interferência externa,17,3.5,0.5,Baixa
-Curto-circuito,13,3.2,0.4,Alta
-Curto-circuito,11,6.5,0.7,Baixa
-Erro de firmware,12,4.0,0.5,Alta
-Conexão instável,16,5.2,0.6,Média
-Falta de energia,11,4.4,0.8,Média
-Erro de firmware,8,3.1,0.6,Média
-Conexão instável,9,4.7,0.7,Média
-Manutenção mal sucedida,6,5.9,0.7,Baixa
-Curto-circuito,5,3.2,0.8,Média
-Erro de firmware,5,6.2,0.8,Média
-Manutenção mal sucedida,12,3.7,0.7,Alta
-Falha de roteador,6,4.3,0.8,Baixa
-Cabo rompido,20,5.8,0.9,Média
-Manutenção mal sucedida,16,4.0,0.6,Média
-Falha de roteador,3,5.1,0.6,Alta
-Curto-circuito,11,4.5,0.8,Média
-Cabo rompido,8,5.2,0.7,Alta
-Interferência externa,11,1.4,0.3,Alta
-Falha de roteador,8,2.3,0.9,Média
-Erro de firmware,8,5.9,0.3,Alta
-Manutenção mal sucedida,9,6.6,0.8,Alta
-Interferência externa,7,3.6,0.8,Média
-Cabo rompido,5,4.6,1.0,Alta
-Conexão instável,8,5.4,0.3,Alta
-Conexão instável,5,6.0,0.7,Alta
-Falta de energia,13,2.0,0.6,Média
-Atualização mal aplicada,10,3.7,0.5,Média
-Falha de roteador,8,4.5,0.4,Média
-Falta de energia,10,6.1,0.7,Alta
-Interferência externa,11,8.7,0.6,Alta
-Curto-circuito,13,4.7,0.4,Alta
-Interferência externa,6,2.9,0.7,Média
-Atualização mal aplicada,9,5.6,0.8,Baixa
-Interferência externa,12,7.0,0.8,Alta
-Cabo rompido,12,5.2,0.9,Alta
-Curto-circuito,11,3.6,0.6,Alta
-Interferência externa,8,6.4,1.0,Média
-Cabo rompido,9,6.0,0.9,Média
-Conexão instável,9,3.5,0.5,Média
-Falta de energia,12,5.6,0.4,Baixa
-Falta de energia,12,6.5,0.6,Média
-Falha de roteador,12,6.8,0.6,Alta
-Falta de energia,14,4.9,0.7,Alta
-Erro de firmware,10,4.5,0.7,Média
-Conexão instável,9,6.8,0.8,Média
-Curto-circuito,8,3.2,0.7,Média
-Cabo rompido,14,5.7,0.4,Média
-Manutenção mal sucedida,16,2.9,0.9,Média
-Falha de roteador,13,6.6,0.5,Baixa
-Curto-circuito,13,4.6,1.0,Média
-Erro de firmware,13,6.9,0.4,Média
-Manutenção mal sucedida,8,5.7,1.0,Alta
-Cabo rompido,13,3.2,0.4,Média
-Falha de roteador,14,7.1,0.5,Baixa
-Erro de firmware,8,7.3,0.3,Alta
-Falha de roteador,11,6.3,0.8,Média
-Atualização mal aplicada,12,3.9,0.9,Média
-Interferência externa,9,4.5,0.6,Alta
-Manutenção mal sucedida,13,5.2,0.9,Média
-Falha de roteador,12,3.9,0.7,Alta
-Falta de energia,11,7.5,0.7,Baixa
-Manutenção mal sucedida,7,5.2,0.9,Baixa
-Falta de energia,6,0.9,0.5,Alta
-Cabo rompido,14,5.5,0.5,Alta
-Falha de roteador,12,4.5,0.9,Média
-Falha de roteador,8,4.9,0.9,Alta
-Curto-circuito,7,4.4,1.0,Alta
-Falta de energia,11,6.2,0.9,Média
-Manutenção mal sucedida,10,6.7,0.4,Alta
-Manutenção mal sucedida,8,5.4,0.9,Alta
-Erro de firmware,18,4.5,0.6,Baixa
-Cabo rompido,15,4.9,1.0,Baixa
-Manutenção mal sucedida,11,5.0,0.6,Média
-Interferência externa,4,3.8,0.7,Baixa
-Cabo rompido,11,5.9,0.7,Alta
-Manutenção mal sucedida,15,5.7,0.5,Alta
-Interferência externa,6,7.3,0.4,Alta
-Erro de firmware,8,6.9,0.9,Média
-Falha de roteador,13,4.0,0.9,Baixa
-Curto-circuito,8,6.2,0.4,Média
-Atualização mal aplicada,8,3.6,0.8,Baixa
-Curto-circuito,12,6.0,0.7,Média
-Interferência externa,11,4.2,0.6,Alta
-Atualização mal aplicada,12,3.5,0.5,Média
-Curto-circuito,12,5.4,0.9,Alta
-Curto-circuito,8,1.0,0.8,Alta
-Erro de firmware,15,2.4,0.7,Média
-Manutenção mal sucedida,5,4.7,0.7,Média
-Curto-circuito,12,5.1,0.4,Média
-Curto-circuito,5,4.4,0.6,Média
-Falta de energia,12,2.6,0.4,Alta
-Erro de firmware,7,3.8,0.4,Média
-Conexão instável,10,5.6,0.8,Média
-Erro de firmware,10,5.9,0.9,Alta
-Cabo rompido,10,5.0,0.6,Baixa
-Cabo rompido,11,6.7,0.4,Média
-Erro de firmware,7,5.6,0.8,Média
-Curto-circuito,8,3.9,0.9,Baixa
-Manutenção mal sucedida,9,4.6,0.8,Baixa
-Curto-circuito,11,2.9,0.9,Baixa
-Falha de roteador,8,4.8,0.7,Alta
-Falha de roteador,9,6.7,0.8,Alta
-Atualização mal aplicada,12,6.0,0.4,Alta
-Falha de roteador,6,7.1,0.5,Alta
-Cabo rompido,6,4.5,0.6,Baixa
-Manutenção mal sucedida,12,7.0,0.7,Média
-Cabo rompido,10,4.7,1.0,Alta
-Curto-circuito,11,7.2,0.9,Alta
-Atualização mal aplicada,9,5.0,0.4,Alta
-Manutenção mal sucedida,14,6.1,0.4,Média
-Erro de firmware,5,7.2,0.6,Média
-Falha de roteador,11,4.7,0.5,Baixa
-Atualização mal aplicada,5,5.3,0.7,Baixa
-Falta de energia,5,6.9,0.9,Alta
-Cabo rompido,10,4.8,1.0,Alta
-Manutenção mal sucedida,11,3.0,0.8,Alta
-Cabo rompido,12,8.2,0.9,Alta
-Cabo rompido,8,4.3,0.7,Baixa
-Atualização mal aplicada,11,5.2,0.4,Média
-Erro de firmware,9,6.7,0.7,Média
-Falha de roteador,10,4.1,0.7,Média
-Atualização mal aplicada,12,3.5,0.8,Alta
-Falta de energia,9,5.4,0.5,Alta
-Erro de firmware,12,2.3,0.6,Média
-Erro de firmware,12,4.6,0.6,Média
-Curto-circuito,13,5.4,1.0,Alta
-Curto-circuito,7,4.6,0.6,Média
-Falha de roteador,9,2.7,0.8,Baixa
-Cabo rompido,8,7.4,0.8,Média
-Cabo rompido,6,5.2,0.5,Média
-Interferência externa,8,7.1,0.7,Média
-Manutenção mal sucedida,9,4.6,0.9,Média
-Curto-circuito,12,3.7,0.6,Média
-Conexão instável,11,5.4,1.0,Baixa
-Falha de roteador,6,4.7,0.5,Alta
-Curto-circuito,11,3.2,0.4,Média
-Atualização mal aplicada,9,7.2,0.9,Alta
-Cabo rompido,6,4.1,0.9,Alta
-Falta de energia,7,2.2,1.0,Média
-Falha de roteador,10,7.0,0.8,Baixa
-Atualização mal aplicada,14,4.2,1.0,Alta
-Cabo rompido,8,4.1,0.9,Alta
-Conexão instável,10,2.4,0.9,Alta
-Falta de energia,9,7.6,0.7,Média
-Atualização mal aplicada,6,3.1,0.6,Alta
-Atualização mal aplicada,9,5.1,1.0,Alta
-Interferência externa,13,6.4,0.6,Média
-Cabo rompido,13,5.6,0.7,Alta
-Falha de roteador,10,4.9,0.6,Média
-Conexão instável,13,2.4,0.7,Média
-Atualização mal aplicada,6,3.8,0.6,Alta
-Conexão instável,19,5.3,0.3,Média
-Falta de energia,12,3.8,0.9,Média
-Interferência externa,9,5.3,0.6,Média
-Interferência externa,12,6.0,0.7,Média
-Curto-circuito,5,6.4,0.4,Alta
-Falta de energia,8,3.2,0.3,Baixa
-Cabo rompido,9,8.3,0.5,Média
-Conexão instável,9,6.2,0.8,Alta
-Manutenção mal sucedida,9,5.0,0.4,Alta
-Atualização mal aplicada,9,6.6,0.9,Alta
-Atualização mal aplicada,11,8.5,0.5,Alta
-Cabo rompido,13,2.8,0.4,Média
-Atualização mal aplicada,13,4.7,0.4,Alta
-Cabo rompido,13,1.4,0.3,Alta
-Falha de roteador,10,5.3,0.8,Média
-Curto-circuito,7,5.5,0.9,Alta
-Manutenção mal sucedida,11,4.9,0.7,Média
-Interferência externa,4,4.0,0.4,Média
-Curto-circuito,13,1.9,0.5,Alta
-Conexão instável,7,5.6,0.6,Média
-Curto-circuito,4,7.2,1.0,Média
-Falha de roteador,6,4.1,0.5,Alta
-Conexão instável,7,5.7,0.8,Alta
-Falha de roteador,3,2.6,0.6,Média
-Curto-circuito,10,5.7,0.5,Baixa
-Erro de firmware,9,4.4,0.6,Média
-Curto-circuito,6,3.9,0.3,Alta
-Conexão instável,4,3.9,0.9,Média
-Manutenção mal sucedida,11,4.4,0.5,Média
-Falta de energia,14,5.6,0.8,Média
-Cabo rompido,18,3.0,0.3,Média
-Interferência externa,5,4.4,1.0,Média
-Erro de firmware,7,4.9,0.4,Baixa
-Manutenção mal sucedida,11,3.4,0.9,Média
-Interferência externa,8,7.7,0.9,Média
-Curto-circuito,6,3.7,1.0,Alta
-Atualização mal aplicada,6,4.0,0.6,Baixa
-Conexão instável,7,3.5,0.8,Baixa
-Erro de firmware,17,7.7,0.6,Alta
-Falha de roteador,9,5.8,0.4,Média
-Conexão instável,4,3.6,0.6,Alta
-Cabo rompido,12,6.7,0.4,Média
-Interferência externa,9,5.3,1.0,Média
-Manutenção mal sucedida,9,5.4,0.4,Alta
-Erro de firmware,8,4.5,0.7,Baixa
-Cabo rompido,11,3.9,0.7,Alta
-Conexão instável,8,5.5,0.7,Média
-Atualização mal aplicada,7,4.2,0.8,Média
-Manutenção mal sucedida,12,7.7,0.4,Alta
-Cabo rompido,4,3.1,0.7,Alta
-Falha de roteador,8,7.3,0.5,Alta
-Conexão instável,7,4.8,1.0,Média
-Erro de firmware,7,5.4,0.8,Média
-Falha de roteador,8,6.2,1.0,Alta
-Interferência externa,9,4.1,0.3,Alta
-Cabo rompido,14,6.3,0.5,Alta
-Atualização mal aplicada,12,0.9,0.4,Média
-Cabo rompido,9,3.9,0.3,Média
-Manutenção mal sucedida,9,3.6,0.5,Alta
-Interferência externa,12,3.1,0.8,Média
-Falha de roteador,6,4.7,0.5,Alta
-Falha de roteador,7,5.6,0.7,Baixa
-Falha de roteador,12,6.1,0.9,Baixa
-Cabo rompido,9,5.4,0.8,Média
-Manutenção mal sucedida,11,4.0,0.6,Baixa
-Curto-circuito,6,5.6,0.6,Baixa
-Curto-circuito,10,5.2,0.6,Baixa
-Erro de firmware,7,6.4,0.4,Média
-Atualização mal aplicada,13,6.2,0.7,Alta
-Cabo rompido,7,5.0,0.6,Alta
-Falta de energia,11,3.7,0.9,Alta
-Atualização mal aplicada,12,4.0,0.8,Média
-Falha de roteador,10,4.2,0.7,Alta
-Conexão instável,8,4.5,0.6,Alta
-Curto-circuito,11,5.4,0.4,Média
-Conexão instável,8,6.1,0.8,Alta
-Curto-circuito,10,4.9,0.6,Média
-Falta de energia,12,5.0,0.5,Baixa
-Conexão instável,6,5.2,0.4,Média
-Falha de roteador,5,4.2,0.4,Média
-Erro de firmware,10,3.6,0.8,Média
-Falha de roteador,10,2.4,0.5,Média
-Manutenção mal sucedida,7,4.0,0.7,Alta
-Falta de energia,14,5.7,0.6,Baixa
-Cabo rompido,13,3.9,0.7,Alta
-Atualização mal aplicada,11,4.6,0.9,Alta
-Conexão instável,8,5.7,0.9,Média
-Falha de roteador,7,5.8,0.6,Alta
-Atualização mal aplicada,10,3.4,0.3,Alta
-Erro de firmware,9,6.5,0.6,Alta
-Falha de roteador,5,6.7,0.7,Alta
-Curto-circuito,6,3.3,0.7,Alta
-Falta de energia,7,3.8,0.8,Alta
-Atualização mal aplicada,9,6.8,0.4,Média
-Atualização mal aplicada,16,4.8,0.8,Baixa
-Falta de energia,10,1.7,0.4,Alta
-Erro de firmware,12,2.9,0.8,Baixa
-Falta de energia,12,4.6,0.5,Alta
-Curto-circuito,14,3.3,0.8,Alta
-Conexão instável,7,4.4,0.3,Alta
-Interferência externa,10,5.0,0.6,Média
-Interferência externa,7,7.2,0.8,Média
-Falta de energia,13,4.6,0.5,Média
-Conexão instável,9,6.6,0.9,Média
-Falha de roteador,16,7.1,0.7,Média
-Curto-circuito,9,7.2,0.7,Média
-Atualização mal aplicada,12,5.4,0.5,Baixa
-Manutenção mal sucedida,11,2.1,0.6,Alta
-Cabo rompido,10,5.7,0.7,Alta
-Manutenção mal sucedida,9,6.6,0.6,Média
-Erro de firmware,12,4.9,0.8,Média
-Cabo rompido,9,7.6,0.6,Alta
-Erro de firmware,7,6.3,0.4,Alta
-Interferência externa,15,5.9,0.4,Média
-Falta de energia,14,6.6,0.3,Média
-Interferência externa,17,5.5,0.5,Alta
-Falha de roteador,8,1.3,0.8,Baixa
-Falta de energia,10,4.3,0.9,Média
-Interferência externa,7,6.8,0.4,Média
-Conexão instável,8,3.8,1.0,Média
-Erro de firmware,6,4.7,0.7,Baixa
-Cabo rompido,8,3.4,0.9,Alta
-Manutenção mal sucedida,11,7.7,0.8,Alta
-Manutenção mal sucedida,6,7.5,0.8,Média
-Atualização mal aplicada,8,3.7,0.4,Média
-Falta de energia,17,5.2,0.5,Alta
-Manutenção mal sucedida,14,4.0,0.3,Baixa
-Cabo rompido,12,5.9,0.8,Média
-Falha de roteador,12,5.8,0.5,Alta
-Manutenção mal sucedida,14,6.2,0.9,Alta
-Atualização mal aplicada,10,5.5,0.5,Alta
-Falta de energia,9,9.4,0.9,Média
-Conexão instável,14,3.5,0.4,Baixa
-Manutenção mal sucedida,7,2.4,0.4,Média
-Manutenção mal sucedida,10,4.4,0.5,Baixa
-Manutenção mal sucedida,10,2.6,0.6,Baixa
-Erro de firmware,12,2.8,0.5,Média
-Interferência externa,9,3.5,0.8,Média
-Interferência externa,12,3.6,0.4,Média
-Conexão instável,9,3.6,0.5,Média
-Interferência externa,12,5.8,0.9,Alta
-Atualização mal aplicada,8,4.2,0.3,Média
-Falha de roteador,16,4.7,1.0,Alta
-Conexão instável,13,6.3,1.0,Baixa
-Cabo rompido,6,3.9,0.4,Baixa
-Atualização mal aplicada,9,4.6,0.5,Alta
-Falta de energia,8,5.5,0.6,Alta
-Curto-circuito,9,2.1,0.8,Média
-Falta de energia,10,1.4,0.7,Média
-Atualização mal aplicada,7,5.5,0.8,Alta
-Conexão instável,12,5.7,0.8,Média
-Erro de firmware,9,8.1,0.4,Alta
-Interferência externa,13,5.2,0.9,Alta
-Conexão instável,13,6.2,0.8,Alta
-Falha de roteador,9,4.7,0.7,Alta
-Interferência externa,7,5.4,0.9,Média
-Falha de roteador,10,7.5,0.8,Baixa
-Conexão instável,9,1.8,0.4,Média
-Atualização mal aplicada,8,5.6,0.6,Média
-Interferência externa,7,8.2,0.6,Alta
-Atualização mal aplicada,7,5.4,0.3,Média
-Interferência externa,12,7.5,1.0,Alta
-Erro de firmware,6,4.1,0.4,Média
-Manutenção mal sucedida,9,5.0,0.8,Baixa
-Interferência externa,10,5.1,0.7,Alta
-Manutenção mal sucedida,9,1.7,0.3,Média
-Curto-circuito,12,3.2,0.9,Alta
-Falta de energia,7,3.4,0.9,Alta
-Curto-circuito,7,6.2,0.7,Alta
-Erro de firmware,9,6.3,0.5,Alta
-Falha de roteador,8,5.5,0.4,Alta
-Interferência externa,12,6.2,0.6,Alta
-Manutenção mal sucedida,13,4.8,0.5,Média
-Falta de energia,14,6.8,0.7,Alta
-Curto-circuito,12,5.0,1.0,Média
-Curto-circuito,8,5.1,0.7,Baixa
-Falta de energia,7,4.6,0.9,Média
-Conexão instável,4,6.0,0.8,Alta
-Atualização mal aplicada,10,4.4,0.6,Alta
-Curto-circuito,9,6.5,0.9,Baixa
-Conexão instável,10,3.3,0.6,Média
-Conexão instável,4,3.4,0.9,Média
-Conexão instável,8,6.0,0.5,Alta
-Atualização mal aplicada,6,4.9,0.4,Média
-Atualização mal aplicada,6,4.3,0.9,Alta
-Manutenção mal sucedida,15,6.3,0.7,Baixa
-Curto-circuito,13,4.1,0.9,Baixa
-Curto-circuito,15,4.7,1.0,Alta
-Falta de energia,8,7.1,0.3,Média
-Cabo rompido,9,7.3,0.7,Alta
-Manutenção mal sucedida,10,7.4,0.6,Média
-Interferência externa,12,4.6,0.7,Baixa
-Atualização mal aplicada,8,6.8,0.9,Média
-Curto-circuito,11,3.6,0.5,Alta
-Interferência externa,10,3.6,0.7,Alta
-Manutenção mal sucedida,9,1.5,0.8,Baixa
-Erro de firmware,8,7.5,0.4,Média
-Falha de roteador,6,3.7,0.9,Média
-Cabo rompido,17,4.8,0.7,Alta
-Manutenção mal sucedida,13,3.6,1.0,Alta
-Conexão instável,13,6.0,0.5,Baixa
-Manutenção mal sucedida,11,4.4,0.4,Média
-Falha de roteador,11,3.0,0.7,Média
-Falha de roteador,4,5.7,0.4,Média
-Erro de firmware,8,2.8,1.0,Média
-Conexão instável,9,3.7,0.3,Alta
-Cabo rompido,11,1.8,0.8,Alta
-Cabo rompido,9,2.9,0.7,Média
-Cabo rompido,7,5.3,0.6,Média
-Interferência externa,8,2.1,0.3,Média
-Curto-circuito,11,2.8,0.7,Baixa
-Atualização mal aplicada,9,5.0,0.7,Alta
-Manutenção mal sucedida,7,4.2,0.5,Alta
-Interferência externa,13,8.0,0.9,Baixa
-Manutenção mal sucedida,8,7.8,0.5,Média
-Manutenção mal sucedida,8,3.7,0.6,Média
-Cabo rompido,11,5.8,0.7,Média
-Curto-circuito,9,6.1,0.4,Média
-Falta de energia,6,4.1,1.0,Alta
-Falta de energia,6,2.8,0.6,Média
-Cabo rompido,16,5.0,0.4,Baixa
-Interferência externa,19,4.7,0.6,Média
-Conexão instável,12,4.3,0.7,Média
-Conexão instável,14,5.7,0.7,Alta
-Erro de firmware,10,3.9,0.8,Alta
-Falha de roteador,8,3.3,0.3,Alta
-Falha de roteador,13,5.2,0.5,Alta
-Atualização mal aplicada,17,5.6,0.9,Baixa
-Interferência externa,3,3.2,0.4,Média
-Conexão instável,10,6.4,0.9,Média
-Cabo rompido,9,2.3,0.4,Média
-Interferência externa,18,4.1,0.9,Alta
-Manutenção mal sucedida,10,4.6,0.6,Baixa
-Interferência externa,15,4.0,0.7,Alta
-Interferência externa,8,4.2,0.4,Alta
-Falha de roteador,14,7.8,0.3,Média
-Erro de firmware,11,3.7,0.5,Baixa
-Atualização mal aplicada,9,8.7,0.4,Baixa
-Curto-circuito,9,5.7,0.5,Alta
-Curto-circuito,9,5.1,0.7,Baixa
-Conexão instável,9,5.7,0.7,Alta
-Falta de energia,7,8.8,0.9,Alta
-Erro de firmware,10,3.5,0.8,Baixa
-Atualização mal aplicada,8,3.3,0.7,Baixa
-Cabo rompido,10,3.9,0.6,Média
-Falta de energia,17,5.0,0.6,Média
-Atualização mal aplicada,10,2.4,0.6,Baixa
-Interferência externa,10,5.0,0.9,Média
-Erro de firmware,7,7.5,0.5,Baixa
-Erro de firmware,6,5.2,0.3,Média
-Falha de roteador,10,4.6,0.8,Baixa
-Interferência externa,12,4.1,0.4,Baixa
-Curto-circuito,12,6.3,0.9,Alta
-Falta de energia,8,3.8,0.9,Baixa
-Falha de roteador,5,7.8,0.4,Média
-Conexão instável,13,7.9,0.4,Alta
-Interferência externa,9,5.4,0.6,Média
-Interferência externa,14,5.0,0.7,Alta
-Falha de roteador,14,6.5,0.5,Média
-Interferência externa,7,6.6,0.8,Baixa
-Interferência externa,10,3.8,0.7,Alta
-Falta de energia,7,4.2,0.5,Média
-Interferência externa,12,3.0,0.3,Baixa
-Falta de energia,17,5.6,0.8,Média
-Falta de energia,16,6.0,0.5,Alta
-Falha de roteador,7,3.0,0.9,Média
-Falta de energia,12,4.3,0.6,Média
-Cabo rompido,8,3.0,0.7,Média
-Interferência externa,11,3.7,0.9,Baixa
-Interferência externa,6,5.8,0.9,Média
-Atualização mal aplicada,13,3.9,0.6,Baixa
-Interferência externa,7,4.5,0.4,Média
-Cabo rompido,11,2.6,0.8,Alta
-Curto-circuito,10,5.3,0.6,Média
-Falta de energia,8,4.9,0.4,Média
-Cabo rompido,7,3.9,0.9,Média
-Interferência externa,7,4.7,0.4,Alta
-Interferência externa,9,5.3,0.3,Alta
-Erro de firmware,9,3.8,0.3,Alta
-Atualização mal aplicada,10,2.8,0.7,Alta
-Conexão instável,10,7.7,0.8,Média
-Falha de roteador,12,4.1,0.5,Alta
-Manutenção mal sucedida,10,4.9,0.5,Média
-Falha de roteador,15,6.5,0.5,Alta
-Conexão instável,10,10.3,0.8,Alta
-Falha de roteador,10,3.1,0.3,Média
-Erro de firmware,11,5.7,1.0,Alta
-Interferência externa,10,3.9,0.5,Baixa
-Atualização mal aplicada,4,4.2,1.0,Alta
-Falta de energia,14,3.9,0.4,Média
-Erro de firmware,7,3.3,0.8,Baixa
-Manutenção mal sucedida,13,4.9,0.5,Média
-Curto-circuito,11,2.8,0.4,Alta
-Falha de roteador,2,6.4,0.9,Média
-Manutenção mal sucedida,14,5.1,0.9,Média
-Atualização mal aplicada,3,5.6,0.6,Baixa
-Manutenção mal sucedida,14,4.3,0.8,Baixa
-Falta de energia,9,4.4,0.7,Alta
-Atualização mal aplicada,9,5.4,0.9,Baixa
-Conexão instável,11,3.3,0.5,Alta
-Falta de energia,8,4.5,0.7,Alta
-Atualização mal aplicada,9,3.7,0.6,Baixa
-Falha de roteador,11,3.7,0.5,Alta
-Curto-circuito,8,1.8,0.9,Alta
-Falha de roteador,10,7.0,0.4,Alta
-Atualização mal aplicada,13,4.0,0.4,Média
-Interferência externa,15,6.7,0.7,Média
-Manutenção mal sucedida,10,6.6,0.8,Média
-Manutenção mal sucedida,8,3.1,0.4,Alta
-Falta de energia,11,3.4,0.6,Média
-Cabo rompido,5,8.8,1.0,Baixa
-Falta de energia,18,7.6,0.5,Baixa
-Atualização mal aplicada,11,5.0,0.8,Alta
-Atualização mal aplicada,11,5.4,0.8,Baixa
-Conexão instável,11,4.1,0.6,Média
-Erro de firmware,9,5.6,1.0,Alta
-Falta de energia,11,3.9,0.8,Alta
-Falta de energia,8,2.0,0.6,Alta
-Erro de firmware,12,3.0,0.7,Média
-Conexão instável,7,5.0,0.8,Alta
-Manutenção mal sucedida,10,3.3,0.7,Média
-Curto-circuito,11,4.9,0.9,Alta
-Erro de firmware,8,3.4,0.5,Baixa
-Cabo rompido,7,3.8,0.5,Alta
-Interferência externa,7,6.3,0.4,Baixa
-Falta de energia,9,5.4,0.3,Baixa
-Cabo rompido,9,5.0,0.3,Alta
-Atualização mal aplicada,14,6.3,0.9,Média
-Falta de energia,9,5.7,0.8,Alta
-Falha de roteador,12,7.2,0.8,Baixa
-Conexão instável,16,4.3,0.7,Média
-Manutenção mal sucedida,8,4.4,0.9,Alta
-Cabo rompido,7,3.0,0.6,Alta
-Curto-circuito,12,4.4,0.9,Alta
-Manutenção mal sucedida,9,6.4,0.6,Baixa
-Curto-circuito,11,6.9,0.9,Média
-Falha de roteador,13,6.4,0.8,Baixa
-Curto-circuito,14,2.3,0.5,Alta
-Conexão instável,17,6.6,0.7,Alta
-Manutenção mal sucedida,8,2.2,0.7,Baixa
-Curto-circuito,9,6.3,0.4,Alta
-Manutenção mal sucedida,9,4.4,0.7,Baixa
-Conexão instável,7,6.1,0.5,Alta
-Cabo rompido,8,3.0,0.3,Alta
-Atualização mal aplicada,6,6.8,1.0,Média
-Falha de roteador,9,2.8,0.7,Baixa
-Curto-circuito,6,4.0,0.9,Baixa
-Interferência externa,12,3.5,0.8,Alta
-Erro de firmware,12,2.4,0.5,Alta
-Manutenção mal sucedida,10,5.1,0.7,Média
-Cabo rompido,12,7.7,0.8,Média
-Interferência externa,12,9.0,1.0,Média
-Falta de energia,10,5.1,0.5,Alta
-Falta de energia,12,6.7,0.9,Baixa
-Interferência externa,14,5.3,0.9,Média
-Falta de energia,4,5.7,0.8,Baixa
-Falha de roteador,9,4.5,1.0,Média
-Cabo rompido,7,5.3,0.6,Média
-Atualização mal aplicada,10,5.8,1.0,Baixa
-Manutenção mal sucedida,8,4.1,0.8,Média
-Falha de roteador,14,4.9,0.3,Baixa
-Interferência externa,7,4.9,0.9,Baixa
-Erro de firmware,8,6.2,0.6,Média
-Cabo rompido,10,3.4,0.6,Média
-Cabo rompido,6,4.9,0.7,Alta
-Falta de energia,16,7.9,0.4,Alta
-Curto-circuito,10,6.7,0.6,Alta
-Cabo rompido,5,7.0,0.9,Alta
-Erro de firmware,8,5.0,0.3,Alta
-Atualização mal aplicada,2,5.5,0.5,Alta
-Falha de roteador,13,6.5,0.3,Alta
-Conexão instável,10,7.3,0.6,Média
-Interferência externa,9,2.1,0.8,Alta
-Conexão instável,13,3.0,0.9,Alta
-Erro de firmware,9,7.0,1.0,Média
-Atualização mal aplicada,10,4.6,0.7,Média
-Atualização mal aplicada,8,4.0,0.5,Média
-Curto-circuito,10,3.1,0.9,Média
-Erro de firmware,6,4.2,0.8,Baixa
-Falha de roteador,8,2.9,0.7,Média
-Conexão instável,5,8.1,0.8,Média
-Falta de energia,9,5.0,0.9,Baixa
-Interferência externa,7,4.9,0.8,Baixa
-Interferência externa,5,5.9,0.6,Média
-Atualização mal aplicada,8,6.4,0.8,Média
-Erro de firmware,15,6.4,0.3,Alta
-Atualização mal aplicada,5,6.6,0.6,Média
-Conexão instável,18,4.1,0.6,Baixa
-Manutenção mal sucedida,9,4.6,0.4,Média
-Cabo rompido,8,6.2,0.3,Baixa
-Erro de firmware,10,4.2,0.4,Média
-Falha de roteador,14,5.0,0.8,Baixa
-Falta de energia,11,5.6,0.9,Média
-Falha de roteador,10,6.2,1.0,Alta
-Atualização mal aplicada,11,2.3,0.5,Média
-Conexão instável,13,6.1,0.7,Alta
-Erro de firmware,9,4.6,1.0,Alta
-Atualização mal aplicada,9,6.1,0.4,Baixa
-Curto-circuito,10,6.2,0.8,Alta
-Atualização mal aplicada,11,7.4,0.8,Média
-Atualização mal aplicada,13,7.0,0.4,Alta
-Curto-circuito,7,7.0,0.9,Alta
-Cabo rompido,7,7.2,0.9,Baixa
-Falha de roteador,11,5.4,0.3,Alta
-Falta de energia,6,5.0,0.4,Média
-Interferência externa,14,6.3,0.3,Média
-Cabo rompido,12,6.1,0.5,Média
-Cabo rompido,5,4.5,0.7,Baixa
-Atualização mal aplicada,9,5.6,0.7,Média
-Falha de roteador,18,4.9,0.5,Média
-Falta de energia,8,3.7,0.9,Baixa
-Atualização mal aplicada,12,6.9,0.6,Alta
-Manutenção mal sucedida,12,5.1,0.3,Média
-Atualização mal aplicada,3,8.1,0.5,Baixa
-Erro de firmware,8,2.6,0.7,Média
-Falta de energia,10,4.2,0.6,Baixa
-Interferência externa,7,5.0,0.5,Média
-Falta de energia,9,6.7,0.4,Baixa
-Interferência externa,12,5.6,0.9,Baixa
-Curto-circuito,11,5.5,1.0,Alta
-Interferência externa,12,3.3,0.5,Alta
-Atualização mal aplicada,11,3.3,0.6,Média
-Manutenção mal sucedida,7,5.5,0.7,Média
-Erro de firmware,10,3.0,0.8,Alta
-Interferência externa,4,4.2,0.6,Alta
-Erro de firmware,8,5.8,0.9,Alta
-Falha de roteador,10,3.5,0.7,Baixa
-Erro de firmware,8,7.4,0.6,Média
-Falta de energia,7,6.8,0.8,Média
-Atualização mal aplicada,12,2.6,1.0,Alta
-Atualização mal aplicada,9,3.6,0.9,Alta
-Conexão instável,13,1.6,0.3,Alta
-Cabo rompido,4,3.8,0.5,Alta
-Interferência externa,8,6.1,0.6,Baixa
-Cabo rompido,14,4.4,0.5,Baixa
-Manutenção mal sucedida,12,5.7,0.8,Alta
-Curto-circuito,4,2.7,0.9,Alta
-Cabo rompido,8,6.2,0.8,Alta
-Interferência externa,13,4.2,1.0,Média
-Falha de roteador,13,5.0,0.5,Alta
-Erro de firmware,9,4.9,0.9,Alta
-Erro de firmware,7,3.1,0.8,Alta
-Falta de energia,11,3.3,0.6,Média
-Conexão instável,10,6.5,0.8,Média
-Manutenção mal sucedida,11,5.6,0.4,Média
-Manutenção mal sucedida,10,6.6,0.9,Alta
-Falha de roteador,7,5.5,0.7,Baixa
-Cabo rompido,8,5.2,0.5,Baixa
-Falta de energia,10,2.4,0.8,Alta
-Atualização mal aplicada,7,4.6,0.7,Alta
-Atualização mal aplicada,14,5.0,0.4,Média
-Conexão instável,14,7.9,0.3,Alta
-Erro de firmware,11,6.0,0.6,Média
-Interferência externa,10,7.3,0.7,Média
-Falta de energia,11,5.9,0.9,Média
-Falta de energia,9,3.9,0.9,Alta
-Curto-circuito,10,5.2,0.7,Média
-Curto-circuito,6,5.4,0.8,Baixa
-Curto-circuito,10,3.6,0.6,Alta
-Manutenção mal sucedida,5,4.4,0.8,Média
-Atualização mal aplicada,11,4.7,0.4,Alta
-Interferência externa,5,7.4,0.6,Alta
-Falha de roteador,7,1.9,0.7,Média
-Curto-circuito,7,6.8,0.3,Alta
-Falta de energia,16,3.6,0.8,Alta
-Erro de firmware,8,2.9,0.9,Alta
-Interferência externa,8,6.8,0.6,Média
-Manutenção mal sucedida,16,6.1,0.6,Média
-Curto-circuito,12,6.9,0.9,Alta
-Conexão instável,21,6.2,0.8,Média
-Falha de roteador,13,8.1,0.5,Alta
-Manutenção mal sucedida,11,5.8,0.5,Média
-Cabo rompido,15,4.8,0.8,Média
-Falha de roteador,13,5.5,0.7,Média
-Falha de roteador,10,6.9,0.4,Baixa
-Falta de energia,9,3.8,0.5,Baixa
-Cabo rompido,16,4.0,0.9,Alta
-Falta de energia,8,4.5,0.8,Baixa
-Manutenção mal sucedida,9,1.8,1.0,Alta
-Cabo rompido,9,5.2,0.8,Baixa
-Conexão instável,12,2.2,1.0,Alta
-Manutenção mal sucedida,8,5.1,0.5,Alta
-Cabo rompido,6,6.3,0.8,Alta
-Interferência externa,9,4.3,0.3,Alta
-Erro de firmware,13,7.5,0.8,Média
-Conexão instável,9,2.8,0.6,Baixa
-Interferência externa,14,6.8,0.5,Média
-Erro de firmware,10,6.0,0.9,Média
-Erro de firmware,13,2.4,0.9,Média
-Curto-circuito,9,9.1,0.3,Alta
-Falha de roteador,10,4.9,0.7,Alta
-Cabo rompido,13,3.7,0.6,Alta
-Curto-circuito,7,2.9,0.6,Alta
-Manutenção mal sucedida,7,4.7,0.9,Alta
-Conexão instável,11,4.8,0.5,Alta
-Falha de roteador,11,5.2,1.0,Alta
-Conexão instável,8,4.6,0.4,Alta
-Falta de energia,11,5.9,0.8,Baixa
-Cabo rompido,11,4.4,0.8,Alta
-Manutenção mal sucedida,12,2.1,0.5,Média
-Erro de firmware,7,4.8,0.5,Média
-Conexão instável,6,1.4,0.9,Média
-Atualização mal aplicada,18,5.5,0.8,Alta
-Cabo rompido,7,3.5,0.5,Alta
-Erro de firmware,13,5.2,0.7,Alta
-Curto-circuito,11,7.0,0.3,Alta
-Interferência externa,14,3.6,0.4,Alta
-Curto-circuito,11,6.6,0.6,Média
-Conexão instável,18,4.3,0.4,Média
-Falha de roteador,11,7.6,0.9,Média
-Falta de energia,12,4.5,0.8,Média
-Cabo rompido,7,3.7,1.0,Alta
-Cabo rompido,15,6.0,0.8,Baixa
-Atualização mal aplicada,6,4.3,1.0,Alta
-Falta de energia,6,3.7,0.7,Média
-Falha de roteador,7,4.3,0.7,Média
-Erro de firmware,12,4.9,1.0,Média
-Interferência externa,13,7.0,0.7,Alta
-Interferência externa,9,2.1,0.3,Média
-Falha de roteador,8,5.0,0.8,Alta
-Interferência externa,11,5.9,0.9,Alta
-Cabo rompido,15,5.3,0.9,Alta
-Cabo rompido,15,7.0,0.7,Alta
-Conexão instável,12,4.9,0.8,Média
-Atualização mal aplicada,7,4.7,1.0,Baixa
-Erro de firmware,5,5.9,0.4,Alta
-Manutenção mal sucedida,5,5.1,0.8,Baixa
-Atualização mal aplicada,13,4.4,0.5,Baixa
-Cabo rompido,6,5.8,0.7,Baixa
-Erro de firmware,7,4.0,0.7,Baixa
-Manutenção mal sucedida,13,4.1,0.4,Alta
-Conexão instável,11,4.2,0.4,Alta
-Erro de firmware,12,7.0,0.7,Média
-Atualização mal aplicada,11,0.2,0.4,Média
-Cabo rompido,15,5.6,0.5,Baixa
-Manutenção mal sucedida,6,5.1,0.9,Baixa
-Manutenção mal sucedida,15,2.5,0.5,Média
-Atualização mal aplicada,11,5.5,0.6,Alta
-Manutenção mal sucedida,9,5.7,1.0,Alta
-Falha de roteador,16,5.9,0.5,Alta
-Interferência externa,14,1.0,0.6,Média
-Erro de firmware,7,7.0,0.7,Média
-Erro de firmware,8,3.9,0.8,Baixa
-Erro de firmware,11,6.0,0.9,Média
-Falta de energia,7,6.1,0.9,Baixa
-Cabo rompido,11,3.7,0.8,Média
-Atualização mal aplicada,13,6.0,0.5,Baixa
-Conexão instável,11,4.4,0.3,Alta
-Falta de energia,11,1.9,0.6,Baixa
-Cabo rompido,8,6.8,0.4,Média
-Falta de energia,8,3.8,0.8,Alta
-Manutenção mal sucedida,10,3.7,0.8,Alta
-Atualização mal aplicada,18,4.4,0.3,Baixa
-Falta de energia,8,5.4,0.9,Alta
-Curto-circuito,8,4.9,0.5,Média
-Interferência externa,9,5.8,0.6,Alta
-Cabo rompido,11,3.0,0.8,Média
-Falta de energia,13,3.9,0.6,Baixa
-Interferência externa,4,4.8,0.6,Alta
-Manutenção mal sucedida,6,7.8,0.3,Média
-Falta de energia,16,4.8,0.6,Baixa
-Erro de firmware,14,6.6,0.8,Média
-Falha de roteador,12,5.1,0.9,Baixa
-Interferência externa,6,4.3,0.6,Média
-Falha de roteador,11,4.6,0.6,Alta
-Atualização mal aplicada,9,4.7,0.8,Média
-Manutenção mal sucedida,13,5.9,1.0,Média
-Falta de energia,13,7.1,0.5,Alta
-Falta de energia,14,5.5,0.6,Alta
-Cabo rompido,11,6.8,0.9,Alta
-Falha de roteador,9,3.6,0.7,Média
-Curto-circuito,5,4.4,0.4,Baixa
-Falha de roteador,14,3.9,0.7,Alta
-Atualização mal aplicada,7,5.5,0.4,Média
-Falha de roteador,8,4.5,0.7,Baixa
-Manutenção mal sucedida,9,6.1,0.7,Alta
-Atualização mal aplicada,6,3.6,0.9,Média
-Manutenção mal sucedida,9,5.1,0.6,Baixa
-Curto-circuito,12,6.0,0.5,Baixa
-Interferência externa,12,1.9,0.5,Alta
-Interferência externa,13,8.2,0.9,Alta
-Falha de roteador,7,4.6,0.4,Alta
-Falta de energia,11,2.0,0.6,Média
-Interferência externa,9,5.2,0.4,Média
-Curto-circuito,14,5.1,0.8,Média
-Conexão instável,9,4.9,0.6,Alta
-Falta de energia,7,6.5,0.5,Alta
-Interferência externa,10,6.1,0.6,Média
-Falta de energia,13,5.4,0.9,Média
-Interferência externa,12,5.7,0.7,Média
-Curto-circuito,10,4.8,0.8,Média
-Interferência externa,10,7.7,0.9,Alta
-Cabo rompido,15,2.8,0.9,Alta
-Erro de firmware,17,5.2,0.5,Alta
-Atualização mal aplicada,11,5.1,1.0,Alta
-Conexão instável,6,6.2,0.3,Alta
-Curto-circuito,5,3.7,0.6,Alta
-Curto-circuito,9,2.4,0.9,Alta
-Falta de energia,7,5.2,0.5,Alta
-Curto-circuito,9,5.4,0.5,Média
-Erro de firmware,12,7.2,0.5,Alta
-Conexão instável,10,3.1,0.7,Média
-Curto-circuito,8,6.7,0.6,Média
-Conexão instável,6,8.6,0.8,Média
-Atualização mal aplicada,7,4.4,0.9,Baixa
-Falha de roteador,4,3.1,0.8,Alta
-Falta de energia,9,4.4,0.4,Média
-Falha de roteador,12,5.0,1.0,Baixa
-Erro de firmware,7,5.8,0.5,Baixa
-Curto-circuito,9,4.1,0.4,Alta
-Interferência externa,18,7.3,0.4,Alta
-Erro de firmware,8,3.3,0.7,Alta
-Erro de firmware,6,2.4,0.4,Média
-Atualização mal aplicada,13,6.7,0.4,Média
-Curto-circuito,8,1.6,0.5,Alta
-Curto-circuito,9,4.7,0.5,Média
-Curto-circuito,10,9.7,0.7,Média
-Falha de roteador,15,5.0,0.9,Média
-Erro de firmware,13,3.3,0.8,Baixa
-Falha de roteador,3,4.9,0.5,Média
-Falta de energia,10,4.9,0.5,Alta
-Interferência externa,11,5.2,1.0,Média
-Falta de energia,18,6.0,0.3,Alta
-Manutenção mal sucedida,6,3.4,0.9,Média
-Atualização mal aplicada,10,7.5,0.4,Baixa
-Cabo rompido,10,5.4,1.0,Baixa
-Atualização mal aplicada,10,6.1,0.5,Média
-Falha de roteador,11,4.1,0.6,Alta
-Manutenção mal sucedida,14,6.9,0.8,Alta
-Conexão instável,10,4.6,0.7,Média
-Manutenção mal sucedida,11,5.4,0.5,Alta
-Atualização mal aplicada,9,3.6,0.7,Média
-Manutenção mal sucedida,6,3.5,0.8,Alta
-Curto-circuito,10,6.0,0.3,Alta
-Atualização mal aplicada,9,4.3,0.3,Alta
-Erro de firmware,14,3.7,0.6,Baixa
-Conexão instável,5,4.0,0.4,Média
-Conexão instável,14,6.0,0.8,Alta
-Conexão instável,12,4.1,0.4,Alta
-Interferência externa,11,4.8,0.6,Média
-Erro de firmware,13,5.0,0.4,Alta
-Conexão instável,11,2.1,0.7,Média
-Falha de roteador,6,2.8,0.4,Baixa
-Falta de energia,11,5.5,0.3,Média
-Conexão instável,9,3.9,0.3,Média
-Curto-circuito,12,6.6,1.0,Média
-Cabo rompido,5,6.5,0.4,Baixa
-Cabo rompido,10,6.1,0.8,Baixa
-Falta de energia,14,7.7,0.3,Média
-Cabo rompido,10,4.9,0.4,Alta
-Erro de firmware,9,6.0,0.7,Média
-Falta de energia,10,4.1,0.6,Alta
-Atualização mal aplicada,7,8.7,1.0,Média
-Falha de roteador,10,8.0,1.0,Média
-Conexão instável,5,5.0,0.8,Alta
-Manutenção mal sucedida,17,5.6,0.7,Alta
-Erro de firmware,6,7.0,0.6,Média
-Interferência externa,8,4.8,0.5,Baixa
-Erro de firmware,8,4.0,1.0,Média
-Atualização mal aplicada,10,6.3,0.7,Média
-Falha de roteador,9,5.1,0.7,Alta
-Manutenção mal sucedida,7,5.3,0.5,Média
-Falha de roteador,13,3.7,0.3,Média
-Interferência externa,12,2.4,1.0,Média
-Interferência externa,9,5.4,0.5,Alta
-Conexão instável,8,6.4,0.6,Média
-Cabo rompido,7,4.7,0.4,Alta
-Falha de roteador,7,7.2,0.9,Alta
-Curto-circuito,8,3.9,0.3,Baixa
-Interferência externa,6,3.4,0.9,Alta
-Manutenção mal sucedida,10,4.9,0.4,Alta
-Curto-circuito,16,4.9,0.9,Média
-Conexão instável,8,6.2,0.8,Baixa
-Interferência externa,8,3.8,0.4,Média
-Conexão instável,3,7.1,0.7,Média
-Interferência externa,10,8.0,0.5,Baixa
-Curto-circuito,6,4.9,0.4,Alta
-Falta de energia,9,6.9,0.9,Alta
-Atualização mal aplicada,10,3.4,0.6,Alta
-Falha de roteador,11,6.6,0.6,Baixa
-Erro de firmware,10,6.6,0.4,Alta
-Falha de roteador,13,6.3,0.6,Alta
-Cabo rompido,10,5.0,0.9,Média
-Falta de energia,11,0.6,0.6,Média
-Interferência externa,3,4.0,1.0,Média
-Cabo rompido,7,4.1,1.0,Média
-Atualização mal aplicada,12,3.5,0.4,Alta
-Atualização mal aplicada,6,5.2,0.4,Média
-Falha de roteador,6,4.4,0.9,Média
-Falha de roteador,7,3.8,0.6,Baixa
-Erro de firmware,7,3.4,0.3,Alta
-Conexão instável,3,3.9,0.5,Baixa
-Curto-circuito,10,6.7,0.7,Média
-Falha de roteador,11,4.0,0.9,Alta
-Erro de firmware,7,4.2,0.4,Média
-Manutenção mal sucedida,11,4.3,0.4,Alta
-Cabo rompido,13,5.5,0.9,Baixa
-Falta de energia,6,5.7,0.8,Baixa
-Curto-circuito,12,0.4,0.7,Alta
-Curto-circuito,12,6.5,0.8,Alta
-Falta de energia,7,7.2,0.6,Alta
-Falta de energia,12,3.4,0.8,Alta
-Manutenção mal sucedida,15,3.5,0.6,Alta
-Cabo rompido,7,4.3,0.5,Alta
-Atualização mal aplicada,9,3.9,0.8,Média
-Falta de energia,10,5.3,0.6,Alta
-Falha de roteador,9,2.1,1.0,Baixa
-Conexão instável,6,3.3,0.5,Baixa
-Atualização mal aplicada,9,7.3,0.9,Média
-Atualização mal aplicada,13,3.6,1.0,Baixa
-Manutenção mal sucedida,7,6.9,0.5,Alta
-Cabo rompido,5,5.5,0.9,Alta
-Conexão instável,13,2.3,0.6,Média
-Conexão instável,10,6.0,0.9,Média
-Curto-circuito,9,4.8,0.6,Média
-Atualização mal aplicada,11,4.3,0.8,Baixa
-Erro de firmware,15,5.4,0.6,Baixa
-Atualização mal aplicada,10,5.7,0.5,Média
-Interferência externa,13,6.1,0.4,Média
-Conexão instável,12,6.8,0.6,Alta
-Erro de firmware,10,5.6,0.8,Alta
-Interferência externa,8,2.9,0.7,Média
-Falha de roteador,9,4.3,0.8,Média
-Erro de firmware,11,9.4,0.5,Média
-Conexão instável,14,6.1,0.6,Alta
-Conexão instável,6,8.6,0.3,Média
-Falta de energia,14,7.1,0.9,Alta
-Manutenção mal sucedida,8,5.4,1.0,Média
-Falha de roteador,4,5.5,0.6,Alta
-Falha de roteador,11,4.9,0.3,Alta
-Falta de energia,7,2.4,0.4,Alta
-Erro de firmware,14,5.0,0.8,Alta
-Atualização mal aplicada,13,6.8,0.7,Baixa
-Falha de roteador,7,4.1,0.9,Alta
-Manutenção mal sucedida,14,5.6,0.5,Alta
-Cabo rompido,6,6.3,0.8,Média
-Falta de energia,17,3.6,0.8,Média
-Cabo rompido,8,4.3,0.5,Alta
-Erro de firmware,12,3.5,0.7,Alta
-Atualização mal aplicada,13,3.8,0.4,Baixa
-Erro de firmware,10,3.1,0.6,Média
-Falta de energia,9,3.6,0.9,Alta
-Curto-circuito,9,7.1,0.6,Média
-Falha de roteador,10,3.6,0.9,Alta
-Interferência externa,9,5.2,0.7,Alta
-Manutenção mal sucedida,12,4.2,0.4,Média
-Conexão instável,8,6.8,0.7,Baixa
-Curto-circuito,12,7.0,0.7,Alta
-Cabo rompido,11,6.3,0.6,Baixa
-Manutenção mal sucedida,11,5.5,0.4,Alta
-Manutenção mal sucedida,10,4.7,0.6,Alta
-Erro de firmware,5,3.2,0.4,Alta
-Interferência externa,17,7.9,0.4,Alta
-Erro de firmware,10,3.9,0.6,Baixa
-Falha de roteador,10,6.0,0.5,Média
-Atualização mal aplicada,7,6.6,0.9,Alta
-Falta de energia,6,4.2,0.6,Baixa
-Cabo rompido,10,6.6,0.8,Baixa
-Interferência externa,7,6.1,0.7,Média
-Interferência externa,11,7.6,0.8,Baixa
-Falta de energia,9,4.3,0.5,Alta
-Atualização mal aplicada,11,3.1,1.0,Baixa
-Conexão instável,10,4.2,0.7,Média
-Conexão instável,4,5.3,0.9,Baixa
-Curto-circuito,7,5.1,0.6,Média
-Atualização mal aplicada,10,4.4,0.4,Alta
-Manutenção mal sucedida,9,2.1,0.8,Média
-Erro de firmware,10,5.7,0.3,Alta
-Conexão instável,12,8.0,0.6,Alta
-Curto-circuito,7,5.7,0.4,Alta
-Erro de firmware,11,5.9,0.7,Baixa
-Falha de roteador,10,5.9,1.0,Alta
-Erro de firmware,10,5.6,0.6,Média
-Manutenção mal sucedida,8,6.4,0.9,Alta
-Erro de firmware,5,5.6,0.7,Baixa
-Manutenção mal sucedida,12,4.5,0.6,Alta
-Interferência externa,10,3.8,1.0,Média
-Cabo rompido,9,4.6,0.9,Baixa
-Manutenção mal sucedida,8,5.5,0.9,Média
-Cabo rompido,3,4.5,0.5,Alta
-Interferência externa,14,5.5,0.7,Média
-Curto-circuito,7,5.7,0.5,Baixa
-Interferência externa,9,6.2,0.6,Média
-Interferência externa,13,6.9,0.6,Alta
-Interferência externa,4,5.1,0.9,Baixa
-Interferência externa,9,3.0,0.9,Alta
-Conexão instável,8,4.5,0.6,Média
-Atualização mal aplicada,14,5.1,0.3,Baixa
-Curto-circuito,13,2.2,0.9,Alta
-Cabo rompido,10,7.1,0.4,Média
-Falta de energia,6,5.2,0.7,Média
-Curto-circuito,8,5.6,0.3,Baixa
-Manutenção mal sucedida,12,7.0,0.6,Alta
-Falha de roteador,11,4.1,1.0,Média
-Interferência externa,19,5.9,0.4,Baixa
-Cabo rompido,4,4.8,0.6,Alta
-Interferência externa,9,4.7,0.5,Alta
-Manutenção mal sucedida,15,3.8,0.9,Baixa
-Erro de firmware,11,7.5,0.9,Alta
-Falha de roteador,8,4.4,0.5,Baixa
-Falta de energia,17,6.0,0.4,Alta
-Cabo rompido,13,2.2,0.7,Alta
-Erro de firmware,10,6.8,0.5,Média
-Curto-circuito,11,6.6,0.8,Média
-Cabo rompido,10,5.1,0.3,Média
-Curto-circuito,10,4.7,0.4,Média
-Atualização mal aplicada,11,5.6,0.8,Baixa
-Atualização mal aplicada,11,8.4,0.4,Alta
-Cabo rompido,7,2.4,0.9,Média
-Manutenção mal sucedida,17,6.2,0.3,Alta
-Erro de firmware,9,3.6,0.5,Média
-Manutenção mal sucedida,11,5.0,1.0,Alta
-Curto-circuito,9,4.6,0.6,Alta
-Conexão instável,19,4.4,0.8,Média
-Erro de firmware,9,5.0,0.4,Alta
-Curto-circuito,7,3.3,0.7,Alta
-Atualização mal aplicada,7,6.5,0.8,Média
-Falha de roteador,10,2.3,0.5,Média
-Cabo rompido,5,5.8,0.9,Baixa
-Falha de roteador,10,4.5,0.7,Média
-Falha de roteador,7,3.2,0.6,Alta
-Cabo rompido,13,5.3,0.7,Média
-Atualização mal aplicada,9,2.7,0.7,Alta
-Interferência externa,10,5.1,0.4,Média
-Erro de firmware,16,2.9,0.6,Baixa
-Atualização mal aplicada,4,5.7,0.5,Média
-Manutenção mal sucedida,10,3.6,0.6,Média
-Atualização mal aplicada,7,4.3,0.8,Alta
-Falta de energia,19,5.4,0.6,Média
-Manutenção mal sucedida,10,3.8,1.0,Baixa
-Conexão instável,11,4.9,0.5,Alta
-Cabo rompido,6,2.7,0.6,Alta
-Cabo rompido,8,5.9,0.9,Média
-Conexão instável,11,7.6,0.7,Média
-Atualização mal aplicada,9,9.2,0.7,Alta
-Falta de energia,7,5.1,0.3,Baixa
-Atualização mal aplicada,7,6.2,0.6,Alta
-Erro de firmware,6,2.3,0.5,Alta
-Manutenção mal sucedida,12,7.3,1.0,Média
-Interferência externa,9,6.2,0.5,Alta
-Falha de roteador,11,4.3,0.9,Média
-Conexão instável,15,6.9,0.8,Alta
-Falha de roteador,9,4.6,0.5,Alta
-Erro de firmware,12,4.3,0.7,Alta
-Curto-circuito,12,5.7,0.9,Baixa
-Cabo rompido,10,3.4,0.9,Média
-Interferência externa,7,6.5,0.4,Média
-Erro de firmware,9,3.4,0.5,Alta
-Cabo rompido,9,3.4,0.5,Média
-Curto-circuito,12,3.6,0.3,Média
-Curto-circuito,5,6.1,0.7,Baixa
-Interferência externa,15,4.1,0.9,Média
-Falta de energia,10,3.0,0.6,Média
-Falta de energia,9,4.1,0.8,Alta
-Atualização mal aplicada,10,5.0,0.7,Média
-Curto-circuito,6,3.2,0.6,Média
-Erro de firmware,16,3.3,0.4,Baixa
-Atualização mal aplicada,7,8.2,0.8,Alta
-Conexão instável,7,3.7,0.9,Alta
-Falta de energia,10,4.5,0.8,Média
-Cabo rompido,5,4.4,0.3,Alta
-Erro de firmware,10,4.4,0.5,Alta
-Cabo rompido,13,5.9,0.3,Baixa
-Atualização mal aplicada,13,6.4,0.7,Média
-Conexão instável,10,4.5,0.8,Baixa
-Manutenção mal sucedida,9,3.1,0.4,Baixa
-Interferência externa,12,6.9,0.9,Alta
-Manutenção mal sucedida,11,4.9,0.7,Média
-Erro de firmware,15,7.6,0.8,Alta
-Atualização mal aplicada,5,1.6,1.0,Baixa
-Erro de firmware,10,5.3,0.4,Média
-Erro de firmware,8,7.9,0.9,Alta
-Interferência externa,8,4.5,0.4,Alta
-Atualização mal aplicada,7,4.7,0.6,Média
-Erro de firmware,7,5.4,0.9,Alta
-Cabo rompido,6,4.2,0.9,Alta
-Conexão instável,11,4.5,0.7,Média
-Falta de energia,8,4.5,0.7,Baixa
-Erro de firmware,8,4.1,0.8,Alta
-Curto-circuito,6,6.8,0.9,Média
-Curto-circuito,8,5.7,0.4,Baixa
-Erro de firmware,7,5.4,0.9,Alta
-Interferência externa,6,6.2,0.6,Baixa
-Manutenção mal sucedida,11,4.6,0.6,Alta
-Manutenção mal sucedida,10,3.8,0.6,Média
-Interferência externa,11,4.1,0.7,Média
-Conexão instável,14,5.0,1.0,Média
-Falta de energia,12,3.4,0.7,Baixa
-Curto-circuito,9,4.2,1.0,Alta
-Conexão instável,10,4.2,0.4,Alta
-Interferência externa,13,8.2,0.8,Média
-Atualização mal aplicada,11,0.8,0.9,Baixa
-Manutenção mal sucedida,12,4.7,0.8,Alta
-Erro de firmware,13,7.6,0.7,Baixa
-Falha de roteador,11,5.2,0.7,Alta
-Falha de roteador,9,6.1,0.9,Alta
-Manutenção mal sucedida,10,5.1,0.9,Média
-Falha de roteador,16,4.0,0.4,Alta
-Falha de roteador,5,1.6,0.9,Média
-Atualização mal aplicada,14,5.3,0.6,Alta
-Erro de firmware,5,3.8,0.5,Alta
-Cabo rompido,7,3.8,0.9,Média
-Falta de energia,13,4.3,0.6,Média
-Erro de firmware,13,7.6,0.9,Média
-Falta de energia,11,8.6,0.5,Média
-Atualização mal aplicada,8,5.3,0.3,Alta
-Atualização mal aplicada,10,4.3,0.6,Média
-Falta de energia,16,3.2,0.4,Baixa
-Atualização mal aplicada,6,5.7,0.8,Baixa
-Atualização mal aplicada,16,7.7,0.5,Alta
-Atualização mal aplicada,6,4.6,0.6,Alta
-Manutenção mal sucedida,12,1.4,0.4,Baixa
-Falta de energia,8,6.0,0.5,Média
-Curto-circuito,8,6.5,0.8,Média
-Conexão instável,14,2.6,0.4,Média
-Curto-circuito,8,5.3,0.8,Alta
-Falta de energia,6,5.7,0.9,Média
-Falha de roteador,20,4.9,0.8,Baixa
-Cabo rompido,14,3.8,0.9,Média
-Cabo rompido,11,6.5,0.4,Alta
-Atualização mal aplicada,9,4.4,0.5,Alta
-Falha de roteador,12,2.8,0.9,Alta
-Falta de energia,9,1.9,0.8,Média
-Conexão instável,10,6.9,0.7,Alta
-Atualização mal aplicada,16,5.9,0.8,Alta
-Atualização mal aplicada,14,5.1,0.6,Baixa
-Manutenção mal sucedida,13,4.3,0.3,Alta
-Conexão instável,9,4.2,0.8,Alta
-Falta de energia,10,3.4,0.8,Alta
-Falha de roteador,18,4.4,0.6,Alta
-Curto-circuito,5,1.8,0.9,Média
-Cabo rompido,3,3.9,0.5,Baixa
-Cabo rompido,7,4.5,0.5,Baixa
-Falha de roteador,9,5.9,0.9,Média
-Falta de energia,12,4.9,0.9,Média
-Falha de roteador,8,6.2,0.7,Média
-Erro de firmware,13,7.0,0.4,Alta
-Atualização mal aplicada,10,6.6,0.5,Alta
-Manutenção mal sucedida,10,5.7,0.8,Baixa
-Interferência externa,7,5.0,0.6,Alta
-Conexão instável,7,3.5,0.9,Alta
-Manutenção mal sucedida,12,6.1,1.0,Média
-Falha de roteador,16,7.5,0.9,Média
-Falha de roteador,15,5.5,0.6,Alta
-Falta de energia,9,7.9,0.9,Alta
-Interferência externa,15,2.7,0.5,Alta
-Falha de roteador,6,3.3,0.4,Média
-Cabo rompido,15,6.3,0.3,Alta
-Curto-circuito,9,5.4,0.6,Média
-Manutenção mal sucedida,11,7.0,0.9,Média
-Conexão instável,11,5.0,0.5,Baixa
-Curto-circuito,15,3.7,0.4,Alta
-Curto-circuito,18,4.7,1.0,Alta
-Curto-circuito,10,2.7,0.3,Média
-Falha de roteador,9,3.3,0.9,Média
-Manutenção mal sucedida,10,6.5,0.5,Alta
-Conexão instável,11,6.3,0.3,Média
-Cabo rompido,14,5.5,0.9,Alta
-Cabo rompido,7,2.4,0.4,Alta
-Interferência externa,13,4.5,0.7,Média
-Falha de roteador,13,3.2,0.5,Alta
-Conexão instável,8,6.8,0.3,Baixa
-Interferência externa,16,4.1,0.3,Média
-Interferência externa,7,3.4,0.4,Média
-Interferência externa,6,5.0,0.3,Média
-Manutenção mal sucedida,10,4.0,0.8,Média
-Conexão instável,16,7.2,0.6,Alta
-Falta de energia,10,3.9,0.5,Baixa
-Erro de firmware,13,2.9,0.6,Baixa
-Interferência externa,8,1.8,1.0,Alta
-Falta de energia,7,5.0,0.9,Alta
-Falta de energia,8,4.2,0.8,Alta
-Falha de roteador,7,2.9,0.9,Média
-Cabo rompido,14,6.8,0.5,Média
-Erro de firmware,7,6.0,0.6,Baixa
-Manutenção mal sucedida,8,5.0,0.7,Média
-Manutenção mal sucedida,9,7.0,0.7,Média
-Atualização mal aplicada,11,6.0,0.6,Média
-Cabo rompido,16,3.8,0.6,Média
-Cabo rompido,7,3.4,1.0,Média
-Falta de energia,11,6.2,0.9,Média
-Interferência externa,9,5.6,0.6,Média
-Cabo rompido,12,5.3,0.8,Média
-Erro de firmware,8,3.7,0.5,Média
-Interferência externa,9,5.9,0.4,Média
-Falta de energia,17,3.9,0.5,Média
-Erro de firmware,8,4.8,0.6,Média
-Falha de roteador,10,7.2,0.3,Média
-Erro de firmware,12,4.0,0.9,Média
-Conexão instável,11,2.6,0.6,Média
-Falha de roteador,6,3.4,0.7,Alta
-Falta de energia,14,6.5,0.4,Alta
-Interferência externa,13,5.4,0.4,Média
-Falha de roteador,9,4.8,0.9,Média
-Falta de energia,13,4.2,0.7,Baixa
-Cabo rompido,10,5.7,1.0,Alta
-Erro de firmware,10,3.7,1.0,Alta
-Atualização mal aplicada,17,5.5,0.6,Alta
-Conexão instável,8,3.9,0.5,Alta
-Falta de energia,14,3.7,0.9,Média
-Manutenção mal sucedida,12,4.0,1.0,Alta
-Atualização mal aplicada,7,4.4,0.7,Média
-Curto-circuito,4,4.9,0.9,Média
-Interferência externa,10,5.4,0.8,Média
-Cabo rompido,13,-0.5,0.5,Baixa
-Erro de firmware,7,3.8,0.7,Média
-Falta de energia,14,4.4,0.9,Alta
-Falha de roteador,9,7.3,0.8,Baixa
-Cabo rompido,6,3.4,0.3,Baixa
-Curto-circuito,17,5.2,0.5,Alta
-Interferência externa,7,7.2,0.4,Alta
-Erro de firmware,16,3.0,0.5,Alta
-Atualização mal aplicada,8,5.6,0.9,Alta
-Falta de energia,2,3.8,0.3,Baixa
-Atualização mal aplicada,8,4.2,0.5,Média
-Falta de energia,10,3.8,0.5,Alta
-Cabo rompido,7,3.9,0.7,Baixa
-Manutenção mal sucedida,8,9.1,0.7,Média
-Curto-circuito,10,6.3,0.5,Alta
-Conexão instável,7,6.7,0.4,Baixa
-Cabo rompido,9,5.7,0.5,Baixa
-Conexão instável,10,2.6,0.7,Baixa
-Interferência externa,11,5.6,0.5,Média
-Manutenção mal sucedida,9,6.6,1.0,Média
-Curto-circuito,12,3.7,0.6,Alta
-Erro de firmware,11,6.4,0.3,Média
-Falta de energia,9,6.1,0.8,Baixa
-Interferência externa,8,7.8,0.5,Alta
-Falha de roteador,10,4.4,0.8,Média
-Curto-circuito,13,3.4,0.5,Média
-Curto-circuito,11,4.5,0.7,Alta
-Falta de energia,16,7.2,0.8,Média
-Atualização mal aplicada,12,2.3,0.9,Alta
-Falha de roteador,7,1.9,0.5,Média
-Curto-circuito,14,5.1,0.5,Alta
-Interferência externa,16,4.3,0.6,Baixa
-Atualização mal aplicada,10,5.0,0.9,Alta
-Falha de roteador,13,6.4,0.9,Alta
-Erro de firmware,16,4.2,0.4,Alta
-Falha de roteador,6,2.2,0.4,Baixa
-Atualização mal aplicada,6,8.1,0.6,Média
-Falha de roteador,9,3.5,0.4,Média
-Falha de roteador,11,3.4,0.5,Média
-Falha de roteador,10,6.7,0.4,Média
-Falha de roteador,11,4.4,0.7,Alta
-Falta de energia,10,4.9,1.0,Média
-Interferência externa,8,5.7,1.0,Alta
-Conexão instável,9,6.6,0.6,Baixa
-Interferência externa,11,4.5,0.7,Média
-Erro de firmware,11,7.3,0.9,Média
-Atualização mal aplicada,8,1.8,0.4,Alta
-Atualização mal aplicada,12,6.1,0.8,Média
-Curto-circuito,9,3.7,0.6,Alta
-Interferência externa,14,7.1,0.4,Alta
-Falta de energia,8,5.2,0.6,Alta
-Interferência externa,14,4.0,0.4,Média
-Erro de firmware,9,6.0,0.8,Média
-Curto-circuito,13,6.3,0.5,Alta
-Cabo rompido,12,6.0,0.5,Alta
-Conexão instável,15,3.5,0.4,Média
-Curto-circuito,10,4.3,0.9,Média
-Atualização mal aplicada,9,5.0,0.6,Alta
-Cabo rompido,4,4.9,0.7,Alta
-Falha de roteador,8,6.1,0.7,Baixa
-Falta de energia,12,2.0,0.6,Baixa
-Manutenção mal sucedida,10,5.5,0.4,Baixa
-Manutenção mal sucedida,14,4.6,0.8,Baixa
-Falha de roteador,12,3.7,0.4,Alta
-Curto-circuito,17,3.9,0.4,Alta
-Falha de roteador,13,4.7,0.8,Alta
-Interferência externa,16,-0.4,0.4,Alta
-Cabo rompido,13,3.9,0.5,Baixa
-Curto-circuito,9,3.7,0.6,Média
-Interferência externa,13,5.8,0.6,Média
-Curto-circuito,8,3.8,0.8,Alta
-Falha de roteador,10,4.7,0.7,Baixa
-Falha de roteador,8,7.3,0.8,Baixa
-Cabo rompido,12,6.5,0.8,Alta
-Curto-circuito,11,6.4,0.5,Baixa
-Curto-circuito,12,4.3,0.5,Alta
-Atualização mal aplicada,14,5.8,0.6,Alta
-Atualização mal aplicada,8,4.6,0.5,Média
-Interferência externa,10,4.7,1.0,Média
-Conexão instável,9,5.6,0.9,Alta
-Erro de firmware,5,4.1,0.4,Alta
-Conexão instável,7,7.2,0.3,Baixa
-Manutenção mal sucedida,7,4.8,0.3,Média
-Conexão instável,11,5.9,0.5,Média
-Curto-circuito,10,7.2,0.4,Alta
-Interferência externa,11,6.5,0.7,Alta
-Interferência externa,10,2.9,0.9,Alta
-Cabo rompido,13,5.7,0.8,Alta
-Interferência externa,6,6.3,0.5,Alta
-Erro de firmware,9,6.3,0.6,Alta
-Erro de firmware,10,3.3,0.7,Média
-Cabo rompido,16,4.0,0.9,Alta
-Atualização mal aplicada,7,6.5,0.9,Baixa
-Falta de energia,9,3.9,0.9,Alta
-Erro de firmware,10,4.6,0.7,Média
-Curto-circuito,8,7.4,0.8,Alta
-Falta de energia,6,4.9,0.4,Média
-Falta de energia,11,3.9,0.7,Alta
-Cabo rompido,17,3.7,0.5,Baixa
-Falha de roteador,6,5.5,0.6,Média
-Cabo rompido,14,3.0,0.7,Média
-Falta de energia,17,4.6,0.5,Alta
-Falha de roteador,8,5.5,0.3,Média
-Manutenção mal sucedida,12,6.9,0.3,Média
-Atualização mal aplicada,6,6.0,0.3,Alta
-Atualização mal aplicada,8,3.9,0.3,Média
-Conexão instável,8,6.8,0.4,Baixa
+Conexão intermitente,202,2.3,0.14,Média
+Conexão intermitente,288,2.1,0.19,Alta
+Conexão intermitente,174,2.0,0.17,Média
+Conexão intermitente,251,2.2,0.11,Média
+Conexão intermitente,257,1.7,0.14,Alta
+Conexão intermitente,260,1.8,0.2,Média
+Conexão intermitente,188,1.8,0.22,Média
+Conexão intermitente,287,1.9,0.19,Alta
+Conexão intermitente,289,1.7,0.2,Média
+Conexão intermitente,230,2.4,0.24,Alta
+Conexão intermitente,266,1.5,0.29,Média
+Conexão intermitente,108,1.5,0.15,Média
+Conexão intermitente,210,2.2,0.22,Média
+Conexão intermitente,274,1.7,0.18,Média
+Conexão intermitente,203,2.3,0.19,Média
+Conexão intermitente,205,2.1,0.11,Média
+Conexão intermitente,143,2.4,0.28,Média
+Conexão intermitente,194,2.4,0.12,Alta
+Conexão intermitente,289,1.8,0.18,Média
+Conexão intermitente,210,2.3,0.17,Média
+Conexão intermitente,287,2.0,0.13,Alta
+Conexão intermitente,144,1.6,0.3,Média
+Conexão intermitente,228,1.7,0.1,Alta
+Conexão intermitente,180,2.2,0.26,Alta
+Conexão intermitente,104,2.4,0.23,Média
+Conexão intermitente,234,2.4,0.19,Alta
+Conexão intermitente,147,1.9,0.23,Alta
+Conexão intermitente,198,2.1,0.15,Alta
+Conexão intermitente,292,1.9,0.29,Alta
+Conexão intermitente,100,2.2,0.15,Média
+Conexão intermitente,202,1.5,0.24,Média
+Conexão intermitente,141,1.9,0.14,Média
+Conexão intermitente,151,2.1,0.24,Alta
+Conexão intermitente,250,2.1,0.21,Alta
+Conexão intermitente,135,2.4,0.22,Alta
+Conexão intermitente,185,2.4,0.22,Média
+Conexão intermitente,284,1.6,0.19,Média
+Conexão intermitente,143,1.9,0.28,Média
+Conexão intermitente,191,1.9,0.28,Alta
+Conexão intermitente,220,2.1,0.1,Alta
+Conexão intermitente,102,1.5,0.2,Alta
+Conexão intermitente,161,1.7,0.12,Média
+Conexão intermitente,251,2.4,0.16,Média
+Conexão intermitente,279,1.9,0.29,Média
+Conexão intermitente,111,1.8,0.2,Alta
+Conexão intermitente,200,1.8,0.11,Alta
+Conexão intermitente,101,2.0,0.11,Alta
+Conexão intermitente,228,1.7,0.13,Média
+Conexão intermitente,259,2.1,0.22,Alta
+Conexão intermitente,283,1.7,0.25,Média
+Conexão intermitente,168,2.1,0.23,Alta
+Conexão intermitente,243,2.3,0.16,Média
+Conexão intermitente,192,2.4,0.17,Média
+Conexão intermitente,246,2.2,0.26,Média
+Conexão intermitente,195,1.6,0.29,Média
+Conexão intermitente,227,2.0,0.27,Alta
+Conexão intermitente,284,1.6,0.28,Média
+Conexão intermitente,141,1.8,0.23,Média
+Conexão intermitente,211,2.1,0.21,Média
+Conexão intermitente,228,1.6,0.28,Alta
+Conexão intermitente,259,2.1,0.17,Alta
+Conexão intermitente,246,2.2,0.28,Média
+Conexão intermitente,153,2.3,0.23,Alta
+Conexão intermitente,212,1.7,0.28,Média
+Conexão intermitente,211,1.6,0.23,Alta
+Conexão intermitente,245,1.7,0.21,Média
+Conexão intermitente,262,2.2,0.14,Alta
+Conexão intermitente,167,1.7,0.17,Média
+Conexão intermitente,227,2.2,0.24,Média
+Conexão intermitente,132,2.0,0.2,Média
+Conexão intermitente,218,1.8,0.22,Média
+Conexão intermitente,208,2.0,0.28,Alta
+Conexão intermitente,120,2.0,0.22,Média
+Conexão intermitente,296,1.7,0.2,Média
+Conexão intermitente,134,2.3,0.11,Média
+Conexão intermitente,257,2.5,0.28,Alta
+Conexão intermitente,223,1.5,0.29,Alta
+Conexão intermitente,145,2.5,0.29,Alta
+Conexão intermitente,215,1.8,0.18,Alta
+Conexão intermitente,260,1.8,0.13,Alta
+Conexão intermitente,153,2.2,0.21,Média
+Conexão intermitente,213,2.1,0.3,Média
+Conexão intermitente,226,2.0,0.28,Alta
+Conexão intermitente,203,2.2,0.24,Média
+Conexão intermitente,138,1.8,0.26,Alta
+Conexão intermitente,149,2.4,0.28,Média
+Conexão intermitente,234,2.0,0.26,Alta
+Conexão intermitente,107,2.2,0.26,Média
+Conexão intermitente,214,1.8,0.18,Média
+Conexão intermitente,131,2.1,0.11,Alta
+Conexão intermitente,285,2.0,0.16,Média
+Conexão intermitente,157,1.5,0.11,Média
+Conexão intermitente,114,1.9,0.13,Alta
+Conexão intermitente,107,2.3,0.14,Alta
+Conexão intermitente,202,1.6,0.11,Média
+Conexão intermitente,193,2.0,0.23,Média
+Conexão intermitente,243,2.5,0.2,Média
+Conexão intermitente,246,2.3,0.15,Média
+Conexão intermitente,157,1.6,0.11,Alta
+Conexão intermitente,161,2.3,0.24,Alta
+Conexão intermitente,228,1.7,0.13,Média
+Conexão intermitente,195,2.0,0.24,Média
+Conexão intermitente,216,2.1,0.2,Média
+Conexão intermitente,290,1.9,0.25,Alta
+Conexão intermitente,175,2.1,0.13,Média
+Conexão intermitente,284,1.8,0.12,Alta
+Conexão intermitente,193,2.4,0.24,Média
+Conexão intermitente,243,1.6,0.2,Alta
+Conexão intermitente,199,1.7,0.19,Alta
+Conexão intermitente,109,2.4,0.28,Média
+Conexão intermitente,237,2.1,0.2,Alta
+Conexão intermitente,168,2.2,0.22,Média
+Conexão intermitente,101,1.5,0.22,Alta
+Conexão intermitente,183,2.1,0.18,Média
+Conexão intermitente,132,2.0,0.21,Alta
+Conexão intermitente,111,1.9,0.29,Média
+Conexão intermitente,142,1.7,0.11,Alta
+Conexão intermitente,145,1.5,0.12,Alta
+Conexão intermitente,180,2.2,0.18,Média
+Conexão intermitente,189,1.8,0.15,Alta
+Conexão intermitente,295,2.2,0.17,Alta
+Conexão intermitente,256,1.5,0.18,Alta
+Conexão intermitente,263,1.7,0.25,Média
+Conexão intermitente,276,2.2,0.13,Alta
+Conexão intermitente,195,1.8,0.29,Alta
+Conexão intermitente,111,1.9,0.25,Alta
+Conexão intermitente,198,1.6,0.28,Média
+Conexão intermitente,183,2.3,0.16,Alta
+Conexão intermitente,118,1.9,0.1,Alta
+Conexão intermitente,246,1.6,0.16,Média
+Conexão intermitente,227,2.0,0.2,Média
+Conexão intermitente,216,1.6,0.22,Média
+Conexão intermitente,222,1.7,0.29,Média
+Conexão intermitente,156,1.6,0.29,Média
+Conexão intermitente,266,2.5,0.11,Alta
+Conexão intermitente,174,1.6,0.13,Média
+Conexão intermitente,285,2.1,0.12,Alta
+Conexão intermitente,273,2.2,0.11,Média
+Conexão intermitente,126,2.2,0.12,Alta
+Conexão intermitente,265,2.5,0.17,Alta
+Conexão intermitente,185,2.3,0.29,Alta
+Conexão intermitente,144,2.3,0.18,Alta
+Conexão intermitente,118,2.3,0.21,Alta
+Conexão intermitente,189,1.8,0.19,Alta
+Conexão intermitente,240,1.9,0.21,Média
+Conexão intermitente,299,1.6,0.23,Alta
+Conexão intermitente,230,2.1,0.29,Alta
+Conexão intermitente,212,1.6,0.21,Alta
+Conexão intermitente,233,2.3,0.3,Alta
+Conexão intermitente,160,1.8,0.11,Alta
+Conexão intermitente,263,2.1,0.29,Média
+Conexão intermitente,146,2.1,0.24,Alta
+Conexão intermitente,100,2.1,0.22,Média
+Conexão intermitente,284,2.4,0.29,Média
+Conexão intermitente,299,1.9,0.12,Alta
+Conexão intermitente,107,1.7,0.23,Média
+Conexão intermitente,285,1.7,0.15,Alta
+Conexão intermitente,140,1.8,0.19,Alta
+Conexão intermitente,244,1.8,0.18,Alta
+Conexão intermitente,256,1.6,0.12,Média
+Conexão intermitente,181,1.9,0.22,Alta
+Conexão intermitente,293,1.6,0.28,Alta
+Conexão intermitente,208,1.7,0.18,Média
+Conexão intermitente,164,2.0,0.3,Alta
+Conexão intermitente,184,2.2,0.18,Alta
+Conexão intermitente,126,2.1,0.11,Alta
+Conexão intermitente,198,1.6,0.1,Alta
+Conexão intermitente,105,2.2,0.21,Alta
+Conexão intermitente,201,2.4,0.22,Alta
+Conexão intermitente,264,2.3,0.18,Alta
+Conexão intermitente,177,1.7,0.15,Alta
+Conexão intermitente,103,1.7,0.23,Média
+Conexão intermitente,133,1.9,0.12,Média
+Conexão intermitente,261,2.0,0.27,Média
+Conexão intermitente,111,2.3,0.29,Média
+Conexão intermitente,156,2.1,0.2,Alta
+Conexão intermitente,184,2.1,0.26,Alta
+Conexão intermitente,265,2.1,0.3,Média
+Conexão intermitente,197,2.1,0.21,Alta
+Conexão intermitente,290,2.2,0.21,Alta
+Conexão intermitente,178,1.9,0.22,Alta
+Conexão intermitente,180,2.4,0.13,Média
+Conexão intermitente,244,2.0,0.15,Média
+Conexão intermitente,168,2.5,0.2,Alta
+Conexão intermitente,225,2.1,0.15,Alta
+Conexão intermitente,210,1.6,0.13,Alta
+Conexão intermitente,217,2.2,0.14,Média
+Conexão intermitente,283,1.9,0.27,Alta
+Conexão intermitente,192,2.5,0.22,Alta
+Conexão intermitente,246,2.3,0.17,Média
+Conexão intermitente,160,1.5,0.21,Alta
+Conexão intermitente,111,1.7,0.17,Média
+Conexão intermitente,144,1.8,0.12,Alta
+Conexão intermitente,220,2.2,0.2,Alta
+Conexão intermitente,162,1.9,0.1,Média
+Conexão intermitente,100,1.6,0.22,Média
+Conexão intermitente,146,1.9,0.2,Média
+Conexão intermitente,127,1.9,0.19,Alta
+Conexão intermitente,253,1.5,0.15,Alta
+Conexão intermitente,102,2.4,0.2,Alta
+Falha de hardware,117,1.9,0.21,Alta
+Falha de hardware,291,1.8,0.18,Média
+Falha de hardware,138,1.8,0.14,Média
+Falha de hardware,225,1.6,0.28,Média
+Falha de hardware,124,2.2,0.26,Alta
+Falha de hardware,245,1.6,0.21,Média
+Falha de hardware,210,2.2,0.19,Alta
+Falha de hardware,141,1.8,0.17,Média
+Falha de hardware,163,2.1,0.17,Alta
+Falha de hardware,297,2.1,0.15,Média
+Falha de hardware,120,1.7,0.15,Média
+Falha de hardware,193,1.7,0.16,Alta
+Falha de hardware,251,2.4,0.12,Alta
+Falha de hardware,130,1.9,0.3,Alta
+Falha de hardware,105,1.9,0.29,Média
+Falha de hardware,178,2.3,0.15,Média
+Falha de hardware,278,2.3,0.24,Alta
+Falha de hardware,235,2.0,0.27,Alta
+Falha de hardware,169,2.5,0.24,Média
+Falha de hardware,119,1.7,0.12,Média
+Falha de hardware,241,1.8,0.22,Alta
+Falha de hardware,199,1.8,0.22,Média
+Falha de hardware,277,2.0,0.21,Média
+Falha de hardware,271,1.7,0.24,Média
+Falha de hardware,164,1.6,0.1,Alta
+Falha de hardware,242,2.0,0.18,Média
+Falha de hardware,194,2.4,0.27,Média
+Falha de hardware,277,1.6,0.25,Alta
+Falha de hardware,261,1.7,0.11,Média
+Falha de hardware,163,2.1,0.27,Média
+Falha de hardware,110,2.3,0.14,Média
+Falha de hardware,134,1.7,0.26,Alta
+Falha de hardware,177,2.0,0.17,Alta
+Falha de hardware,141,1.9,0.26,Alta
+Falha de hardware,203,1.9,0.19,Média
+Falha de hardware,196,2.2,0.2,Alta
+Falha de hardware,244,2.4,0.18,Média
+Falha de hardware,152,2.4,0.22,Alta
+Falha de hardware,297,2.4,0.23,Média
+Falha de hardware,141,1.6,0.26,Alta
+Falha de hardware,132,2.0,0.28,Média
+Falha de hardware,256,1.7,0.16,Alta
+Falha de hardware,254,2.2,0.11,Média
+Falha de hardware,165,2.3,0.28,Alta
+Falha de hardware,217,2.3,0.12,Média
+Falha de hardware,208,1.6,0.18,Alta
+Falha de hardware,235,1.6,0.15,Média
+Falha de hardware,272,2.2,0.23,Alta
+Falha de hardware,263,2.0,0.15,Alta
+Falha de hardware,247,1.7,0.28,Média
+Falha de hardware,233,1.9,0.19,Média
+Falha de hardware,206,1.7,0.22,Média
+Falha de hardware,210,2.2,0.22,Média
+Falha de hardware,199,2.4,0.26,Alta
+Falha de hardware,171,2.2,0.25,Alta
+Falha de hardware,221,1.6,0.12,Média
+Falha de hardware,139,2.3,0.28,Alta
+Falha de hardware,145,1.7,0.13,Média
+Falha de hardware,281,2.3,0.17,Média
+Falha de hardware,154,1.7,0.22,Alta
+Falha de hardware,152,1.8,0.26,Alta
+Falha de hardware,253,1.8,0.18,Alta
+Falha de hardware,189,2.4,0.17,Média
+Falha de hardware,261,2.4,0.22,Alta
+Falha de hardware,207,2.4,0.15,Alta
+Falha de hardware,298,1.7,0.11,Alta
+Falha de hardware,276,2.3,0.16,Média
+Falha de hardware,255,1.7,0.2,Alta
+Falha de hardware,183,2.0,0.21,Média
+Falha de hardware,162,2.5,0.2,Alta
+Falha de hardware,240,1.9,0.19,Média
+Falha de hardware,161,1.7,0.14,Alta
+Falha de hardware,129,2.3,0.22,Alta
+Falha de hardware,177,2.2,0.21,Média
+Falha de hardware,212,1.9,0.21,Alta
+Falha de hardware,231,1.7,0.27,Alta
+Falha de hardware,230,1.9,0.15,Média
+Falha de hardware,261,1.9,0.11,Média
+Falha de hardware,131,2.2,0.23,Alta
+Falha de hardware,156,1.7,0.15,Alta
+Falha de hardware,171,1.6,0.26,Alta
+Falha de hardware,150,2.2,0.15,Média
+Falha de hardware,134,1.7,0.24,Média
+Falha de hardware,145,2.3,0.18,Alta
+Falha de hardware,281,1.7,0.16,Média
+Falha de hardware,106,2.1,0.25,Alta
+Falha de hardware,246,1.6,0.28,Alta
+Falha de hardware,287,2.2,0.28,Alta
+Falha de hardware,247,1.8,0.27,Alta
+Falha de hardware,218,1.8,0.22,Média
+Falha de hardware,236,1.9,0.16,Média
+Falha de hardware,185,2.3,0.12,Média
+Falha de hardware,219,2.5,0.19,Média
+Falha de hardware,213,1.5,0.15,Média
+Falha de hardware,293,2.1,0.15,Média
+Falha de hardware,121,2.3,0.3,Média
+Falha de hardware,128,1.7,0.15,Alta
+Falha de hardware,169,2.4,0.12,Média
+Falha de hardware,140,1.8,0.21,Alta
+Falha de hardware,221,2.2,0.12,Média
+Falha de hardware,126,2.4,0.27,Média
+Falha de hardware,197,2.1,0.23,Alta
+Falha de hardware,237,2.4,0.18,Média
+Falha de hardware,289,2.0,0.11,Média
+Falha de hardware,153,2.2,0.12,Média
+Falha de hardware,214,1.7,0.18,Média
+Falha de hardware,110,1.9,0.24,Alta
+Falha de hardware,153,2.0,0.23,Média
+Falha de hardware,249,2.2,0.14,Média
+Falha de hardware,247,1.7,0.27,Alta
+Falha de hardware,289,2.5,0.13,Alta
+Falha de hardware,253,2.0,0.17,Média
+Falha de hardware,116,1.9,0.24,Média
+Falha de hardware,141,2.0,0.12,Média
+Falha de hardware,207,2.2,0.15,Média
+Falha de hardware,111,1.9,0.12,Alta
+Falha de hardware,148,1.6,0.29,Alta
+Falha de hardware,146,1.6,0.29,Alta
+Falha de hardware,107,2.1,0.25,Alta
+Falha de hardware,217,2.1,0.3,Média
+Falha de hardware,188,2.1,0.24,Alta
+Falha de hardware,208,2.2,0.11,Média
+Falha de hardware,298,2.5,0.21,Média
+Falha de hardware,234,1.5,0.24,Alta
+Falha de hardware,214,2.4,0.29,Alta
+Falha de hardware,181,2.2,0.11,Alta
+Falha de hardware,245,2.0,0.23,Média
+Falha de hardware,258,1.9,0.21,Alta
+Falha de hardware,197,2.4,0.21,Média
+Falha de hardware,282,1.9,0.21,Média
+Falha de hardware,103,2.3,0.16,Média
+Falha de hardware,260,2.4,0.22,Média
+Falha de hardware,293,1.5,0.27,Média
+Falha de hardware,112,2.0,0.29,Alta
+Falha de hardware,222,2.5,0.17,Média
+Falha de hardware,161,2.0,0.23,Média
+Falha de hardware,220,2.3,0.18,Alta
+Falha de hardware,183,2.2,0.15,Alta
+Falha de hardware,272,1.9,0.16,Média
+Falha de hardware,245,1.7,0.11,Alta
+Falha de hardware,280,2.5,0.19,Alta
+Falha de hardware,220,2.2,0.14,Média
+Falha de hardware,136,2.3,0.12,Média
+Falha de hardware,138,2.4,0.29,Alta
+Falha de hardware,161,2.1,0.13,Média
+Falha de hardware,103,1.7,0.29,Alta
+Falha de hardware,153,2.1,0.2,Média
+Falha de hardware,206,1.7,0.14,Alta
+Falha de hardware,102,2.3,0.26,Média
+Falha de hardware,146,1.7,0.2,Média
+Falha de hardware,221,2.0,0.15,Alta
+Falha de hardware,277,2.0,0.3,Alta
+Falha de hardware,259,2.0,0.22,Alta
+Falha de hardware,188,2.1,0.22,Média
+Falha de hardware,110,2.4,0.15,Média
+Falha de hardware,128,2.4,0.29,Média
+Falha de hardware,269,2.3,0.23,Alta
+Falha de hardware,238,1.6,0.18,Alta
+Falha de hardware,137,1.8,0.24,Média
+Falha de hardware,245,1.6,0.14,Alta
+Falha de hardware,127,1.6,0.27,Média
+Falha de hardware,144,2.0,0.22,Média
+Falha de hardware,166,1.8,0.24,Alta
+Falha de hardware,132,2.4,0.26,Média
+Falha de hardware,191,2.4,0.27,Alta
+Falha de hardware,112,2.3,0.24,Média
+Falha de hardware,199,2.1,0.25,Alta
+Falha de hardware,232,2.4,0.27,Alta
+Falha de hardware,130,2.3,0.13,Alta
+Falha de hardware,280,2.2,0.13,Média
+Falha de hardware,101,2.3,0.2,Alta
+Falha de hardware,293,1.8,0.22,Alta
+Falha de hardware,116,1.6,0.18,Média
+Falha de hardware,187,2.3,0.13,Alta
+Falha de hardware,257,1.5,0.19,Média
+Falha de hardware,162,1.9,0.14,Alta
+Falha de hardware,121,2.4,0.24,Média
+Falha de hardware,167,1.8,0.24,Média
+Falha de hardware,244,2.1,0.17,Média
+Falha de hardware,219,1.5,0.27,Média
+Falha de hardware,274,2.5,0.25,Alta
+Falha de hardware,279,2.3,0.1,Alta
+Falha de hardware,132,1.8,0.2,Alta
+Falha de hardware,157,1.5,0.13,Média
+Falha de hardware,128,2.4,0.12,Alta
+Falha de hardware,138,2.0,0.27,Alta
+Falha de hardware,215,2.3,0.25,Média
+Falha de hardware,121,1.6,0.27,Média
+Falha de hardware,283,1.9,0.29,Média
+Falha de hardware,200,2.1,0.18,Alta
+Falha de hardware,296,2.5,0.18,Média
+Falha de hardware,265,1.7,0.14,Média
+Falha de hardware,124,2.2,0.21,Média
+Falha de hardware,126,2.5,0.14,Alta
+Falha de hardware,192,2.3,0.25,Média
+Falha de hardware,149,2.3,0.23,Média
+Falha de hardware,271,1.5,0.28,Alta
+Falha de hardware,247,2.3,0.2,Média
+Falha de hardware,298,1.6,0.24,Média
+Falha de hardware,108,1.7,0.2,Alta
+Erro de autenticação,216,2.1,0.19,Média
+Erro de autenticação,171,2.0,0.24,Média
+Erro de autenticação,209,2.5,0.24,Alta
+Erro de autenticação,144,2.3,0.29,Alta
+Erro de autenticação,235,2.2,0.25,Alta
+Erro de autenticação,244,1.6,0.21,Alta
+Erro de autenticação,179,2.0,0.14,Alta
+Erro de autenticação,267,1.5,0.17,Média
+Erro de autenticação,132,2.4,0.12,Alta
+Erro de autenticação,215,1.9,0.16,Média
+Erro de autenticação,202,1.7,0.24,Alta
+Erro de autenticação,205,1.7,0.12,Alta
+Erro de autenticação,160,2.2,0.11,Média
+Erro de autenticação,172,1.6,0.21,Média
+Erro de autenticação,107,2.4,0.23,Média
+Erro de autenticação,161,2.1,0.2,Alta
+Erro de autenticação,183,2.1,0.22,Média
+Erro de autenticação,253,2.0,0.11,Média
+Erro de autenticação,205,1.9,0.24,Média
+Erro de autenticação,186,2.2,0.2,Alta
+Erro de autenticação,221,1.8,0.19,Alta
+Erro de autenticação,235,2.4,0.19,Média
+Erro de autenticação,150,1.7,0.1,Alta
+Erro de autenticação,249,1.8,0.21,Alta
+Erro de autenticação,230,1.6,0.18,Alta
+Erro de autenticação,192,1.9,0.14,Alta
+Erro de autenticação,175,1.7,0.29,Média
+Erro de autenticação,288,2.3,0.23,Média
+Erro de autenticação,207,2.3,0.2,Média
+Erro de autenticação,276,2.0,0.22,Média
+Erro de autenticação,216,1.9,0.22,Alta
+Erro de autenticação,261,2.3,0.23,Alta
+Erro de autenticação,214,1.8,0.17,Alta
+Erro de autenticação,117,2.1,0.25,Alta
+Erro de autenticação,125,2.2,0.28,Alta
+Erro de autenticação,141,1.7,0.29,Alta
+Erro de autenticação,136,2.4,0.2,Média
+Erro de autenticação,159,1.9,0.22,Alta
+Erro de autenticação,183,2.1,0.13,Alta
+Erro de autenticação,188,2.5,0.15,Alta
+Erro de autenticação,104,1.8,0.25,Média
+Erro de autenticação,263,2.5,0.19,Alta
+Erro de autenticação,109,1.6,0.13,Média
+Erro de autenticação,192,1.8,0.27,Alta
+Erro de autenticação,232,1.7,0.22,Alta
+Erro de autenticação,156,1.7,0.13,Alta
+Erro de autenticação,206,2.2,0.23,Alta
+Erro de autenticação,148,2.3,0.26,Média
+Erro de autenticação,210,2.4,0.14,Alta
+Erro de autenticação,247,1.8,0.11,Alta
+Erro de autenticação,136,2.4,0.11,Alta
+Erro de autenticação,134,2.0,0.29,Alta
+Erro de autenticação,260,2.0,0.11,Média
+Erro de autenticação,119,2.5,0.29,Alta
+Erro de autenticação,225,2.5,0.23,Alta
+Erro de autenticação,138,2.0,0.2,Média
+Erro de autenticação,250,2.2,0.13,Média
+Erro de autenticação,225,1.8,0.24,Média
+Erro de autenticação,223,2.2,0.29,Alta
+Erro de autenticação,107,1.7,0.15,Alta
+Erro de autenticação,185,1.8,0.23,Alta
+Erro de autenticação,270,2.2,0.2,Alta
+Erro de autenticação,125,2.4,0.21,Média
+Erro de autenticação,171,2.3,0.28,Alta
+Erro de autenticação,246,2.4,0.27,Média
+Erro de autenticação,168,2.1,0.17,Média
+Erro de autenticação,291,1.5,0.3,Alta
+Erro de autenticação,188,2.4,0.26,Alta
+Erro de autenticação,258,2.2,0.28,Alta
+Erro de autenticação,201,1.8,0.23,Média
+Erro de autenticação,181,2.4,0.16,Alta
+Erro de autenticação,174,1.9,0.16,Alta
+Erro de autenticação,188,1.8,0.23,Média
+Erro de autenticação,298,2.1,0.18,Alta
+Erro de autenticação,260,1.7,0.17,Média
+Erro de autenticação,201,1.6,0.22,Média
+Erro de autenticação,173,2.3,0.2,Alta
+Erro de autenticação,125,2.5,0.27,Média
+Erro de autenticação,216,2.3,0.12,Alta
+Erro de autenticação,147,2.1,0.21,Alta
+Erro de autenticação,142,2.3,0.26,Média
+Erro de autenticação,207,2.5,0.1,Alta
+Erro de autenticação,206,1.5,0.23,Média
+Erro de autenticação,242,1.7,0.29,Alta
+Erro de autenticação,167,2.4,0.17,Média
+Erro de autenticação,177,2.0,0.15,Média
+Erro de autenticação,126,2.4,0.21,Média
+Erro de autenticação,243,1.6,0.24,Média
+Erro de autenticação,276,2.5,0.26,Média
+Erro de autenticação,106,2.2,0.14,Alta
+Erro de autenticação,258,2.2,0.12,Média
+Erro de autenticação,288,1.8,0.29,Média
+Erro de autenticação,217,2.3,0.21,Média
+Erro de autenticação,272,2.1,0.29,Alta
+Erro de autenticação,249,2.3,0.28,Alta
+Erro de autenticação,125,1.7,0.22,Média
+Erro de autenticação,220,2.3,0.28,Média
+Erro de autenticação,148,1.7,0.26,Média
+Erro de autenticação,251,2.3,0.18,Média
+Erro de autenticação,188,1.6,0.22,Alta
+Erro de autenticação,282,2.1,0.13,Alta
+Erro de autenticação,207,2.4,0.14,Alta
+Erro de autenticação,249,1.5,0.23,Média
+Erro de autenticação,298,2.0,0.15,Média
+Erro de autenticação,176,2.1,0.2,Média
+Erro de autenticação,163,1.6,0.24,Alta
+Erro de autenticação,141,1.9,0.24,Alta
+Erro de autenticação,123,1.6,0.12,Média
+Erro de autenticação,201,2.1,0.15,Média
+Erro de autenticação,135,1.6,0.28,Alta
+Erro de autenticação,172,1.8,0.15,Alta
+Erro de autenticação,295,1.9,0.27,Média
+Erro de autenticação,104,1.6,0.23,Média
+Erro de autenticação,299,2.2,0.21,Alta
+Erro de autenticação,157,1.8,0.23,Alta
+Erro de autenticação,271,2.2,0.21,Média
+Erro de autenticação,129,1.8,0.22,Média
+Erro de autenticação,135,2.5,0.23,Alta
+Erro de autenticação,154,2.0,0.12,Alta
+Erro de autenticação,154,2.3,0.17,Média
+Erro de autenticação,235,2.3,0.29,Alta
+Erro de autenticação,122,1.9,0.13,Alta
+Erro de autenticação,203,2.3,0.15,Média
+Erro de autenticação,248,1.6,0.15,Média
+Erro de autenticação,131,1.6,0.27,Média
+Erro de autenticação,241,1.6,0.15,Alta
+Erro de autenticação,165,1.9,0.17,Alta
+Erro de autenticação,292,1.8,0.18,Alta
+Erro de autenticação,253,2.1,0.2,Alta
+Erro de autenticação,249,2.0,0.3,Alta
+Erro de autenticação,111,2.4,0.12,Média
+Erro de autenticação,272,1.9,0.28,Média
+Erro de autenticação,233,1.6,0.14,Média
+Erro de autenticação,172,1.8,0.1,Alta
+Erro de autenticação,229,1.7,0.29,Média
+Erro de autenticação,109,2.3,0.13,Média
+Erro de autenticação,132,2.4,0.2,Média
+Erro de autenticação,179,2.3,0.13,Alta
+Erro de autenticação,268,2.3,0.23,Média
+Erro de autenticação,235,2.0,0.2,Alta
+Erro de autenticação,167,1.6,0.26,Média
+Erro de autenticação,195,2.1,0.29,Média
+Erro de autenticação,245,1.8,0.27,Média
+Erro de autenticação,192,1.5,0.22,Alta
+Erro de autenticação,130,1.6,0.26,Média
+Erro de autenticação,188,1.6,0.3,Alta
+Erro de autenticação,258,2.2,0.3,Alta
+Erro de autenticação,236,1.6,0.12,Média
+Erro de autenticação,214,1.7,0.24,Alta
+Erro de autenticação,103,2.1,0.15,Alta
+Erro de autenticação,202,1.7,0.13,Média
+Erro de autenticação,223,2.3,0.24,Alta
+Erro de autenticação,215,1.9,0.23,Alta
+Erro de autenticação,106,2.0,0.2,Alta
+Erro de autenticação,185,2.5,0.15,Média
+Erro de autenticação,248,1.5,0.15,Média
+Erro de autenticação,157,1.7,0.22,Alta
+Erro de autenticação,280,2.3,0.29,Média
+Erro de autenticação,287,2.1,0.2,Média
+Erro de autenticação,282,1.6,0.13,Média
+Erro de autenticação,151,1.7,0.23,Alta
+Erro de autenticação,279,2.4,0.18,Média
+Erro de autenticação,240,1.6,0.12,Média
+Erro de autenticação,236,2.4,0.26,Média
+Erro de autenticação,128,1.8,0.29,Média
+Erro de autenticação,287,2.3,0.27,Alta
+Erro de autenticação,133,1.9,0.19,Alta
+Erro de autenticação,178,2.4,0.19,Alta
+Erro de autenticação,168,2.2,0.2,Alta
+Erro de autenticação,107,1.5,0.12,Alta
+Erro de autenticação,228,1.6,0.11,Média
+Erro de autenticação,116,2.5,0.25,Média
+Erro de autenticação,258,1.8,0.17,Alta
+Erro de autenticação,234,2.3,0.17,Média
+Erro de autenticação,104,2.0,0.27,Média
+Erro de autenticação,163,1.9,0.12,Média
+Erro de autenticação,180,1.8,0.25,Alta
+Erro de autenticação,172,1.9,0.14,Alta
+Erro de autenticação,135,2.1,0.25,Alta
+Erro de autenticação,221,2.0,0.28,Média
+Erro de autenticação,248,1.6,0.19,Média
+Erro de autenticação,217,2.0,0.28,Média
+Erro de autenticação,131,2.1,0.13,Média
+Erro de autenticação,114,1.6,0.22,Alta
+Erro de autenticação,252,1.9,0.21,Média
+Erro de autenticação,213,2.4,0.15,Alta
+Erro de autenticação,271,1.7,0.28,Média
+Erro de autenticação,248,1.8,0.26,Alta
+Erro de autenticação,138,2.3,0.28,Média
+Erro de autenticação,248,2.3,0.19,Média
+Erro de autenticação,145,2.2,0.26,Média
+Erro de autenticação,185,2.3,0.15,Média
+Erro de autenticação,128,2.2,0.12,Alta
+Erro de autenticação,279,2.3,0.14,Alta
+Erro de autenticação,250,2.3,0.25,Alta
+Erro de autenticação,264,2.1,0.2,Alta
+Erro de autenticação,217,2.1,0.24,Alta
+Erro de autenticação,207,2.1,0.25,Alta
+Erro de autenticação,235,2.0,0.1,Alta
+Erro de autenticação,207,2.2,0.3,Média
+Configuração incorreta,163,2.3,0.14,Média
+Configuração incorreta,248,2.2,0.22,Alta
+Configuração incorreta,165,1.9,0.26,Média
+Configuração incorreta,263,1.5,0.25,Média
+Configuração incorreta,111,2.2,0.14,Média
+Configuração incorreta,280,1.9,0.17,Alta
+Configuração incorreta,169,2.4,0.3,Média
+Configuração incorreta,210,1.9,0.24,Média
+Configuração incorreta,253,1.9,0.18,Média
+Configuração incorreta,202,1.5,0.22,Média
+Configuração incorreta,287,2.3,0.12,Alta
+Configuração incorreta,170,2.0,0.23,Média
+Configuração incorreta,179,1.7,0.24,Média
+Configuração incorreta,123,2.2,0.26,Alta
+Configuração incorreta,287,2.3,0.2,Média
+Configuração incorreta,249,2.2,0.25,Média
+Configuração incorreta,216,2.3,0.2,Média
+Configuração incorreta,272,1.6,0.17,Alta
+Configuração incorreta,245,1.9,0.11,Média
+Configuração incorreta,146,2.5,0.29,Alta
+Configuração incorreta,260,1.9,0.23,Média
+Configuração incorreta,146,1.6,0.18,Média
+Configuração incorreta,223,1.9,0.21,Média
+Configuração incorreta,168,1.7,0.17,Média
+Configuração incorreta,102,1.5,0.1,Média
+Configuração incorreta,217,1.8,0.2,Alta
+Configuração incorreta,150,2.4,0.15,Média
+Configuração incorreta,253,2.4,0.27,Alta
+Configuração incorreta,148,1.9,0.29,Média
+Configuração incorreta,169,2.1,0.11,Alta
+Configuração incorreta,262,1.9,0.25,Média
+Configuração incorreta,140,1.7,0.22,Média
+Configuração incorreta,156,2.3,0.23,Média
+Configuração incorreta,257,1.8,0.11,Média
+Configuração incorreta,234,1.7,0.28,Média
+Configuração incorreta,237,1.8,0.25,Média
+Configuração incorreta,169,1.6,0.2,Média
+Configuração incorreta,206,1.6,0.28,Alta
+Configuração incorreta,120,2.0,0.18,Alta
+Configuração incorreta,169,2.4,0.1,Média
+Configuração incorreta,247,1.6,0.28,Alta
+Configuração incorreta,269,2.3,0.26,Média
+Configuração incorreta,156,2.0,0.3,Alta
+Configuração incorreta,230,2.2,0.14,Alta
+Configuração incorreta,246,1.8,0.29,Média
+Configuração incorreta,288,1.6,0.13,Média
+Configuração incorreta,226,1.8,0.27,Alta
+Configuração incorreta,132,2.0,0.12,Média
+Configuração incorreta,127,2.2,0.11,Média
+Configuração incorreta,276,2.0,0.12,Média
+Configuração incorreta,197,2.0,0.13,Média
+Configuração incorreta,121,2.3,0.23,Média
+Configuração incorreta,243,1.9,0.23,Média
+Configuração incorreta,175,1.6,0.2,Média
+Configuração incorreta,158,2.0,0.11,Alta
+Configuração incorreta,148,1.7,0.15,Média
+Configuração incorreta,253,1.8,0.25,Média
+Configuração incorreta,242,1.7,0.28,Média
+Configuração incorreta,215,2.4,0.15,Alta
+Configuração incorreta,267,2.5,0.25,Alta
+Configuração incorreta,165,1.6,0.19,Média
+Configuração incorreta,143,2.0,0.2,Média
+Configuração incorreta,266,2.2,0.26,Média
+Configuração incorreta,270,2.3,0.29,Média
+Configuração incorreta,111,2.0,0.16,Média
+Configuração incorreta,140,2.1,0.23,Alta
+Configuração incorreta,236,1.9,0.28,Média
+Configuração incorreta,141,1.9,0.21,Média
+Configuração incorreta,106,2.1,0.17,Alta
+Configuração incorreta,213,1.7,0.2,Média
+Configuração incorreta,228,1.5,0.17,Média
+Configuração incorreta,223,2.3,0.16,Média
+Configuração incorreta,297,2.5,0.27,Alta
+Configuração incorreta,111,2.2,0.16,Alta
+Configuração incorreta,162,2.0,0.12,Média
+Configuração incorreta,112,1.8,0.3,Média
+Configuração incorreta,158,1.7,0.1,Alta
+Configuração incorreta,230,2.0,0.24,Média
+Configuração incorreta,253,1.6,0.25,Alta
+Configuração incorreta,108,2.3,0.21,Alta
+Configuração incorreta,159,1.8,0.19,Alta
+Configuração incorreta,207,2.0,0.17,Média
+Configuração incorreta,230,2.4,0.21,Média
+Configuração incorreta,120,1.6,0.12,Alta
+Configuração incorreta,262,1.6,0.17,Alta
+Configuração incorreta,181,2.2,0.23,Média
+Configuração incorreta,227,1.9,0.27,Alta
+Configuração incorreta,193,2.5,0.23,Média
+Configuração incorreta,224,2.2,0.17,Média
+Configuração incorreta,255,2.2,0.13,Média
+Configuração incorreta,223,2.5,0.11,Média
+Configuração incorreta,290,1.8,0.27,Alta
+Configuração incorreta,137,1.9,0.11,Alta
+Configuração incorreta,216,1.9,0.25,Média
+Configuração incorreta,244,2.3,0.26,Alta
+Configuração incorreta,214,2.4,0.23,Alta
+Configuração incorreta,286,1.6,0.19,Média
+Configuração incorreta,241,2.4,0.21,Alta
+Configuração incorreta,246,2.5,0.12,Média
+Configuração incorreta,212,1.5,0.25,Média
+Configuração incorreta,201,1.8,0.27,Alta
+Configuração incorreta,209,2.4,0.25,Alta
+Configuração incorreta,127,1.5,0.29,Alta
+Configuração incorreta,172,1.8,0.27,Média
+Configuração incorreta,118,2.4,0.12,Média
+Configuração incorreta,280,2.0,0.12,Média
+Configuração incorreta,108,1.5,0.19,Alta
+Configuração incorreta,241,2.1,0.16,Alta
+Configuração incorreta,177,2.2,0.11,Média
+Configuração incorreta,107,2.4,0.17,Média
+Configuração incorreta,268,2.5,0.23,Média
+Configuração incorreta,161,2.3,0.11,Alta
+Configuração incorreta,110,2.5,0.27,Alta
+Configuração incorreta,248,1.6,0.27,Alta
+Configuração incorreta,271,1.6,0.12,Alta
+Configuração incorreta,236,2.2,0.27,Média
+Configuração incorreta,164,1.5,0.24,Média
+Configuração incorreta,175,2.4,0.19,Alta
+Configuração incorreta,204,1.8,0.13,Média
+Configuração incorreta,120,2.1,0.22,Alta
+Configuração incorreta,278,1.7,0.2,Média
+Configuração incorreta,103,1.9,0.2,Média
+Configuração incorreta,293,1.8,0.19,Alta
+Configuração incorreta,100,1.8,0.18,Média
+Configuração incorreta,252,1.5,0.11,Média
+Configuração incorreta,126,1.6,0.16,Alta
+Configuração incorreta,284,1.8,0.2,Média
+Configuração incorreta,241,2.1,0.16,Média
+Configuração incorreta,276,2.0,0.1,Média
+Configuração incorreta,212,1.7,0.11,Média
+Configuração incorreta,196,1.8,0.26,Alta
+Configuração incorreta,291,2.0,0.16,Média
+Configuração incorreta,108,2.3,0.16,Alta
+Configuração incorreta,187,2.0,0.28,Alta
+Configuração incorreta,140,1.5,0.24,Média
+Configuração incorreta,246,2.0,0.29,Alta
+Configuração incorreta,100,1.9,0.25,Média
+Configuração incorreta,299,2.2,0.15,Alta
+Configuração incorreta,260,2.3,0.29,Média
+Configuração incorreta,296,1.5,0.23,Alta
+Configuração incorreta,257,1.8,0.11,Alta
+Configuração incorreta,183,2.2,0.12,Média
+Configuração incorreta,260,2.0,0.17,Alta
+Configuração incorreta,255,2.0,0.28,Média
+Configuração incorreta,221,1.8,0.25,Média
+Configuração incorreta,290,2.1,0.23,Alta
+Configuração incorreta,174,2.1,0.2,Alta
+Configuração incorreta,217,1.6,0.13,Alta
+Configuração incorreta,183,2.1,0.25,Alta
+Configuração incorreta,265,2.3,0.3,Média
+Configuração incorreta,180,2.2,0.21,Alta
+Configuração incorreta,164,1.6,0.18,Alta
+Configuração incorreta,161,2.1,0.17,Alta
+Configuração incorreta,251,2.2,0.27,Média
+Configuração incorreta,206,1.9,0.23,Alta
+Configuração incorreta,172,1.8,0.26,Média
+Configuração incorreta,207,2.3,0.26,Média
+Configuração incorreta,271,2.4,0.19,Média
+Configuração incorreta,174,2.1,0.17,Alta
+Configuração incorreta,217,2.2,0.24,Alta
+Configuração incorreta,133,1.7,0.19,Média
+Configuração incorreta,264,2.4,0.17,Média
+Configuração incorreta,118,1.5,0.23,Média
+Configuração incorreta,262,1.8,0.11,Média
+Configuração incorreta,238,1.8,0.24,Alta
+Configuração incorreta,235,1.9,0.14,Média
+Configuração incorreta,164,1.6,0.13,Média
+Configuração incorreta,168,1.7,0.3,Alta
+Configuração incorreta,174,1.6,0.12,Média
+Configuração incorreta,206,1.9,0.13,Média
+Configuração incorreta,105,2.3,0.19,Média
+Configuração incorreta,269,2.4,0.12,Média
+Configuração incorreta,223,1.8,0.28,Média
+Configuração incorreta,117,2.3,0.3,Alta
+Configuração incorreta,158,2.5,0.18,Alta
+Configuração incorreta,121,2.0,0.13,Alta
+Configuração incorreta,240,2.0,0.25,Alta
+Configuração incorreta,186,1.9,0.16,Média
+Configuração incorreta,208,1.7,0.11,Média
+Configuração incorreta,226,1.8,0.29,Alta
+Configuração incorreta,167,1.8,0.22,Média
+Configuração incorreta,224,1.9,0.23,Alta
+Configuração incorreta,278,2.3,0.25,Média
+Configuração incorreta,203,1.8,0.26,Alta
+Configuração incorreta,264,2.2,0.13,Alta
+Configuração incorreta,244,2.2,0.28,Alta
+Configuração incorreta,163,2.1,0.22,Média
+Configuração incorreta,272,2.0,0.11,Média
+Configuração incorreta,238,2.0,0.11,Média
+Configuração incorreta,119,2.0,0.11,Média
+Configuração incorreta,116,2.4,0.2,Média
+Configuração incorreta,151,2.4,0.22,Média
+Configuração incorreta,201,2.0,0.21,Alta
+Configuração incorreta,242,2.1,0.28,Alta
+Configuração incorreta,278,2.4,0.19,Média
+Configuração incorreta,278,2.1,0.22,Alta
+Configuração incorreta,208,2.0,0.3,Média
+Configuração incorreta,215,1.5,0.23,Alta
+Configuração incorreta,195,1.7,0.16,Alta
+Configuração incorreta,286,1.5,0.29,Alta
+Atualização pendente,130,2.2,0.25,Média
+Atualização pendente,192,1.5,0.27,Média
+Atualização pendente,141,2.1,0.23,Média
+Atualização pendente,293,1.8,0.25,Média
+Atualização pendente,156,2.3,0.3,Média
+Atualização pendente,107,2.5,0.12,Média
+Atualização pendente,234,1.5,0.17,Alta
+Atualização pendente,100,1.6,0.1,Média
+Atualização pendente,232,2.3,0.26,Alta
+Atualização pendente,263,2.2,0.12,Alta
+Atualização pendente,108,2.2,0.16,Média
+Atualização pendente,257,1.5,0.16,Média
+Atualização pendente,102,2.1,0.22,Média
+Atualização pendente,133,1.5,0.12,Média
+Atualização pendente,115,2.2,0.12,Média
+Atualização pendente,223,2.2,0.11,Média
+Atualização pendente,112,2.2,0.14,Média
+Atualização pendente,138,1.9,0.16,Média
+Atualização pendente,225,1.8,0.1,Alta
+Atualização pendente,152,2.3,0.21,Média
+Atualização pendente,280,1.5,0.14,Alta
+Atualização pendente,156,2.3,0.14,Alta
+Atualização pendente,122,2.4,0.19,Média
+Atualização pendente,299,2.1,0.23,Média
+Atualização pendente,113,2.0,0.15,Alta
+Atualização pendente,251,1.8,0.21,Média
+Atualização pendente,158,2.3,0.15,Alta
+Atualização pendente,258,1.8,0.13,Média
+Atualização pendente,226,1.6,0.25,Alta
+Atualização pendente,284,1.5,0.2,Média
+Atualização pendente,117,1.8,0.24,Alta
+Atualização pendente,187,2.3,0.1,Alta
+Atualização pendente,271,2.2,0.16,Alta
+Atualização pendente,220,1.9,0.15,Alta
+Atualização pendente,261,1.8,0.26,Alta
+Atualização pendente,150,1.9,0.28,Média
+Atualização pendente,155,2.5,0.12,Média
+Atualização pendente,256,1.9,0.23,Média
+Atualização pendente,282,1.5,0.13,Alta
+Atualização pendente,112,1.7,0.16,Alta
+Atualização pendente,116,2.2,0.29,Alta
+Atualização pendente,120,2.0,0.23,Alta
+Atualização pendente,141,1.6,0.2,Alta
+Atualização pendente,127,2.4,0.2,Média
+Atualização pendente,245,2.1,0.25,Alta
+Atualização pendente,223,2.4,0.14,Alta
+Atualização pendente,240,1.9,0.24,Alta
+Atualização pendente,172,2.4,0.25,Média
+Atualização pendente,199,2.2,0.22,Média
+Atualização pendente,236,1.6,0.23,Média
+Atualização pendente,102,1.8,0.23,Alta
+Atualização pendente,127,2.2,0.14,Média
+Atualização pendente,120,1.8,0.17,Alta
+Atualização pendente,148,1.6,0.2,Média
+Atualização pendente,146,2.3,0.1,Alta
+Atualização pendente,201,1.8,0.1,Média
+Atualização pendente,241,1.9,0.2,Alta
+Atualização pendente,201,2.0,0.22,Média
+Atualização pendente,128,2.0,0.29,Média
+Atualização pendente,189,2.2,0.16,Média
+Atualização pendente,115,2.3,0.2,Média
+Atualização pendente,126,2.1,0.12,Alta
+Atualização pendente,261,1.7,0.19,Média
+Atualização pendente,252,2.3,0.2,Média
+Atualização pendente,156,1.9,0.1,Alta
+Atualização pendente,216,2.1,0.29,Alta
+Atualização pendente,150,1.5,0.28,Alta
+Atualização pendente,299,1.7,0.13,Média
+Atualização pendente,294,2.2,0.29,Média
+Atualização pendente,255,2.0,0.11,Média
+Atualização pendente,103,2.5,0.29,Alta
+Atualização pendente,155,2.5,0.21,Alta
+Atualização pendente,131,1.6,0.17,Alta
+Atualização pendente,189,1.7,0.13,Média
+Atualização pendente,124,2.3,0.22,Alta
+Atualização pendente,280,2.0,0.28,Alta
+Atualização pendente,255,2.1,0.26,Alta
+Atualização pendente,151,1.8,0.24,Alta
+Atualização pendente,146,1.6,0.24,Média
+Atualização pendente,213,1.5,0.23,Alta
+Atualização pendente,153,1.9,0.16,Média
+Atualização pendente,114,1.9,0.29,Média
+Atualização pendente,296,2.1,0.29,Média
+Atualização pendente,177,2.0,0.19,Média
+Atualização pendente,102,1.7,0.19,Média
+Atualização pendente,207,2.3,0.3,Alta
+Atualização pendente,149,2.4,0.15,Média
+Atualização pendente,268,1.7,0.29,Média
+Atualização pendente,283,2.2,0.3,Alta
+Atualização pendente,175,1.8,0.19,Alta
+Atualização pendente,154,1.7,0.1,Média
+Atualização pendente,103,2.3,0.25,Alta
+Atualização pendente,197,2.2,0.18,Média
+Atualização pendente,293,2.5,0.18,Média
+Atualização pendente,107,2.3,0.16,Média
+Atualização pendente,164,2.0,0.26,Média
+Atualização pendente,187,2.3,0.27,Média
+Atualização pendente,236,2.3,0.26,Média
+Atualização pendente,255,1.7,0.23,Média
+Atualização pendente,269,1.8,0.27,Média
+Atualização pendente,275,1.6,0.19,Alta
+Atualização pendente,192,2.0,0.23,Média
+Atualização pendente,108,1.7,0.3,Média
+Atualização pendente,228,1.5,0.25,Alta
+Atualização pendente,166,1.9,0.25,Alta
+Atualização pendente,198,2.5,0.22,Média
+Atualização pendente,116,2.3,0.15,Média
+Atualização pendente,280,1.9,0.23,Média
+Atualização pendente,100,1.7,0.28,Média
+Atualização pendente,186,2.0,0.14,Alta
+Atualização pendente,232,1.5,0.14,Média
+Atualização pendente,268,2.5,0.22,Alta
+Atualização pendente,155,2.1,0.2,Média
+Atualização pendente,214,1.8,0.17,Alta
+Atualização pendente,170,2.3,0.18,Média
+Atualização pendente,231,2.3,0.28,Média
+Atualização pendente,215,1.7,0.15,Média
+Atualização pendente,246,2.1,0.11,Média
+Atualização pendente,167,1.8,0.28,Alta
+Atualização pendente,294,1.6,0.27,Alta
+Atualização pendente,288,2.2,0.25,Média
+Atualização pendente,103,1.7,0.28,Alta
+Atualização pendente,280,1.8,0.19,Alta
+Atualização pendente,194,1.6,0.25,Alta
+Atualização pendente,287,2.0,0.11,Média
+Atualização pendente,267,1.7,0.16,Alta
+Atualização pendente,102,2.4,0.11,Média
+Atualização pendente,175,1.7,0.23,Alta
+Atualização pendente,268,2.3,0.18,Média
+Atualização pendente,129,1.8,0.24,Alta
+Atualização pendente,278,1.7,0.17,Alta
+Atualização pendente,146,2.3,0.3,Média
+Atualização pendente,121,1.9,0.22,Alta
+Atualização pendente,115,1.6,0.21,Média
+Atualização pendente,131,1.7,0.26,Alta
+Atualização pendente,238,2.1,0.2,Alta
+Atualização pendente,167,2.4,0.23,Alta
+Atualização pendente,248,2.1,0.26,Alta
+Atualização pendente,150,1.9,0.29,Média
+Atualização pendente,293,2.2,0.24,Alta
+Atualização pendente,297,2.4,0.24,Alta
+Atualização pendente,225,1.8,0.11,Alta
+Atualização pendente,172,1.8,0.17,Média
+Atualização pendente,102,1.6,0.25,Média
+Atualização pendente,274,1.9,0.21,Alta
+Atualização pendente,294,2.0,0.2,Média
+Atualização pendente,227,2.4,0.1,Alta
+Atualização pendente,215,1.6,0.26,Alta
+Atualização pendente,113,2.3,0.12,Média
+Atualização pendente,158,2.0,0.24,Alta
+Atualização pendente,276,2.0,0.19,Alta
+Atualização pendente,126,2.0,0.12,Média
+Atualização pendente,163,2.2,0.29,Média
+Atualização pendente,222,2.4,0.26,Alta
+Atualização pendente,295,2.1,0.16,Média
+Atualização pendente,214,2.0,0.11,Média
+Atualização pendente,283,2.4,0.27,Alta
+Atualização pendente,182,2.1,0.15,Média
+Atualização pendente,223,1.7,0.1,Alta
+Atualização pendente,174,1.7,0.18,Média
+Atualização pendente,196,1.9,0.28,Alta
+Atualização pendente,217,1.7,0.17,Média
+Atualização pendente,211,1.8,0.24,Alta
+Atualização pendente,293,1.7,0.18,Alta
+Atualização pendente,240,2.3,0.25,Alta
+Atualização pendente,113,2.3,0.26,Alta
+Atualização pendente,247,1.8,0.16,Média
+Atualização pendente,204,2.5,0.11,Alta
+Atualização pendente,116,1.6,0.21,Média
+Atualização pendente,161,2.1,0.14,Média
+Atualização pendente,268,1.7,0.2,Alta
+Atualização pendente,230,1.7,0.2,Média
+Atualização pendente,101,1.8,0.23,Média
+Atualização pendente,253,2.1,0.12,Alta
+Atualização pendente,119,1.8,0.12,Média
+Atualização pendente,246,2.1,0.23,Média
+Atualização pendente,152,1.5,0.29,Alta
+Atualização pendente,126,2.2,0.24,Média
+Atualização pendente,169,1.8,0.15,Média
+Atualização pendente,101,2.4,0.29,Média
+Atualização pendente,109,2.1,0.14,Alta
+Atualização pendente,147,1.5,0.25,Média
+Atualização pendente,197,1.9,0.11,Alta
+Atualização pendente,212,1.9,0.29,Alta
+Atualização pendente,263,2.4,0.14,Alta
+Atualização pendente,145,1.7,0.23,Média
+Atualização pendente,265,1.6,0.1,Média
+Atualização pendente,277,1.6,0.25,Alta
+Atualização pendente,252,1.9,0.15,Alta
+Atualização pendente,222,2.2,0.1,Média
+Atualização pendente,191,2.1,0.23,Média
+Atualização pendente,277,2.2,0.12,Alta
+Atualização pendente,250,1.6,0.28,Média
+Atualização pendente,162,1.9,0.1,Alta
+Atualização pendente,275,2.4,0.17,Média
+Atualização pendente,294,1.7,0.22,Média
+Atualização pendente,181,1.9,0.17,Média
+Atualização pendente,137,1.9,0.2,Alta
+Atualização pendente,176,2.3,0.18,Média
+Atualização pendente,164,1.8,0.3,Média
+Problema no roteador,278,2.3,0.19,Alta
+Problema no roteador,233,2.3,0.17,Média
+Problema no roteador,127,2.4,0.27,Média
+Problema no roteador,155,2.3,0.18,Média
+Problema no roteador,206,2.1,0.27,Média
+Problema no roteador,263,2.0,0.13,Alta
+Problema no roteador,191,1.9,0.2,Média
+Problema no roteador,238,2.1,0.14,Média
+Problema no roteador,234,1.6,0.2,Média
+Problema no roteador,228,2.3,0.18,Média
+Problema no roteador,220,1.8,0.13,Média
+Problema no roteador,256,1.6,0.14,Alta
+Problema no roteador,298,2.2,0.27,Alta
+Problema no roteador,134,2.3,0.1,Média
+Problema no roteador,287,1.9,0.21,Alta
+Problema no roteador,120,2.2,0.12,Média
+Problema no roteador,252,2.3,0.14,Alta
+Problema no roteador,195,2.3,0.23,Alta
+Problema no roteador,205,1.8,0.15,Alta
+Problema no roteador,160,1.9,0.21,Alta
+Problema no roteador,138,1.7,0.27,Média
+Problema no roteador,186,2.3,0.27,Alta
+Problema no roteador,257,1.9,0.22,Alta
+Problema no roteador,264,1.9,0.24,Média
+Problema no roteador,211,1.6,0.13,Média
+Problema no roteador,184,2.2,0.25,Média
+Problema no roteador,193,1.7,0.12,Alta
+Problema no roteador,225,1.7,0.28,Média
+Problema no roteador,221,1.9,0.12,Média
+Problema no roteador,261,2.0,0.22,Média
+Problema no roteador,266,1.6,0.18,Alta
+Problema no roteador,217,1.7,0.29,Média
+Problema no roteador,206,2.1,0.18,Média
+Problema no roteador,118,2.2,0.18,Média
+Problema no roteador,292,1.7,0.17,Alta
+Problema no roteador,228,2.1,0.21,Alta
+Problema no roteador,147,2.1,0.12,Alta
+Problema no roteador,138,1.6,0.24,Alta
+Problema no roteador,112,1.9,0.28,Alta
+Problema no roteador,157,2.0,0.18,Alta
+Problema no roteador,161,2.3,0.11,Alta
+Problema no roteador,230,2.1,0.23,Média
+Problema no roteador,125,1.8,0.1,Média
+Problema no roteador,172,2.0,0.27,Alta
+Problema no roteador,185,2.3,0.2,Alta
+Problema no roteador,217,2.3,0.19,Alta
+Problema no roteador,246,2.4,0.28,Alta
+Problema no roteador,238,1.6,0.18,Média
+Problema no roteador,245,2.4,0.14,Média
+Problema no roteador,235,2.4,0.18,Alta
+Problema no roteador,203,2.5,0.11,Alta
+Problema no roteador,148,1.6,0.18,Alta
+Problema no roteador,178,1.7,0.29,Média
+Problema no roteador,166,1.7,0.17,Média
+Problema no roteador,139,1.6,0.17,Alta
+Problema no roteador,159,2.2,0.23,Alta
+Problema no roteador,195,1.5,0.14,Média
+Problema no roteador,148,1.9,0.23,Média
+Problema no roteador,160,1.6,0.11,Média
+Problema no roteador,235,1.9,0.21,Média
+Problema no roteador,272,1.9,0.24,Média
+Problema no roteador,198,2.2,0.22,Alta
+Problema no roteador,158,1.7,0.14,Média
+Problema no roteador,233,2.2,0.28,Alta
+Problema no roteador,230,1.9,0.25,Média
+Problema no roteador,161,1.7,0.19,Alta
+Problema no roteador,110,1.8,0.14,Alta
+Problema no roteador,156,1.7,0.14,Média
+Problema no roteador,237,2.0,0.14,Alta
+Problema no roteador,101,1.6,0.19,Alta
+Problema no roteador,245,2.5,0.19,Média
+Problema no roteador,137,2.0,0.23,Alta
+Problema no roteador,160,1.8,0.15,Média
+Problema no roteador,248,2.2,0.14,Média
+Problema no roteador,234,1.8,0.23,Alta
+Problema no roteador,231,2.0,0.3,Média
+Problema no roteador,183,2.3,0.25,Alta
+Problema no roteador,127,1.7,0.19,Média
+Problema no roteador,169,1.9,0.28,Alta
+Problema no roteador,104,2.1,0.27,Média
+Problema no roteador,233,1.9,0.14,Média
+Problema no roteador,256,1.9,0.23,Média
+Problema no roteador,101,2.2,0.26,Alta
+Problema no roteador,137,1.6,0.3,Alta
+Problema no roteador,288,2.2,0.26,Média
+Problema no roteador,294,2.5,0.15,Alta
+Problema no roteador,243,1.9,0.13,Média
+Problema no roteador,286,2.3,0.18,Média
+Problema no roteador,147,1.8,0.1,Alta
+Problema no roteador,251,2.1,0.25,Média
+Problema no roteador,282,2.3,0.22,Alta
+Problema no roteador,102,2.1,0.27,Média
+Problema no roteador,182,2.1,0.3,Alta
+Problema no roteador,118,1.9,0.24,Alta
+Problema no roteador,252,1.7,0.22,Média
+Problema no roteador,238,2.4,0.17,Alta
+Problema no roteador,290,1.7,0.3,Média
+Problema no roteador,149,2.1,0.26,Média
+Problema no roteador,265,2.1,0.11,Alta
+Problema no roteador,288,2.2,0.24,Média
+Problema no roteador,219,2.4,0.13,Alta
+Problema no roteador,186,2.2,0.24,Alta
+Problema no roteador,281,1.8,0.13,Média
+Problema no roteador,170,2.1,0.14,Média
+Problema no roteador,249,2.0,0.23,Alta
+Problema no roteador,273,1.7,0.1,Média
+Problema no roteador,260,2.1,0.24,Média
+Problema no roteador,139,2.3,0.29,Alta
+Problema no roteador,255,2.0,0.18,Alta
+Problema no roteador,165,2.1,0.16,Média
+Problema no roteador,281,2.1,0.22,Média
+Problema no roteador,142,1.6,0.11,Média
+Problema no roteador,257,2.4,0.22,Alta
+Problema no roteador,243,2.2,0.22,Média
+Problema no roteador,144,2.5,0.24,Alta
+Problema no roteador,280,2.3,0.28,Alta
+Problema no roteador,262,1.7,0.14,Alta
+Problema no roteador,218,2.1,0.29,Alta
+Problema no roteador,209,1.8,0.11,Alta
+Problema no roteador,111,2.3,0.27,Média
+Problema no roteador,256,1.6,0.18,Média
+Problema no roteador,170,1.7,0.15,Média
+Problema no roteador,149,1.8,0.12,Média
+Problema no roteador,114,1.6,0.29,Média
+Problema no roteador,139,1.6,0.1,Alta
+Problema no roteador,203,1.7,0.23,Alta
+Problema no roteador,193,1.5,0.27,Média
+Problema no roteador,148,1.9,0.16,Média
+Problema no roteador,200,1.7,0.28,Média
+Problema no roteador,291,1.6,0.3,Média
+Problema no roteador,121,2.0,0.16,Média
+Problema no roteador,145,2.3,0.13,Média
+Problema no roteador,109,2.0,0.13,Alta
+Problema no roteador,271,1.8,0.2,Alta
+Problema no roteador,164,2.0,0.16,Alta
+Problema no roteador,282,1.6,0.18,Alta
+Problema no roteador,121,2.2,0.21,Alta
+Problema no roteador,267,2.2,0.14,Alta
+Problema no roteador,162,1.6,0.21,Média
+Problema no roteador,236,2.4,0.1,Alta
+Problema no roteador,181,2.0,0.23,Média
+Problema no roteador,271,2.2,0.23,Alta
+Problema no roteador,147,1.9,0.17,Média
+Problema no roteador,286,2.3,0.13,Alta
+Problema no roteador,208,2.5,0.14,Alta
+Problema no roteador,176,2.1,0.2,Alta
+Problema no roteador,153,1.7,0.21,Alta
+Problema no roteador,176,2.2,0.13,Média
+Problema no roteador,219,1.7,0.16,Média
+Problema no roteador,230,1.7,0.27,Média
+Problema no roteador,195,2.4,0.29,Média
+Problema no roteador,161,1.6,0.17,Alta
+Problema no roteador,237,1.9,0.12,Alta
+Problema no roteador,158,2.3,0.26,Média
+Problema no roteador,151,2.2,0.14,Média
+Problema no roteador,183,1.7,0.15,Alta
+Problema no roteador,144,2.4,0.26,Média
+Problema no roteador,180,1.7,0.19,Alta
+Problema no roteador,116,1.8,0.15,Alta
+Problema no roteador,208,2.4,0.22,Alta
+Problema no roteador,210,2.4,0.19,Alta
+Problema no roteador,255,2.3,0.13,Média
+Problema no roteador,244,2.2,0.29,Média
+Problema no roteador,193,2.0,0.23,Média
+Problema no roteador,248,1.5,0.23,Alta
+Problema no roteador,215,2.2,0.19,Média
+Problema no roteador,152,1.6,0.11,Alta
+Problema no roteador,156,1.9,0.27,Alta
+Problema no roteador,143,1.5,0.19,Alta
+Problema no roteador,131,1.5,0.24,Média
+Problema no roteador,284,1.7,0.28,Média
+Problema no roteador,164,2.1,0.14,Alta
+Problema no roteador,238,2.1,0.23,Alta
+Problema no roteador,259,2.1,0.27,Média
+Problema no roteador,250,2.4,0.17,Média
+Problema no roteador,264,2.2,0.19,Média
+Problema no roteador,276,1.7,0.17,Alta
+Problema no roteador,248,2.5,0.23,Alta
+Problema no roteador,202,1.8,0.22,Alta
+Problema no roteador,283,1.8,0.27,Alta
+Problema no roteador,136,2.4,0.25,Média
+Problema no roteador,276,1.8,0.29,Média
+Problema no roteador,157,2.2,0.24,Alta
+Problema no roteador,287,2.5,0.16,Alta
+Problema no roteador,203,1.8,0.27,Média
+Problema no roteador,147,2.3,0.29,Média
+Problema no roteador,213,2.4,0.11,Alta
+Problema no roteador,210,1.7,0.22,Média
+Problema no roteador,218,2.5,0.19,Média
+Problema no roteador,166,1.7,0.19,Média
+Problema no roteador,172,2.3,0.25,Média
+Problema no roteador,166,1.8,0.12,Alta
+Problema no roteador,212,1.5,0.14,Alta
+Problema no roteador,143,1.9,0.18,Alta
+Problema no roteador,277,2.4,0.28,Alta
+Problema no roteador,275,2.2,0.15,Alta
+Problema no roteador,165,1.7,0.17,Alta
+Problema no roteador,183,2.3,0.12,Média
+Problema no roteador,215,1.8,0.2,Média
+Problema no roteador,209,2.1,0.19,Alta
+Interferência elétrica,220,1.9,0.17,Alta
+Interferência elétrica,211,1.7,0.1,Alta
+Interferência elétrica,117,1.6,0.27,Média
+Interferência elétrica,250,2.2,0.18,Média
+Interferência elétrica,188,2.4,0.12,Alta
+Interferência elétrica,160,2.3,0.12,Alta
+Interferência elétrica,154,1.9,0.12,Média
+Interferência elétrica,192,1.7,0.28,Média
+Interferência elétrica,292,2.2,0.22,Alta
+Interferência elétrica,207,1.6,0.13,Alta
+Interferência elétrica,299,1.8,0.29,Média
+Interferência elétrica,221,2.3,0.11,Média
+Interferência elétrica,283,1.8,0.11,Média
+Interferência elétrica,188,2.2,0.19,Média
+Interferência elétrica,200,2.1,0.15,Alta
+Interferência elétrica,281,2.4,0.25,Média
+Interferência elétrica,265,2.4,0.26,Média
+Interferência elétrica,274,1.6,0.21,Alta
+Interferência elétrica,244,2.3,0.17,Alta
+Interferência elétrica,105,2.1,0.14,Média
+Interferência elétrica,288,2.1,0.25,Alta
+Interferência elétrica,258,1.8,0.29,Média
+Interferência elétrica,296,2.4,0.24,Alta
+Interferência elétrica,261,1.5,0.2,Média
+Interferência elétrica,233,1.7,0.23,Média
+Interferência elétrica,231,2.1,0.24,Alta
+Interferência elétrica,234,1.9,0.12,Alta
+Interferência elétrica,162,2.4,0.23,Alta
+Interferência elétrica,262,1.9,0.21,Média
+Interferência elétrica,221,2.3,0.26,Alta
+Interferência elétrica,224,1.9,0.15,Alta
+Interferência elétrica,198,1.9,0.18,Média
+Interferência elétrica,227,2.2,0.11,Alta
+Interferência elétrica,167,2.1,0.11,Média
+Interferência elétrica,289,1.7,0.14,Média
+Interferência elétrica,293,2.1,0.15,Média
+Interferência elétrica,114,2.2,0.29,Alta
+Interferência elétrica,293,2.4,0.29,Alta
+Interferência elétrica,202,2.1,0.23,Alta
+Interferência elétrica,129,2.3,0.21,Alta
+Interferência elétrica,216,1.9,0.25,Alta
+Interferência elétrica,225,1.6,0.27,Média
+Interferência elétrica,283,2.3,0.19,Média
+Interferência elétrica,192,2.4,0.15,Média
+Interferência elétrica,114,2.0,0.2,Alta
+Interferência elétrica,105,1.8,0.11,Alta
+Interferência elétrica,205,1.5,0.3,Média
+Interferência elétrica,290,1.9,0.25,Alta
+Interferência elétrica,259,2.2,0.26,Média
+Interferência elétrica,292,1.9,0.26,Alta
+Interferência elétrica,102,2.5,0.14,Média
+Interferência elétrica,117,1.6,0.29,Alta
+Interferência elétrica,182,2.4,0.18,Média
+Interferência elétrica,129,2.3,0.13,Média
+Interferência elétrica,211,1.9,0.26,Média
+Interferência elétrica,157,1.8,0.26,Alta
+Interferência elétrica,177,1.7,0.17,Média
+Interferência elétrica,198,1.7,0.27,Média
+Interferência elétrica,272,1.8,0.15,Média
+Interferência elétrica,163,1.8,0.11,Média
+Interferência elétrica,153,1.7,0.18,Alta
+Interferência elétrica,117,2.4,0.25,Média
+Interferência elétrica,105,2.3,0.16,Alta
+Interferência elétrica,147,2.2,0.17,Média
+Interferência elétrica,229,1.6,0.21,Alta
+Interferência elétrica,171,2.4,0.17,Média
+Interferência elétrica,162,1.6,0.19,Média
+Interferência elétrica,142,2.3,0.14,Média
+Interferência elétrica,135,2.3,0.29,Média
+Interferência elétrica,135,2.0,0.17,Média
+Interferência elétrica,200,1.6,0.14,Média
+Interferência elétrica,170,1.6,0.2,Alta
+Interferência elétrica,128,1.8,0.18,Média
+Interferência elétrica,279,1.7,0.21,Média
+Interferência elétrica,264,2.3,0.13,Média
+Interferência elétrica,124,1.8,0.17,Média
+Interferência elétrica,115,1.7,0.27,Média
+Interferência elétrica,144,1.8,0.26,Alta
+Interferência elétrica,161,2.5,0.17,Média
+Interferência elétrica,279,1.8,0.12,Alta
+Interferência elétrica,246,2.1,0.28,Alta
+Interferência elétrica,284,1.6,0.21,Média
+Interferência elétrica,181,1.5,0.23,Alta
+Interferência elétrica,264,1.6,0.11,Média
+Interferência elétrica,133,1.5,0.19,Alta
+Interferência elétrica,234,1.6,0.13,Alta
+Interferência elétrica,227,2.3,0.2,Alta
+Interferência elétrica,182,2.5,0.25,Alta
+Interferência elétrica,215,1.9,0.22,Média
+Interferência elétrica,116,2.0,0.23,Alta
+Interferência elétrica,258,2.2,0.26,Alta
+Interferência elétrica,184,2.3,0.1,Média
+Interferência elétrica,239,1.5,0.28,Média
+Interferência elétrica,164,2.2,0.26,Alta
+Interferência elétrica,229,2.1,0.2,Alta
+Interferência elétrica,253,1.8,0.12,Alta
+Interferência elétrica,294,1.8,0.24,Alta
+Interferência elétrica,281,2.1,0.24,Média
+Interferência elétrica,281,1.9,0.16,Alta
+Interferência elétrica,195,1.7,0.24,Média
+Interferência elétrica,176,2.2,0.23,Alta
+Interferência elétrica,264,2.2,0.14,Alta
+Interferência elétrica,206,1.6,0.3,Média
+Interferência elétrica,188,2.4,0.17,Média
+Interferência elétrica,189,1.5,0.12,Média
+Interferência elétrica,275,1.5,0.23,Alta
+Interferência elétrica,278,2.0,0.13,Alta
+Interferência elétrica,229,2.2,0.29,Alta
+Interferência elétrica,114,2.4,0.22,Alta
+Interferência elétrica,202,2.0,0.11,Média
+Interferência elétrica,200,2.1,0.17,Média
+Interferência elétrica,157,1.9,0.13,Média
+Interferência elétrica,272,1.8,0.21,Média
+Interferência elétrica,288,2.4,0.26,Alta
+Interferência elétrica,272,2.2,0.29,Alta
+Interferência elétrica,250,1.5,0.15,Alta
+Interferência elétrica,296,2.2,0.23,Média
+Interferência elétrica,297,2.2,0.28,Alta
+Interferência elétrica,241,1.6,0.13,Alta
+Interferência elétrica,143,2.4,0.19,Média
+Interferência elétrica,197,1.8,0.28,Alta
+Interferência elétrica,203,1.8,0.16,Alta
+Interferência elétrica,196,1.5,0.16,Média
+Interferência elétrica,182,1.6,0.12,Média
+Interferência elétrica,267,2.4,0.26,Alta
+Interferência elétrica,128,1.6,0.21,Média
+Interferência elétrica,293,2.1,0.18,Alta
+Interferência elétrica,171,1.6,0.16,Alta
+Interferência elétrica,195,1.7,0.3,Média
+Interferência elétrica,256,1.6,0.11,Média
+Interferência elétrica,145,2.0,0.16,Alta
+Interferência elétrica,210,1.8,0.2,Média
+Interferência elétrica,169,2.1,0.24,Alta
+Interferência elétrica,230,2.2,0.23,Média
+Interferência elétrica,208,1.8,0.26,Alta
+Interferência elétrica,118,2.2,0.22,Alta
+Interferência elétrica,240,1.5,0.16,Média
+Interferência elétrica,210,2.1,0.27,Alta
+Interferência elétrica,299,1.6,0.29,Média
+Interferência elétrica,214,2.0,0.22,Média
+Interferência elétrica,236,1.6,0.11,Alta
+Interferência elétrica,278,2.1,0.21,Média
+Interferência elétrica,110,2.1,0.26,Média
+Interferência elétrica,197,2.0,0.24,Média
+Interferência elétrica,215,1.8,0.22,Alta
+Interferência elétrica,198,2.3,0.22,Média
+Interferência elétrica,274,1.9,0.23,Alta
+Interferência elétrica,167,1.7,0.24,Média
+Interferência elétrica,239,1.9,0.28,Média
+Interferência elétrica,152,1.8,0.11,Alta
+Interferência elétrica,224,2.2,0.17,Média
+Interferência elétrica,103,1.9,0.25,Média
+Interferência elétrica,221,1.9,0.29,Alta
+Interferência elétrica,272,1.6,0.22,Alta
+Interferência elétrica,156,1.9,0.11,Alta
+Interferência elétrica,196,2.0,0.13,Média
+Interferência elétrica,191,2.5,0.19,Média
+Interferência elétrica,192,2.4,0.19,Alta
+Interferência elétrica,278,1.5,0.22,Alta
+Interferência elétrica,163,2.0,0.18,Média
+Interferência elétrica,186,1.9,0.25,Alta
+Interferência elétrica,268,1.7,0.15,Média
+Interferência elétrica,224,1.6,0.27,Alta
+Interferência elétrica,100,1.7,0.24,Média
+Interferência elétrica,244,2.1,0.24,Média
+Interferência elétrica,100,1.5,0.17,Alta
+Interferência elétrica,134,1.6,0.15,Média
+Interferência elétrica,277,2.0,0.24,Média
+Interferência elétrica,177,1.6,0.13,Alta
+Interferência elétrica,115,2.1,0.27,Alta
+Interferência elétrica,103,2.1,0.2,Média
+Interferência elétrica,275,2.1,0.27,Média
+Interferência elétrica,121,2.0,0.23,Média
+Interferência elétrica,135,2.3,0.16,Alta
+Interferência elétrica,100,1.8,0.3,Média
+Interferência elétrica,233,2.2,0.11,Média
+Interferência elétrica,118,2.0,0.22,Alta
+Interferência elétrica,129,2.2,0.2,Alta
+Interferência elétrica,111,2.5,0.1,Alta
+Interferência elétrica,248,1.5,0.15,Alta
+Interferência elétrica,289,1.9,0.22,Alta
+Interferência elétrica,216,1.6,0.13,Alta
+Interferência elétrica,270,2.0,0.25,Média
+Interferência elétrica,260,2.3,0.14,Alta
+Interferência elétrica,167,1.7,0.15,Média
+Interferência elétrica,192,1.6,0.14,Alta
+Interferência elétrica,233,2.0,0.19,Alta
+Interferência elétrica,154,1.7,0.27,Alta
+Interferência elétrica,255,1.9,0.1,Alta
+Interferência elétrica,108,1.5,0.26,Alta
+Interferência elétrica,296,2.3,0.2,Média
+Interferência elétrica,138,1.9,0.23,Alta
+Interferência elétrica,210,1.6,0.25,Alta
+Interferência elétrica,134,1.6,0.18,Alta
+Interferência elétrica,192,2.0,0.18,Alta
+Interferência elétrica,221,1.6,0.2,Alta
+Interferência elétrica,294,1.6,0.21,Alta
+Interferência elétrica,294,2.4,0.21,Alta
+Interferência elétrica,170,1.6,0.11,Alta
+Interferência elétrica,121,2.0,0.23,Alta
+Servidor não responde,109,2.4,0.27,Média
+Servidor não responde,212,1.6,0.13,Alta
+Servidor não responde,287,1.6,0.2,Alta
+Servidor não responde,263,1.9,0.3,Alta
+Servidor não responde,296,2.4,0.13,Alta
+Servidor não responde,142,2.1,0.12,Média
+Servidor não responde,162,2.2,0.23,Alta
+Servidor não responde,259,2.0,0.18,Média
+Servidor não responde,167,1.7,0.12,Alta
+Servidor não responde,253,2.1,0.25,Média
+Servidor não responde,193,2.0,0.13,Média
+Servidor não responde,217,2.1,0.14,Média
+Servidor não responde,144,2.0,0.28,Alta
+Servidor não responde,213,2.1,0.23,Alta
+Servidor não responde,134,1.8,0.24,Média
+Servidor não responde,217,2.2,0.2,Alta
+Servidor não responde,150,2.2,0.22,Média
+Servidor não responde,118,1.8,0.25,Média
+Servidor não responde,287,2.1,0.27,Alta
+Servidor não responde,279,2.4,0.11,Média
+Servidor não responde,198,1.6,0.18,Média
+Servidor não responde,137,1.9,0.2,Média
+Servidor não responde,249,1.6,0.24,Média
+Servidor não responde,272,1.6,0.13,Alta
+Servidor não responde,184,1.9,0.13,Alta
+Servidor não responde,164,1.9,0.16,Alta
+Servidor não responde,270,2.2,0.22,Alta
+Servidor não responde,245,2.1,0.13,Alta
+Servidor não responde,202,2.1,0.21,Média
+Servidor não responde,187,2.2,0.11,Média
+Servidor não responde,234,2.3,0.21,Média
+Servidor não responde,190,2.2,0.21,Alta
+Servidor não responde,120,2.2,0.22,Alta
+Servidor não responde,276,1.6,0.15,Alta
+Servidor não responde,191,2.1,0.2,Alta
+Servidor não responde,157,1.5,0.2,Alta
+Servidor não responde,137,1.6,0.16,Média
+Servidor não responde,267,1.6,0.21,Alta
+Servidor não responde,251,1.5,0.24,Média
+Servidor não responde,224,1.6,0.15,Alta
+Servidor não responde,252,1.5,0.27,Alta
+Servidor não responde,188,1.8,0.23,Alta
+Servidor não responde,124,2.2,0.28,Alta
+Servidor não responde,141,1.7,0.15,Média
+Servidor não responde,203,1.7,0.16,Alta
+Servidor não responde,144,2.1,0.19,Média
+Servidor não responde,204,1.6,0.12,Média
+Servidor não responde,109,2.0,0.14,Média
+Servidor não responde,187,1.9,0.26,Alta
+Servidor não responde,103,2.1,0.23,Alta
+Servidor não responde,253,2.4,0.1,Alta
+Servidor não responde,220,2.4,0.19,Média
+Servidor não responde,178,2.2,0.24,Alta
+Servidor não responde,103,2.5,0.24,Alta
+Servidor não responde,204,2.4,0.11,Média
+Servidor não responde,108,1.6,0.1,Alta
+Servidor não responde,141,2.4,0.2,Média
+Servidor não responde,136,1.7,0.25,Média
+Servidor não responde,298,1.8,0.18,Alta
+Servidor não responde,202,2.5,0.23,Alta
+Servidor não responde,256,1.8,0.26,Alta
+Servidor não responde,188,1.7,0.17,Alta
+Servidor não responde,229,2.5,0.19,Média
+Servidor não responde,205,2.2,0.17,Alta
+Servidor não responde,181,1.7,0.16,Alta
+Servidor não responde,158,1.5,0.2,Média
+Servidor não responde,243,2.3,0.27,Alta
+Servidor não responde,282,2.3,0.13,Alta
+Servidor não responde,201,2.1,0.11,Alta
+Servidor não responde,243,2.0,0.12,Média
+Servidor não responde,179,2.3,0.28,Alta
+Servidor não responde,272,2.4,0.27,Média
+Servidor não responde,135,1.6,0.24,Alta
+Servidor não responde,233,2.2,0.17,Alta
+Servidor não responde,273,2.1,0.2,Alta
+Servidor não responde,225,1.8,0.26,Média
+Servidor não responde,288,1.6,0.29,Alta
+Servidor não responde,153,2.2,0.25,Média
+Servidor não responde,278,2.4,0.16,Alta
+Servidor não responde,170,1.6,0.24,Alta
+Servidor não responde,299,2.2,0.15,Alta
+Servidor não responde,230,1.7,0.11,Alta
+Servidor não responde,100,2.0,0.27,Média
+Servidor não responde,186,1.7,0.27,Alta
+Servidor não responde,260,1.7,0.24,Alta
+Servidor não responde,286,2.1,0.19,Alta
+Servidor não responde,147,2.3,0.24,Média
+Servidor não responde,198,2.3,0.23,Alta
+Servidor não responde,160,1.9,0.28,Média
+Servidor não responde,215,1.6,0.18,Média
+Servidor não responde,178,1.6,0.17,Média
+Servidor não responde,135,1.7,0.24,Média
+Servidor não responde,146,2.4,0.13,Média
+Servidor não responde,195,2.1,0.3,Média
+Servidor não responde,112,2.5,0.17,Média
+Servidor não responde,177,1.8,0.2,Média
+Servidor não responde,298,2.4,0.2,Alta
+Servidor não responde,252,1.6,0.3,Média
+Servidor não responde,229,1.6,0.23,Média
+Servidor não responde,193,1.9,0.18,Alta
+Servidor não responde,121,1.7,0.26,Média
+Servidor não responde,227,1.9,0.19,Média
+Servidor não responde,229,2.4,0.23,Média
+Servidor não responde,233,1.8,0.27,Alta
+Servidor não responde,247,1.5,0.18,Alta
+Servidor não responde,296,2.4,0.12,Alta
+Servidor não responde,199,2.0,0.16,Média
+Servidor não responde,282,2.3,0.25,Alta
+Servidor não responde,117,2.2,0.15,Alta
+Servidor não responde,231,2.0,0.17,Alta
+Servidor não responde,158,2.1,0.24,Alta
+Servidor não responde,282,1.5,0.3,Média
+Servidor não responde,133,1.6,0.14,Média
+Servidor não responde,212,1.9,0.26,Alta
+Servidor não responde,212,1.9,0.24,Média
+Servidor não responde,178,2.3,0.23,Média
+Servidor não responde,197,2.0,0.3,Média
+Servidor não responde,245,2.5,0.25,Média
+Servidor não responde,292,2.4,0.18,Média
+Servidor não responde,206,1.8,0.21,Alta
+Servidor não responde,274,1.9,0.15,Alta
+Servidor não responde,297,1.8,0.27,Média
+Servidor não responde,171,1.8,0.15,Média
+Servidor não responde,227,1.6,0.14,Alta
+Servidor não responde,284,1.8,0.18,Média
+Servidor não responde,121,2.5,0.26,Alta
+Servidor não responde,268,2.0,0.27,Média
+Servidor não responde,211,2.2,0.3,Média
+Servidor não responde,241,2.2,0.27,Média
+Servidor não responde,121,2.2,0.16,Alta
+Servidor não responde,271,1.5,0.25,Alta
+Servidor não responde,151,2.4,0.12,Alta
+Servidor não responde,278,2.0,0.25,Média
+Servidor não responde,222,2.4,0.1,Média
+Servidor não responde,164,2.3,0.2,Alta
+Servidor não responde,220,2.3,0.3,Alta
+Servidor não responde,170,2.0,0.28,Alta
+Servidor não responde,295,2.3,0.19,Média
+Servidor não responde,246,2.2,0.14,Alta
+Servidor não responde,239,2.3,0.25,Média
+Servidor não responde,228,1.7,0.21,Média
+Servidor não responde,245,1.7,0.14,Alta
+Servidor não responde,253,1.7,0.15,Alta
+Servidor não responde,125,2.2,0.24,Alta
+Servidor não responde,291,1.6,0.24,Média
+Servidor não responde,154,2.3,0.2,Média
+Servidor não responde,218,2.0,0.2,Alta
+Servidor não responde,178,2.1,0.23,Alta
+Servidor não responde,268,2.0,0.25,Média
+Servidor não responde,131,2.2,0.28,Alta
+Servidor não responde,100,2.1,0.23,Média
+Servidor não responde,202,2.1,0.26,Média
+Servidor não responde,248,1.9,0.13,Média
+Servidor não responde,214,1.7,0.16,Média
+Servidor não responde,155,2.1,0.21,Média
+Servidor não responde,254,2.2,0.14,Alta
+Servidor não responde,285,1.7,0.12,Alta
+Servidor não responde,112,1.8,0.24,Média
+Servidor não responde,290,2.1,0.27,Alta
+Servidor não responde,200,1.9,0.12,Alta
+Servidor não responde,272,2.0,0.14,Alta
+Servidor não responde,244,1.7,0.27,Média
+Servidor não responde,220,1.7,0.26,Média
+Servidor não responde,180,1.6,0.21,Média
+Servidor não responde,267,2.2,0.15,Média
+Servidor não responde,282,1.8,0.12,Alta
+Servidor não responde,117,2.2,0.16,Alta
+Servidor não responde,181,1.7,0.28,Alta
+Servidor não responde,231,2.5,0.25,Média
+Servidor não responde,146,2.4,0.11,Alta
+Servidor não responde,254,2.0,0.15,Alta
+Servidor não responde,189,2.4,0.18,Média
+Servidor não responde,273,2.5,0.19,Alta
+Servidor não responde,230,1.9,0.28,Alta
+Servidor não responde,260,1.9,0.16,Alta
+Servidor não responde,206,2.3,0.27,Média
+Servidor não responde,151,2.3,0.22,Média
+Servidor não responde,145,2.0,0.11,Média
+Servidor não responde,161,1.9,0.1,Média
+Servidor não responde,243,2.0,0.25,Média
+Servidor não responde,233,2.1,0.14,Alta
+Servidor não responde,177,2.0,0.14,Alta
+Servidor não responde,260,2.2,0.2,Alta
+Servidor não responde,294,2.5,0.24,Alta
+Servidor não responde,101,1.9,0.2,Média
+Servidor não responde,143,2.0,0.22,Média
+Servidor não responde,197,2.2,0.2,Média
+Servidor não responde,267,1.5,0.3,Alta
+Servidor não responde,122,1.9,0.13,Média
+Servidor não responde,183,2.4,0.29,Alta
+Servidor não responde,111,2.2,0.27,Média
+Servidor não responde,115,1.8,0.29,Média
+Servidor não responde,233,2.0,0.14,Média
+Servidor não responde,111,2.3,0.22,Alta
+Servidor não responde,150,1.7,0.21,Alta
+Servidor não responde,105,1.7,0.27,Alta
+Servidor não responde,147,1.9,0.24,Alta
+Servidor não responde,291,2.3,0.25,Alta
+Servidor não responde,136,1.6,0.13,Média
+Servidor não responde,116,2.0,0.25,Alta
+Driver desatualizado,110,2.2,0.29,Alta
+Driver desatualizado,134,1.8,0.15,Média
+Driver desatualizado,239,1.7,0.12,Média
+Driver desatualizado,268,2.3,0.12,Alta
+Driver desatualizado,289,2.3,0.2,Alta
+Driver desatualizado,103,1.7,0.24,Alta
+Driver desatualizado,220,2.5,0.25,Média
+Driver desatualizado,111,2.3,0.22,Média
+Driver desatualizado,224,2.2,0.22,Alta
+Driver desatualizado,239,2.0,0.21,Alta
+Driver desatualizado,223,2.0,0.14,Média
+Driver desatualizado,211,1.7,0.12,Média
+Driver desatualizado,113,2.4,0.25,Média
+Driver desatualizado,248,1.6,0.11,Média
+Driver desatualizado,186,2.0,0.17,Média
+Driver desatualizado,137,1.5,0.19,Média
+Driver desatualizado,173,2.4,0.1,Alta
+Driver desatualizado,150,2.2,0.2,Média
+Driver desatualizado,219,2.5,0.2,Alta
+Driver desatualizado,156,1.7,0.2,Alta
+Driver desatualizado,117,1.6,0.12,Média
+Driver desatualizado,147,1.6,0.15,Alta
+Driver desatualizado,279,1.9,0.3,Alta
+Driver desatualizado,174,2.3,0.18,Média
+Driver desatualizado,225,1.9,0.24,Alta
+Driver desatualizado,132,2.3,0.15,Alta
+Driver desatualizado,183,1.9,0.22,Média
+Driver desatualizado,245,1.8,0.16,Alta
+Driver desatualizado,129,1.9,0.12,Média
+Driver desatualizado,276,2.5,0.29,Média
+Driver desatualizado,260,2.1,0.24,Média
+Driver desatualizado,141,2.1,0.19,Alta
+Driver desatualizado,285,2.3,0.16,Alta
+Driver desatualizado,239,2.4,0.11,Média
+Driver desatualizado,117,2.4,0.22,Média
+Driver desatualizado,281,1.7,0.17,Média
+Driver desatualizado,203,2.1,0.2,Média
+Driver desatualizado,229,1.5,0.29,Alta
+Driver desatualizado,101,1.5,0.18,Média
+Driver desatualizado,187,1.8,0.11,Média
+Driver desatualizado,287,2.3,0.13,Alta
+Driver desatualizado,104,1.7,0.24,Alta
+Driver desatualizado,280,1.8,0.27,Média
+Driver desatualizado,226,2.2,0.18,Alta
+Driver desatualizado,242,1.7,0.25,Alta
+Driver desatualizado,231,1.7,0.22,Alta
+Driver desatualizado,250,1.8,0.19,Alta
+Driver desatualizado,267,1.7,0.29,Média
+Driver desatualizado,288,2.5,0.27,Alta
+Driver desatualizado,152,1.8,0.1,Média
+Driver desatualizado,200,1.8,0.11,Alta
+Driver desatualizado,111,1.9,0.23,Média
+Driver desatualizado,155,1.6,0.3,Média
+Driver desatualizado,176,1.9,0.2,Média
+Driver desatualizado,177,1.6,0.19,Alta
+Driver desatualizado,132,1.7,0.23,Alta
+Driver desatualizado,150,1.7,0.26,Média
+Driver desatualizado,242,1.6,0.18,Alta
+Driver desatualizado,109,1.8,0.3,Média
+Driver desatualizado,179,2.2,0.3,Média
+Driver desatualizado,197,2.3,0.19,Alta
+Driver desatualizado,152,1.7,0.29,Alta
+Driver desatualizado,220,1.8,0.25,Média
+Driver desatualizado,192,2.1,0.19,Alta
+Driver desatualizado,127,1.7,0.11,Alta
+Driver desatualizado,197,2.0,0.13,Média
+Driver desatualizado,116,1.9,0.11,Alta
+Driver desatualizado,273,2.4,0.13,Alta
+Driver desatualizado,289,2.2,0.18,Alta
+Driver desatualizado,158,1.9,0.2,Média
+Driver desatualizado,148,2.2,0.23,Alta
+Driver desatualizado,258,2.3,0.16,Alta
+Driver desatualizado,197,2.4,0.19,Média
+Driver desatualizado,179,2.0,0.24,Alta
+Driver desatualizado,295,2.4,0.16,Média
+Driver desatualizado,263,2.3,0.24,Média
+Driver desatualizado,223,1.6,0.21,Média
+Driver desatualizado,295,2.4,0.14,Alta
+Driver desatualizado,280,1.6,0.26,Média
+Driver desatualizado,264,1.9,0.2,Alta
+Driver desatualizado,176,2.2,0.22,Média
+Driver desatualizado,161,2.0,0.24,Alta
+Driver desatualizado,208,1.7,0.1,Alta
+Driver desatualizado,167,1.9,0.26,Alta
+Driver desatualizado,109,2.0,0.17,Alta
+Driver desatualizado,296,2.0,0.15,Alta
+Driver desatualizado,287,2.2,0.2,Alta
+Driver desatualizado,191,2.5,0.23,Média
+Driver desatualizado,148,1.5,0.25,Alta
+Driver desatualizado,161,2.0,0.22,Média
+Driver desatualizado,270,1.5,0.26,Alta
+Driver desatualizado,240,2.3,0.28,Alta
+Driver desatualizado,142,2.0,0.2,Média
+Driver desatualizado,194,2.4,0.28,Média
+Driver desatualizado,120,2.4,0.11,Média
+Driver desatualizado,215,2.0,0.16,Média
+Driver desatualizado,104,1.6,0.22,Média
+Driver desatualizado,156,1.8,0.18,Alta
+Driver desatualizado,230,2.3,0.18,Média
+Driver desatualizado,166,2.2,0.17,Alta
+Driver desatualizado,154,1.6,0.12,Média
+Driver desatualizado,283,2.5,0.29,Alta
+Driver desatualizado,216,2.1,0.28,Alta
+Driver desatualizado,165,2.4,0.24,Média
+Driver desatualizado,290,2.1,0.29,Alta
+Driver desatualizado,116,1.5,0.21,Média
+Driver desatualizado,199,2.2,0.14,Média
+Driver desatualizado,216,2.5,0.15,Alta
+Driver desatualizado,135,1.6,0.11,Alta
+Driver desatualizado,296,1.6,0.27,Alta
+Driver desatualizado,295,2.0,0.24,Média
+Driver desatualizado,269,2.5,0.22,Alta
+Driver desatualizado,129,2.3,0.13,Alta
+Driver desatualizado,228,1.8,0.19,Alta
+Driver desatualizado,255,2.0,0.26,Média
+Driver desatualizado,126,1.8,0.26,Alta
+Driver desatualizado,276,2.3,0.15,Alta
+Driver desatualizado,158,1.7,0.14,Média
+Driver desatualizado,245,2.3,0.12,Média
+Driver desatualizado,117,2.2,0.27,Média
+Driver desatualizado,271,2.0,0.29,Média
+Driver desatualizado,170,1.9,0.13,Alta
+Driver desatualizado,236,2.4,0.15,Alta
+Driver desatualizado,278,2.5,0.15,Média
+Driver desatualizado,257,2.4,0.29,Alta
+Driver desatualizado,255,1.8,0.21,Média
+Driver desatualizado,258,1.8,0.25,Média
+Driver desatualizado,154,1.5,0.18,Alta
+Driver desatualizado,234,1.8,0.2,Alta
+Driver desatualizado,207,1.7,0.16,Média
+Driver desatualizado,202,1.9,0.19,Média
+Driver desatualizado,207,2.5,0.15,Média
+Driver desatualizado,140,2.2,0.22,Alta
+Driver desatualizado,218,1.5,0.2,Alta
+Driver desatualizado,157,1.8,0.18,Alta
+Driver desatualizado,177,2.3,0.18,Média
+Driver desatualizado,294,2.4,0.24,Alta
+Driver desatualizado,166,1.6,0.2,Alta
+Driver desatualizado,106,1.8,0.28,Média
+Driver desatualizado,187,1.7,0.14,Alta
+Driver desatualizado,236,1.7,0.17,Média
+Driver desatualizado,103,2.4,0.18,Média
+Driver desatualizado,200,1.6,0.16,Alta
+Driver desatualizado,155,2.0,0.26,Média
+Driver desatualizado,145,2.3,0.17,Alta
+Driver desatualizado,263,1.8,0.11,Alta
+Driver desatualizado,101,1.5,0.18,Média
+Driver desatualizado,191,2.2,0.25,Alta
+Driver desatualizado,206,2.3,0.16,Média
+Driver desatualizado,239,2.2,0.24,Alta
+Driver desatualizado,112,1.7,0.23,Média
+Driver desatualizado,112,2.4,0.13,Média
+Driver desatualizado,217,2.1,0.15,Alta
+Driver desatualizado,219,1.8,0.22,Alta
+Driver desatualizado,216,2.1,0.23,Média
+Driver desatualizado,166,1.6,0.15,Alta
+Driver desatualizado,165,2.4,0.12,Média
+Driver desatualizado,284,1.6,0.19,Média
+Driver desatualizado,298,1.8,0.19,Média
+Driver desatualizado,224,1.8,0.22,Média
+Driver desatualizado,229,2.4,0.23,Alta
+Driver desatualizado,212,2.3,0.22,Média
+Driver desatualizado,132,2.0,0.21,Alta
+Driver desatualizado,117,2.1,0.12,Média
+Driver desatualizado,163,2.0,0.13,Média
+Driver desatualizado,143,2.3,0.13,Média
+Driver desatualizado,201,1.6,0.28,Média
+Driver desatualizado,240,2.0,0.12,Alta
+Driver desatualizado,191,2.4,0.27,Média
+Driver desatualizado,288,1.6,0.12,Alta
+Driver desatualizado,253,1.8,0.13,Alta
+Driver desatualizado,286,1.9,0.29,Média
+Driver desatualizado,152,2.3,0.24,Alta
+Driver desatualizado,246,2.2,0.16,Alta
+Driver desatualizado,278,1.9,0.19,Média
+Driver desatualizado,163,2.1,0.23,Média
+Driver desatualizado,285,1.6,0.14,Alta
+Driver desatualizado,201,2.5,0.11,Alta
+Driver desatualizado,210,2.1,0.23,Alta
+Driver desatualizado,134,2.2,0.3,Alta
+Driver desatualizado,142,1.9,0.11,Alta
+Driver desatualizado,229,2.3,0.24,Média
+Driver desatualizado,168,2.4,0.19,Média
+Driver desatualizado,288,2.4,0.16,Média
+Driver desatualizado,184,1.6,0.29,Alta
+Driver desatualizado,230,2.0,0.17,Alta
+Driver desatualizado,189,2.2,0.15,Média
+Driver desatualizado,104,1.6,0.23,Alta
+Driver desatualizado,243,2.1,0.27,Alta
+Driver desatualizado,112,1.9,0.19,Alta
+Driver desatualizado,165,2.2,0.26,Média
+Driver desatualizado,161,1.9,0.27,Alta
+Driver desatualizado,299,1.7,0.21,Média
+Driver desatualizado,120,1.8,0.23,Alta
+Driver desatualizado,291,2.2,0.2,Média
+Driver desatualizado,130,2.1,0.21,Alta
+Driver desatualizado,114,2.2,0.25,Média
+Driver desatualizado,179,2.4,0.14,Alta
+Driver desatualizado,185,2.4,0.18,Alta
+Driver desatualizado,179,2.0,0.12,Alta
+Rede congestionada,113,2.5,0.21,Alta
+Rede congestionada,190,1.8,0.11,Alta
+Rede congestionada,148,2.1,0.22,Alta
+Rede congestionada,232,2.4,0.24,Alta
+Rede congestionada,126,2.2,0.16,Alta
+Rede congestionada,216,2.1,0.12,Média
+Rede congestionada,279,1.8,0.17,Média
+Rede congestionada,224,1.8,0.26,Média
+Rede congestionada,181,2.3,0.11,Alta
+Rede congestionada,247,2.4,0.16,Alta
+Rede congestionada,292,1.8,0.29,Média
+Rede congestionada,204,1.7,0.24,Alta
+Rede congestionada,291,2.0,0.28,Alta
+Rede congestionada,123,1.6,0.25,Média
+Rede congestionada,115,2.3,0.15,Alta
+Rede congestionada,243,2.1,0.17,Alta
+Rede congestionada,178,2.0,0.28,Alta
+Rede congestionada,240,2.5,0.16,Alta
+Rede congestionada,140,1.9,0.21,Alta
+Rede congestionada,138,2.4,0.15,Média
+Rede congestionada,260,1.6,0.23,Alta
+Rede congestionada,226,1.7,0.29,Média
+Rede congestionada,216,2.4,0.24,Alta
+Rede congestionada,287,1.7,0.16,Média
+Rede congestionada,135,1.6,0.12,Média
+Rede congestionada,182,2.3,0.13,Média
+Rede congestionada,206,2.2,0.27,Média
+Rede congestionada,263,1.6,0.15,Média
+Rede congestionada,277,1.6,0.17,Média
+Rede congestionada,120,1.7,0.11,Alta
+Rede congestionada,138,1.6,0.13,Alta
+Rede congestionada,179,2.0,0.13,Alta
+Rede congestionada,148,1.7,0.24,Média
+Rede congestionada,241,2.5,0.3,Alta
+Rede congestionada,285,1.7,0.26,Alta
+Rede congestionada,140,2.3,0.28,Média
+Rede congestionada,231,2.1,0.19,Alta
+Rede congestionada,111,1.8,0.25,Média
+Rede congestionada,131,2.4,0.13,Alta
+Rede congestionada,205,2.2,0.15,Média
+Rede congestionada,245,1.8,0.28,Alta
+Rede congestionada,213,2.2,0.15,Média
+Rede congestionada,269,1.5,0.18,Média
+Rede congestionada,284,1.6,0.28,Alta
+Rede congestionada,113,2.5,0.27,Média
+Rede congestionada,163,1.5,0.22,Média
+Rede congestionada,119,2.3,0.3,Média
+Rede congestionada,295,1.9,0.24,Média
+Rede congestionada,136,1.6,0.25,Alta
+Rede congestionada,217,2.5,0.17,Média
+Rede congestionada,131,2.2,0.2,Média
+Rede congestionada,128,2.3,0.18,Média
+Rede congestionada,236,1.8,0.3,Média
+Rede congestionada,167,1.9,0.13,Média
+Rede congestionada,262,2.3,0.16,Alta
+Rede congestionada,140,2.2,0.25,Alta
+Rede congestionada,229,1.7,0.16,Alta
+Rede congestionada,157,1.6,0.22,Média
+Rede congestionada,270,1.9,0.25,Média
+Rede congestionada,170,1.6,0.22,Alta
+Rede congestionada,240,1.5,0.23,Média
+Rede congestionada,152,1.8,0.18,Alta
+Rede congestionada,141,2.3,0.24,Alta
+Rede congestionada,202,2.4,0.13,Média
+Rede congestionada,203,1.5,0.23,Alta
+Rede congestionada,286,1.9,0.17,Alta
+Rede congestionada,223,2.1,0.28,Alta
+Rede congestionada,172,1.7,0.24,Alta
+Rede congestionada,104,1.8,0.1,Alta
+Rede congestionada,254,1.5,0.22,Média
+Rede congestionada,182,2.0,0.1,Alta
+Rede congestionada,287,2.2,0.19,Alta
+Rede congestionada,196,1.7,0.26,Média
+Rede congestionada,195,1.7,0.15,Média
+Rede congestionada,216,2.3,0.18,Média
+Rede congestionada,112,1.5,0.21,Alta
+Rede congestionada,117,1.7,0.23,Média
+Rede congestionada,138,2.0,0.19,Alta
+Rede congestionada,265,1.8,0.27,Média
+Rede congestionada,265,1.5,0.22,Alta
+Rede congestionada,171,2.1,0.12,Média
+Rede congestionada,256,1.8,0.27,Média
+Rede congestionada,105,2.0,0.29,Média
+Rede congestionada,121,2.4,0.19,Média
+Rede congestionada,277,2.4,0.19,Média
+Rede congestionada,282,1.7,0.13,Média
+Rede congestionada,252,2.4,0.24,Média
+Rede congestionada,134,2.0,0.12,Média
+Rede congestionada,286,2.2,0.16,Alta
+Rede congestionada,246,1.6,0.29,Média
+Rede congestionada,232,2.5,0.16,Média
+Rede congestionada,296,2.5,0.1,Alta
+Rede congestionada,111,1.6,0.17,Alta
+Rede congestionada,275,1.7,0.21,Alta
+Rede congestionada,157,1.7,0.15,Média
+Rede congestionada,242,1.9,0.15,Alta
+Rede congestionada,173,1.6,0.24,Alta
+Rede congestionada,101,1.8,0.3,Alta
+Rede congestionada,214,1.9,0.3,Média
+Rede congestionada,177,2.2,0.11,Alta
+Rede congestionada,166,2.1,0.28,Média
+Rede congestionada,186,1.6,0.12,Alta
+Rede congestionada,205,1.6,0.2,Média
+Rede congestionada,199,1.6,0.23,Alta
+Rede congestionada,267,1.8,0.14,Alta
+Rede congestionada,293,1.7,0.26,Média
+Rede congestionada,168,1.8,0.29,Alta
+Rede congestionada,190,1.6,0.21,Alta
+Rede congestionada,266,2.1,0.1,Média
+Rede congestionada,287,1.5,0.13,Média
+Rede congestionada,204,1.5,0.11,Alta
+Rede congestionada,120,1.8,0.29,Alta
+Rede congestionada,192,2.2,0.26,Média
+Rede congestionada,124,2.0,0.25,Média
+Rede congestionada,268,1.6,0.23,Alta
+Rede congestionada,104,2.4,0.22,Alta
+Rede congestionada,156,2.5,0.2,Alta
+Rede congestionada,121,1.8,0.11,Média
+Rede congestionada,230,2.1,0.29,Alta
+Rede congestionada,203,2.3,0.13,Média
+Rede congestionada,115,1.6,0.18,Alta
+Rede congestionada,138,2.5,0.28,Média
+Rede congestionada,211,2.4,0.13,Média
+Rede congestionada,227,2.1,0.29,Média
+Rede congestionada,114,1.7,0.23,Média
+Rede congestionada,268,2.3,0.26,Média
+Rede congestionada,106,1.9,0.11,Alta
+Rede congestionada,115,2.0,0.12,Alta
+Rede congestionada,250,2.4,0.22,Alta
+Rede congestionada,252,1.7,0.19,Alta
+Rede congestionada,285,2.0,0.18,Alta
+Rede congestionada,280,2.0,0.19,Alta
+Rede congestionada,289,2.3,0.27,Média
+Rede congestionada,172,1.8,0.2,Alta
+Rede congestionada,118,1.7,0.26,Alta
+Rede congestionada,133,1.8,0.12,Média
+Rede congestionada,187,2.4,0.16,Média
+Rede congestionada,288,2.0,0.16,Média
+Rede congestionada,106,1.8,0.21,Média
+Rede congestionada,111,1.8,0.23,Alta
+Rede congestionada,116,1.7,0.2,Alta
+Rede congestionada,247,2.2,0.12,Alta
+Rede congestionada,160,1.7,0.2,Alta
+Rede congestionada,154,2.1,0.14,Média
+Rede congestionada,274,1.6,0.27,Média
+Rede congestionada,281,1.7,0.26,Alta
+Rede congestionada,158,2.4,0.13,Alta
+Rede congestionada,241,2.0,0.12,Média
+Rede congestionada,123,2.4,0.3,Alta
+Rede congestionada,286,2.4,0.21,Média
+Rede congestionada,136,2.2,0.23,Média
+Rede congestionada,171,1.8,0.23,Alta
+Rede congestionada,257,1.6,0.1,Alta
+Rede congestionada,110,2.3,0.26,Média
+Rede congestionada,186,1.6,0.22,Alta
+Rede congestionada,200,1.7,0.28,Alta
+Rede congestionada,253,1.8,0.22,Média
+Rede congestionada,231,2.2,0.12,Alta
+Rede congestionada,189,2.0,0.19,Média
+Rede congestionada,222,2.2,0.12,Média
+Rede congestionada,282,1.6,0.11,Média
+Rede congestionada,236,2.4,0.22,Média
+Rede congestionada,166,1.6,0.11,Média
+Rede congestionada,174,1.5,0.25,Alta
+Rede congestionada,114,1.6,0.27,Média
+Rede congestionada,215,1.8,0.15,Alta
+Rede congestionada,168,1.8,0.2,Alta
+Rede congestionada,220,2.5,0.11,Média
+Rede congestionada,245,1.6,0.23,Média
+Rede congestionada,180,2.3,0.2,Média
+Rede congestionada,166,2.4,0.21,Média
+Rede congestionada,101,2.2,0.2,Média
+Rede congestionada,234,1.6,0.18,Média
+Rede congestionada,259,2.3,0.16,Média
+Rede congestionada,126,1.6,0.24,Média
+Rede congestionada,201,2.3,0.29,Alta
+Rede congestionada,123,1.7,0.27,Alta
+Rede congestionada,206,1.6,0.24,Alta
+Rede congestionada,261,2.0,0.15,Média
+Rede congestionada,192,2.4,0.2,Média
+Rede congestionada,123,2.2,0.28,Alta
+Rede congestionada,299,1.7,0.29,Alta
+Rede congestionada,148,1.8,0.2,Alta
+Rede congestionada,274,1.5,0.26,Alta
+Rede congestionada,226,1.9,0.26,Alta
+Rede congestionada,152,1.6,0.3,Média
+Rede congestionada,207,1.9,0.22,Média
+Rede congestionada,296,2.1,0.13,Média
+Rede congestionada,247,1.7,0.17,Média
+Rede congestionada,166,1.9,0.23,Alta
+Rede congestionada,209,1.7,0.25,Alta
+Rede congestionada,147,1.9,0.13,Alta
+Rede congestionada,124,2.2,0.12,Alta
+Rede congestionada,138,1.7,0.17,Média
+Rede congestionada,173,1.9,0.21,Alta
+Rede congestionada,127,2.2,0.27,Alta
+Rede congestionada,237,2.0,0.2,Alta
+Rede congestionada,204,2.0,0.28,Média
+Rede congestionada,153,2.4,0.17,Média
+Rede congestionada,222,1.9,0.29,Média
