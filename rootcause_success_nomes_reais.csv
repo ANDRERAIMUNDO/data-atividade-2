@@ -1,0 +1,2001 @@
+RootCause,Ocorrencias_anteriores,Tempo_medio_resolucao,Desvio_padrao,Prioridade_resolucao
+Problema no roteador,52,3.16,0.74,Média
+Problema no roteador,49,3.43,0.99,Alta
+Interferência elétrica,53,3.1,1.01,Média
+Atualização pendente,57,3.35,1.14,Alta
+Configuração incorreta,48,2.55,0.59,Baixa
+Interferência elétrica,48,3.61,1.18,Média
+Driver desatualizado,57,3.5,0.19,Alta
+Servidor não responde,53,3.09,0.81,Média
+Configuração incorreta,47,3.83,0.85,Média
+Servidor não responde,52,3.97,1.19,Média
+Atualização pendente,47,2.7,1.01,Baixa
+Problema no roteador,47,3.12,0.58,Média
+Falha de hardware,51,3.12,0.7,Baixa
+Driver desatualizado,40,3.03,1.06,Média
+Driver desatualizado,41,3.91,0.98,Alta
+Driver desatualizado,47,3.4,0.83,Média
+Servidor não responde,44,3.37,0.86,Média
+Problema no roteador,51,2.5,1.21,Média
+Problema no roteador,45,3.82,0.84,Baixa
+Problema no roteador,42,2.88,0.97,Média
+Servidor não responde,57,3.53,1.65,Baixa
+Erro de autenticação,48,3.64,0.57,Média
+Rede congestionada,50,4.18,0.44,Média
+Conexão intermitente,42,2.85,1.24,Média
+Atualização pendente,47,1.99,0.8,Média
+Configuração incorreta,50,3.59,0.9,Baixa
+Driver desatualizado,44,4.4,0.77,Média
+Falha de hardware,51,4.12,0.92,Alta
+Servidor não responde,46,3.6,1.48,Média
+Rede congestionada,48,3.25,1.24,Média
+Configuração incorreta,46,3.9,1.26,Alta
+Servidor não responde,59,3.01,0.58,Alta
+Atualização pendente,49,3.74,0.65,Média
+Servidor não responde,44,3.75,0.15,Média
+Conexão intermitente,54,4.03,0.76,Média
+Conexão intermitente,43,4.88,1.29,Alta
+Configuração incorreta,51,3.7,1.16,Alta
+Conexão intermitente,40,3.25,0.93,Média
+Driver desatualizado,43,3.49,0.99,Média
+Problema no roteador,50,2.62,0.79,Alta
+Rede congestionada,53,3.15,1.06,Média
+Erro de autenticação,50,3.3,1.23,Média
+Problema no roteador,49,3.24,0.52,Alta
+Configuração incorreta,48,3.58,1.09,Alta
+Configuração incorreta,42,3.09,1.28,Alta
+Configuração incorreta,46,4.06,0.88,Baixa
+Problema no roteador,47,3.5,1.21,Média
+Atualização pendente,55,3.5,1.84,Média
+Erro de autenticação,51,3.34,0.97,Média
+Interferência elétrica,41,3.58,1.12,Média
+Problema no roteador,51,3.91,0.78,Média
+Conexão intermitente,48,3.07,1.05,Média
+Atualização pendente,46,3.17,1.14,Alta
+Atualização pendente,53,3.35,1.06,Média
+Falha de hardware,55,2.83,0.69,Média
+Configuração incorreta,54,3.09,1.06,Média
+Rede congestionada,45,3.26,1.44,Média
+Conexão intermitente,48,3.94,1.13,Alta
+Configuração incorreta,51,3.63,1.29,Média
+Atualização pendente,54,3.6,0.93,Média
+Interferência elétrica,47,3.93,1.22,Baixa
+Servidor não responde,49,3.43,1.08,Média
+Problema no roteador,44,3.7,0.71,Média
+Falha de hardware,44,3.45,1.1,Média
+Driver desatualizado,54,3.63,0.7,Baixa
+Falha de hardware,56,3.21,0.81,Média
+Problema no roteador,49,2.28,1.06,Média
+Falha de hardware,55,3.43,1.09,Média
+Rede congestionada,51,4.21,0.64,Média
+Falha de hardware,46,3.96,1.32,Baixa
+Servidor não responde,51,3.98,1.17,Alta
+Configuração incorreta,57,4.12,0.79,Alta
+Erro de autenticação,49,3.54,0.54,Baixa
+Configuração incorreta,57,3.6,0.96,Média
+Servidor não responde,36,3.19,0.87,Média
+Falha de hardware,54,3.34,1.03,Média
+Configuração incorreta,50,3.81,0.89,Alta
+Driver desatualizado,48,4.1,0.4,Média
+Atualização pendente,50,3.43,0.88,Média
+Interferência elétrica,40,3.27,0.91,Média
+Rede congestionada,48,3.5,1.19,Média
+Falha de hardware,51,3.8,0.79,Baixa
+Rede congestionada,57,2.78,1.5,Alta
+Falha de hardware,47,2.35,0.43,Baixa
+Erro de autenticação,45,3.22,1.39,Alta
+Falha de hardware,47,2.89,0.93,Média
+Rede congestionada,54,3.25,1.26,Baixa
+Rede congestionada,51,3.43,1.02,Média
+Interferência elétrica,47,3.27,1.34,Média
+Rede congestionada,52,4.23,0.88,Média
+Problema no roteador,50,3.66,0.67,Média
+Problema no roteador,54,3.65,1.43,Alta
+Driver desatualizado,46,3.81,0.97,Baixa
+Atualização pendente,48,2.93,1.07,Média
+Erro de autenticação,48,4.02,1.37,Média
+Interferência elétrica,42,3.46,0.69,Média
+Servidor não responde,51,3.84,1.18,Alta
+Falha de hardware,51,2.96,0.82,Alta
+Problema no roteador,50,2.72,0.96,Média
+Servidor não responde,48,3.91,1.02,Média
+Conexão intermitente,42,3.69,0.55,Média
+Erro de autenticação,47,3.05,0.77,Baixa
+Erro de autenticação,48,3.07,1.41,Alta
+Driver desatualizado,45,4.06,1.27,Média
+Interferência elétrica,49,2.91,0.98,Alta
+Conexão intermitente,52,4.32,1.07,Média
+Driver desatualizado,59,3.05,0.91,Alta
+Driver desatualizado,50,3.82,1.41,Baixa
+Rede congestionada,51,3.34,0.94,Alta
+Servidor não responde,49,3.8,1.07,Baixa
+Erro de autenticação,40,3.23,1.34,Média
+Driver desatualizado,49,3.42,0.77,Baixa
+Problema no roteador,50,3.52,1.47,Média
+Problema no roteador,62,3.0,0.54,Baixa
+Conexão intermitente,49,3.87,1.49,Alta
+Problema no roteador,51,3.24,0.89,Média
+Rede congestionada,49,3.39,0.93,Baixa
+Problema no roteador,44,3.0,0.43,Alta
+Servidor não responde,55,2.22,0.86,Alta
+Atualização pendente,53,3.4,0.69,Média
+Erro de autenticação,53,4.71,0.82,Baixa
+Conexão intermitente,45,3.89,0.96,Média
+Erro de autenticação,57,3.49,1.29,Média
+Erro de autenticação,42,3.37,1.06,Alta
+Erro de autenticação,52,3.51,1.09,Alta
+Driver desatualizado,60,3.77,0.67,Baixa
+Erro de autenticação,45,2.91,0.74,Alta
+Interferência elétrica,47,4.06,1.54,Média
+Atualização pendente,50,3.86,0.78,Baixa
+Configuração incorreta,47,3.86,1.5,Alta
+Atualização pendente,42,3.72,0.93,Média
+Rede congestionada,50,3.51,1.0,Alta
+Atualização pendente,44,3.84,1.32,Média
+Driver desatualizado,52,3.8,1.38,Alta
+Interferência elétrica,45,3.32,0.97,Média
+Problema no roteador,57,3.21,0.88,Média
+Servidor não responde,46,3.55,0.98,Média
+Servidor não responde,48,4.27,1.1,Média
+Falha de hardware,54,2.88,1.27,Alta
+Interferência elétrica,43,2.77,1.0,Média
+Atualização pendente,51,3.58,1.19,Média
+Servidor não responde,56,3.53,1.49,Média
+Interferência elétrica,41,3.59,1.11,Alta
+Falha de hardware,50,3.62,1.09,Média
+Erro de autenticação,51,3.39,0.54,Alta
+Configuração incorreta,53,4.24,0.21,Média
+Falha de hardware,43,2.7,1.12,Alta
+Atualização pendente,43,3.09,0.97,Média
+Configuração incorreta,52,3.45,0.85,Alta
+Problema no roteador,51,2.68,1.07,Baixa
+Interferência elétrica,51,3.41,0.98,Baixa
+Problema no roteador,51,4.33,1.34,Alta
+Driver desatualizado,46,3.51,1.03,Média
+Servidor não responde,51,3.62,0.78,Alta
+Atualização pendente,51,2.87,1.3,Média
+Erro de autenticação,46,3.19,0.93,Média
+Servidor não responde,59,3.31,1.16,Média
+Atualização pendente,52,3.34,0.86,Média
+Servidor não responde,44,4.14,0.81,Alta
+Problema no roteador,53,3.78,1.03,Média
+Driver desatualizado,45,2.94,1.0,Alta
+Erro de autenticação,53,3.62,1.14,Média
+Interferência elétrica,55,3.75,0.92,Média
+Configuração incorreta,45,4.07,0.45,Média
+Atualização pendente,54,4.29,0.87,Alta
+Interferência elétrica,52,2.99,1.24,Média
+Driver desatualizado,54,3.09,0.91,Média
+Driver desatualizado,59,2.87,0.93,Alta
+Interferência elétrica,48,3.38,1.3,Média
+Configuração incorreta,46,3.73,0.79,Baixa
+Configuração incorreta,45,3.99,0.54,Baixa
+Servidor não responde,45,3.46,0.95,Média
+Conexão intermitente,49,3.34,0.85,Média
+Driver desatualizado,51,3.58,0.71,Alta
+Configuração incorreta,51,3.08,0.95,Baixa
+Erro de autenticação,54,4.54,1.15,Alta
+Atualização pendente,50,2.7,1.0,Baixa
+Problema no roteador,57,3.59,1.09,Média
+Problema no roteador,48,4.51,1.54,Média
+Atualização pendente,63,3.5,0.9,Baixa
+Rede congestionada,53,3.4,1.08,Alta
+Problema no roteador,45,3.32,0.85,Média
+Erro de autenticação,44,3.41,0.75,Média
+Falha de hardware,52,4.19,0.82,Alta
+Conexão intermitente,48,2.39,0.86,Média
+Problema no roteador,53,4.27,1.11,Média
+Driver desatualizado,52,2.79,1.7,Média
+Falha de hardware,49,3.37,0.79,Alta
+Driver desatualizado,45,3.29,0.88,Baixa
+Atualização pendente,42,3.79,0.98,Alta
+Conexão intermitente,47,2.7,1.12,Alta
+Atualização pendente,54,3.73,1.08,Alta
+Problema no roteador,51,4.51,1.39,Alta
+Conexão intermitente,43,2.82,0.27,Alta
+Driver desatualizado,50,3.59,0.28,Baixa
+Driver desatualizado,51,3.17,0.85,Média
+Servidor não responde,45,3.71,1.33,Alta
+Configuração incorreta,50,3.51,0.53,Alta
+Problema no roteador,50,3.18,0.1,Média
+Servidor não responde,44,3.74,1.17,Baixa
+Driver desatualizado,51,4.4,1.07,Alta
+Falha de hardware,52,3.4,0.67,Alta
+Falha de hardware,55,3.86,0.7,Alta
+Conexão intermitente,55,2.85,0.71,Alta
+Erro de autenticação,43,3.02,1.03,Alta
+Interferência elétrica,45,3.74,0.81,Média
+Falha de hardware,52,4.24,1.15,Alta
+Conexão intermitente,52,3.68,0.14,Média
+Problema no roteador,52,3.34,0.74,Alta
+Conexão intermitente,69,3.5,0.66,Baixa
+Problema no roteador,52,2.87,0.92,Baixa
+Interferência elétrica,55,3.8,0.84,Média
+Configuração incorreta,54,3.94,1.24,Média
+Servidor não responde,53,3.27,0.44,Média
+Configuração incorreta,48,3.26,1.01,Média
+Configuração incorreta,53,3.63,1.17,Média
+Configuração incorreta,46,3.28,1.56,Média
+Servidor não responde,48,3.47,0.86,Baixa
+Atualização pendente,47,4.55,1.1,Baixa
+Problema no roteador,50,3.38,0.46,Média
+Atualização pendente,61,3.32,0.28,Média
+Servidor não responde,40,3.18,1.25,Alta
+Erro de autenticação,53,3.87,1.0,Alta
+Configuração incorreta,41,3.41,1.35,Média
+Rede congestionada,47,3.18,0.59,Alta
+Atualização pendente,55,4.16,1.16,Baixa
+Interferência elétrica,50,4.21,1.56,Alta
+Configuração incorreta,44,3.2,1.13,Média
+Erro de autenticação,46,2.57,1.08,Média
+Falha de hardware,53,4.0,1.0,Média
+Interferência elétrica,46,3.16,0.53,Média
+Servidor não responde,51,3.9,1.41,Baixa
+Conexão intermitente,50,2.51,0.82,Média
+Driver desatualizado,46,3.95,1.15,Média
+Conexão intermitente,60,2.89,0.53,Alta
+Servidor não responde,53,3.87,0.65,Média
+Atualização pendente,39,3.51,1.43,Baixa
+Erro de autenticação,50,3.02,0.9,Média
+Rede congestionada,46,3.3,1.44,Baixa
+Problema no roteador,54,3.84,0.98,Média
+Driver desatualizado,46,3.55,0.45,Alta
+Erro de autenticação,49,3.79,1.27,Alta
+Interferência elétrica,52,4.49,0.82,Média
+Problema no roteador,54,2.72,1.21,Média
+Driver desatualizado,43,4.31,1.01,Média
+Conexão intermitente,48,3.55,0.54,Alta
+Interferência elétrica,47,3.05,1.05,Média
+Servidor não responde,46,2.83,1.66,Média
+Rede congestionada,58,3.41,1.15,Média
+Problema no roteador,52,3.96,0.98,Alta
+Problema no roteador,43,3.44,1.32,Alta
+Driver desatualizado,54,4.26,1.06,Alta
+Interferência elétrica,60,2.77,1.06,Alta
+Rede congestionada,55,3.49,0.67,Alta
+Configuração incorreta,42,2.87,1.07,Alta
+Falha de hardware,47,3.68,1.31,Média
+Servidor não responde,56,3.94,0.75,Média
+Problema no roteador,46,3.29,1.43,Baixa
+Servidor não responde,52,2.2,0.97,Alta
+Configuração incorreta,53,3.6,0.73,Média
+Servidor não responde,45,3.72,1.3,Média
+Driver desatualizado,49,3.7,0.91,Alta
+Interferência elétrica,33,4.12,1.23,Baixa
+Conexão intermitente,44,2.96,0.91,Alta
+Atualização pendente,48,3.84,0.98,Baixa
+Atualização pendente,43,4.1,1.15,Baixa
+Erro de autenticação,58,2.61,1.09,Média
+Problema no roteador,42,3.66,0.4,Média
+Conexão intermitente,47,3.25,0.66,Média
+Driver desatualizado,50,3.46,1.28,Média
+Servidor não responde,57,3.67,0.96,Média
+Falha de hardware,42,3.26,0.84,Alta
+Rede congestionada,55,3.16,0.59,Alta
+Configuração incorreta,50,3.52,0.68,Média
+Problema no roteador,45,2.96,0.39,Média
+Erro de autenticação,52,2.96,0.97,Baixa
+Interferência elétrica,50,3.84,0.82,Alta
+Rede congestionada,46,2.93,0.71,Baixa
+Rede congestionada,50,3.83,0.98,Alta
+Rede congestionada,48,3.73,1.11,Média
+Falha de hardware,50,2.64,1.63,Média
+Problema no roteador,53,3.16,0.55,Média
+Rede congestionada,57,4.1,1.35,Alta
+Conexão intermitente,43,3.01,1.29,Média
+Falha de hardware,60,3.27,0.77,Baixa
+Servidor não responde,40,3.73,1.06,Média
+Falha de hardware,49,3.89,0.86,Média
+Falha de hardware,52,3.37,1.06,Baixa
+Rede congestionada,51,3.2,1.45,Média
+Interferência elétrica,46,4.21,1.18,Média
+Erro de autenticação,48,4.37,1.15,Alta
+Erro de autenticação,47,3.99,0.87,Baixa
+Atualização pendente,47,3.54,0.55,Média
+Problema no roteador,54,3.1,0.94,Alta
+Falha de hardware,51,3.08,1.36,Alta
+Problema no roteador,46,3.76,0.54,Baixa
+Falha de hardware,54,3.71,0.68,Alta
+Configuração incorreta,51,4.2,1.04,Baixa
+Rede congestionada,54,3.83,0.7,Alta
+Atualização pendente,53,2.75,0.76,Média
+Erro de autenticação,45,4.03,0.87,Média
+Atualização pendente,47,3.0,0.59,Média
+Falha de hardware,53,3.31,0.71,Baixa
+Configuração incorreta,53,3.63,1.21,Média
+Rede congestionada,49,4.5,0.61,Média
+Erro de autenticação,50,5.05,0.52,Alta
+Conexão intermitente,56,3.8,0.81,Alta
+Interferência elétrica,47,3.41,1.22,Alta
+Problema no roteador,52,3.77,0.94,Média
+Driver desatualizado,48,3.94,0.86,Alta
+Interferência elétrica,48,3.34,1.01,Alta
+Interferência elétrica,55,4.4,0.48,Média
+Rede congestionada,54,3.62,1.15,Média
+Falha de hardware,54,3.75,1.12,Média
+Driver desatualizado,56,3.83,0.88,Alta
+Erro de autenticação,50,3.71,1.3,Alta
+Falha de hardware,53,3.92,0.66,Baixa
+Interferência elétrica,48,3.19,1.34,Alta
+Atualização pendente,51,3.22,1.05,Baixa
+Driver desatualizado,49,2.95,0.9,Baixa
+Configuração incorreta,50,3.72,0.99,Média
+Rede congestionada,52,3.89,0.97,Alta
+Interferência elétrica,45,3.73,1.37,Baixa
+Rede congestionada,60,4.34,0.68,Média
+Driver desatualizado,44,3.5,0.77,Média
+Driver desatualizado,43,3.83,1.31,Média
+Erro de autenticação,55,2.95,0.82,Alta
+Configuração incorreta,53,3.31,1.27,Alta
+Problema no roteador,53,3.85,1.51,Média
+Rede congestionada,53,3.92,0.88,Média
+Configuração incorreta,49,3.35,1.2,Média
+Rede congestionada,45,3.46,0.65,Média
+Problema no roteador,50,2.74,1.23,Média
+Configuração incorreta,46,3.32,1.06,Média
+Driver desatualizado,54,3.95,1.14,Baixa
+Falha de hardware,49,3.79,0.81,Alta
+Servidor não responde,45,3.75,0.5,Média
+Erro de autenticação,48,3.52,1.15,Alta
+Erro de autenticação,52,3.5,0.38,Média
+Atualização pendente,47,3.17,0.9,Média
+Driver desatualizado,45,3.85,1.28,Baixa
+Conexão intermitente,51,3.71,1.06,Alta
+Servidor não responde,51,3.75,1.58,Baixa
+Erro de autenticação,47,3.24,1.31,Alta
+Conexão intermitente,47,2.42,0.8,Média
+Servidor não responde,51,4.05,1.01,Alta
+Falha de hardware,42,3.26,0.99,Baixa
+Falha de hardware,42,3.07,0.53,Média
+Falha de hardware,46,3.85,0.72,Média
+Configuração incorreta,48,3.3,0.83,Baixa
+Conexão intermitente,51,4.03,0.39,Alta
+Driver desatualizado,57,3.81,1.01,Alta
+Atualização pendente,54,3.84,0.93,Baixa
+Configuração incorreta,49,2.82,0.5,Média
+Erro de autenticação,49,4.11,1.12,Alta
+Servidor não responde,44,3.63,1.21,Média
+Atualização pendente,49,3.32,1.07,Média
+Falha de hardware,48,3.57,0.9,Alta
+Configuração incorreta,51,2.61,1.18,Alta
+Rede congestionada,45,3.7,1.2,Alta
+Configuração incorreta,52,2.99,1.09,Média
+Configuração incorreta,57,2.82,0.75,Baixa
+Driver desatualizado,49,2.74,1.08,Baixa
+Servidor não responde,52,4.06,1.36,Média
+Problema no roteador,53,3.19,0.82,Alta
+Configuração incorreta,47,4.27,1.63,Baixa
+Servidor não responde,51,3.23,0.84,Média
+Erro de autenticação,50,2.65,1.01,Alta
+Erro de autenticação,50,2.94,0.8,Baixa
+Falha de hardware,46,4.12,1.07,Média
+Falha de hardware,50,3.42,0.48,Média
+Erro de autenticação,52,3.23,0.84,Média
+Falha de hardware,57,3.58,0.67,Alta
+Driver desatualizado,54,3.75,1.04,Alta
+Driver desatualizado,60,4.06,1.3,Média
+Servidor não responde,46,4.22,1.19,Alta
+Configuração incorreta,54,3.32,0.29,Média
+Erro de autenticação,50,2.84,1.61,Média
+Rede congestionada,60,3.29,1.09,Média
+Interferência elétrica,45,3.63,0.77,Média
+Rede congestionada,45,3.02,1.05,Média
+Erro de autenticação,47,3.02,1.05,Baixa
+Erro de autenticação,39,3.67,0.8,Média
+Erro de autenticação,47,3.48,1.06,Alta
+Problema no roteador,46,3.52,0.82,Alta
+Servidor não responde,50,3.12,0.88,Média
+Interferência elétrica,51,3.38,0.79,Alta
+Falha de hardware,59,3.04,0.57,Alta
+Driver desatualizado,54,3.95,1.04,Alta
+Interferência elétrica,47,4.02,1.18,Média
+Conexão intermitente,45,2.58,1.15,Baixa
+Configuração incorreta,52,3.04,1.25,Alta
+Atualização pendente,43,2.75,1.1,Média
+Servidor não responde,59,3.17,0.84,Média
+Servidor não responde,55,3.46,1.25,Alta
+Interferência elétrica,47,2.78,0.59,Baixa
+Configuração incorreta,41,3.04,0.73,Média
+Configuração incorreta,56,3.0,0.71,Média
+Driver desatualizado,49,3.6,1.32,Média
+Configuração incorreta,56,3.53,1.28,Alta
+Atualização pendente,42,3.14,1.15,Média
+Servidor não responde,47,3.59,1.32,Alta
+Driver desatualizado,50,3.23,0.74,Baixa
+Problema no roteador,50,3.36,1.1,Média
+Falha de hardware,47,4.34,0.96,Média
+Interferência elétrica,53,4.17,1.25,Alta
+Interferência elétrica,44,2.85,0.97,Média
+Conexão intermitente,49,3.91,0.88,Média
+Falha de hardware,50,3.91,1.16,Média
+Driver desatualizado,52,2.93,1.26,Média
+Problema no roteador,53,3.91,0.8,Média
+Problema no roteador,44,4.27,0.98,Baixa
+Erro de autenticação,42,2.94,0.68,Média
+Erro de autenticação,56,3.04,0.25,Baixa
+Servidor não responde,51,4.01,1.06,Baixa
+Rede congestionada,46,3.64,1.18,Média
+Driver desatualizado,57,3.78,1.08,Alta
+Conexão intermitente,50,3.67,0.42,Média
+Atualização pendente,55,3.7,0.89,Baixa
+Conexão intermitente,50,2.84,0.33,Alta
+Conexão intermitente,60,4.02,1.41,Média
+Conexão intermitente,58,4.08,0.67,Baixa
+Falha de hardware,48,3.39,1.38,Média
+Interferência elétrica,54,3.48,1.28,Média
+Servidor não responde,53,2.73,0.73,Alta
+Driver desatualizado,56,3.76,0.66,Alta
+Atualização pendente,45,3.79,1.11,Média
+Falha de hardware,53,3.47,0.75,Alta
+Interferência elétrica,55,4.06,1.03,Alta
+Interferência elétrica,41,3.33,0.86,Baixa
+Servidor não responde,44,3.78,0.47,Média
+Rede congestionada,39,2.99,0.33,Baixa
+Conexão intermitente,48,3.49,1.07,Baixa
+Rede congestionada,53,3.41,0.83,Alta
+Interferência elétrica,57,3.61,0.83,Alta
+Configuração incorreta,50,3.32,1.21,Média
+Configuração incorreta,58,3.43,1.35,Média
+Configuração incorreta,43,3.91,0.92,Alta
+Rede congestionada,41,3.28,0.9,Média
+Driver desatualizado,49,2.7,1.15,Alta
+Rede congestionada,51,4.37,0.59,Baixa
+Erro de autenticação,49,4.19,1.07,Alta
+Servidor não responde,39,2.85,1.17,Alta
+Driver desatualizado,49,3.84,1.2,Alta
+Interferência elétrica,43,3.25,0.42,Baixa
+Interferência elétrica,53,3.63,0.77,Média
+Driver desatualizado,51,3.65,0.74,Baixa
+Configuração incorreta,45,3.38,1.03,Média
+Erro de autenticação,47,3.11,1.14,Média
+Conexão intermitente,44,3.15,1.45,Alta
+Conexão intermitente,49,3.04,0.85,Média
+Erro de autenticação,54,3.08,0.85,Média
+Erro de autenticação,45,3.47,1.34,Média
+Falha de hardware,52,3.14,1.09,Alta
+Conexão intermitente,47,3.84,1.38,Baixa
+Interferência elétrica,46,4.24,1.09,Alta
+Interferência elétrica,49,3.21,0.65,Baixa
+Conexão intermitente,44,3.62,0.6,Alta
+Conexão intermitente,47,3.75,0.53,Média
+Atualização pendente,44,3.74,1.2,Média
+Servidor não responde,59,3.54,1.36,Média
+Problema no roteador,50,3.87,1.55,Média
+Interferência elétrica,46,3.74,1.25,Média
+Servidor não responde,51,2.88,1.35,Média
+Rede congestionada,49,3.93,0.83,Média
+Atualização pendente,48,3.94,0.65,Média
+Interferência elétrica,53,3.12,1.26,Baixa
+Interferência elétrica,53,3.52,1.13,Alta
+Servidor não responde,47,3.84,1.03,Média
+Driver desatualizado,47,3.4,1.12,Média
+Problema no roteador,48,4.04,1.1,Média
+Rede congestionada,38,4.68,1.39,Média
+Conexão intermitente,42,3.11,1.39,Média
+Servidor não responde,56,2.81,1.16,Alta
+Erro de autenticação,58,3.65,1.25,Alta
+Interferência elétrica,48,3.86,1.15,Alta
+Atualização pendente,52,3.38,0.86,Média
+Conexão intermitente,51,4.23,1.23,Média
+Conexão intermitente,65,2.83,0.58,Baixa
+Erro de autenticação,55,3.85,1.32,Média
+Driver desatualizado,49,3.2,0.64,Alta
+Configuração incorreta,45,4.36,1.09,Baixa
+Atualização pendente,41,4.5,0.75,Baixa
+Interferência elétrica,51,3.12,1.17,Média
+Atualização pendente,46,3.23,0.99,Média
+Atualização pendente,42,3.93,0.52,Baixa
+Falha de hardware,46,3.31,1.13,Média
+Servidor não responde,44,3.48,0.83,Baixa
+Falha de hardware,58,3.51,1.26,Alta
+Configuração incorreta,54,2.54,1.0,Alta
+Driver desatualizado,49,3.49,1.12,Média
+Conexão intermitente,57,3.16,0.71,Média
+Atualização pendente,50,3.25,0.82,Baixa
+Driver desatualizado,45,4.22,0.86,Baixa
+Rede congestionada,57,2.87,1.26,Média
+Problema no roteador,52,3.91,1.5,Alta
+Conexão intermitente,44,3.36,0.76,Baixa
+Conexão intermitente,49,3.36,1.32,Média
+Configuração incorreta,45,3.9,0.35,Alta
+Interferência elétrica,43,3.67,0.64,Média
+Driver desatualizado,54,3.79,0.71,Média
+Servidor não responde,59,3.98,0.59,Média
+Conexão intermitente,43,3.33,0.52,Média
+Servidor não responde,52,3.19,1.12,Média
+Atualização pendente,46,2.96,0.94,Baixa
+Problema no roteador,47,3.09,1.11,Média
+Configuração incorreta,47,4.97,1.21,Média
+Interferência elétrica,45,4.12,1.08,Alta
+Conexão intermitente,50,2.82,1.2,Média
+Erro de autenticação,45,2.84,0.98,Alta
+Conexão intermitente,51,3.74,0.64,Alta
+Servidor não responde,49,3.77,1.32,Média
+Configuração incorreta,48,3.77,0.82,Alta
+Falha de hardware,45,3.37,0.72,Média
+Falha de hardware,47,3.44,0.95,Alta
+Erro de autenticação,53,3.66,0.73,Média
+Problema no roteador,52,3.54,0.87,Alta
+Servidor não responde,45,2.39,1.1,Alta
+Driver desatualizado,50,3.39,1.1,Alta
+Driver desatualizado,53,3.07,0.73,Baixa
+Problema no roteador,41,3.59,0.85,Baixa
+Atualização pendente,52,4.99,1.32,Alta
+Rede congestionada,46,3.68,1.15,Média
+Falha de hardware,52,3.34,1.62,Média
+Erro de autenticação,46,3.96,1.35,Baixa
+Driver desatualizado,40,3.74,1.34,Média
+Problema no roteador,41,3.71,0.58,Média
+Interferência elétrica,50,3.8,1.23,Alta
+Driver desatualizado,51,4.53,0.98,Média
+Rede congestionada,45,2.93,0.83,Baixa
+Configuração incorreta,53,3.74,1.05,Média
+Configuração incorreta,41,3.04,1.28,Alta
+Servidor não responde,49,3.78,1.15,Alta
+Conexão intermitente,43,3.04,0.74,Média
+Servidor não responde,46,3.29,1.22,Média
+Interferência elétrica,50,3.35,0.81,Média
+Problema no roteador,45,3.99,1.07,Baixa
+Problema no roteador,48,3.96,0.91,Alta
+Interferência elétrica,55,2.88,0.93,Média
+Conexão intermitente,47,3.53,1.23,Baixa
+Problema no roteador,54,3.15,0.69,Média
+Atualização pendente,44,2.87,1.58,Alta
+Atualização pendente,52,3.39,0.45,Média
+Rede congestionada,57,3.35,0.82,Baixa
+Falha de hardware,37,4.71,1.11,Alta
+Falha de hardware,46,3.72,1.18,Baixa
+Falha de hardware,52,2.81,0.97,Média
+Conexão intermitente,48,3.22,0.98,Alta
+Configuração incorreta,51,4.01,1.12,Média
+Atualização pendente,46,4.54,0.93,Média
+Servidor não responde,50,2.71,1.42,Média
+Atualização pendente,49,2.56,1.25,Média
+Configuração incorreta,55,4.44,1.26,Baixa
+Problema no roteador,51,3.69,0.71,Alta
+Conexão intermitente,51,3.07,0.98,Média
+Rede congestionada,47,3.77,0.91,Média
+Erro de autenticação,47,2.18,0.7,Média
+Configuração incorreta,47,3.5,1.11,Média
+Interferência elétrica,51,3.66,0.84,Alta
+Problema no roteador,47,3.96,1.2,Média
+Conexão intermitente,51,2.99,0.68,Média
+Conexão intermitente,60,3.54,1.52,Alta
+Configuração incorreta,54,3.04,0.73,Baixa
+Falha de hardware,48,3.63,1.07,Baixa
+Conexão intermitente,56,3.05,1.24,Média
+Falha de hardware,47,3.3,0.83,Alta
+Erro de autenticação,39,3.0,1.26,Média
+Servidor não responde,44,3.83,0.63,Alta
+Driver desatualizado,40,3.93,1.44,Alta
+Configuração incorreta,48,3.38,1.0,Média
+Atualização pendente,50,3.52,0.82,Alta
+Conexão intermitente,58,2.78,0.91,Alta
+Atualização pendente,51,3.35,1.24,Alta
+Falha de hardware,48,3.47,0.82,Alta
+Driver desatualizado,54,4.81,0.78,Alta
+Problema no roteador,38,2.94,0.93,Baixa
+Falha de hardware,51,4.23,0.65,Alta
+Driver desatualizado,53,4.0,1.55,Alta
+Conexão intermitente,42,3.64,0.83,Alta
+Falha de hardware,55,4.38,1.25,Baixa
+Driver desatualizado,51,3.69,1.06,Média
+Erro de autenticação,47,3.69,0.7,Média
+Rede congestionada,53,3.47,1.0,Baixa
+Conexão intermitente,61,4.11,1.24,Média
+Configuração incorreta,50,4.05,0.94,Média
+Problema no roteador,51,3.19,1.36,Alta
+Erro de autenticação,47,2.84,1.31,Média
+Falha de hardware,45,3.4,1.28,Média
+Configuração incorreta,54,3.1,0.86,Média
+Driver desatualizado,45,3.47,0.68,Alta
+Conexão intermitente,50,4.12,0.82,Média
+Rede congestionada,47,3.27,1.06,Alta
+Rede congestionada,52,3.48,1.16,Alta
+Atualização pendente,51,3.53,0.35,Média
+Erro de autenticação,55,3.92,1.0,Baixa
+Interferência elétrica,47,2.38,1.05,Média
+Rede congestionada,48,3.2,0.92,Média
+Driver desatualizado,45,3.61,1.39,Alta
+Rede congestionada,47,4.1,1.13,Alta
+Conexão intermitente,51,3.25,1.39,Alta
+Servidor não responde,53,2.56,0.94,Média
+Erro de autenticação,45,3.81,1.28,Alta
+Erro de autenticação,54,3.18,1.49,Alta
+Driver desatualizado,56,2.91,1.39,Média
+Erro de autenticação,52,3.19,0.67,Alta
+Servidor não responde,59,3.41,0.92,Média
+Interferência elétrica,46,3.2,0.9,Média
+Erro de autenticação,43,2.4,1.15,Média
+Rede congestionada,41,3.95,1.21,Média
+Conexão intermitente,57,4.14,0.75,Média
+Erro de autenticação,53,3.83,1.02,Alta
+Falha de hardware,49,2.93,0.39,Média
+Falha de hardware,51,3.4,1.43,Baixa
+Configuração incorreta,44,3.5,0.85,Alta
+Conexão intermitente,62,3.8,1.02,Alta
+Problema no roteador,50,3.83,0.91,Baixa
+Driver desatualizado,50,3.13,1.34,Média
+Driver desatualizado,53,3.54,0.15,Média
+Erro de autenticação,52,3.73,1.0,Média
+Driver desatualizado,51,4.23,0.97,Alta
+Configuração incorreta,46,3.85,0.86,Média
+Falha de hardware,52,3.89,1.52,Média
+Conexão intermitente,59,3.54,0.73,Alta
+Driver desatualizado,56,4.21,1.23,Média
+Falha de hardware,57,3.7,1.11,Média
+Configuração incorreta,47,3.07,1.38,Média
+Falha de hardware,45,4.2,0.8,Alta
+Erro de autenticação,49,3.85,0.78,Média
+Driver desatualizado,50,3.28,1.33,Média
+Falha de hardware,55,3.26,1.13,Média
+Conexão intermitente,41,3.65,0.54,Média
+Configuração incorreta,57,3.73,0.84,Alta
+Interferência elétrica,49,3.6,1.12,Média
+Erro de autenticação,47,3.66,1.25,Média
+Rede congestionada,44,4.35,0.8,Alta
+Atualização pendente,41,4.04,0.13,Média
+Interferência elétrica,54,3.6,1.16,Média
+Servidor não responde,50,3.97,0.63,Média
+Interferência elétrica,43,2.98,0.39,Alta
+Interferência elétrica,43,3.7,0.15,Média
+Driver desatualizado,48,4.4,1.24,Baixa
+Servidor não responde,58,3.39,1.04,Média
+Rede congestionada,48,3.08,0.93,Baixa
+Driver desatualizado,42,3.17,1.42,Baixa
+Conexão intermitente,48,2.96,1.19,Alta
+Problema no roteador,48,3.11,1.48,Média
+Falha de hardware,36,3.31,0.58,Média
+Rede congestionada,49,2.8,0.99,Baixa
+Falha de hardware,48,3.51,0.51,Alta
+Falha de hardware,53,3.95,0.93,Baixa
+Problema no roteador,59,3.05,0.93,Média
+Configuração incorreta,55,4.26,1.19,Média
+Rede congestionada,48,3.76,1.01,Alta
+Conexão intermitente,44,4.02,1.19,Alta
+Conexão intermitente,62,3.17,1.21,Média
+Driver desatualizado,50,3.93,1.65,Alta
+Problema no roteador,50,2.95,0.91,Baixa
+Problema no roteador,49,3.95,0.72,Alta
+Erro de autenticação,50,3.59,1.07,Média
+Driver desatualizado,49,3.78,0.76,Média
+Conexão intermitente,47,2.91,1.44,Média
+Rede congestionada,47,3.05,0.92,Média
+Falha de hardware,49,3.8,0.83,Média
+Rede congestionada,47,3.03,0.86,Alta
+Configuração incorreta,46,3.73,1.22,Alta
+Servidor não responde,50,2.82,0.95,Média
+Atualização pendente,48,3.92,0.81,Média
+Erro de autenticação,57,2.88,1.5,Média
+Driver desatualizado,36,3.78,0.74,Média
+Problema no roteador,55,3.81,1.01,Média
+Interferência elétrica,56,3.15,1.2,Média
+Servidor não responde,39,3.79,0.51,Alta
+Problema no roteador,48,3.63,1.14,Média
+Falha de hardware,48,3.23,0.68,Baixa
+Servidor não responde,42,3.0,1.25,Baixa
+Configuração incorreta,46,2.52,0.71,Média
+Interferência elétrica,44,3.67,1.21,Média
+Atualização pendente,58,2.72,1.33,Baixa
+Configuração incorreta,54,3.55,1.26,Média
+Configuração incorreta,56,3.37,1.08,Alta
+Falha de hardware,53,3.84,0.93,Alta
+Configuração incorreta,44,3.35,0.83,Média
+Interferência elétrica,47,3.34,1.44,Baixa
+Erro de autenticação,52,3.87,0.79,Média
+Conexão intermitente,43,3.67,0.69,Alta
+Conexão intermitente,53,3.66,1.2,Alta
+Falha de hardware,48,3.73,0.76,Média
+Erro de autenticação,48,2.73,0.71,Baixa
+Interferência elétrica,53,3.88,0.57,Média
+Rede congestionada,52,3.81,0.86,Média
+Rede congestionada,48,2.99,0.98,Alta
+Conexão intermitente,55,3.38,1.07,Baixa
+Erro de autenticação,44,3.48,1.29,Média
+Atualização pendente,53,3.43,1.16,Alta
+Erro de autenticação,52,3.67,0.94,Média
+Erro de autenticação,48,4.22,0.94,Alta
+Interferência elétrica,51,4.04,1.15,Alta
+Atualização pendente,43,2.84,1.38,Alta
+Servidor não responde,54,3.81,1.04,Alta
+Conexão intermitente,49,4.16,0.86,Média
+Erro de autenticação,47,3.69,0.7,Média
+Rede congestionada,55,4.05,0.57,Média
+Driver desatualizado,46,4.51,1.2,Média
+Conexão intermitente,42,4.01,1.17,Alta
+Rede congestionada,42,3.62,1.17,Alta
+Erro de autenticação,53,4.02,0.96,Média
+Conexão intermitente,43,3.57,1.42,Média
+Configuração incorreta,58,3.51,0.85,Alta
+Servidor não responde,39,3.32,1.29,Baixa
+Erro de autenticação,58,4.28,0.99,Média
+Rede congestionada,51,3.09,0.82,Baixa
+Interferência elétrica,49,4.27,1.18,Média
+Falha de hardware,47,3.75,1.12,Alta
+Interferência elétrica,51,2.8,1.11,Média
+Problema no roteador,49,3.68,1.02,Alta
+Falha de hardware,55,2.45,0.99,Média
+Atualização pendente,50,3.81,1.72,Alta
+Problema no roteador,50,3.94,1.36,Baixa
+Interferência elétrica,48,3.2,1.22,Alta
+Problema no roteador,49,3.56,1.03,Baixa
+Driver desatualizado,51,4.48,1.3,Baixa
+Rede congestionada,41,3.25,1.16,Média
+Driver desatualizado,43,2.97,1.01,Média
+Interferência elétrica,53,4.24,0.91,Média
+Servidor não responde,50,4.48,0.98,Baixa
+Configuração incorreta,49,3.5,0.05,Média
+Conexão intermitente,50,4.01,1.06,Média
+Rede congestionada,51,4.17,0.85,Média
+Configuração incorreta,47,3.13,1.48,Baixa
+Conexão intermitente,46,3.26,1.01,Média
+Interferência elétrica,50,4.12,0.64,Média
+Configuração incorreta,45,4.34,0.99,Média
+Falha de hardware,52,3.78,0.69,Baixa
+Erro de autenticação,41,3.06,1.14,Média
+Falha de hardware,55,4.49,1.09,Alta
+Problema no roteador,52,3.23,1.29,Média
+Driver desatualizado,51,3.33,0.76,Baixa
+Rede congestionada,54,3.67,1.01,Média
+Problema no roteador,58,4.28,0.59,Baixa
+Atualização pendente,55,3.93,1.21,Alta
+Rede congestionada,40,3.71,1.16,Média
+Servidor não responde,43,3.73,1.15,Média
+Atualização pendente,46,3.52,1.0,Baixa
+Problema no roteador,50,3.78,1.12,Alta
+Rede congestionada,52,2.24,1.48,Baixa
+Falha de hardware,46,3.35,0.91,Média
+Erro de autenticação,50,3.62,1.04,Alta
+Servidor não responde,46,2.92,0.67,Média
+Configuração incorreta,46,3.69,0.74,Alta
+Falha de hardware,42,3.4,1.03,Média
+Falha de hardware,45,4.38,1.33,Alta
+Driver desatualizado,43,4.29,0.92,Alta
+Erro de autenticação,45,3.27,0.93,Baixa
+Interferência elétrica,55,3.42,0.88,Alta
+Interferência elétrica,45,3.46,0.84,Alta
+Configuração incorreta,63,3.27,1.09,Média
+Servidor não responde,52,3.6,0.55,Média
+Erro de autenticação,50,3.12,1.38,Média
+Problema no roteador,45,2.93,0.8,Média
+Conexão intermitente,53,3.81,1.22,Média
+Erro de autenticação,47,3.81,0.62,Média
+Driver desatualizado,50,3.1,1.2,Alta
+Servidor não responde,62,3.95,1.2,Alta
+Problema no roteador,49,3.18,1.12,Média
+Interferência elétrica,55,3.63,0.7,Média
+Problema no roteador,46,3.91,1.07,Média
+Driver desatualizado,49,3.48,0.65,Média
+Conexão intermitente,58,3.73,0.92,Média
+Atualização pendente,46,3.24,1.31,Alta
+Servidor não responde,59,3.4,1.24,Alta
+Rede congestionada,53,3.4,1.0,Média
+Erro de autenticação,47,3.13,0.71,Média
+Atualização pendente,53,3.41,1.19,Média
+Rede congestionada,54,2.73,1.01,Alta
+Problema no roteador,53,3.25,0.3,Média
+Falha de hardware,42,3.36,1.23,Baixa
+Configuração incorreta,46,3.37,0.99,Alta
+Conexão intermitente,48,3.38,1.36,Média
+Configuração incorreta,49,3.47,0.67,Baixa
+Conexão intermitente,53,3.74,0.05,Média
+Falha de hardware,50,3.94,1.08,Média
+Erro de autenticação,43,3.18,1.09,Alta
+Servidor não responde,51,2.9,0.49,Média
+Problema no roteador,53,2.98,0.71,Alta
+Servidor não responde,52,3.26,1.83,Baixa
+Falha de hardware,55,3.32,0.91,Média
+Falha de hardware,54,3.12,1.22,Média
+Erro de autenticação,52,2.85,0.8,Média
+Rede congestionada,49,3.27,0.37,Média
+Rede congestionada,41,3.59,0.95,Média
+Conexão intermitente,52,3.8,0.92,Baixa
+Driver desatualizado,51,3.22,0.88,Baixa
+Erro de autenticação,51,3.29,0.97,Média
+Conexão intermitente,43,3.04,1.08,Baixa
+Conexão intermitente,44,3.48,0.95,Média
+Rede congestionada,55,3.08,0.62,Média
+Falha de hardware,49,3.79,1.15,Média
+Falha de hardware,53,2.61,0.42,Alta
+Driver desatualizado,50,3.32,0.38,Alta
+Erro de autenticação,50,3.65,1.22,Alta
+Rede congestionada,54,3.59,1.15,Média
+Erro de autenticação,47,4.85,0.98,Média
+Erro de autenticação,50,3.67,0.58,Média
+Configuração incorreta,47,3.0,0.79,Baixa
+Conexão intermitente,47,3.45,0.92,Média
+Servidor não responde,48,2.61,0.52,Média
+Servidor não responde,51,3.46,0.78,Alta
+Erro de autenticação,47,3.08,1.2,Alta
+Problema no roteador,56,3.96,1.43,Média
+Driver desatualizado,45,3.23,0.87,Média
+Problema no roteador,49,3.44,1.23,Média
+Erro de autenticação,47,3.18,0.43,Alta
+Atualização pendente,57,4.37,1.2,Média
+Rede congestionada,50,3.34,0.76,Alta
+Conexão intermitente,55,4.42,1.09,Alta
+Problema no roteador,42,3.91,0.93,Alta
+Conexão intermitente,51,3.74,1.4,Alta
+Rede congestionada,54,3.68,0.74,Média
+Erro de autenticação,50,3.7,1.19,Alta
+Interferência elétrica,55,2.54,0.92,Baixa
+Servidor não responde,47,3.36,0.95,Média
+Servidor não responde,57,3.92,0.94,Alta
+Rede congestionada,61,3.48,0.75,Alta
+Erro de autenticação,48,2.8,1.0,Média
+Rede congestionada,47,3.47,0.98,Alta
+Rede congestionada,57,4.35,1.07,Baixa
+Servidor não responde,57,4.12,1.03,Baixa
+Driver desatualizado,47,3.47,1.24,Alta
+Configuração incorreta,47,3.98,1.28,Média
+Atualização pendente,48,3.32,0.68,Alta
+Conexão intermitente,43,2.65,1.26,Média
+Problema no roteador,45,3.04,0.64,Média
+Driver desatualizado,44,4.28,1.18,Alta
+Rede congestionada,46,3.36,1.19,Alta
+Rede congestionada,49,3.38,0.43,Média
+Interferência elétrica,51,3.35,1.03,Média
+Rede congestionada,57,4.45,0.86,Alta
+Interferência elétrica,45,4.31,0.77,Média
+Rede congestionada,54,4.61,1.41,Média
+Configuração incorreta,48,3.42,0.8,Baixa
+Falha de hardware,49,3.65,0.76,Alta
+Atualização pendente,53,2.74,1.02,Média
+Configuração incorreta,44,4.24,1.21,Média
+Interferência elétrica,51,2.92,0.96,Alta
+Rede congestionada,50,3.61,1.35,Média
+Atualização pendente,52,2.95,1.16,Média
+Interferência elétrica,51,3.21,0.35,Baixa
+Falha de hardware,62,3.08,0.84,Alta
+Configuração incorreta,46,3.2,0.83,Média
+Rede congestionada,47,3.23,1.14,Média
+Falha de hardware,46,3.23,0.21,Baixa
+Erro de autenticação,47,3.92,1.76,Média
+Erro de autenticação,46,2.95,1.16,Baixa
+Configuração incorreta,55,3.61,1.04,Baixa
+Servidor não responde,57,4.11,1.35,Alta
+Servidor não responde,47,3.24,1.7,Baixa
+Conexão intermitente,45,3.14,1.26,Baixa
+Driver desatualizado,52,3.38,1.28,Alta
+Problema no roteador,47,4.09,1.04,Média
+Falha de hardware,53,3.6,0.96,Média
+Servidor não responde,51,3.23,0.86,Alta
+Driver desatualizado,42,3.74,0.75,Alta
+Configuração incorreta,57,2.95,0.79,Alta
+Servidor não responde,58,3.84,0.59,Alta
+Falha de hardware,46,3.7,0.98,Média
+Servidor não responde,48,3.35,0.49,Alta
+Driver desatualizado,51,3.08,1.06,Baixa
+Interferência elétrica,51,3.06,0.99,Média
+Interferência elétrica,53,3.77,1.04,Alta
+Conexão intermitente,60,4.11,0.84,Média
+Driver desatualizado,49,3.18,1.92,Média
+Erro de autenticação,46,3.73,1.41,Baixa
+Driver desatualizado,43,2.46,0.63,Alta
+Falha de hardware,46,3.21,1.07,Alta
+Atualização pendente,49,3.48,0.82,Baixa
+Configuração incorreta,58,3.05,0.7,Baixa
+Configuração incorreta,47,3.03,0.6,Média
+Problema no roteador,51,3.17,1.13,Média
+Servidor não responde,49,3.65,0.8,Alta
+Problema no roteador,55,3.41,1.29,Média
+Erro de autenticação,62,2.38,1.3,Alta
+Rede congestionada,47,2.44,1.41,Alta
+Conexão intermitente,47,3.2,0.74,Baixa
+Atualização pendente,55,3.73,1.14,Alta
+Atualização pendente,53,2.13,1.19,Média
+Atualização pendente,59,3.25,0.86,Baixa
+Falha de hardware,52,3.24,0.77,Alta
+Driver desatualizado,48,4.19,1.48,Baixa
+Configuração incorreta,52,3.31,1.07,Baixa
+Configuração incorreta,55,3.69,1.19,Média
+Servidor não responde,54,3.57,0.75,Alta
+Atualização pendente,52,2.43,0.63,Média
+Interferência elétrica,55,3.88,0.83,Média
+Servidor não responde,55,3.61,0.96,Média
+Atualização pendente,56,3.75,0.68,Alta
+Rede congestionada,53,5.46,1.0,Baixa
+Problema no roteador,49,2.46,0.49,Alta
+Servidor não responde,50,4.36,0.66,Média
+Problema no roteador,56,3.36,1.2,Alta
+Problema no roteador,45,3.64,1.18,Média
+Atualização pendente,51,3.48,0.88,Baixa
+Rede congestionada,48,3.29,0.69,Alta
+Rede congestionada,50,3.22,0.69,Alta
+Rede congestionada,56,3.66,0.89,Média
+Rede congestionada,50,2.74,1.19,Média
+Driver desatualizado,50,3.88,1.28,Média
+Servidor não responde,43,3.29,0.85,Média
+Driver desatualizado,53,2.93,0.65,Alta
+Driver desatualizado,53,3.27,1.08,Baixa
+Interferência elétrica,60,4.13,0.75,Baixa
+Servidor não responde,48,3.23,0.84,Média
+Conexão intermitente,51,3.68,1.4,Baixa
+Servidor não responde,51,3.13,1.25,Média
+Falha de hardware,57,3.88,1.05,Média
+Conexão intermitente,49,3.84,0.62,Alta
+Atualização pendente,51,4.42,1.06,Média
+Interferência elétrica,53,3.41,1.32,Média
+Driver desatualizado,50,3.83,0.89,Alta
+Driver desatualizado,47,3.55,1.41,Média
+Problema no roteador,50,4.15,1.39,Média
+Problema no roteador,55,3.14,1.5,Média
+Configuração incorreta,44,3.87,1.09,Média
+Rede congestionada,50,3.4,1.18,Baixa
+Conexão intermitente,46,3.47,1.42,Alta
+Driver desatualizado,55,3.55,1.13,Média
+Falha de hardware,42,3.63,0.85,Média
+Atualização pendente,47,3.44,0.87,Média
+Falha de hardware,51,3.61,1.07,Média
+Rede congestionada,57,4.29,0.61,Alta
+Falha de hardware,49,3.99,0.96,Baixa
+Rede congestionada,47,3.93,1.33,Média
+Erro de autenticação,59,3.27,0.34,Baixa
+Erro de autenticação,42,3.06,1.46,Média
+Atualização pendente,39,3.98,1.34,Média
+Atualização pendente,52,3.94,0.86,Baixa
+Falha de hardware,47,4.24,1.16,Média
+Problema no roteador,44,3.2,1.0,Média
+Configuração incorreta,53,3.39,1.37,Média
+Driver desatualizado,51,2.68,1.29,Baixa
+Erro de autenticação,47,3.3,0.58,Média
+Problema no roteador,43,4.0,1.18,Média
+Conexão intermitente,54,3.27,0.94,Alta
+Driver desatualizado,53,3.82,1.02,Baixa
+Erro de autenticação,49,3.4,0.78,Alta
+Configuração incorreta,59,3.66,1.52,Média
+Driver desatualizado,44,2.93,1.31,Média
+Atualização pendente,42,3.54,0.78,Média
+Rede congestionada,46,2.0,0.6,Média
+Conexão intermitente,49,3.41,0.88,Alta
+Configuração incorreta,51,2.68,1.13,Média
+Problema no roteador,48,4.1,1.07,Média
+Driver desatualizado,51,3.89,1.38,Baixa
+Conexão intermitente,43,3.73,1.24,Alta
+Erro de autenticação,57,4.26,1.29,Baixa
+Conexão intermitente,49,3.03,1.1,Média
+Configuração incorreta,55,4.37,0.58,Baixa
+Interferência elétrica,51,3.97,0.94,Média
+Driver desatualizado,52,3.38,1.32,Média
+Conexão intermitente,52,4.07,0.98,Baixa
+Configuração incorreta,52,2.95,1.15,Baixa
+Rede congestionada,53,3.09,0.9,Média
+Interferência elétrica,56,3.2,0.69,Alta
+Conexão intermitente,50,3.24,0.96,Média
+Driver desatualizado,53,2.97,1.09,Média
+Conexão intermitente,49,4.11,0.8,Alta
+Problema no roteador,57,3.37,0.93,Alta
+Servidor não responde,46,3.68,0.72,Baixa
+Atualização pendente,59,3.21,1.34,Alta
+Erro de autenticação,49,2.59,0.91,Média
+Rede congestionada,42,3.64,1.44,Alta
+Rede congestionada,50,2.54,1.46,Média
+Erro de autenticação,46,3.47,0.98,Alta
+Interferência elétrica,54,2.82,0.7,Alta
+Interferência elétrica,46,4.49,0.37,Média
+Atualização pendente,47,3.96,0.56,Baixa
+Rede congestionada,40,3.55,0.59,Alta
+Servidor não responde,47,4.13,1.41,Média
+Driver desatualizado,37,3.08,1.03,Média
+Servidor não responde,42,3.77,1.12,Baixa
+Falha de hardware,53,3.6,0.33,Média
+Servidor não responde,53,3.63,0.64,Média
+Conexão intermitente,52,4.14,1.27,Média
+Configuração incorreta,45,3.87,1.09,Baixa
+Erro de autenticação,49,3.64,0.96,Alta
+Rede congestionada,49,2.67,1.17,Média
+Driver desatualizado,44,3.02,1.49,Baixa
+Problema no roteador,57,3.44,0.93,Média
+Atualização pendente,54,3.55,1.02,Média
+Interferência elétrica,48,2.93,1.06,Média
+Driver desatualizado,50,4.71,1.72,Média
+Problema no roteador,51,4.26,0.37,Média
+Conexão intermitente,39,3.8,1.2,Média
+Rede congestionada,48,3.54,0.97,Média
+Conexão intermitente,46,3.39,1.17,Média
+Conexão intermitente,44,3.02,0.8,Baixa
+Atualização pendente,48,3.54,0.99,Alta
+Conexão intermitente,58,3.63,1.21,Média
+Erro de autenticação,53,2.88,1.93,Média
+Servidor não responde,47,3.67,1.24,Média
+Conexão intermitente,52,3.42,0.75,Alta
+Rede congestionada,56,2.55,0.87,Média
+Servidor não responde,54,3.07,0.86,Baixa
+Conexão intermitente,50,3.29,0.46,Média
+Conexão intermitente,46,4.44,0.9,Baixa
+Atualização pendente,53,3.78,1.22,Baixa
+Rede congestionada,51,2.83,0.62,Alta
+Interferência elétrica,54,3.74,1.31,Alta
+Falha de hardware,53,2.73,1.15,Baixa
+Erro de autenticação,55,4.04,0.78,Baixa
+Atualização pendente,47,3.26,0.96,Alta
+Problema no roteador,56,3.45,1.48,Alta
+Conexão intermitente,50,4.16,1.22,Alta
+Driver desatualizado,60,2.86,1.0,Baixa
+Configuração incorreta,46,2.8,0.93,Alta
+Atualização pendente,58,3.21,1.02,Média
+Atualização pendente,50,4.02,0.85,Baixa
+Rede congestionada,46,2.74,0.37,Alta
+Atualização pendente,47,2.08,1.61,Média
+Problema no roteador,48,3.27,1.05,Alta
+Servidor não responde,52,3.78,1.12,Baixa
+Falha de hardware,52,4.1,0.98,Alta
+Conexão intermitente,47,3.27,0.78,Média
+Falha de hardware,49,3.29,0.94,Média
+Conexão intermitente,60,4.08,0.52,Alta
+Falha de hardware,58,2.57,1.68,Alta
+Falha de hardware,52,3.31,0.63,Média
+Configuração incorreta,50,3.6,0.69,Alta
+Atualização pendente,50,3.72,0.87,Baixa
+Problema no roteador,53,3.25,1.39,Baixa
+Erro de autenticação,44,3.52,1.0,Média
+Driver desatualizado,48,2.26,0.63,Média
+Atualização pendente,41,3.17,1.38,Média
+Interferência elétrica,51,3.73,1.22,Baixa
+Atualização pendente,53,3.01,1.16,Média
+Interferência elétrica,47,3.53,1.21,Alta
+Problema no roteador,57,3.72,1.72,Alta
+Servidor não responde,43,3.33,1.66,Média
+Servidor não responde,42,3.59,0.79,Média
+Servidor não responde,51,3.02,1.49,Média
+Conexão intermitente,55,3.4,1.11,Alta
+Configuração incorreta,58,3.81,1.15,Média
+Erro de autenticação,47,3.58,0.49,Alta
+Problema no roteador,55,3.21,0.95,Alta
+Atualização pendente,49,3.61,0.76,Média
+Rede congestionada,49,3.86,1.25,Alta
+Falha de hardware,54,2.48,1.32,Média
+Configuração incorreta,53,4.08,0.38,Média
+Rede congestionada,42,3.33,0.99,Média
+Driver desatualizado,57,3.71,1.34,Média
+Erro de autenticação,56,4.1,0.94,Alta
+Configuração incorreta,46,2.81,1.22,Alta
+Conexão intermitente,51,3.15,1.11,Baixa
+Driver desatualizado,52,3.36,1.1,Média
+Driver desatualizado,51,3.11,0.92,Média
+Rede congestionada,47,4.37,0.64,Alta
+Servidor não responde,46,3.07,0.66,Média
+Conexão intermitente,49,3.22,1.21,Média
+Conexão intermitente,55,3.6,1.01,Média
+Configuração incorreta,52,2.9,0.96,Média
+Interferência elétrica,48,3.3,0.87,Alta
+Atualização pendente,53,3.66,0.91,Alta
+Driver desatualizado,35,3.33,1.31,Baixa
+Servidor não responde,55,3.45,0.9,Baixa
+Erro de autenticação,41,3.24,0.6,Alta
+Rede congestionada,48,2.74,1.22,Média
+Conexão intermitente,44,3.66,0.94,Alta
+Configuração incorreta,43,4.38,1.01,Alta
+Conexão intermitente,55,3.51,1.48,Média
+Falha de hardware,47,3.61,0.99,Alta
+Problema no roteador,51,3.85,1.09,Média
+Interferência elétrica,49,2.87,0.65,Média
+Atualização pendente,52,4.35,0.93,Alta
+Erro de autenticação,50,3.6,1.18,Alta
+Interferência elétrica,43,4.32,0.53,Baixa
+Erro de autenticação,54,3.13,1.06,Alta
+Configuração incorreta,47,4.41,1.03,Média
+Problema no roteador,42,3.89,1.01,Média
+Falha de hardware,47,3.78,1.31,Média
+Servidor não responde,57,3.62,1.1,Média
+Configuração incorreta,54,3.38,1.44,Alta
+Interferência elétrica,48,4.1,0.7,Alta
+Conexão intermitente,48,3.57,1.04,Alta
+Falha de hardware,48,2.52,1.03,Média
+Interferência elétrica,60,2.94,0.68,Média
+Atualização pendente,51,3.41,1.29,Alta
+Falha de hardware,52,3.65,1.7,Alta
+Interferência elétrica,55,3.47,0.99,Média
+Interferência elétrica,51,4.11,1.15,Média
+Servidor não responde,48,2.52,1.03,Baixa
+Servidor não responde,49,3.57,0.79,Média
+Rede congestionada,49,2.59,0.45,Média
+Problema no roteador,49,3.88,0.79,Média
+Atualização pendente,53,3.45,0.58,Baixa
+Driver desatualizado,50,3.71,1.51,Baixa
+Conexão intermitente,53,3.07,0.97,Média
+Atualização pendente,49,4.14,0.9,Alta
+Conexão intermitente,50,4.02,1.27,Alta
+Configuração incorreta,40,3.79,0.66,Média
+Interferência elétrica,54,3.44,0.77,Média
+Rede congestionada,51,3.79,1.02,Média
+Problema no roteador,54,3.15,1.31,Alta
+Driver desatualizado,35,3.93,1.15,Média
+Configuração incorreta,60,4.32,1.07,Baixa
+Configuração incorreta,49,4.04,1.02,Alta
+Servidor não responde,55,3.14,1.12,Média
+Driver desatualizado,44,3.68,1.06,Média
+Interferência elétrica,53,2.85,0.69,Baixa
+Interferência elétrica,44,3.79,1.01,Baixa
+Driver desatualizado,46,3.73,0.68,Média
+Conexão intermitente,59,2.57,1.02,Média
+Driver desatualizado,49,2.92,0.86,Baixa
+Problema no roteador,51,3.36,1.76,Média
+Falha de hardware,54,3.35,0.99,Média
+Erro de autenticação,52,2.9,0.58,Média
+Atualização pendente,50,3.69,0.96,Alta
+Atualização pendente,51,3.63,1.16,Média
+Rede congestionada,62,3.4,1.5,Baixa
+Problema no roteador,49,3.12,0.82,Média
+Driver desatualizado,51,4.02,0.53,Média
+Interferência elétrica,55,4.33,1.25,Alta
+Driver desatualizado,55,3.26,0.59,Média
+Atualização pendente,55,3.19,0.87,Alta
+Problema no roteador,53,3.75,0.92,Alta
+Conexão intermitente,44,3.32,0.98,Média
+Erro de autenticação,58,3.43,1.21,Alta
+Driver desatualizado,44,3.87,0.79,Média
+Erro de autenticação,51,2.55,0.92,Média
+Servidor não responde,46,4.16,1.0,Baixa
+Erro de autenticação,49,3.54,1.04,Média
+Erro de autenticação,51,3.29,1.03,Alta
+Problema no roteador,51,3.46,1.13,Alta
+Servidor não responde,52,3.48,1.25,Média
+Interferência elétrica,58,2.63,1.12,Média
+Conexão intermitente,52,4.25,1.14,Média
+Servidor não responde,48,3.52,0.53,Média
+Problema no roteador,54,3.72,1.02,Alta
+Erro de autenticação,55,3.98,1.14,Média
+Driver desatualizado,43,2.99,1.22,Média
+Rede congestionada,52,3.74,0.79,Alta
+Falha de hardware,53,3.37,0.8,Alta
+Atualização pendente,48,3.92,0.83,Alta
+Falha de hardware,56,2.44,1.16,Alta
+Problema no roteador,49,3.45,1.31,Média
+Driver desatualizado,50,3.2,0.88,Alta
+Conexão intermitente,49,3.72,1.27,Alta
+Rede congestionada,50,3.74,1.04,Alta
+Driver desatualizado,44,3.15,0.96,Baixa
+Rede congestionada,42,3.14,0.94,Baixa
+Conexão intermitente,57,3.44,1.22,Alta
+Atualização pendente,45,3.05,1.1,Média
+Driver desatualizado,45,3.92,1.68,Alta
+Servidor não responde,39,3.32,0.74,Média
+Atualização pendente,46,2.05,1.16,Alta
+Servidor não responde,43,3.31,0.84,Média
+Atualização pendente,58,2.98,0.74,Média
+Driver desatualizado,55,2.68,1.0,Baixa
+Interferência elétrica,46,2.88,1.04,Alta
+Driver desatualizado,61,3.55,1.88,Baixa
+Problema no roteador,54,4.16,0.94,Média
+Atualização pendente,48,3.66,0.66,Alta
+Problema no roteador,37,3.2,1.08,Média
+Problema no roteador,61,3.73,0.38,Alta
+Servidor não responde,43,3.27,0.97,Alta
+Interferência elétrica,41,3.15,1.0,Alta
+Configuração incorreta,55,2.92,1.24,Média
+Falha de hardware,62,2.62,1.29,Média
+Interferência elétrica,56,3.31,0.85,Baixa
+Rede congestionada,52,3.58,0.95,Alta
+Interferência elétrica,52,3.45,0.77,Baixa
+Interferência elétrica,54,3.29,0.66,Alta
+Rede congestionada,53,3.03,1.09,Média
+Erro de autenticação,51,3.8,0.62,Média
+Problema no roteador,50,2.84,0.88,Alta
+Conexão intermitente,49,3.89,0.7,Baixa
+Driver desatualizado,46,3.0,1.16,Média
+Driver desatualizado,48,3.12,1.54,Média
+Rede congestionada,41,2.77,0.61,Média
+Erro de autenticação,49,3.25,0.44,Média
+Rede congestionada,45,3.99,0.96,Média
+Falha de hardware,44,3.76,1.0,Média
+Servidor não responde,50,3.99,1.07,Alta
+Rede congestionada,56,3.76,0.87,Média
+Configuração incorreta,54,2.95,0.94,Baixa
+Driver desatualizado,42,3.33,1.11,Alta
+Conexão intermitente,45,3.11,1.31,Alta
+Servidor não responde,54,4.17,0.41,Média
+Driver desatualizado,45,2.9,0.89,Média
+Atualização pendente,48,3.95,1.06,Média
+Servidor não responde,52,3.95,0.72,Alta
+Problema no roteador,45,4.41,1.52,Média
+Conexão intermitente,50,3.3,0.81,Alta
+Problema no roteador,43,3.86,0.99,Média
+Problema no roteador,46,4.64,1.17,Média
+Configuração incorreta,51,3.19,0.82,Alta
+Driver desatualizado,42,2.73,0.45,Média
+Problema no roteador,52,2.56,0.87,Baixa
+Configuração incorreta,49,3.86,1.31,Média
+Driver desatualizado,52,2.56,0.9,Baixa
+Problema no roteador,51,3.31,0.75,Média
+Rede congestionada,56,3.72,1.28,Média
+Erro de autenticação,50,3.59,0.9,Alta
+Problema no roteador,47,3.71,0.85,Alta
+Falha de hardware,50,3.61,1.04,Alta
+Configuração incorreta,52,4.14,1.23,Média
+Problema no roteador,50,3.02,1.71,Baixa
+Configuração incorreta,50,3.16,1.25,Média
+Driver desatualizado,46,3.11,1.35,Média
+Configuração incorreta,46,3.92,0.85,Média
+Atualização pendente,42,3.95,0.69,Média
+Rede congestionada,58,3.73,1.02,Média
+Problema no roteador,43,4.09,1.03,Média
+Servidor não responde,46,2.91,0.68,Média
+Driver desatualizado,46,4.33,0.95,Alta
+Falha de hardware,54,4.26,1.12,Baixa
+Problema no roteador,48,3.87,1.11,Alta
+Falha de hardware,56,4.39,1.15,Alta
+Driver desatualizado,46,2.67,1.09,Baixa
+Interferência elétrica,51,3.24,0.85,Média
+Problema no roteador,45,3.13,0.85,Média
+Driver desatualizado,60,3.86,0.64,Média
+Falha de hardware,44,2.97,1.54,Média
+Interferência elétrica,51,3.88,1.0,Alta
+Conexão intermitente,53,4.19,0.93,Média
+Conexão intermitente,52,3.85,0.72,Média
+Atualização pendente,49,3.64,1.88,Média
+Interferência elétrica,49,3.01,0.68,Média
+Erro de autenticação,50,3.08,0.87,Baixa
+Problema no roteador,49,4.12,1.12,Alta
+Configuração incorreta,54,3.89,1.18,Média
+Atualização pendente,61,3.48,1.29,Média
+Interferência elétrica,47,3.29,1.54,Baixa
+Driver desatualizado,43,2.49,1.15,Alta
+Rede congestionada,49,2.96,0.68,Média
+Configuração incorreta,62,4.46,0.92,Baixa
+Atualização pendente,45,2.86,1.09,Alta
+Atualização pendente,58,3.59,1.62,Baixa
+Erro de autenticação,58,4.0,0.58,Alta
+Driver desatualizado,47,2.87,1.36,Média
+Interferência elétrica,52,3.59,1.05,Baixa
+Conexão intermitente,58,3.97,1.25,Média
+Configuração incorreta,48,3.51,0.97,Média
+Driver desatualizado,48,4.93,0.75,Alta
+Problema no roteador,47,2.67,1.23,Baixa
+Conexão intermitente,44,4.03,1.2,Média
+Rede congestionada,46,3.41,1.29,Alta
+Erro de autenticação,43,3.89,1.0,Média
+Servidor não responde,50,3.72,0.82,Média
+Atualização pendente,46,3.13,0.53,Alta
+Problema no roteador,51,3.61,1.25,Alta
+Rede congestionada,42,2.57,1.13,Alta
+Rede congestionada,51,3.8,0.71,Média
+Interferência elétrica,54,3.65,0.84,Média
+Erro de autenticação,40,3.82,0.86,Média
+Problema no roteador,51,4.03,0.56,Baixa
+Atualização pendente,56,3.68,0.75,Baixa
+Erro de autenticação,43,3.57,0.66,Média
+Falha de hardware,58,3.06,0.88,Alta
+Rede congestionada,52,3.14,0.78,Média
+Problema no roteador,46,4.09,0.51,Média
+Rede congestionada,49,4.22,1.61,Média
+Problema no roteador,52,3.38,1.38,Média
+Configuração incorreta,50,3.52,0.77,Média
+Driver desatualizado,52,3.05,1.08,Baixa
+Configuração incorreta,45,4.09,1.13,Alta
+Rede congestionada,50,3.83,1.36,Média
+Rede congestionada,42,4.47,0.75,Alta
+Configuração incorreta,49,3.06,1.33,Baixa
+Problema no roteador,45,3.31,0.84,Alta
+Driver desatualizado,46,3.62,0.6,Alta
+Rede congestionada,56,3.82,1.22,Média
+Servidor não responde,55,3.39,1.39,Média
+Falha de hardware,53,3.06,1.78,Alta
+Configuração incorreta,44,3.94,0.64,Média
+Problema no roteador,48,3.86,1.21,Média
+Erro de autenticação,56,3.04,0.88,Alta
+Atualização pendente,50,4.18,1.24,Média
+Falha de hardware,61,4.09,0.56,Baixa
+Configuração incorreta,51,3.57,0.62,Média
+Interferência elétrica,50,3.54,0.77,Média
+Atualização pendente,48,3.78,1.02,Média
+Servidor não responde,50,3.07,0.81,Média
+Erro de autenticação,49,3.52,1.2,Alta
+Atualização pendente,53,2.42,1.31,Alta
+Falha de hardware,54,3.94,1.18,Baixa
+Configuração incorreta,46,2.72,1.49,Baixa
+Driver desatualizado,43,4.25,1.12,Média
+Conexão intermitente,40,3.33,0.63,Alta
+Driver desatualizado,52,3.39,1.41,Alta
+Erro de autenticação,44,3.19,0.82,Média
+Interferência elétrica,39,3.36,1.27,Média
+Falha de hardware,51,4.21,1.47,Alta
+Conexão intermitente,62,2.26,1.14,Baixa
+Interferência elétrica,49,4.14,0.55,Média
+Falha de hardware,54,3.67,0.72,Baixa
+Conexão intermitente,50,2.9,1.4,Média
+Problema no roteador,49,2.96,0.95,Média
+Problema no roteador,54,4.34,1.02,Média
+Conexão intermitente,48,3.03,1.23,Média
+Interferência elétrica,51,2.92,1.21,Média
+Configuração incorreta,51,4.07,1.08,Média
+Atualização pendente,46,3.67,0.94,Média
+Problema no roteador,54,3.03,0.91,Baixa
+Rede congestionada,49,3.61,1.26,Média
+Driver desatualizado,46,2.99,1.17,Média
+Rede congestionada,52,4.05,0.92,Baixa
+Problema no roteador,45,4.03,1.32,Alta
+Erro de autenticação,50,3.77,0.96,Alta
+Problema no roteador,49,3.68,0.74,Média
+Atualização pendente,55,4.38,0.77,Média
+Configuração incorreta,52,3.5,0.71,Baixa
+Driver desatualizado,49,2.91,0.92,Média
+Falha de hardware,54,3.72,1.37,Média
+Falha de hardware,56,4.54,0.76,Média
+Interferência elétrica,52,2.99,1.06,Alta
+Erro de autenticação,50,3.32,0.8,Média
+Rede congestionada,43,3.71,0.92,Baixa
+Conexão intermitente,44,3.47,0.55,Alta
+Atualização pendente,48,3.01,0.93,Média
+Conexão intermitente,46,4.06,0.94,Média
+Problema no roteador,49,4.66,1.16,Alta
+Falha de hardware,50,3.6,1.07,Alta
+Falha de hardware,52,3.05,0.64,Baixa
+Interferência elétrica,49,2.73,1.33,Média
+Servidor não responde,52,3.63,1.06,Alta
+Erro de autenticação,50,4.05,1.06,Alta
+Servidor não responde,40,3.74,1.0,Média
+Erro de autenticação,45,3.5,0.84,Média
+Driver desatualizado,49,3.21,1.07,Média
+Atualização pendente,43,2.95,1.14,Alta
+Conexão intermitente,52,3.92,0.48,Baixa
+Falha de hardware,57,3.96,0.84,Média
+Falha de hardware,56,2.73,0.92,Média
+Problema no roteador,48,4.29,1.08,Média
+Falha de hardware,57,3.79,1.36,Média
+Atualização pendente,50,4.2,0.77,Baixa
+Falha de hardware,48,2.83,0.85,Baixa
+Problema no roteador,46,2.82,0.85,Média
+Conexão intermitente,48,3.43,0.76,Baixa
+Conexão intermitente,48,3.75,0.9,Média
+Conexão intermitente,50,4.4,1.23,Baixa
+Driver desatualizado,50,3.85,0.68,Alta
+Falha de hardware,50,3.38,1.13,Média
+Interferência elétrica,52,2.99,0.49,Alta
+Falha de hardware,55,4.12,0.83,Baixa
+Servidor não responde,54,3.02,0.9,Alta
+Erro de autenticação,42,4.31,1.5,Média
+Erro de autenticação,37,3.36,0.92,Média
+Driver desatualizado,54,4.3,0.34,Média
+Problema no roteador,43,3.84,0.4,Média
+Falha de hardware,48,3.43,1.01,Baixa
+Problema no roteador,44,3.24,1.18,Média
+Problema no roteador,40,3.33,1.11,Baixa
+Rede congestionada,52,3.71,1.05,Alta
+Driver desatualizado,53,3.54,1.35,Média
+Driver desatualizado,47,3.2,0.84,Média
+Problema no roteador,37,3.42,1.27,Alta
+Problema no roteador,47,3.54,0.51,Média
+Atualização pendente,51,2.44,0.73,Média
+Servidor não responde,42,3.73,0.46,Média
+Conexão intermitente,50,3.01,0.92,Média
+Conexão intermitente,49,2.92,0.99,Média
+Erro de autenticação,52,2.66,1.03,Alta
+Erro de autenticação,50,2.6,1.02,Alta
+Rede congestionada,45,2.82,0.72,Média
+Rede congestionada,55,3.15,0.94,Alta
+Servidor não responde,49,4.48,0.55,Alta
+Atualização pendente,49,3.24,1.41,Média
+Interferência elétrica,45,3.59,0.91,Média
+Falha de hardware,47,3.7,0.85,Média
+Configuração incorreta,45,3.57,1.48,Média
+Conexão intermitente,49,3.46,0.63,Média
+Problema no roteador,58,2.9,0.66,Média
+Erro de autenticação,43,4.23,0.67,Média
+Interferência elétrica,41,4.4,0.98,Média
+Driver desatualizado,57,2.66,1.13,Média
+Erro de autenticação,48,2.99,1.22,Média
+Erro de autenticação,46,3.36,1.77,Alta
+Driver desatualizado,55,3.02,0.33,Média
+Interferência elétrica,46,3.75,1.18,Média
+Rede congestionada,59,3.14,0.83,Baixa
+Problema no roteador,53,4.58,0.82,Baixa
+Falha de hardware,47,4.1,0.81,Média
+Problema no roteador,60,3.61,0.73,Alta
+Rede congestionada,46,4.01,1.51,Alta
+Falha de hardware,53,4.05,1.25,Média
+Erro de autenticação,51,3.22,1.01,Média
+Problema no roteador,56,3.09,1.41,Alta
+Configuração incorreta,57,3.54,0.55,Média
+Configuração incorreta,50,3.93,0.6,Alta
+Erro de autenticação,46,3.57,0.35,Baixa
+Conexão intermitente,52,2.71,0.79,Alta
+Falha de hardware,46,3.1,1.05,Baixa
+Atualização pendente,60,3.46,1.03,Baixa
+Conexão intermitente,50,3.46,1.04,Média
+Configuração incorreta,48,4.49,0.58,Média
+Erro de autenticação,50,2.81,1.24,Média
+Servidor não responde,43,3.75,1.07,Média
+Interferência elétrica,45,4.24,1.22,Média
+Erro de autenticação,56,4.64,0.43,Média
+Erro de autenticação,46,3.3,1.09,Média
+Falha de hardware,44,3.75,0.64,Média
+Interferência elétrica,52,3.78,0.88,Média
+Interferência elétrica,55,3.6,1.16,Alta
+Rede congestionada,53,3.45,1.03,Média
+Erro de autenticação,54,3.72,0.74,Alta
+Problema no roteador,46,2.23,1.0,Alta
+Problema no roteador,42,3.84,0.54,Alta
+Configuração incorreta,57,3.56,1.35,Alta
+Configuração incorreta,48,3.39,0.94,Alta
+Conexão intermitente,48,4.52,1.34,Baixa
+Erro de autenticação,56,3.16,0.84,Alta
+Problema no roteador,52,3.3,0.84,Média
+Rede congestionada,52,4.5,0.77,Alta
+Servidor não responde,60,3.08,1.26,Baixa
+Atualização pendente,46,3.22,0.79,Média
+Falha de hardware,54,3.43,1.19,Média
+Interferência elétrica,50,3.92,0.89,Média
+Interferência elétrica,51,3.6,0.41,Média
+Rede congestionada,57,2.85,0.83,Média
+Interferência elétrica,52,3.23,0.65,Alta
+Rede congestionada,52,3.2,1.01,Baixa
+Conexão intermitente,55,3.46,0.64,Média
+Driver desatualizado,48,3.71,1.28,Média
+Rede congestionada,45,3.71,0.97,Média
+Configuração incorreta,44,2.61,0.95,Média
+Configuração incorreta,40,4.03,1.2,Baixa
+Problema no roteador,60,3.63,1.29,Média
+Conexão intermitente,44,4.19,0.99,Média
+Conexão intermitente,48,3.72,0.77,Alta
+Erro de autenticação,48,4.05,0.47,Baixa
+Interferência elétrica,51,3.73,0.79,Média
+Servidor não responde,54,4.17,0.81,Alta
+Rede congestionada,54,3.76,1.03,Alta
+Problema no roteador,47,3.45,0.9,Média
+Erro de autenticação,49,4.64,1.21,Baixa
+Atualização pendente,51,3.94,0.82,Alta
+Servidor não responde,48,3.79,0.98,Média
+Conexão intermitente,58,2.86,1.36,Alta
+Servidor não responde,52,2.86,1.1,Média
+Driver desatualizado,53,3.65,0.98,Média
+Driver desatualizado,53,3.57,0.82,Baixa
+Conexão intermitente,55,3.19,0.81,Média
+Falha de hardware,50,3.57,0.74,Baixa
+Driver desatualizado,43,4.29,0.84,Média
+Erro de autenticação,51,3.85,1.23,Alta
+Conexão intermitente,46,2.93,0.93,Média
+Rede congestionada,47,3.44,0.6,Média
+Problema no roteador,52,3.1,1.53,Baixa
+Interferência elétrica,56,3.31,1.1,Baixa
+Rede congestionada,50,3.29,0.58,Alta
+Configuração incorreta,51,3.26,0.87,Alta
+Erro de autenticação,58,2.87,1.03,Alta
+Driver desatualizado,51,3.44,1.51,Baixa
+Configuração incorreta,63,3.22,0.67,Baixa
+Conexão intermitente,52,2.04,1.29,Média
+Falha de hardware,41,4.53,1.42,Média
+Servidor não responde,53,4.04,0.81,Média
+Conexão intermitente,51,3.31,0.92,Média
+Atualização pendente,56,3.51,0.69,Alta
+Rede congestionada,53,2.91,0.94,Média
+Interferência elétrica,49,4.35,0.99,Alta
+Erro de autenticação,43,4.45,1.2,Alta
+Erro de autenticação,48,3.58,1.33,Baixa
+Rede congestionada,45,4.01,0.78,Média
+Configuração incorreta,47,3.59,0.41,Média
+Problema no roteador,52,2.83,0.99,Média
+Rede congestionada,58,3.29,1.09,Média
+Interferência elétrica,51,3.57,1.07,Média
+Conexão intermitente,44,3.27,0.9,Média
+Rede congestionada,52,3.39,1.04,Média
+Rede congestionada,55,3.45,1.45,Média
+Problema no roteador,46,3.46,1.11,Alta
+Servidor não responde,49,3.53,0.89,Média
+Driver desatualizado,50,2.97,0.85,Média
+Falha de hardware,46,3.14,0.95,Média
+Erro de autenticação,53,2.86,1.49,Média
+Conexão intermitente,49,3.99,0.95,Média
+Driver desatualizado,52,2.45,0.99,Alta
+Driver desatualizado,45,4.08,0.86,Média
+Configuração incorreta,47,4.19,1.33,Baixa
+Rede congestionada,53,3.35,1.59,Alta
+Driver desatualizado,48,2.2,1.14,Média
+Interferência elétrica,58,3.32,1.02,Média
+Interferência elétrica,48,3.47,1.01,Alta
+Driver desatualizado,51,2.99,0.28,Média
+Erro de autenticação,54,3.24,1.22,Média
+Problema no roteador,42,4.27,1.04,Média
+Problema no roteador,41,3.83,1.13,Baixa
+Atualização pendente,42,3.04,0.79,Alta
+Interferência elétrica,56,2.7,0.88,Alta
+Erro de autenticação,47,3.34,0.88,Baixa
+Falha de hardware,62,3.39,1.31,Média
+Erro de autenticação,47,3.75,0.89,Média
+Atualização pendente,50,3.23,1.62,Média
+Driver desatualizado,57,3.76,1.13,Média
+Erro de autenticação,60,4.47,0.62,Média
+Servidor não responde,60,3.91,0.96,Alta
+Falha de hardware,56,3.48,0.8,Alta
+Servidor não responde,55,3.41,0.34,Alta
+Configuração incorreta,52,3.32,1.48,Baixa
+Atualização pendente,53,4.09,1.21,Alta
+Erro de autenticação,47,3.19,1.16,Média
+Conexão intermitente,45,3.52,1.05,Baixa
+Problema no roteador,49,3.53,0.59,Média
+Interferência elétrica,49,3.25,0.85,Média
+Servidor não responde,47,2.81,1.25,Média
+Conexão intermitente,53,3.66,0.68,Média
+Atualização pendente,54,3.47,0.24,Média
+Problema no roteador,50,3.75,0.93,Média
+Erro de autenticação,57,3.23,0.96,Baixa
+Falha de hardware,44,4.11,1.04,Baixa
+Interferência elétrica,49,3.06,1.22,Baixa
+Servidor não responde,46,4.36,1.19,Baixa
+Problema no roteador,40,2.63,1.08,Média
+Servidor não responde,49,3.72,1.36,Média
+Problema no roteador,49,3.74,0.54,Baixa
+Atualização pendente,57,3.1,1.15,Média
+Falha de hardware,53,3.71,1.19,Baixa
+Servidor não responde,44,4.14,0.63,Média
+Interferência elétrica,59,2.39,0.55,Média
+Problema no roteador,56,3.75,0.78,Média
+Falha de hardware,52,2.25,0.8,Baixa
+Interferência elétrica,48,3.02,1.23,Alta
+Rede congestionada,45,4.31,0.82,Média
+Rede congestionada,48,3.21,0.74,Média
+Conexão intermitente,55,2.91,0.82,Alta
+Servidor não responde,59,3.4,1.34,Média
+Interferência elétrica,57,4.53,1.0,Média
+Problema no roteador,47,2.58,0.95,Média
+Servidor não responde,44,2.97,0.97,Média
+Interferência elétrica,50,4.25,1.39,Média
+Configuração incorreta,41,4.43,0.78,Média
+Conexão intermitente,51,3.45,1.39,Média
+Driver desatualizado,49,2.88,1.06,Alta
+Rede congestionada,47,4.55,0.95,Baixa
+Driver desatualizado,42,4.3,1.75,Média
+Driver desatualizado,52,3.84,0.68,Média
+Driver desatualizado,47,3.09,0.89,Média
+Falha de hardware,44,3.48,0.63,Média
+Erro de autenticação,35,3.42,1.29,Média
+Driver desatualizado,49,3.67,1.51,Média
+Servidor não responde,58,4.23,1.5,Média
+Erro de autenticação,58,3.94,1.37,Média
+Configuração incorreta,47,2.96,0.94,Média
+Atualização pendente,46,4.19,0.89,Alta
+Driver desatualizado,52,3.66,0.5,Média
+Problema no roteador,45,3.84,1.61,Alta
+Problema no roteador,51,4.23,1.14,Alta
+Problema no roteador,53,2.94,0.85,Baixa
+Driver desatualizado,56,3.48,1.4,Média
+Atualização pendente,49,3.23,0.71,Média
+Driver desatualizado,48,2.72,1.12,Média
+Conexão intermitente,45,3.67,0.95,Baixa
+Servidor não responde,45,4.76,1.19,Média
+Conexão intermitente,48,2.58,0.98,Média
+Problema no roteador,51,3.48,0.56,Média
+Problema no roteador,54,3.82,1.02,Baixa
+Rede congestionada,45,3.56,1.31,Baixa
+Falha de hardware,57,3.44,0.99,Baixa
+Interferência elétrica,48,2.85,1.23,Alta
+Interferência elétrica,49,3.62,0.69,Alta
+Falha de hardware,46,3.12,0.99,Alta
+Conexão intermitente,37,2.41,0.81,Alta
+Conexão intermitente,54,4.1,1.22,Baixa
+Erro de autenticação,53,3.98,1.01,Alta
+Driver desatualizado,48,3.53,1.21,Alta
+Configuração incorreta,50,3.61,1.33,Alta
+Configuração incorreta,52,4.04,1.21,Alta
+Conexão intermitente,42,3.61,1.08,Alta
+Conexão intermitente,47,3.95,0.7,Média
+Driver desatualizado,53,3.35,1.0,Média
+Erro de autenticação,43,4.16,0.84,Alta
+Problema no roteador,51,3.66,0.9,Média
+Configuração incorreta,43,3.6,0.89,Média
+Problema no roteador,52,2.86,0.71,Alta
+Servidor não responde,49,3.64,0.41,Média
+Rede congestionada,41,3.08,0.8,Média
+Falha de hardware,55,3.18,1.06,Média
+Servidor não responde,46,3.09,0.6,Média
+Configuração incorreta,45,2.97,1.0,Alta
+Rede congestionada,51,4.56,1.57,Baixa
+Configuração incorreta,55,4.17,1.31,Baixa
+Falha de hardware,44,4.46,1.49,Baixa
+Atualização pendente,50,2.89,1.12,Alta
+Configuração incorreta,52,3.54,1.35,Baixa
+Erro de autenticação,53,2.85,0.78,Baixa
+Conexão intermitente,50,3.15,0.81,Baixa
+Servidor não responde,48,3.04,0.18,Alta
+Problema no roteador,45,4.12,1.36,Média
+Driver desatualizado,50,3.3,1.46,Baixa
+Problema no roteador,44,4.03,0.83,Média
+Atualização pendente,35,3.8,0.92,Média
+Servidor não responde,52,4.65,0.77,Baixa
+Servidor não responde,54,2.76,1.11,Média
+Problema no roteador,38,4.13,1.34,Média
+Rede congestionada,44,4.07,0.48,Média
+Servidor não responde,53,3.01,1.12,Baixa
+Interferência elétrica,60,4.0,0.92,Alta
+Configuração incorreta,50,3.67,1.03,Média
+Interferência elétrica,46,3.39,1.14,Média
+Interferência elétrica,49,3.09,0.94,Média
+Servidor não responde,56,3.14,0.97,Média
+Driver desatualizado,46,4.52,0.94,Baixa
+Driver desatualizado,46,3.5,1.29,Baixa
+Servidor não responde,47,3.89,1.13,Alta
+Driver desatualizado,45,3.1,1.07,Média
+Atualização pendente,50,3.11,0.62,Alta
+Atualização pendente,58,4.04,0.89,Média
+Configuração incorreta,51,2.83,1.27,Média
+Atualização pendente,48,3.29,1.01,Baixa
+Configuração incorreta,48,3.52,1.2,Baixa
+Erro de autenticação,42,3.56,1.53,Alta
+Conexão intermitente,54,3.41,1.31,Alta
+Problema no roteador,49,3.7,1.03,Média
+Driver desatualizado,49,3.85,0.85,Média
+Configuração incorreta,65,3.87,0.23,Alta
+Rede congestionada,51,3.01,0.95,Baixa
+Conexão intermitente,46,3.36,0.9,Baixa
+Rede congestionada,47,4.1,1.12,Média
+Interferência elétrica,55,3.95,0.95,Baixa
+Servidor não responde,50,2.81,0.9,Média
+Falha de hardware,42,3.68,0.47,Média
+Conexão intermitente,54,2.51,0.72,Média
+Driver desatualizado,46,3.52,1.14,Alta
+Interferência elétrica,59,4.45,1.51,Baixa
+Conexão intermitente,55,3.03,0.97,Média
+Configuração incorreta,47,3.08,1.1,Média
+Rede congestionada,56,3.88,1.29,Média
+Configuração incorreta,50,2.73,0.76,Alta
+Falha de hardware,54,3.18,1.11,Alta
+Falha de hardware,52,3.8,0.78,Média
+Interferência elétrica,45,3.18,1.26,Média
+Driver desatualizado,46,3.38,1.05,Média
+Interferência elétrica,55,3.87,1.09,Média
+Problema no roteador,48,3.71,0.77,Média
+Driver desatualizado,47,3.63,1.21,Média
+Falha de hardware,45,3.33,1.63,Média
+Driver desatualizado,52,3.69,0.7,Baixa
+Configuração incorreta,60,3.44,0.9,Média
+Erro de autenticação,44,3.73,1.07,Média
+Falha de hardware,50,3.25,1.24,Alta
+Conexão intermitente,57,3.41,0.83,Média
+Configuração incorreta,49,3.01,0.15,Alta
+Configuração incorreta,52,3.48,1.41,Média
+Conexão intermitente,44,3.09,1.23,Alta
+Conexão intermitente,52,2.94,0.48,Média
+Servidor não responde,49,3.63,0.82,Média
+Rede congestionada,54,3.61,1.47,Média
+Erro de autenticação,55,3.89,1.43,Alta
+Atualização pendente,62,3.28,1.28,Alta
+Rede congestionada,52,3.7,0.95,Média
+Servidor não responde,51,3.78,1.02,Alta
+Problema no roteador,50,3.72,0.96,Média
+Configuração incorreta,48,3.09,1.34,Média
+Falha de hardware,51,3.57,0.74,Média
+Interferência elétrica,48,3.68,0.76,Média
+Rede congestionada,50,3.5,1.3,Baixa
+Configuração incorreta,56,2.46,0.99,Alta
+Driver desatualizado,44,3.58,1.41,Alta
+Atualização pendente,55,4.61,0.8,Alta
+Conexão intermitente,56,3.32,0.98,Alta
+Driver desatualizado,49,3.14,0.72,Alta
+Configuração incorreta,39,3.69,1.0,Média
+Conexão intermitente,46,3.66,0.56,Média
+Configuração incorreta,56,4.1,0.85,Média
+Conexão intermitente,49,2.87,0.57,Média
+Servidor não responde,45,3.87,1.21,Média
+Servidor não responde,47,3.8,1.21,Média
+Falha de hardware,54,3.43,0.48,Alta
+Interferência elétrica,52,3.67,1.4,Média
+Driver desatualizado,48,4.01,1.75,Alta
+Configuração incorreta,48,3.94,1.01,Alta
+Conexão intermitente,48,2.93,0.81,Média
+Rede congestionada,45,3.91,1.85,Baixa
+Interferência elétrica,58,3.47,0.6,Média
+Problema no roteador,48,3.54,1.01,Alta
+Configuração incorreta,56,3.54,1.05,Baixa
+Falha de hardware,57,3.42,1.4,Média
+Falha de hardware,54,4.1,1.11,Média
+Atualização pendente,47,3.46,0.85,Baixa
+Driver desatualizado,52,2.94,0.71,Média
+Problema no roteador,49,3.3,0.9,Alta
+Servidor não responde,45,3.59,0.7,Média
+Rede congestionada,51,4.11,1.01,Média
+Erro de autenticação,44,3.8,0.83,Média
+Configuração incorreta,55,3.07,0.55,Média
+Erro de autenticação,47,4.74,1.38,Baixa
+Driver desatualizado,51,3.63,0.85,Baixa
+Rede congestionada,51,4.14,0.62,Baixa
+Falha de hardware,48,3.42,0.95,Baixa
+Atualização pendente,52,3.77,1.02,Baixa
+Servidor não responde,47,3.92,0.48,Alta
+Falha de hardware,54,4.11,1.1,Alta
+Rede congestionada,43,4.03,0.69,Média
+Problema no roteador,50,3.94,1.51,Baixa
+Configuração incorreta,59,3.34,1.16,Média
+Atualização pendente,44,3.21,0.88,Média
+Falha de hardware,46,3.67,0.78,Alta
+Interferência elétrica,52,3.97,0.97,Alta
+Servidor não responde,50,3.39,1.18,Média
+Driver desatualizado,51,4.03,0.99,Alta
+Conexão intermitente,52,4.23,0.93,Média
+Conexão intermitente,53,3.04,1.02,Alta
+Driver desatualizado,55,3.08,0.82,Média
+Configuração incorreta,52,3.43,0.9,Média
+Conexão intermitente,48,3.65,0.37,Média
+Driver desatualizado,53,3.24,1.29,Média
+Erro de autenticação,59,4.18,1.09,Alta
+Atualização pendente,49,3.71,0.77,Baixa
+Atualização pendente,45,3.52,1.57,Média
+Configuração incorreta,55,2.78,1.03,Média
+Atualização pendente,49,2.84,0.69,Média
+Servidor não responde,39,3.64,1.26,Alta
+Rede congestionada,54,2.43,1.12,Baixa
+Conexão intermitente,47,4.01,1.12,Média
+Rede congestionada,49,3.42,0.87,Média
+Rede congestionada,51,5.12,1.14,Alta
+Configuração incorreta,50,4.65,0.92,Baixa
+Problema no roteador,53,3.41,1.17,Média
+Driver desatualizado,47,3.45,0.43,Alta
+Interferência elétrica,52,4.0,0.87,Média
+Configuração incorreta,48,4.35,1.52,Baixa
+Driver desatualizado,53,2.68,0.77,Média
+Driver desatualizado,53,2.61,0.82,Média
+Erro de autenticação,45,3.19,0.87,Média
+Rede congestionada,55,3.79,0.64,Média
+Conexão intermitente,47,3.75,0.34,Média
+Atualização pendente,54,4.03,0.93,Alta
+Conexão intermitente,51,2.9,1.04,Média
+Problema no roteador,59,2.34,0.98,Baixa
+Interferência elétrica,48,3.93,0.96,Média
+Configuração incorreta,48,3.09,1.01,Média
+Falha de hardware,49,2.49,1.31,Média
+Falha de hardware,48,3.57,0.94,Média
+Servidor não responde,53,3.9,0.83,Baixa
+Rede congestionada,41,3.44,0.92,Média
+Driver desatualizado,44,3.27,1.17,Alta
+Problema no roteador,44,3.42,1.42,Baixa
+Servidor não responde,54,3.31,0.81,Média
+Servidor não responde,58,2.83,1.03,Baixa
+Erro de autenticação,49,3.14,1.1,Média
+Rede congestionada,49,3.76,0.7,Baixa
+Problema no roteador,50,3.66,1.01,Alta
+Interferência elétrica,55,3.58,0.56,Média
+Problema no roteador,45,3.0,0.47,Baixa
+Problema no roteador,51,3.41,1.11,Alta
+Falha de hardware,54,2.41,0.88,Alta
+Rede congestionada,52,3.59,1.06,Média
+Interferência elétrica,50,4.21,0.99,Baixa
+Erro de autenticação,55,2.76,0.71,Alta
+Falha de hardware,36,3.21,0.99,Baixa
+Driver desatualizado,53,3.66,0.63,Média
+Erro de autenticação,46,4.13,1.42,Média
+Rede congestionada,40,3.28,0.59,Baixa
+Problema no roteador,52,3.15,0.94,Média
+Servidor não responde,56,2.52,0.69,Alta
+Atualização pendente,49,3.55,1.17,Alta
+Falha de hardware,54,4.52,0.9,Média
+Erro de autenticação,58,3.64,0.84,Média
+Rede congestionada,56,3.49,1.26,Baixa
+Configuração incorreta,58,3.66,1.01,Média
+Conexão intermitente,53,3.49,1.15,Média
+Driver desatualizado,50,3.09,0.71,Média
+Problema no roteador,41,3.91,0.58,Alta
+Erro de autenticação,48,3.61,1.03,Alta
+Problema no roteador,45,3.51,0.9,Baixa
+Erro de autenticação,60,3.01,1.19,Alta
+Falha de hardware,49,4.15,0.98,Alta
+Rede congestionada,50,3.83,1.06,Média
+Configuração incorreta,52,3.22,0.51,Média
+Falha de hardware,50,4.0,1.57,Baixa
+Erro de autenticação,58,3.25,0.95,Alta
+Rede congestionada,46,3.11,1.21,Alta
+Problema no roteador,50,3.12,0.75,Média
+Servidor não responde,46,2.61,1.09,Média
+Rede congestionada,43,3.74,0.61,Média
+Rede congestionada,46,2.58,1.14,Média
+Rede congestionada,49,2.89,0.89,Baixa
+Falha de hardware,47,2.46,1.01,Baixa
+Interferência elétrica,46,3.46,1.21,Alta
+Falha de hardware,42,3.42,0.63,Média
+Configuração incorreta,49,3.34,0.79,Média
+Problema no roteador,42,2.98,1.14,Baixa
+Interferência elétrica,53,2.91,1.63,Baixa
+Interferência elétrica,50,3.73,0.96,Alta
+Conexão intermitente,42,3.22,1.18,Média
+Falha de hardware,48,3.66,0.97,Média
+Falha de hardware,46,3.06,1.58,Alta
+Configuração incorreta,51,3.59,0.48,Alta
+Configuração incorreta,56,4.15,1.03,Média
+Configuração incorreta,40,3.79,0.51,Média
+Atualização pendente,50,3.29,0.25,Alta
+Driver desatualizado,49,3.63,1.09,Média
+Conexão intermitente,53,3.38,1.04,Alta
+Servidor não responde,51,3.5,0.91,Média
+Rede congestionada,46,3.34,0.97,Média
+Erro de autenticação,48,3.42,1.93,Alta
+Rede congestionada,46,3.61,0.92,Média
+Rede congestionada,55,3.0,1.15,Alta
+Erro de autenticação,50,2.99,0.81,Média
+Rede congestionada,59,2.81,1.09,Alta
+Servidor não responde,49,2.7,0.93,Média
+Erro de autenticação,46,2.89,0.88,Alta
+Atualização pendente,42,3.58,1.55,Média
+Servidor não responde,40,3.05,1.35,Média
+Conexão intermitente,42,3.76,1.04,Alta
+Problema no roteador,51,3.52,0.31,Média
+Configuração incorreta,52,2.52,0.89,Alta
+Problema no roteador,42,3.83,1.81,Média
+Atualização pendente,54,3.91,0.93,Alta
+Erro de autenticação,47,3.0,1.33,Média
+Configuração incorreta,50,3.71,1.43,Média
+Configuração incorreta,58,3.07,1.07,Baixa
+Erro de autenticação,54,3.55,0.75,Média
+Rede congestionada,48,2.87,0.27,Média
+Conexão intermitente,45,2.6,1.21,Média
+Problema no roteador,39,3.31,0.76,Baixa
+Interferência elétrica,46,3.44,1.05,Média
+Conexão intermitente,48,3.3,0.63,Alta
+Driver desatualizado,45,2.91,0.92,Baixa
+Falha de hardware,49,3.3,1.01,Média
+Atualização pendente,50,3.63,1.08,Baixa
+Erro de autenticação,48,3.48,0.67,Baixa
+Problema no roteador,46,3.59,1.36,Alta
+Servidor não responde,50,3.16,0.82,Média
+Servidor não responde,52,4.09,0.5,Alta
+Atualização pendente,44,2.91,0.97,Alta
+Rede congestionada,57,3.74,1.01,Alta
+Problema no roteador,49,4.09,1.05,Média
+Configuração incorreta,50,3.74,1.41,Alta
+Driver desatualizado,53,3.4,0.93,Alta
+Configuração incorreta,51,3.24,0.96,Média
+Conexão intermitente,54,4.02,0.67,Alta
+Atualização pendente,51,2.79,1.25,Alta
+Conexão intermitente,46,3.01,1.06,Alta
+Problema no roteador,51,3.3,0.87,Média
+Erro de autenticação,44,4.12,0.43,Média
+Problema no roteador,50,3.69,1.43,Alta
+Problema no roteador,49,3.02,0.63,Baixa
+Interferência elétrica,48,3.34,0.82,Média
+Rede congestionada,49,3.19,1.11,Média
+Atualização pendente,40,3.15,0.64,Média
+Erro de autenticação,47,3.99,0.55,Média
+Driver desatualizado,50,2.81,0.36,Média
+Atualização pendente,50,4.3,1.22,Alta
+Problema no roteador,44,3.91,0.84,Alta
+Falha de hardware,56,4.05,1.88,Baixa
+Rede congestionada,45,3.27,0.7,Alta
+Configuração incorreta,54,3.43,0.72,Média
+Rede congestionada,52,2.78,0.83,Baixa
+Interferência elétrica,46,3.24,1.07,Média
+Configuração incorreta,58,3.75,0.86,Média
+Atualização pendente,44,4.15,1.18,Média
+Rede congestionada,54,2.95,0.71,Alta
+Driver desatualizado,55,3.32,0.59,Média
+Atualização pendente,46,3.42,0.46,Média
+Problema no roteador,56,2.8,0.33,Baixa
+Driver desatualizado,48,3.8,0.84,Baixa
+Interferência elétrica,51,3.14,0.91,Baixa
+Problema no roteador,51,3.4,0.81,Baixa
+Problema no roteador,49,3.27,1.37,Média
+Erro de autenticação,54,3.11,1.37,Média
+Atualização pendente,53,3.5,0.9,Média
+Interferência elétrica,41,3.39,0.46,Média
+Erro de autenticação,56,3.31,0.83,Baixa
+Atualização pendente,41,3.14,0.82,Alta
+Problema no roteador,55,3.66,0.8,Baixa
+Servidor não responde,55,4.33,0.79,Baixa
+Conexão intermitente,44,3.57,0.8,Baixa
+Configuração incorreta,47,4.0,0.88,Baixa
+Falha de hardware,44,2.8,0.81,Alta
+Falha de hardware,48,3.58,1.06,Alta
+Atualização pendente,48,2.95,1.11,Alta
+Conexão intermitente,53,2.76,0.73,Alta
+Interferência elétrica,56,3.13,1.38,Média
+Interferência elétrica,56,4.1,0.71,Baixa
+Falha de hardware,47,3.98,0.51,Baixa
+Rede congestionada,48,3.62,1.11,Média
+Falha de hardware,41,2.73,0.75,Alta
+Servidor não responde,45,3.4,1.1,Alta
+Configuração incorreta,54,3.65,0.28,Alta
+Problema no roteador,58,3.59,1.42,Média
+Driver desatualizado,43,2.58,1.2,Média
+Problema no roteador,47,3.05,0.55,Alta
+Configuração incorreta,49,3.47,0.56,Média
+Atualização pendente,51,3.77,1.5,Alta
+Servidor não responde,45,2.4,0.78,Média
+Conexão intermitente,52,3.42,0.75,Média
+Configuração incorreta,47,3.57,0.32,Média
+Driver desatualizado,49,3.92,0.89,Média
+Problema no roteador,52,3.85,0.93,Baixa
+Driver desatualizado,50,3.79,1.21,Alta
+Atualização pendente,47,3.1,0.58,Média
+Conexão intermitente,49,2.55,0.54,Média
+Driver desatualizado,49,3.3,1.14,Média
+Erro de autenticação,48,4.0,1.3,Baixa
+Atualização pendente,48,4.2,0.53,Média
+Rede congestionada,57,3.86,1.32,Média
+Configuração incorreta,52,3.71,1.01,Alta
+Atualização pendente,48,3.69,1.33,Média
+Interferência elétrica,53,3.22,0.98,Alta
+Erro de autenticação,48,3.43,0.24,Alta
+Conexão intermitente,55,4.33,0.95,Média
+Driver desatualizado,51,3.03,1.32,Média
+Interferência elétrica,49,4.31,0.73,Alta
+Erro de autenticação,52,3.34,0.88,Média
+Interferência elétrica,42,4.16,0.95,Média
+Falha de hardware,44,2.8,0.13,Alta
+Atualização pendente,44,3.79,1.5,Média
+Rede congestionada,50,3.13,0.73,Média
+Interferência elétrica,58,2.79,1.15,Média
+Rede congestionada,61,3.61,0.97,Média
+Driver desatualizado,53,4.0,1.38,Média
+Problema no roteador,52,3.08,1.12,Média
+Rede congestionada,40,2.75,0.93,Baixa
+Falha de hardware,47,3.45,0.73,Média
+Falha de hardware,46,3.46,1.24,Alta
+Servidor não responde,46,3.77,0.44,Média
+Conexão intermitente,49,3.97,1.19,Baixa
+Interferência elétrica,47,3.47,0.67,Alta
+Falha de hardware,40,4.43,1.38,Baixa
+Interferência elétrica,53,3.61,1.05,Baixa
+Erro de autenticação,44,3.33,1.19,Alta
+Conexão intermitente,51,2.69,1.02,Baixa
+Driver desatualizado,60,3.37,0.47,Média
+Erro de autenticação,45,3.33,0.74,Baixa
+Configuração incorreta,37,3.98,1.2,Média
+Problema no roteador,48,3.73,1.05,Média
+Erro de autenticação,55,2.91,1.35,Média
+Rede congestionada,59,3.59,1.12,Média
+Falha de hardware,43,3.84,0.71,Alta
+Falha de hardware,52,4.26,0.76,Média
+Conexão intermitente,47,3.94,1.03,Alta
+Problema no roteador,49,3.88,0.31,Média
+Servidor não responde,63,3.53,1.5,Média
+Falha de hardware,42,3.69,1.13,Média
+Atualização pendente,51,4.12,1.37,Média
+Problema no roteador,52,2.83,0.53,Alta
+Driver desatualizado,55,3.33,1.37,Alta
+Driver desatualizado,50,3.11,1.67,Alta
+Falha de hardware,51,3.69,0.6,Média
+Interferência elétrica,48,4.12,1.23,Baixa
+Servidor não responde,51,3.2,1.0,Alta
+Conexão intermitente,48,2.3,0.54,Baixa
+Atualização pendente,53,3.29,1.15,Média
+Servidor não responde,48,3.96,1.25,Média
+Servidor não responde,51,3.77,0.82,Média
+Servidor não responde,49,3.71,1.35,Baixa
+Falha de hardware,55,3.36,0.5,Alta
+Servidor não responde,49,2.86,0.55,Média
+Conexão intermitente,41,3.76,1.04,Média
+Falha de hardware,56,3.08,1.01,Média
+Falha de hardware,45,4.59,0.79,Baixa
+Rede congestionada,46,3.79,1.24,Alta
+Problema no roteador,47,3.21,1.16,Média
+Servidor não responde,56,3.19,1.26,Média
+Rede congestionada,39,3.45,0.96,Média
+Conexão intermitente,65,3.38,1.18,Média
+Conexão intermitente,55,4.06,0.87,Média
+Erro de autenticação,51,3.59,1.62,Baixa
+Driver desatualizado,49,3.13,0.76,Média
+Interferência elétrica,51,4.45,1.63,Baixa
+Erro de autenticação,52,3.52,1.01,Média
+Configuração incorreta,53,3.88,0.59,Alta
+Falha de hardware,52,3.2,1.41,Alta
+Atualização pendente,50,3.68,1.04,Alta
+Erro de autenticação,49,3.66,1.26,Média
+Falha de hardware,49,2.56,1.37,Média
+Erro de autenticação,49,4.51,1.1,Média
+Servidor não responde,55,4.15,0.82,Média
+Interferência elétrica,52,3.3,1.29,Alta
+Falha de hardware,35,2.95,1.0,Alta
+Conexão intermitente,53,3.67,1.21,Alta
+Servidor não responde,50,3.54,0.35,Média
+Falha de hardware,49,3.68,1.13,Alta
+Servidor não responde,48,3.6,0.81,Alta
+Driver desatualizado,55,3.75,1.5,Baixa
+Rede congestionada,54,4.22,1.19,Baixa
+Servidor não responde,46,3.78,1.07,Alta
+Configuração incorreta,52,2.98,1.15,Média
+Driver desatualizado,45,4.18,0.7,Média
+Problema no roteador,43,4.32,1.49,Média
+Problema no roteador,46,5.08,1.6,Média
+Configuração incorreta,54,2.94,1.12,Alta
+Configuração incorreta,54,3.62,1.48,Média
+Atualização pendente,52,2.46,0.83,Média
+Erro de autenticação,53,3.78,0.76,Alta
+Erro de autenticação,52,3.23,1.01,Média
+Problema no roteador,46,4.46,1.13,Média
+Interferência elétrica,52,3.11,0.88,Média
+Erro de autenticação,54,2.66,1.16,Alta
+Falha de hardware,53,3.26,1.09,Média
+Conexão intermitente,55,2.51,0.7,Alta
+Erro de autenticação,53,3.88,1.16,Média
+Servidor não responde,51,2.47,1.26,Alta
+Rede congestionada,55,3.51,1.05,Alta
+Interferência elétrica,49,2.46,1.35,Média
+Erro de autenticação,45,3.34,0.63,Média
+Configuração incorreta,49,4.32,1.14,Baixa
+Servidor não responde,46,3.68,0.65,Média
