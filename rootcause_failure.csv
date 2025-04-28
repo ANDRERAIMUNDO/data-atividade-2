@@ -1,22 +1,22 @@
 RootCause,Ocorrencias_anteriores,Tempo_medio_resolucao,Desvio_padrao,Prioridade_resolucao
 Falha no balanceador de carga,4,3.27,1.37,Média
-Problema de autenticação,3,2.82,0.5,Média
-Falha na infraestrutura,1,3.79,1.36,Média
+Conexão instável,3,2.82,0.5,Média
+Curto-circuito,1,3.79,1.36,Média
 Erro no servidor,1,3.88,1.28,Média
 Falha na aplicação,1,3.36,1.27,Média
-Problema no sistema de logs,5,3.86,1.21,Média
+Atualização mal aplicada,5,3.86,1.21,Média
 Falha de armazenamento,5,2.68,1.29,Baixa
-Erro no servidor,3,3.09,1.01,Média
-Problema de autenticação,4,3.21,0.81,Média
-Problema de rede,2,3.63,1.06,Alta
+Erro no servidor,3,03.09,01.01,Média
+Conexão instável,4,3.21,0.81,Média
+Problema de rede,2,3.63,01.06,Alta
 Problema de rede,5,3.26,1.44,Média
 Erro de software,2,4.14,0.55,Média
-Erro de comunicação,5,4.02,0.53,Média
-Erro no servidor,3,4.05,0.94,Média
-Falha na infraestrutura,3,4.06,1.3,Média
+Erro de comunicação,5,04.02,0.53,Média
+Erro no servidor,3,04.05,0.94,Média
+Curto-circuito,3,04.06,1.3,Média
 Problema de rede,1,2.96,0.97,Baixa
-Problema de segurança,2,3.62,1.04,Alta
-Problema de autenticação,2,3.86,0.78,Baixa
+Problema de segurança,2,3.62,01.04,Alta
+Conexão instável,2,3.86,0.78,Baixa
 Problema de integração,2,3.63,0.82,Média
 Erro de comunicação,5,4.15,1.18,Média
 Falha de roteador,4,3.0,1.25,Baixa
@@ -24,178 +24,178 @@ Falha de hardware,1,4.1,0.85,Média
 Erro de comunicação,1,4.32,1.49,Média
 Erro no sistema de monitoramento,5,2.94,0.68,Média
 Erro de comunicação,3,3.33,1.19,Alta
-Falha no firewall,2,3.91,1.02,Média
+Falha no firewall,2,3.91,01.02,Média
 Problema de rede,5,3.76,1.0,Média
 Falha no balanceador de carga,4,4.11,0.8,Alta
-Problema de autenticação,3,3.29,0.97,Média
+Conexão instável,3,3.29,0.97,Média
 Falha no banco de dados,1,3.25,1.24,Média
 Falha no firewall,5,3.28,1.33,Média
-Problema de autenticação,1,3.66,1.52,Média
-Falha na infraestrutura,3,3.35,1.24,Alta
+Conexão instável,1,3.66,1.52,Média
+Curto-circuito,3,3.35,1.24,Alta
 Problema de segurança,3,2.93,0.65,Alta
-Falha na infraestrutura,4,4.1,0.7,Alta
-Erro de comunicação,3,3.04,0.85,Média
-Erro no servidor,5,3.29,1.01,Baixa
+Curto-circuito,4,4.1,0.7,Alta
+Erro de comunicação,3,03.04,0.85,Média
+Erro no servidor,5,3.29,01.01,Baixa
 Problema de segurança,1,4.21,1.47,Alta
 Falha de hardware,5,3.62,1.1,Média
-Erro de rede externa,5,2.87,1.07,Alta
-Falha no firewall,4,3.51,1.09,Alta
-Falha no balanceador de carga,3,3.73,1.05,Média
-Problema de autenticação,5,4.26,1.06,Alta
-Problema no sistema de backup,2,3.19,1.36,Alta
-Erro de rede externa,5,3.61,1.08,Alta
+Erro de rede externa,5,2.87,01.07,Alta
+Falha no firewall,4,3.51,01.09,Alta
+Falha no balanceador de carga,3,3.73,01.05,Média
+Conexão instável,5,4.26,01.06,Alta
+Atualização mal aplicada,2,3.19,1.36,Alta
+Erro de rede externa,5,3.61,01.08,Alta
 Falha no firewall,2,3.47,0.98,Alta
-Erro no sistema de monitoramento,4,4.12,1.08,Alta
+Erro no sistema de monitoramento,4,4.12,01.08,Alta
 Falha de roteador,4,3.69,1.19,Média
 Erro de configuração,2,3.98,1.17,Alta
-Falha na infraestrutura,3,2.83,1.27,Média
+Curto-circuito,3,2.83,1.27,Média
 Falha de hardware,2,3.45,1.39,Média
 Problema de integração,4,2.83,1.66,Média
-Problema de autenticação,2,3.26,0.87,Alta
+Conexão instável,2,3.26,0.87,Alta
 Problema de integração,5,3.94,1.24,Média
 Erro de software,3,4.13,0.75,Baixa
 Erro de comunicação,3,3.76,0.7,Baixa
 Falha no balanceador de carga,1,3.41,1.29,Alta
-Problema no sistema de backup,5,3.21,0.88,Média
+Atualização mal aplicada,5,3.21,0.88,Média
 Falha no balanceador de carga,1,2.95,0.94,Baixa
 Erro de rede externa,4,2.82,0.75,Baixa
 Problema de rede,1,2.97,0.85,Média
 Erro de rede externa,3,3.55,1.26,Média
 Falha na aplicação,5,3.68,0.47,Média
 Falha no balanceador de carga,5,3.57,0.79,Média
-Problema de rede,5,3.23,1.01,Média
+Problema de rede,5,3.23,01.01,Média
 Problema de rede,1,3.27,0.7,Alta
-Falha de armazenamento,4,3.55,1.02,Média
+Falha de armazenamento,4,3.55,01.02,Média
 Erro de rede externa,1,4.36,1.19,Baixa
-Problema no sistema de backup,4,3.42,0.77,Baixa
+Atualização mal aplicada,4,3.42,0.77,Baixa
 Problema de segurança,3,3.83,1.13,Baixa
 Erro no sistema de monitoramento,4,3.22,0.67,Baixa
-Falha de hardware,3,3.48,1.06,Alta
+Falha de hardware,3,3.48,01.06,Alta
 Problema de segurança,1,2.81,1.24,Média
 Problema de segurança,3,4.37,0.64,Alta
-Falha de armazenamento,4,3.27,1.09,Média
+Falha de armazenamento,4,3.27,01.09,Média
 Problema de integração,5,3.5,0.77,Média
-Problema de autenticação,1,3.52,1.14,Alta
-Falha na infraestrutura,4,2.85,0.8,Média
-Problema no sistema de backup,4,2.94,0.8,Baixa
+Conexão instável,1,3.52,1.14,Alta
+Curto-circuito,4,2.85,0.8,Média
+Atualização mal aplicada,4,2.94,0.8,Baixa
 Erro de rede externa,5,2.91,0.92,Baixa
 Erro no sistema de monitoramento,5,3.96,1.32,Baixa
 Falha de armazenamento,2,3.38,1.28,Alta
-Problema de autenticação,5,3.47,1.01,Alta
+Conexão instável,5,3.47,01.01,Alta
 Falha no firewall,3,3.48,0.56,Média
-Falha na infraestrutura,3,3.92,0.48,Alta
+Curto-circuito,3,3.92,0.48,Alta
 Erro de software,2,3.14,0.95,Média
 Falha no banco de dados,2,3.0,1.15,Alta
 Falha de armazenamento,1,2.83,0.58,Baixa
 Falha de armazenamento,3,3.16,0.55,Média
 Problema de integração,1,3.61,1.47,Média
-Falha de roteador,3,3.82,1.02,Baixa
+Falha de roteador,3,3.82,01.02,Baixa
 Problema de rede,2,2.34,0.98,Baixa
 Falha de hardware,5,2.87,0.92,Baixa
-Problema no sistema de backup,2,4.2,1.04,Baixa
-Problema no sistema de logs,2,3.47,0.56,Média
+Atualização mal aplicada,2,4.2,01.04,Baixa
+Erro de firmware,2,3.47,0.56,Média
 Falha no banco de dados,5,2.79,1.25,Alta
 Erro no sistema de monitoramento,5,4.26,1.19,Média
 Erro de software,4,4.46,0.92,Baixa
-Problema no sistema de backup,4,3.52,1.05,Baixa
+Atualização mal aplicada,4,3.52,01.05,Baixa
 Erro de software,3,4.26,0.76,Média
 Falha no banco de dados,2,3.41,1.32,Média
 Falha no balanceador de carga,1,3.39,1.17,Média
 Problema de integração,3,3.33,0.86,Baixa
 Erro no sistema de monitoramento,5,3.46,0.63,Média
 Problema de rede,4,3.84,0.98,Média
-Problema de autenticação,4,3.41,1.29,Média
-Problema no sistema de logs,3,3.85,0.86,Média
+Conexão instável,4,3.41,1.29,Média
+Erro de firmware,3,3.85,0.86,Média
 Erro de configuração,1,3.94,0.75,Média
 Falha no firewall,3,2.93,0.39,Média
 Erro no servidor,2,4.71,1.11,Alta
 Falha de armazenamento,1,3.13,0.71,Média
-Problema no sistema de backup,5,3.23,0.65,Alta
+Atualização mal aplicada,5,3.23,0.65,Alta
 Problema de rede,2,3.58,0.49,Alta
-Problema no sistema de logs,2,4.15,1.03,Média
+Erro de firmware,2,4.15,01.03,Média
 Falha de armazenamento,4,3.81,1.22,Média
-Falha na infraestrutura,5,3.67,0.8,Média
-Problema de segurança,4,4.04,1.02,Alta
+Curto-circuito,5,3.67,0.8,Média
+Problema de segurança,4,04.04,01.02,Alta
 Erro de rede externa,2,4.49,0.37,Média
 Problema de integração,1,3.84,0.93,Baixa
-Erro de configuração,4,3.1,1.07,Média
-Problema de rede,4,4.09,0.5,Alta
-Problema no sistema de logs,3,3.33,1.66,Média
-Problema de segurança,5,3.79,1.01,Baixa
+Erro de configuração,4,3.1,01.07,Média
+Problema de rede,4,04.09,0.5,Alta
+Erro de firmware,3,3.33,1.66,Média
+Problema de segurança,5,3.79,01.01,Baixa
 Falha no banco de dados,3,2.87,1.26,Média
-Problema de autenticação,3,3.17,0.84,Média
+Conexão instável,3,3.17,0.84,Média
 Falha de roteador,2,3.84,1.61,Alta
 Falha na aplicação,1,3.93,0.83,Média
 Erro no sistema de monitoramento,2,3.24,0.77,Alta
 Problema de rede,1,3.19,0.82,Alta
-Falha na infraestrutura,5,3.23,0.84,Média
+Curto-circuito,5,3.23,0.84,Média
 Erro de configuração,4,2.55,0.54,Média
 Falha no firewall,1,2.76,0.73,Alta
 Erro de software,1,2.24,1.48,Baixa
 Erro de configuração,5,2.93,0.83,Baixa
 Erro de rede externa,2,3.67,0.58,Média
-Problema no sistema de logs,5,3.85,0.72,Média
-Falha no firewall,3,3.78,1.07,Alta
-Problema de autenticação,3,3.34,0.88,Média
+Erro de firmware,5,3.85,0.72,Média
+Falha no firewall,3,3.78,01.07,Alta
+Conexão instável,3,3.34,0.88,Média
 Falha de hardware,3,3.39,1.18,Média
 Erro no sistema de monitoramento,2,4.19,0.89,Alta
-Falha no banco de dados,2,2.99,1.06,Alta
-Problema de autenticação,5,3.8,0.81,Alta
+Falha no banco de dados,2,2.99,01.06,Alta
+Conexão instável,5,3.8,0.81,Alta
 Erro no servidor,1,3.87,1.21,Média
 Erro de software,4,2.95,0.79,Alta
 Problema de segurança,4,3.61,1.33,Alta
-Problema no sistema de logs,4,3.74,1.05,Média
+Erro de firmware,4,3.74,01.05,Média
 Falha de hardware,2,3.17,1.21,Média
 Falha de hardware,2,4.22,1.61,Média
 Problema de rede,2,3.95,1.15,Média
 Falha no firewall,2,4.71,0.82,Baixa
 Falha de hardware,2,3.67,0.78,Alta
 Falha no balanceador de carga,1,2.68,1.13,Média
-Problema no sistema de backup,3,3.54,0.15,Média
-Problema no sistema de backup,3,3.99,0.96,Média
+Atualização mal aplicada,3,3.54,0.15,Média
+Atualização mal aplicada,3,3.99,0.96,Média
 Falha de armazenamento,1,3.41,1.22,Alta
 Erro de rede externa,3,3.21,0.88,Média
-Erro no servidor,4,3.07,0.98,Média
+Erro no servidor,4,03.07,0.98,Média
 Erro no servidor,3,3.91,1.85,Baixa
 Falha de roteador,1,4.11,1.24,Média
-Problema no sistema de logs,3,3.25,1.24,Alta
-Problema no sistema de logs,4,3.15,1.2,Média
+Erro de firmware,3,3.25,1.24,Alta
+Erro de firmware,4,3.15,1.2,Média
 Erro no servidor,2,3.38,0.43,Média
-Problema de integração,3,3.8,1.07,Baixa
+Problema de integração,3,3.8,01.07,Baixa
 Problema de integração,4,2.92,1.24,Média
 Problema de integração,5,3.59,1.62,Baixa
 Erro de rede externa,2,3.59,0.41,Média
-Falha na aplicação,5,2.9,1.04,Média
+Falha na aplicação,5,2.9,01.04,Média
 Erro de software,4,2.67,1.23,Baixa
-Problema de autenticação,1,3.8,0.84,Média
+Conexão instável,1,3.8,0.84,Média
 Erro de rede externa,3,4.15,0.98,Alta
 Erro no sistema de monitoramento,2,3.26,0.59,Média
-Problema de segurança,1,3.37,1.08,Alta
-Problema de rede,2,3.76,1.04,Média
-Problema no sistema de logs,5,3.02,0.63,Baixa
+Problema de segurança,1,3.37,01.08,Alta
+Problema de rede,2,3.76,01.04,Média
+Erro de firmware,5,03.02,0.63,Baixa
 Falha na aplicação,3,4.27,0.98,Baixa
-Problema de integração,2,4.05,1.06,Alta
+Problema de integração,2,04.05,01.06,Alta
 Erro de configuração,2,2.9,0.49,Média
 Falha de hardware,5,4.31,1.5,Média
 Erro de configuração,1,3.48,0.82,Baixa
-Problema no sistema de backup,4,3.72,0.96,Média
+Atualização mal aplicada,4,3.72,0.96,Média
 Falha de hardware,1,3.54,0.77,Média
 Falha de roteador,5,3.32,0.91,Média
 Falha de hardware,3,3.3,0.63,Alta
 Problema de integração,2,3.31,0.75,Média
-Problema no sistema de logs,5,3.08,1.2,Alta
+Erro de firmware,5,03.08,1.2,Alta
 Falha de roteador,4,3.75,1.12,Alta
 Falha na aplicação,4,2.66,1.16,Alta
 Erro de comunicação,3,4.61,0.8,Alta
 Falha no firewall,5,3.3,0.81,Alta
-Falha no banco de dados,3,3.01,0.68,Média
+Falha no banco de dados,3,03.01,0.68,Média
 Problema de integração,2,3.18,1.49,Alta
 Erro de software,2,3.67,0.96,Média
-Erro de comunicação,1,4.05,1.25,Média
+Erro de comunicação,1,04.05,1.25,Média
 Erro de configuração,4,3.9,1.41,Baixa
 Problema de integração,5,3.58,1.12,Média
-Problema no sistema de backup,4,3.74,1.25,Média
-Falha de hardware,5,3.68,1.06,Média
+Atualização mal aplicada,4,3.74,1.25,Média
+Falha de hardware,5,3.68,01.06,Média
 Problema de segurança,2,3.24,1.7,Baixa
 Falha de hardware,2,3.43,1.16,Alta
-Problema de autenticação,2,2.72,1.12,Média
+Conexão instável,2,2.72,1.12,Média
