@@ -6,3 +6,5 @@ https://github.com/ANDRERAIMUNDO/atividade-02-PPGCC-2025_1
 10-05-2025 novo dataset data_individuos.csv atividade 04 questão 02
 
 10-05-2025 novo dataset grupos_de_controle.csv atividade 04 questão 02
+
+19-05-2025 Imagem de formulas adicioado com referência do contexto das bases de dados e aplicações de algoritimos.
